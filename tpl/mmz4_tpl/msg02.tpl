@@ -524,7 +524,7 @@ script 32 mmz4 {
 	msgClear
 	"""
 	Just be careful in
-	there, Zero.
+	there Zero.
 	"""
 	end
 }

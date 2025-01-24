@@ -3810,7 +3810,7 @@ script 713 mmz4 {
 	"""
 	Mechameson
 	spits these
-	Mechaniloids
+	mechaniloids
 	that emit
 	balls of
 	electricity.
@@ -3841,7 +3841,7 @@ script 715 mmz4 {
 script 716 mmz4 {
 	"""
 	A mobile
-	Mechaniloid
+	mechaniloid
 	that fires
 	ice shots.
 	"""
@@ -3894,7 +3894,7 @@ script 720 mmz4 {
 script 721 mmz4 {
 	"""
 	Running
-	Mechaniloid
+	mechaniloid
 	capable of
 	jumping
 	over small
@@ -4147,7 +4147,7 @@ script 744 mmz4 {
 script 745 mmz4 {
 	"""
 	Sand digging
-	Mechaniloid
+	mechaniloid
 	that drops
 	down from
 	above.
@@ -4266,7 +4266,7 @@ script 756 mmz4 {
 	Built from
 	ancient
 	blueprints.
-	Its code
+	It's code
 	name is
 	Mod-CF.
 	"""
