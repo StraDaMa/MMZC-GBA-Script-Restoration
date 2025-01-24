@@ -1058,7 +1058,7 @@ script 66 mmz3 {
 	"""
 	msgClear
 	"""
-	the Resistance Base
+	The Resistance Base
 	has really been
 	active lately...
 	"""
@@ -2255,7 +2255,7 @@ script 113 mmz3 {
 	msgClear
 	"""
 	What's the name of
-	the forest Hyleg
+	The forest Hyleg
 	Ourobockle protected
 	"""
 	msgClear
@@ -2281,7 +2281,7 @@ script 113 mmz3 {
 	msgSub
 		subindex = 0
 	"""
-	Hm, your memory
+	Hm, you're memory
 	circuits must still
 	be on the fritz.
 	"""
@@ -2521,7 +2521,7 @@ script 115 mmz3 {
 	"""
 	msgClear
 	"""
-	and I don't have any
+	And I don't have any
 	stories to tell.
 	"""
 	msgClear
@@ -3526,7 +3526,7 @@ script 162 mmz3 {
 	mugshotShow
 		mugshot = 90
 	"""
-	Your efforts are
+	You're efforts are
 	an inspiration to us
 	all, Mr. Zero!
 	"""
@@ -5070,7 +5070,7 @@ script 206 mmz3 {
 	"""
 	msgClear
 	"""
-	the girl got off the
+	The girl got off the
 	bus and gave me
 	something.
 	"""

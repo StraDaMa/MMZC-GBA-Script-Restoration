@@ -380,18 +380,5 @@ script 17 mmz3 {
 	end
 }
 script 18 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	Hehe! Grandpa will
-	be so proud of us!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 105
-	"""
-	Haha! Grandpa will
-	be so proud of us!
-	"""
 	end
 }

@@ -416,7 +416,7 @@ script 20 mmz3 {
 	"""
 	Look at you!
 	You're broken now!
-	Hehehe!
+	hehehe!
 	"""
 	end
 }
@@ -804,7 +804,7 @@ script 35 mmz3 {
 	"""
 	You thought you were
 	a hero all along,
-	didn't you!? Never
+	didn't you! Never
 	"""
 	msgClear
 	"""
@@ -998,7 +998,7 @@ script 43 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Who's that!? X?!
+	Who's that! X?!
 	"""
 	msgClear
 	mugshotShow

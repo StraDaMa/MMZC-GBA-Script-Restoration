@@ -1185,7 +1185,7 @@ script 93 mmz3 {
 	msgClear
 	"""
 	They were really
-	Baby Elf sightings...
+	Baby Elf sitings...
 	"""
 	msgClear
 	"""

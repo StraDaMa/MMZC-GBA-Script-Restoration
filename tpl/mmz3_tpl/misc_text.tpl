@@ -3925,7 +3925,7 @@ script 795 mmz3 {
 	
 	The evil
 	Dark Lord
-	leads the
+	Leads the
 	Zan'ei Army.
 	"""
 	end

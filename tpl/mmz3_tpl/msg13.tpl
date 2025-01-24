@@ -1533,7 +1533,7 @@ script 53 mmz3 {
 	msgClear
 	"""
 	Where do I need to
-	go? Just tell me...
+	Go. Just tell me...
 	"""
 	end
 }
@@ -2456,7 +2456,7 @@ script 97 mmz3 {
 	msgClear
 	"""
 	It's right next to
-	the place where you
+	the place were you
 	were sleeping, Zero.
 	"""
 	msgClear
@@ -2464,7 +2464,7 @@ script 97 mmz3 {
 		mugshot = 5
 	"""
 	Weil and Omega are
-	there, aren't they?
+	there, aren't they.
 	"""
 	end
 }

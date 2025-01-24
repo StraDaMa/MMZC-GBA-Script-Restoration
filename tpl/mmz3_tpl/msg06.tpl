@@ -73,9 +73,8 @@ script 3 mmz3 {
 	"""
 	msgClear
 	"""
-	Intruders are to
-	expire without
-	a fuss!
+	Intruders are to die
+	without a fuss!
 	"""
 	end
 }
