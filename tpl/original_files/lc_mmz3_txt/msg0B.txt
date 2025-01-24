@@ -1,0 +1,30 @@
+###TextArchive:msg0B
+###Script:0
+Hmph. I am impressed
+you made it to this
+base.
+###--------
+Still...
+###--------
+I cannot dishonor
+Lord Weil, the man
+who brought me back.
+###--------
+I'll just have to
+freeze you, now.
+Hmph.
+###--------
+###Script:1
+Hmph.
+###--------
+A century is not
+enough. This time,
+sleep forever!
+###--------
+###Script:2
+*groan*
+Forgive me...
+Lord Weil...
+###--------
+Hm...phahh!
+###--------

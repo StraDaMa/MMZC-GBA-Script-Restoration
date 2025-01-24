@@ -1,0 +1,74 @@
+###TextArchive:msg05
+###Script:0
+Ciel:
+Zero! We've just
+got a reading!
+###--------
+Dark Elf detected.
+Beginning pursuit.
+###--------
+###Script:3
+Who the heck're you?
+###--------
+Heh, you must be
+after that Dark Elf,
+too. Am I right?
+###--------
+You'll have to get
+past me, first!
+###--------
+###Script:4
+Ciel: Can you hear me,
+###--------
+Zero?! There's a switch
+###--------
+up ahead that lowers the
+###--------
+ocean's water level. Hit
+###--------
+it and slow the mech down!
+###--------
+###Script:8
+Zeeeeeeerrooooo
+###--------
+Dark Elf!
+###--------
+###Script:9
+Stoooooop iiiiiit!
+###--------
+###Script:10
+!!!
+###--------
+###Script:11
+I'll have to take
+care of this guy
+first...
+###--------
+###Script:12
+What a pain you are!
+###--------
+I thought you'd be
+easier to scare off
+than that!
+###--------
+No more games. I'm
+Childre Inarabitta,
+of Weil's Numbers!
+###--------
+I'll see that smug
+face of yours
+frozen with fear!
+###--------
+###Script:13
+You're shark food,
+now!
+###--------
+Now, time to go
+after that Dark Elf!
+###--------
+###Script:14
+You're kidding me...
+###--------
+Why is this...
+happening...to me?!
+###--------

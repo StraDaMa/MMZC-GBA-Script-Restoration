@@ -1,0 +1,279 @@
+###TextArchive:msg04
+###Script:0
+So this is Area
+Zero?
+###--------
+Ciel, are you
+seeing this on the
+monitor?
+###--------
+Ciel:
+"Yes, I'm seeing
+ it now."
+###--------
+"That's amazing.
+ I didn't know such
+ a natural place
+###--------
+  still existed."
+###--------
+Ciel...
+What's my mission?
+###--------
+Ciel:
+"Oh, sorry!"
+###--------
+"The enemy is
+ in the colony
+ remains..."
+###--------
+"The entrance should
+ be up ahead."
+###--------
+Understood...
+I am in pursuit.
+###--------
+What could Dr. Weil
+be up to?
+###--------
+###Script:1
+Kyakya!
+Why sweat the small
+stuff!
+###--------
+I'm all for crushing
+Area Zero, but this
+is taking forever.
+###--------
+I guess I don't have
+much choice but to
+follow Lord Weil's
+###--------
+plan.
+###--------
+###Script:2
+It looks like I
+missed a grunt.
+###--------
+###Script:3
+Kya! Who dares call
+me a grunt!
+###--------
+###Script:4
+Who are you?
+And where did you
+come from?
+###--------
+I'll teach you to
+come in here and
+insult me! Kyakya!
+###--------
+You're a noisy one.
+###--------
+Kyakya!
+Now I'm mad!
+###--------
+Come on!
+I'll show you!
+Kakya!
+###--------
+###Script:5
+Don't steal all
+the fun Cocapetri.
+###--------
+###Script:6
+Yes...
+I want to be the one
+to light his fire!
+###--------
+###Script:7
+Kya!
+Quiet! He's going
+to be my dinner!
+###--------
+You're the one that
+needs to be quiet.
+###--------
+You weren't back on
+time, so we had to
+come find you.
+###--------
+By the way,
+who is that Reploid
+standing over there?
+###--------
+Roar!
+Th-that...is...
+Ze...
+###--------
+His name is Zero.
+There was data on
+him in Lord Weil's
+###--------
+master plan.
+###--------
+Mino Magnus...
+Try to speed it up
+next time.
+###--------
+Zero?
+So this Reploid is
+our target?
+###--------
+Then we should take
+care of him here
+and now!
+###--------
+###Script:8
+Ah!
+###--------
+???:
+"Time's running out.
+ Leave him."
+###--------
+###Script:9
+We're only here
+to investigate
+Area Zero.
+###--------
+You don't have
+clearance to fight.
+###--------
+Oh come on Commander
+Craft.
+###--------
+You aren't saying
+we should just leave
+the enemy are you?
+###--------
+We need the power of
+Ragnarok to destroy
+this much nature.
+###--------
+Once Ragnarok has
+begun, one Reploid
+will be beneath our
+###--------
+concern. There's no
+time to deal with
+him now.
+###--------
+Destroy the nature
+in Area Zero!?
+###--------
+Just what are you
+trying to do!?
+###--------
+My name is Craft.
+###--------
+I am a soldier of
+Neo Arcadia...
+No, Lord Weil.
+###--------
+###Script:10
+We... Lord Weil...
+requires all nature
+be destroyed.
+###--------
+Lately there are
+a lot of impudent
+humans thinking
+###--------
+the world outside
+Neo Arcadia is
+better.
+###--------
+That's why we must
+make sure it isn't
+by burning it.
+###--------
+Then, nobody will
+have delusions of
+escaping Lord Weil!
+###--------
+Who would choose
+nature over Lord
+Weil anyway?
+###--------
+I can't believe it.
+Humans are so
+foolish.
+###--------
+Roar!
+Commander Craft...
+is... the...
+###--------
+Is the leader of the
+Einherjar, the Eight
+Warriors!
+###--------
+The eight of us will
+destroy the
+environment.
+###--------
+Then, as part of
+Lord Weil's plan, we
+will destroy Area
+###--------
+Zero as well.
+###--------
+That is "Ragnarok."
+###--------
+You see, Zero.
+There's nothing
+you can do...
+###--------
+You're no threat
+to Lord Weil.
+###--------
+###Script:11
+You'll come to
+understand.
+###--------
+This world belongs
+to Lord Weil.
+###--------
+One person can't
+change the world.
+###--------
+Heroes are a thing
+of the past...
+###--------
+...
+###--------
+Time to go...
+Ragnarok has begun.
+###--------
+###Script:12
+...
+###--------
+Ciel:
+"Zero!
+Are you okay?"
+###--------
+Ciel, is that you?
+###--------
+Did you get all
+of that?
+###--------
+Ciel:
+"Yes, I can't
+ believe Dr. Weil
+###--------
+ would do that..."
+###--------
+"We've arrived in
+ Area Zero too..."
+###--------
+"We found the
+ Settlement, return
+ to the trailer."
+###--------
+Understood...
+Operator, bring
+me back.
+###--------
+Operator:
+"Commencing
+ transport."
+###--------

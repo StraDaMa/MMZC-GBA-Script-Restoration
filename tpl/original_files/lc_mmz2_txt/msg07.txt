@@ -1,0 +1,59 @@
+###TextArchive:msg07
+###Script:0
+Operator: Destroy all power
+###--------
+reactors to put a stop
+###--------
+to the factory functions
+###--------
+for good.
+###--------
+Currently, there are four
+###--------
+power reactors
+###--------
+in operation.
+###--------
+###Script:1
+What are you doing
+here?
+###--------
+How dare you fool
+around in my area!
+###--------
+I am Phoenix
+Magnion.
+###--------
+I'll make you pay
+for this insult...
+###--------
+With my phoenix
+flame!
+###--------
+I shall purify
+your evil mind
+with my flame.
+###--------
+###Script:2
+... I am...
+...A phoenix...
+###--------
+I will be back...
+Again and again...
+###--------
+Until you pay for
+your insult...
+###--------
+Uh... Uwooooooh!
+###--------
+###Script:3
+Operator: Zero, can you
+###--------
+hear me? Please use an
+###--------
+Escape Unit in order to
+###--------
+return to base from this
+###--------
+area.
+###--------

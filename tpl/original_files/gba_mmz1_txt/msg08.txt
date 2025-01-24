@@ -1,0 +1,74 @@
+###TextArchive:msg08
+###Script:0
+CIEL:Enemy activities are
+###--------
+CIEL:increasing in
+###--------
+CIEL:intensity!
+###--------
+CIEL:Colbor's unit may
+###--------
+CIEL:have been discovered
+###--------
+CIEL:and taken hostage.
+###--------
+CIEL:Good luck, Zero!
+###--------
+###Script:1
+CIEL:What a mess...
+###--------
+CIEL:The battles must
+###--------
+CIEL:have been brutal...
+###--------
+CIEL:I hope everyone is
+###--------
+CIEL:all right...
+###--------
+###Script:2
+エラー
+###--------
+###Script:3
+Run! Now!
+###--------
+###Script:4
+Zero!
+###--------
+Thank goodness!!
+###--------
+###Script:5
+You must be Zero.
+Allow me to
+introduce myself.
+My name is
+###--------
+Harpuia, one of
+the four
+Guardians of
+master X.
+###--------
+Such foolish
+behavior for a
+legendary hero
+to side with
+###--------
+Mavericks...
+###--------
+You shall repent
+and atone for
+your sins, Zero!
+###--------
+###Script:6
+Incredible...
+I underestimated
+him...
+###--------
+I will have
+revenge
+someday...
+###--------
+Stay healthy
+until our next
+meeting... when I
+shall retire you!
+###--------

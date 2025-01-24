@@ -1,0 +1,102 @@
+###TextArchive:msg01
+###Script:0
+Discovered new recipe!
+###--------
+###Script:1
+<textColorRed>Can't analyze this disk<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:2
+Obtained a Sub Tank!
+###--------
+###Script:3
+Cyber-elf now Sub Tank!
+###--------
+###Script:10
+Got <textColorRed>Heat Genblem's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Flame Fang<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:11
+Got <textColorRed>Tech Kraken's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Ice Javelin<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:12
+Got <textColorRed>Pegasolta Eclair's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Thunder Stab<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:13
+Got <textColorRed>Noble Mandrago's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Sky Chaser<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:14
+Got <textColorRed>Sol Titanion's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Burning Shot<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:15
+Got <textColorRed>Fenri Lunaedge's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Ice Blade<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:16
+Got <textColorRed>Mino Magnus'<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Tractor Shot<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:17
+Got <textColorRed>Popla Cocapetri's<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+EX Skill <textColorRed>Time Stopper<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:20
+<textColorRed>Elf<textColorWhite> max level increased!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:31
+Got the <textColorRed>Recoil Rod<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:32
+Got the <textColorRed>S.Boomerang<textColorWhite>!
+###Command:textColorRed
+###Command:textColorWhite
+###--------

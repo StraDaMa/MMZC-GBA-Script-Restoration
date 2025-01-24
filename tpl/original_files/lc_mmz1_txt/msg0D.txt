@@ -1,0 +1,317 @@
+###TextArchive:msg0D
+###Script:0
+Thank you for
+saving me. There
+are 6 more
+Reploids being
+###--------
+held in this
+base...
+###--------
+We are going to
+hijack a shuttle
+in the hanger
+and escape after
+###--------
+you save
+everyone.
+###--------
+Please save the
+others. I'll
+head for the
+hangar and wait
+###--------
+for you.
+###--------
+###Script:1
+Please also
+rescue the
+others!
+###--------
+###Script:2
+Thank you!
+###--------
+###Script:3
+Thank you!
+There are 3
+more prisoners
+left to save.
+###--------
+###Script:4
+I'm free!!
+Thank you!
+###--------
+###Script:5
+1 more prisoner
+to go! Thank you
+for saving us!
+###--------
+###Script:6
+Have you rescued
+all the others?
+Thank you so
+much.
+###--------
+We have nothing
+to worry about
+now. Let's head
+for the hangar!
+###--------
+###Script:7
+Thank you for
+saving me. There
+are 6 more
+Reploids being
+###--------
+held in this
+base...
+###--------
+We are going to
+hijack a shuttle
+in the hangar
+and escape after
+###--------
+you save
+everyone.
+###--------
+Please save the
+others. I'll
+head for the
+hangar and wait
+###--------
+for you.
+###--------
+###Script:8
+Please save
+the others!
+###--------
+###Script:9
+Thank you!
+###--------
+###Script:10
+Thank you!
+###--------
+###Script:11
+Thank you for
+saving me!
+###--------
+###Script:12
+1 more prisoner
+to go! Good luck!
+###--------
+###Script:13
+Have you rescued
+all the others?
+Wonderful! Thanks
+for saving us!!
+###--------
+###Script:14
+CIEL:I'm counting on
+###--------
+CIEL:you, Zero.
+###--------
+###Script:15
+CIEL:There's a trap!
+###--------
+CIEL:Wait for a minute,
+###--------
+CIEL:I'll disarm it!
+###--------
+CIEL:......
+###--------
+CIEL:OK! You can proceed!
+###--------
+###Script:16
+CIEL:This is the hidden
+###--------
+CIEL:base!
+###--------
+CIEL:Wait for a minute,
+###--------
+CIEL:and I'll unlock the
+###--------
+CIEL:door for you.
+###--------
+CIEL:......
+###--------
+CIEL:It's unlocked.
+###--------
+CIEL:Stay alert...
+###--------
+###Script:17
+CIEL:We've got a problem.
+###--------
+CIEL:The password to the
+###--------
+CIEL:door seems to have
+###--------
+CIEL:been changed!
+###--------
+CIEL:It will take some
+###--------
+CIEL:time to crack it...
+###--------
+###Script:18
+CIEL:I wonder where
+###--------
+CIEL:the door leads to...
+###--------
+CIEL:I can't open it
+###--------
+CIEL:now, because it's
+###--------
+CIEL:too well protected!
+###--------
+###Script:19
+CIEL:They found you?
+###--------
+CIEL:Are you alright?
+###--------
+###Script:20
+CIEL:The hangar is
+###--------
+CIEL:beyond this door.
+###--------
+CIEL:Once you've saved
+###--------
+CIEL:everyone, you can
+###--------
+CIEL:evacuate from here!
+###--------
+###Script:21
+The door that
+leads to the
+main hangar is
+in front of us.
+###--------
+Please rescue
+the others and
+then we can
+evacuate from
+###--------
+here.
+###--------
+###Script:22
+The door that
+leads to the
+main hangar is
+in front of us.
+###--------
+Please rescue
+the others and
+then we can
+evacuate from
+###--------
+here.
+###--------
+###Script:23
+Thank you for
+saving all of
+us.
+###--------
+But it is not
+over yet...
+###--------
+A boss is
+protecting the
+hangar for the
+shuttle...
+###--------
+There is no way
+for us to defeat
+him without your
+help.
+###--------
+Zero...
+Please help us!
+###--------
+###Script:24
+CIEL:Good luck, Zero...
+###--------
+###Script:25
+Hmmmm...
+You must be
+Zero...
+###--------
+You have done
+well to make it
+this far, but
+this is where
+###--------
+your journey
+ends.
+###--------
+I'm Blizzack
+Staggroff, the
+best warrior of
+Leviathan, the
+###--------
+Guardian.
+###--------
+You won't beat
+me!
+###--------
+Get ready!!
+###--------
+###Script:26
+This is Zero.
+I'm returning
+to base with
+the prisoners!
+###--------
+###Script:27
+CIEL:
+"Roger! And don't
+ forget to bring
+ the Ice Chip!
+###--------
+CIEL:
+ I look forward
+ to your return,
+ Zero."
+###--------
+###Script:28
+エラー
+###--------
+###Script:29
+エラー
+###--------
+###Script:30
+エラー
+###--------
+###Script:31
+エラー
+###--------
+###Script:32
+エラー
+###--------
+###Script:33
+エラー
+###--------
+###Script:34
+エラー
+###--------
+###Script:35
+エラー
+###--------
+###Script:36
+Thank you for
+saving all of
+us.
+###--------
+But it is not
+over yet...
+###--------
+A boss is
+protecting the
+hangar for the
+shuttle...
+###--------
+There is no way
+for us to defeat
+him without your
+help.
+###--------
+Zero...
+Please help us!
+###--------

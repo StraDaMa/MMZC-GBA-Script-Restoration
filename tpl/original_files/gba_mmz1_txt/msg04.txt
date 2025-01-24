@@ -1,0 +1,89 @@
+###TextArchive:msg04
+###Script:0
+CIEL:We're picking up
+###--------
+CIEL:several energy
+###--------
+CIEL:readings from
+###--------
+CIEL:enemies. They must
+###--------
+CIEL:be looking for the
+###--------
+CIEL:remaining data, too.
+###--------
+CIEL:Be careful, Zero...
+###--------
+###Script:2
+CIEL:There's a massive
+###--------
+CIEL:energy reading
+###--------
+CIEL:ahead!
+###--------
+CIEL:Stay alert!!
+###--------
+###Script:3
+My name is Maha<textColorWhite>
+Ganeshariff. I'm
+in charge of data
+processing and
+###Command:textColorWhite
+###--------
+handling
+information.
+All of the
+information you
+###--------
+had has been
+stored in the
+server in my
+body.
+###--------
+If you want it
+back, you'll have
+to destroy me and
+download it from
+###--------
+my memory...
+Will you do it??
+###--------
+###Script:4
+I was supposed to
+be invincible.
+###--------
+But it's too
+late. You're
+still going to
+perish!
+###--------
+###Script:5
+CIEL:The self-destruct
+###--------
+CIEL:system has been
+###--------
+CIEL:activated, Zero!!
+###--------
+CIEL:You have to evacuate
+###--------
+CIEL:now!!
+###--------
+###Script:6
+CIEL:Zero!! Zero!!
+###--------
+CIEL:......
+###--------
+CIEL:Thank goodness.
+###--------
+CIEL:You are alive...
+###--------
+CIEL:I'm sorry we got you
+###--------
+CIEL:involved in this...
+###--------
+CIEL:I await your return
+###--------
+CIEL:to the Resistance
+###--------
+CIEL:Base.
+###--------

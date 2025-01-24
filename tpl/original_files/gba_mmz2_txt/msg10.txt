@@ -1,0 +1,60 @@
+###TextArchive:msg10
+###Script:1
+Fu fu...
+I'm waiting for
+you, Zero.
+###--------
+I guess Fefnir's
+disease infected
+me.
+###--------
+Once I start
+thinking of you...
+I stop caring about
+###--------
+the Dark Elf...
+###--------
+Even if the world
+dies, I will be
+happy as long
+###--------
+as I can defeat
+you.
+###--------
+Now, let's battle!
+###--------
+###Script:2
+Huh huh huh...
+###--------
+I'm getting worse
+than ever...
+###--------
+The only thing I
+can take seriously
+is...
+###--------
+Fighting with you.
+###--------
+But... I'm happy.
+###--------
+I'll keep going...
+###--------
+Dreaming that I
+can destroy you
+someday...
+###--------
+See you... soon...
+###--------
+###Script:3
+Ciel: I've set a
+###--------
+coordinate axis...
+###--------
+Now you can return here
+###--------
+anytime you want...
+###--------
+So please return to the
+###--------
+base once. Please... Zero.
+###--------

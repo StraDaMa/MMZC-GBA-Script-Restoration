@@ -1,0 +1,60 @@
+###TextArchive:msg08
+###Script:0
+Operator:
+"This area is over-
+ flowing with
+###--------
+ nanomachines."
+###--------
+"Nanomachine vines
+ blocking the way
+###--------
+ can be cleared out
+ with the Buster or
+ Saber..."
+###--------
+"Or even just
+ plucked with the
+ Zero Knuckle."
+###--------
+###Script:16
+Oh my, I thought a
+rat wandered in, but
+it was just you.
+###--------
+You're going to a
+lot of trouble for
+the environment.
+###--------
+Too bad that trouble
+will be wasted.
+###--------
+You have no hope of
+stopping Ragnarok.
+###--------
+If you're just going
+to waste energy,
+give it to me.
+###--------
+I'll drain you dry!
+###--------
+###Script:17
+What?
+Was that all? You're
+already finished?
+###--------
+Then we're done
+here. You'll make
+great fertilizer!
+###--------
+###Script:18
+Agh... Aah!
+I'm shriveling up!
+###--------
+I am a flower
+cut down before
+I could blossom...
+###--------
+Agh... Aah!
+Lord Weiiil!
+###--------

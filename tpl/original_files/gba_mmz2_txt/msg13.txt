@@ -1,0 +1,516 @@
+###TextArchive:msg13
+###Script:0
+We are ready to
+open fire, sir.
+###--------
+###Script:1
+We're waiting for
+the signal, sir!!
+###--------
+###Script:2
+Well... The time
+has come to launch
+a massive attack
+###--------
+against Neo
+Arcadia. Or maybe
+it's best to say
+###--------
+that it is time
+to destroy it
+once and for all.
+###--------
+I'm happy to
+announce that we
+are commencing
+###--------
+this Operation
+Righteous Strike!
+This has been a
+###--------
+team effort, but
+I would especially
+like to thank the
+###--------
+efforts of Zero.
+Now, ladies and
+gentlemen, BEGIN...
+###--------
+Wait!
+###--------
+###Script:4
+What is it
+Ms. Ciel?
+###--------
+Is this necessary?
+Do we really have
+to do this?
+###--------
+If we conduct an
+all-out attack,
+the casualties
+###--------
+will be so high...
+###--------
+###Script:5
+I'M afraid that's
+the price we must
+pay for our future.
+###--------
+It's sad...
+###--------
+###Script:6
+Ciel's research
+will be completed
+soon... Once the
+###--------
+substitute energy
+has been developed,
+Neo Arcadia loses
+###--------
+its reason to
+crackdown on us...
+Will you give us a
+###--------
+little more time?
+###--------
+###Script:7
+That...
+Well, that's
+nothing but a sweet
+###--------
+illusion. If a
+substitute energy
+is developed,
+###--------
+and if we give it
+to them for free,
+I don't think
+###--------
+Neo Arcadia will
+show mercy to us...
+###--------
+###Script:8
+B... But...
+###--------
+###Script:9
+Silence!
+###--------
+... ... ...
+###--------
+###Script:10
+I apologize for my
+orders, Ms. Ciel.
+But you must follow
+###--------
+them. I'm... I'm so
+worried about you
+Reploids...
+###--------
+About Ms. Ciel...
+and about the
+resistance
+###--------
+soldiers... I just
+want what is best
+for YOU ALL!!
+###--------
+###Script:11
+All troops...
+###--------
+Open fire...
+###--------
+Engage!
+###--------
+All troops.
+###--------
+Open fire now!
+###--------
+###Script:12
+Roger!
+###--------
+###Script:13
+I'm going to the
+front line to give
+commands.
+###--------
+Transfer me.
+###--------
+###Script:14
+Preparing to
+transfer.
+###--------
+###Script:15
+Don't worry.
+We can work this
+our later...
+###--------
+And when this is
+all over, I...
+###--------
+I'd like to...
+###--------
+Transfer commencing.
+###--------
+###Script:16
+Zero, will you
+follow Commander
+Elpizo?
+###--------
+I've got a very
+bad feeling...
+###--------
+<msgSub>
+###Command:msgSub subindex=1
+###--------
+Zero, please.
+###--------
+<option>Will you watch him?
+  YES
+  NO
+###Command:option secondAnswerIndex=0
+###--------
+Thank you, Zero.<msgGotoSub>
+###Command:msgGotoSub subindex=2
+###--------
+<msgSub>
+###Command:msgSub subindex=0
+###--------
+Zero. You are our
+only hope.
+###--------
+<option>Will you help him?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Thank you, Zero.
+###--------
+<msgSub>
+###Command:msgSub subindex=2
+###--------
+Preparing to
+transfer.
+###--------
+###Script:18
+Transfer commencing.
+###--------
+###Script:19
+Good luck...
+###--------
+###Script:20
+We have injured.
+Bring the Emergency
+squad.
+###--------
+###Script:21
+Transfer complete.
+###--------
+###Script:22
+Stand-by alert.
+The huge enemy
+aircraft is
+###--------
+approaching.
+Estimated time of
+arrival is...
+###--------
+Ten minutes.
+###--------
+###Script:23
+I'll take care of
+it. Ready a
+shuttle.
+###--------
+Roger.
+Zero is going to
+intercept it.
+###--------
+Prepare an
+aircraft for
+launch.
+###--------
+###Script:24
+I'm coming with
+you, Zero!
+###--------
+###Script:25
+I heard it is
+carrying a special
+bomb. I don't think
+###--------
+you can just destroy
+it. You must
+neutralize it
+###--------
+before you can
+destroy it.
+###--------
+No. It's too
+dangerous.
+###--------
+###Script:26
+Zero. You can act
+brave, but you
+shouldn't be
+###--------
+reckless. You
+know we have
+no other choice.
+###--------
+... ... ...
+Use a portable
+Trans Server...
+###--------
+I'll let you
+know when.
+###--------
+###Script:27
+Zero, Ciel, thanks
+for intercepting
+the aircraft.
+###--------
+###Script:28
+Where's Commander
+Elpizo?
+###--------
+Commander Elpizo
+has assigned Ciel
+as the acting
+###--------
+commander and
+took to the field.
+###--------
+###Script:29
+His current location
+is unknown... I will
+play the message he
+###--------
+left behind. Listen.
+###--------
+###Script:30
+Ms. Ciel...
+Our operation has
+failed... You can
+###--------
+blame my
+foolishness.
+###--------
+Ha ha... I'm such
+a fool...
+###--------
+I was an errand
+boy in Neo Arcadia.
+When I came here,
+###--------
+they assigned me as
+a commander, and I
+failed everyone.
+###--------
+I was such a fool...
+###--------
+This is all
+because... I
+didn't have the
+###--------
+power...
+###--------
+###Script:31
+I want to be
+strong...
+###--------
+I want to be
+all-powerful...
+###--------
+I want to be the
+most powerful
+Reploid ever...
+###--------
+I'll destroy
+Neo Arcadia...
+And all the humans!
+###--------
+Then... I'll be
+a true HERO!
+###--------
+###Script:32
+We may be able
+to track down the
+history of the
+###--------
+Trans Server that
+Elpizo used...
+Here they are...
+###--------
+The Commander must
+be in one of these
+locations. Will you
+###--------
+follow, locate and
+bring the Commander
+back?
+###--------
+We must...
+###--------
+We must help
+Elpizo...
+###--------
+###Script:33
+Hee hee hee hee.
+###--------
+###Script:34
+You couldn't stop
+me, Mr. Zero.
+###--------
+Transmission through
+a secret line.
+According to the
+###--------
+ID signal... It's
+Commander Elpizo!
+###--------
+Switch it to the
+main monitor!
+###--------
+###Script:35
+Guess where I am,
+Mr. Zero.
+###--------
+Surprise,
+surprise... I'm
+in the deepest core
+###--------
+of Neo Arcadia...
+I'm in the room
+where the Dark Elf
+###--------
+is resting. This
+is where even the
+high executives are
+###--------
+prohibited to enter.
+Hee hee hee.
+###--------
+First, I'll awaken
+the Dark Elf...
+###--------
+Next, I'll destroy
+the Original X...
+###--------
+Then I will be able
+to obtain the true
+power of the Dark
+###--------
+Elf...
+###--------
+Hee hee hee...
+I'm going...
+###--------
+I'm going to gain
+the ULTIMATE POWER!
+###--------
+###Script:37
+Um?
+###--------
+It's you... X...
+###--------
+I'm not afraid of
+you. You can't move
+while you are
+###--------
+sealing the 
+Dark Elf. You'd
+better take care
+###--------
+of the Baby Elves...
+###--------
+... What?
+###--------
+What are you doing?
+No... Stop it...!
+###--------
+Don't bother me, X!!
+###--------
+Meeeeee!
+###--------
+Hey, don't go,
+Baby Elf!!
+###--------
+I won't...
+Give in...!
+###--------
+Arghhhhh!
+###--------
+###Script:38
+What just happened
+to him...?
+###--------
+###Script:39
+What was that?
+###--------
+###Script:40
+At last he has made
+his way to the
+sacred vault
+###--------
+of Neo Arcadia...
+###--------
+Worse, he has
+damaged the seal
+of her.
+###--------
+The Dark Elf...
+###--------
+I'm sorry...
+###--------
+My voice couldn't
+seem to draw off his
+attention...
+###--------
+But she...
+###--------
+... They call her a
+Dark Elf. She is not
+fully awake yet...
+###--------
+With my remaining
+power, I'm still
+tying not wake her
+###--------
+up...
+###--------
+Please, Zero... Come
+to Neo Arcadia...
+###--------
+And please stop
+him... Zero...
+###--------
+###Script:41
+Ciel.
+Trans me now.
+###--------
+We can't transfer
+you directly to the
+###--------
+core of Neo
+Arcadia...
+###--------
+... ... ...
+###--------
+But if you go, we
+can transfer you to
+somewhere around
+###--------
+the main entrance...
+Though it's very
+dangerous...
+###--------
+But... Zero!
+###--------
+Don't worry...
+I'm sure... I can
+work it out.
+###--------
+###Script:43
+Zero... ... ...
+###--------

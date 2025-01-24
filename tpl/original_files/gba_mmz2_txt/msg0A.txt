@@ -1,0 +1,56 @@
+###TextArchive:msg0A
+###Script:0
+Ciel: ... Zero. Can you
+###--------
+hear me?
+###--------
+It seems you can't enter
+###--------
+it through the facility.
+###--------
+You need to enter from
+###--------
+the outside.
+###--------
+Stay alert...
+###--------
+###Script:1
+Hello, Zero.
+It's nice to see
+you again.
+###--------
+I'd love to play
+with you... But
+unfortunately I
+###--------
+have no time.
+###--------
+As soon as I defeat
+you, I have to take
+care of commander
+###--------
+Elpizo.
+###--------
+So let's go, Zero!
+###--------
+###Script:2
+Hah hah hah...
+###--------
+While playing with
+you... Elpizo went
+somewhere...
+###--------
+I got caught up in
+the fun of the
+moment. How
+###--------
+foolish of me...
+###--------
+Your strength
+drives me crazy...
+###--------
+Next time...
+I'll do better...
+###--------
+So, see you again...
+###--------

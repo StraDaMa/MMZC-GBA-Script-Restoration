@@ -1,0 +1,269 @@
+###TextArchive:msg03
+###Script:0
+Waaaaaa!
+###--------
+###Script:1
+Wha!? What kind
+of monsters are
+these?!
+###--------
+###Script:2
+Puff! Puff!
+A dead end!?
+###--------
+No. I feel a
+strong energy
+inside. This must
+be the place.
+###--------
+###Script:3
+Okay. Leave this
+to me!
+Stay back, Ciel.
+###--------
+###Script:4
+You should go.
+I'll take care
+of them!
+###--------
+###Script:5
+This must be...
+###--------
+......
+###--------
+###Script:6
+This...must
+be Zero...
+###--------
+We found him
+at last!
+###--------
+###Script:7
+Waaaa!
+###--------
+It's protected.
+###--------
+What should I
+do...
+###--------
+###Script:8
+Waaaaa!!
+###--------
+###Script:9
+Watch out!!!
+###--------
+###Script:10
+We are cornered.
+We have to
+evacuate now!
+###--------
+But...
+###--------
+We have no time
+to argue!
+###--------
+###Script:11
+Arghhhh!!
+###--------
+Milan!!
+###--------
+###Script:12
+Ciel...
+###--------
+......
+###--------
+.........
+###--------
+...........
+###--------
+Ciel!!!<textColorWhite>
+###Command:textColorWhite
+###--------
+Huh?
+###--------
+###Script:13
+You should use
+my power!!
+You have no
+choice!
+###--------
+###Script:14
+What!? Passy...
+If I do, you'll
+be...
+###--------
+###Script:15
+Don't worry about
+me. Remember,
+everyone is
+waiting for your
+###--------
+safe return!
+###--------
+###Script:16
+......
+###--------
+.........
+###--------
+............
+###--------
+Okay. Thank you.
+###--------
+###Script:17
+No. I should
+thank you, Ciel.
+Good-bye...
+###--------
+###Script:18
+Passssyyyyyy!
+###--------
+###Script:19
+Zero... has been
+resurrected...
+###--------
+......
+###--------
+Zero?
+###--------
+Help me.
+Please.
+###--------
+###Script:20
+What!? It's a
+dead end...
+What should we
+do...?
+###--------
+###Script:21
+You...
+Thank you...
+###--------
+###Script:22
+This place seems
+to be a
+pre-historic
+laboratory.
+###--------
+We may be able to
+find a Trans
+Server, which we
+can use to go
+###--------
+back to the
+Resistance Base.
+###--------
+###Script:23
+How nice...
+This passageway
+has collapsed in.
+###--------
+Shall we go back?
+###--------
+###Script:24
+Stay back!
+###--------
+###Script:25
+Zero! No! Run...
+You can't damage
+this thing with
+a Buster...
+###--------
+###Script:26
+Rats!
+###--------
+###Script:27
+Huh?
+###--------
+###Script:28
+...USE THIS...
+ZERO...
+###--------
+Who are you!?
+###--------
+HURRY...
+YOU HAVE TO...
+SAVE HER...
+###--------
+DON'T WASTE
+TIME...
+###--------
+###Script:29
+I can't believe
+you were able to
+destroy a
+Golem...
+###--------
+We were right.
+You ARE Zero,
+the legendary
+Reploid!
+###--------
+Zero...?
+Is that my name?
+###--------
+......
+###--------
+............
+###--------
+Ugh, I can't
+remember...
+###--------
+Just relax for a
+moment. You have
+hibernation
+sickness.
+###--------
+I'm sorry for
+forcing you to
+wake up.
+###--------
+And...
+Thank you for
+saving me.
+###--------
+My name is Ciel.
+I'm a scientist.
+###--------
+Let's go to our
+base, before more
+enemies arrive.
+###--------
+What if I'm not
+the Zero you were
+talking about?
+###--------
+You proved to me
+that you are Zero
+by saving me from
+the Golem.
+###--------
+###Script:30
+We are in luck.
+The Trans Server
+is still active.
+###--------
+Stand on the
+Trans Server and
+press +Control Pad
+Up, then you can
+###--------
+go back to our
+Resistance Base.
+Let's go!
+###--------
+###Script:31
+Stand on the
+Trans Server and
+press +Control Pad
+Up, then you can
+###--------
+go back to our
+Resistance Base.
+Let's go!
+###--------
+###Script:32
+Zero?
+###--------
+Help me.
+Please.
+###--------

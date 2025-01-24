@@ -1,0 +1,139 @@
+###TextArchive:msg06
+###Script:0
+Ciel:
+"There should be an
+ enemy submarine in
+###--------
+ the Deep Sea."
+###--------
+"Even for you, there
+ is a limit to how
+ much water pressure
+###--------
+ you can handle, so
+ I will try to find
+ you a route.
+###--------
+ Get in before the
+ count in the upper
+ right runs out."
+###--------
+###Script:10
+You're here...
+###--------
+I've been waiting
+a long time for this
+Zero!
+###--------
+I'm not just one of
+the Eight Warriors,
+I am a remnant of
+###--------
+the Zan'ei Army led
+by the late Phantom.
+I am Tech Kraken!
+###--------
+I only put up with
+that Weil and this
+whole plan just so
+###--------
+I could get revenge
+on the one who
+defeated Phantom!
+###--------
+Feel the rage of
+my former master!
+###--------
+I will enjoy sinking
+these fangs of ice
+into you!
+###--------
+###Script:11
+Now I only need to
+run this sub into
+the ground and cause
+###--------
+a great earthquake!
+###--------
+Are you prepared to
+sink with me to the
+bottom of the ocean?
+###--------
+Phantom...
+I will be joining
+you soon!
+###--------
+###Script:12
+Hragh!
+###--------
+I have lent my
+strength to Weil,
+and now I must pay.
+###--------
+There's no way for
+me to save Phantom's
+soul...
+###--------
+But... I did what
+I had to do!
+###--------
+Phantom! Forgive me!
+###--------
+###Script:16
+Ciel:"The area around the
+###--------
+sub is a maze."
+###--------
+"Don't get lost!"
+###--------
+###Script:17
+Ciel:"The entrance is just
+###--------
+up ahead if you take the
+###--------
+top right passage."
+###--------
+###Script:18
+Ciel:"It looks like you've
+###--------
+made it inside."
+###--------
+###Script:19
+Ciel:"Hurry up! There's
+###--------
+not much time!"
+###--------
+###Script:20
+Ciel:"Zero!"
+###--------
+"Please, you must hurry!"
+###--------
+###Script:21
+Ciel:"...area around...
+###--------
+sub...maze."
+###--------
+"Don't...get lo..."
+###--------
+###Script:22
+Ciel:"Zero..."
+###--------
+"Reception...
+###--------
+...king..."
+###--------
+###Script:23
+Ciel:"It...you've
+###--------
+made it..."
+###--------
+###Script:24
+Ciel:"Hurry...not
+###--------
+...time!"
+###--------
+###Script:25
+Ciel:"Zero!"
+###--------
+"Pl...se, ...hurry!"
+###--------

@@ -1,0 +1,589 @@
+###TextArchive:msg12
+###Script:0
+Ciel:"Zero! This isn't
+###--------
+ good!"
+###--------
+"Ragnarok is speeding up!"
+###--------
+"If you can halt the core
+###--------
+ now, you might still be
+###--------
+ able to stop it!"
+###--------
+"Hurry!"
+###--------
+###Script:1
+Intruder sighted...
+###--------
+You defeated
+Commander Craft...
+###--------
+You!?
+###--------
+I will rid this
+world of your
+presence!
+###--------
+###Script:2
+I'm taking over
+Ragnarok where Craft
+left off.
+###--------
+Now Ragnarok will
+crush the foolish
+humans!
+###--------
+###Script:3
+What did Craft
+entrust to you?
+###--------
+The future of the
+foolish human race?
+###--------
+C-Commander!
+###--------
+###Script:4
+It looks like even
+death is too good
+for me...
+###--------
+Death is the
+defining moment
+for a warrior.
+###--------
+I will not lose
+to you!
+###--------
+Zero! If you want to
+stop Ragnarok, you
+have to stop me!
+###--------
+If you can't beat
+me, how can you
+protect the world!?
+###--------
+Show me the power
+that was able to
+defeat Phantom!
+###--------
+###Script:5
+Is that all you were
+capable of!?
+###--------
+Then it is your
+pathetic destiny to
+be destroyed by
+###--------
+Ragnarok.
+###--------
+###Script:6
+Gragh!
+There, that's it!
+###--------
+G-go... There's no
+need to see my
+pathetic death...
+###--------
+Go Zero!
+###--------
+###Script:7
+The satellites
+falling from the
+sky are like the
+###--------
+Maverick Wars all
+over again...
+###--------
+It really is
+Ragnarok, the end of
+the world!
+###--------
+You stand on the
+threshold of your
+annihilation!
+###--------
+###Script:8
+All of the fallen
+Reploids are so
+lovely...
+###--------
+You should thank me.
+I will help you die
+a beautiful death!
+###--------
+###Script:9
+W-why!?
+###--------
+Why struggle when
+you know Ragnarok
+will bring about
+###--------
+your destruction!?
+###--------
+Graaagh!
+###--------
+###Script:10
+Ragnarok is the seed
+of destruction which
+will ripen and fall
+###--------
+from space carrying
+with it the end of
+this world.
+###--------
+It's perfectly
+natural.
+###--------
+Everything on this
+earth was born
+doomed!
+###--------
+###Script:11
+Hehehe...
+You were meant to
+fall here.
+###--------
+All this time
+protecting nature
+and the only
+###--------
+unnatural thing
+was you!
+###--------
+###Script:12
+Nooo!
+Impossible!
+###--------
+I won't be able to
+witness the descent
+of Ragnarok...
+###--------
+I will try to enjoy
+this final glimpse
+of the world before
+###--------
+it ends...
+###--------
+###Script:13
+Kyahaha!
+Are you in a rush!?
+###--------
+It doesn't matter,
+it's already way
+too late!
+###--------
+You've got a date
+with some fire!
+###--------
+Kyahahaha!
+###--------
+###Script:14
+Kyahaha!
+Aww, too bad!
+###--------
+Looks like you and
+everyone you were
+trying to protect
+###--------
+are about to become
+charcoal!
+###--------
+###Script:15
+How can you be so
+calm? The world is
+ending!
+###--------
+You should be more
+worried! And
+sweating all over!
+###--------
+You'll be blown away
+by Ragnarok!
+###--------
+Kyahaha...haha!
+###--------
+###Script:16
+Yo! Looks like our
+favorite hero is in
+a hurry!
+###--------
+Don't be in such a
+rush, stay with me
+and watch the end of
+###--------
+the world unfold!
+###--------
+###Script:17
+Grr! We've reached
+the climax, how
+exciting!
+###--------
+I'm getting chills
+imagining the
+screams!
+###--------
+###Script:18
+Hehe... You're
+really tough when
+you put your mind
+###--------
+to it...
+###--------
+Your little victory
+won't stop
+Ragnarok...
+###--------
+I'll be waiting to
+fight you again on
+the other side...
+###--------
+Grr!
+###--------
+###Script:19
+Rrroar!
+###--------
+This time...
+I will...
+crush you!
+###--------
+With...you gone...
+Ragnarok will...
+destroy...the world.
+###--------
+And Area Zero...
+will be...too...
+Then...
+###--------
+Sorry, I don't have
+time for this.
+###--------
+Get out of my way.
+###--------
+Rrroar!
+###--------
+###Script:20
+Rrroar!
+I did it!
+I crushed...Zero!
+###--------
+Now Ragnarok...
+will crush...
+the world!
+###--------
+###Script:21
+It's...too late...
+###--------
+Even with me gone...
+Ragnarok will...
+still cover...
+###--------
+the land...
+###--------
+You...and everyone
+else will be...
+crushed!
+###--------
+Rrroar!
+###--------
+###Script:22
+Left like this,
+we're both going to
+meet our ends by
+###--------
+slamming into the
+ground below.
+###--------
+I'd hate to let the
+ground get to you
+first when I could
+###--------
+have the pleasure of
+crushing you myself!
+Kyakya!
+###--------
+###Script:23
+Kyakya!
+That felt great!
+###--------
+That'll teach you
+for insulting me!
+Kyakya!
+###--------
+###Script:24
+H-how could this
+be happening!?
+###--------
+Why did I have to
+taste defeat at the
+hands of someone
+###--------
+like you!?
+###--------
+Unbelievable! Simply
+unbelievable!
+###--------
+###Script:25
+So this is the
+Ragnarok Core...
+###--------
+###Script:26
+Hehehe...
+###--------
+Welcome to your
+front seat for the
+end of the world!
+###--------
+###Script:27
+That voice...
+Dr. Weil!
+###--------
+How did you survive
+that attack from
+Ragnarok!?
+###--------
+###Script:28
+Survive?
+###--------
+That's easy...
+###--------
+Because I can't die!
+###--------
+What happened
+to you!?
+###--------
+Hehehe...
+Did my mechanical
+body surprise you?
+###--------
+Did you think that
+I was a Reploid and
+you could fight me?
+###--------
+I'm sorry to
+disappoint you, but
+I'm pure human...
+###--------
+Even with a body
+that looks like
+this!
+###--------
+How!?
+###--------
+When the Dark Elf
+took control of the
+Reploids and
+###--------
+destroyed the
+Mavericks in the
+Elf Wars...
+###--------
+The humans of the
+time modified me...
+###--------
+They transferred all
+of my memories to
+program data...
+###--------
+And switched my body
+for this armor with
+the power to
+###--------
+rejuvenate me...
+###--------
+Do you have any idea
+what that means?
+###--------
+I can't age, and
+wounds heal more
+quickly than normal.
+###--------
+After the war, I was
+cursed to live an
+eternity in a world
+###--------
+without light or
+nature...
+###--------
+The humans expelled
+me from Neo Arcadia!
+###--------
+!
+###--------
+###Script:29
+Justice!?
+Freedom!?
+Worthless ideals!
+###--------
+You Reploids are
+just machines, but
+you started a war a
+###--------
+long time ago in the
+name of freedom!
+###--------
+And humans! Look
+what they did to me!
+###--------
+Driving me away
+while spouting the
+word "justice!"
+###--------
+Zero, would you
+insist on saving
+them!?
+###--------
+Controlling the
+Reploids is nothing!
+###--------
+The destruction of
+all mankind is only
+fleeting!
+###--------
+Not quite alive...
+Not quite dead...
+Forever, by my side!
+###--------
+I'll make you suffer
+a fate far greater
+than anything
+###--------
+ever experienced
+before!
+###--------
+###Script:30
+Bwahahaha!
+###--------
+I'll teach you
+there is no place
+for fools to hide!
+###--------
+Fools must live
+under my rule and my
+rule alone!
+###--------
+Thanks to Ragnarok!
+###--------
+###Script:31
+Legend!?
+Hero!?
+Hah!
+###--------
+Lie there like the
+garbage you are!
+Bwahahaha!
+###--------
+###Script:48
+Agh! I can't stop
+the descent!
+###--------
+###Script:49
+Ciel:"Zero! Reaching
+###--------
+ critical speed!"
+###--------
+"If it goes any faster, I
+###--------
+ won't be able to get you
+###--------
+ back! Hurry!"
+###--------
+###Script:50
+No...
+###--------
+This isn't over yet!
+###--------
+###Script:51
+Weil!
+###--------
+Hehehe...
+###--------
+Bwahahaha!
+###--------
+I told you...
+I can't die!
+###--------
+Nobody can stop
+Ragnarok now!
+###--------
+###Script:52
+Ciel:"Z-Zero! There's no
+###--------
+ time! Get back here!"
+###--------
+###Script:53
+No, there is a way.
+###--------
+If I destroy Weil's
+core, the explosion
+will take Ragnarok
+###--------
+out with it...
+###--------
+If Ragnarok is blown
+apart, it no longer
+poses a threat!
+###--------
+###Script:54
+Ciel:"But what about you?"
+###--------
+###Script:55
+Bwahahaha!
+Are you even capable
+of it!?
+###--------
+The Reploid hero...
+###--------
+Protecting justice
+and humanity!
+###--------
+I am one of those
+humans you were
+sworn to protect!
+###--------
+Do you have it in
+you to defeat me!?
+###--------
+###Script:56
+I never cared about
+justice, and I don't
+recall ever calling
+###--------
+myself a hero...
+###--------
+I have always only
+fought for the
+people I believe in.
+###--------
+I won't hesitate...
+###--------
+If an enemy appears
+in front of me, I
+will destroy it!
+###--------
+###Script:57
+Ciel:"Zero! Zero!"
+###--------
+###Script:58
+Ciel...
+###--------
+Believe in me!
+###--------
+###Script:59
+Ciel:"Zerooo!!!"
+###--------
+###Script:60
+Live out an eternity
+of suffering fool!
+###--------
+I will be the first
+entry in a glorious
+new history!
+###--------
+Remember the name
+Dr. Weil! The world,
+everything, mine...
+###--------
+Forever!
+###--------

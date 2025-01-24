@@ -1,0 +1,137 @@
+###TextArchive:msg0E
+###Script:0
+Why are you so
+late, Zero?
+###--------
+I was so bored that
+we had to retire
+all the resistance
+###--------
+soldiers to pass
+the time... All
+that remains is
+###--------
+only this inferior
+ex-Neo Arcadia
+citizen.
+###--------
+###Script:1
+Zero, I've been
+waiting for you
+too long.
+###--------
+They were too weak
+to have fun with...
+I have wanted to
+###--------
+face you. Why don't
+we have fun
+together!!
+###--------
+###Script:2
+Stop!
+###--------
+###Script:3
+Wha...!
+###--------
+###Script:4
+... ... ...
+###--------
+Did you come to
+rescue this
+Reploid, Zero?
+###--------
+... Yeah.
+###--------
+Why do you bother?
+Even if you help
+him, he won't
+###--------
+thank you. And...
+If he lives, even
+more resistance
+###--------
+soldiers are going
+to perish.
+###--------
+###Script:5
+I'll save this
+Reploid... And I
+won't let any more
+###--------
+resistance soldiers
+perish.
+###--------
+How greedy...
+But can you
+really do that
+###--------
+by yourself?
+###--------
+###Script:6
+Operator: Emergency call
+###--------
+for Zero!
+###--------
+An unidentified object is
+###--------
+rapidly flying toward the
+###--------
+Resistance Base.
+###--------
+Return to base immediately!
+###--------
+###Script:7
+Ooh. Can you hear
+it? A bombardment
+aircraft is heading
+###--------
+for your base with
+a special bomb.
+###--------
+###Script:8
+Using bombs is not
+my style. But all
+is fair in love
+###--------
+and war...
+###--------
+Your resistance
+forces have made
+a mistake that
+###--------
+can't be forgiven.
+Neo Arcadia, or
+should I say, human
+###--------
+society is not a
+thing that Reploids
+can rebel against.
+###--------
+If they do, they
+should be
+exterminated...
+###--------
+Operator! Transfer
+us back to the
+base!
+###--------
+###Script:9
+Operator: Roger...
+###--------
+Transfer commencing.
+###--------
+###Script:10
+Zero...
+###--------
+I don't think that
+justice is
+destroying
+###--------
+resistance forces.
+But, as long as
+they try to disobey
+###--------
+humans, destroying
+them is my goal.
+###--------

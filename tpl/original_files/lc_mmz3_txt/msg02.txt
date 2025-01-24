@@ -1,0 +1,3211 @@
+###TextArchive:msg02
+###Script:0
+Zero...I guess I
+got out of control
+back there.
+###--------
+But when I imagine
+somebody getting
+hurt...I...
+###--------
+Everything just
+turns black...
+###--------
+There must be some
+other way...
+###--------
+I will not give up
+until peace is
+secured.
+###--------
+###Script:1
+Zero...
+###--------
+I hate to think that
+I might trouble you
+again, Zero...
+###--------
+But without you,
+humans and Reploids
+will never be able
+###--------
+to coexist
+peacefully.
+###--------
+###Script:2
+Zero...
+###--------
+What should I do?
+###--------
+I never wanted to
+cause pain or grief
+to anyone...
+###--------
+If only I had never
+made the Ciel
+System...
+###--------
+None of this would
+have happened...
+###--------
+...
+###--------
+I'm sorry, Zero...
+###--------
+Everyone is out
+doing their best
+fighting for us,
+###--------
+yet I'm always here,
+feeling sorry for
+myself...
+###--------
+###Script:3
+Zero...
+###--------
+There are some
+in the Resistance...
+###--------
+who question why you
+saved him, when he's
+a Neo Arcadian,
+###--------
+and what's more
+one of the Four
+Guardians...
+###--------
+But you know what?
+###--------
+I... I believe that
+someday he'll
+understand us...
+###--------
+and come to help
+our cause...
+###--------
+###Script:4
+Zero...
+###--------
+If Dr. Weil takes
+control of the
+world...
+###--------
+our terrible history
+will repeat again...
+###--------
+We cannot...
+###--------
+No...MUST not allow
+that to happen...
+###--------
+###Script:5
+Zero...
+###--------
+I believe in you,
+but...
+###--------
+Please don't bite
+off more than you
+can chew...
+###--------
+###Script:6
+Zero...
+###--------
+Please be careful...
+###--------
+###Script:7
+What's this?
+###--------
+Don't you have to
+go to see Ciel?
+###--------
+You shouldn't make
+a young lady wait!
+###--------
+###Script:8
+Oh, Zero...
+###--------
+Sorry I couldn't fix
+up your weapons in
+time...
+###--------
+Since there haven't
+been any attacks
+from Neo Arcadia...
+###--------
+I thought I'd just
+upgrade your
+weapons instead...
+###--------
+But it ended up
+taking more time
+than I expected...
+###--------
+Sorry about that...
+But I was able to
+make some pretty
+###--------
+good improvements
+to your weapons.
+###--------
+By the way...about
+your Recoil Rod...
+Do you want to know
+###--------
+<option>how to use it?
+  Sure do.
+  Not really...
+###Command:option secondAnswerIndex=1
+###--------
+I see, I see!
+###--------
+The Recoil Rod can
+blast enemies with
+a charge, and you
+###--------
+can also aim down
+and shoot to fly
+up into the air!
+###--------
+Certain barriers can
+only be destroyed
+with the charge
+###--------
+attack, so don't
+hesitate to give
+it a try.
+###--------
+Doigt and I spent a
+month putting it
+together for you,
+###--------
+so use it well!
+###--------
+Of course, the trick
+with new weapons is
+to give them a try,
+###--------
+and get used to
+them!
+###--------
+<msgSub>I see. You don't
+even care at all,
+do you?
+###Command:msgSub subindex=1
+###--------
+If Doigt could hear
+that from outside of
+the room
+###--------
+he'd sure be
+disappointed.
+###--------
+###Script:9
+I got so caught up
+in making your
+weapons...
+###--------
+that I worked for 10
+days without taking
+any E-Crystals, and
+###--------
+almost ended up
+shutting down.
+Hah hah hah...
+###--------
+Oh yes... I have
+something to give
+to you.
+###--------
+It's no use to me
+anyway, so have this
+disk.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:10
+Dr. Weil...
+###--------
+He'll stop at
+nothing to get what
+he wants...
+###--------
+It's just dreadful.
+###--------
+Zero!
+We can't let Weil
+get away with this!
+###--------
+First we must find
+out where he is...
+###--------
+I imagine Ciel and
+the others are doing
+all they can to find
+###--------
+him by analyzing
+the data.
+###--------
+###Script:11
+About Harpuia...
+###--------
+His internal body
+temperature seems
+to be rising
+###--------
+because of his
+wound from Omega...
+###--------
+Fortunately, the
+wound isn't deep,
+so there's no need
+###--------
+to be too concerned.
+###--------
+###Script:12
+Oh, it's you, Zero...
+###--------
+Dr. Weil is a
+dreadful person.
+###--------
+Your missions from
+here on out will be
+harder than ever...
+###--------
+Zero...
+Be vigilant...
+###--------
+###Script:13
+Zero...
+###--------
+I wouldn't be over-
+stating things if
+I said the future
+###--------
+rests in your hands.
+###--------
+I believe in you.
+###--------
+You can lead us to
+the future that Ciel
+envisions for us...
+###--------
+It isn't luck or a
+miracle that you've
+made it this far...
+###--------
+It's proof positive
+that you are the
+legendary Reploid.
+###--------
+###Script:14
+You can get disks
+from all kinds of
+people. Make sure
+###--------
+to make your rounds
+and try talking to
+people often!
+###--------
+###Script:61
+What's this?
+You must be the
+new whippersnapper!
+###--------
+...hah, I'm kidding.
+###--------
+Even MY memory isn't
+quite that bad!
+###--------
+###Script:62
+By the way, son...
+###--------
+Where's the young
+lad with the long
+blonde hair,
+###--------
+who was in the
+commander's room
+until just recently?
+###--------
+Well, it's nothing
+really. There was
+just this thing...
+###--------
+###Script:63
+Hey, Zero...
+###--------
+When you have a
+moment, won't you
+listen to my story?
+###--------
+<option>Can I tell you?
+  Yes
+  No
+###Command:option secondAnswerIndex=1
+###--------
+A long time ago...
+I was a teacher at
+a school...
+###--------
+Back then, there
+were many humans...
+###--------
+It is no falsehood
+to say we lived in
+harmony together...
+###--------
+I have so many good
+memories of those
+days...
+###--------
+The one I remember
+most vividly is when
+we went on a picnic.
+###--------
+There was a girl who
+had forgotten to
+bring her lunch...
+###--------
+And when lunchtime
+came, she sat alone
+by herself.
+###--------
+All her friends were
+too busy talking and
+eating to notice.
+###--------
+She hard a hard time
+fitting in. Didn't
+speak up much...
+###--------
+She didn't know how
+to tell her friends
+she forgot lunch.
+###--------
+When I saw her, I
+figured that as much
+had happened.
+###--------
+So I gave her some
+doughnuts I had made
+that morning.
+###--------
+<option>Oh? Bored already?
+  Yes
+  No
+###Command:option secondAnswerIndex=2
+###--------
+Ah, bored I see...
+###--------
+There's more I want
+to tell you, but,
+oh well...
+###--------
+<msgSub>I see... no time eh?
+Can't be helped...
+###Command:msgSub subindex=1
+###--------
+Sorry to bother you
+when you're busy...
+###--------
+<msgSub>You know, before I
+taught, I worked
+at a bread factory.
+###Command:msgSub subindex=2
+###--------
+And before that I
+was a sailor.
+###--------
+Oops...
+Went off track...
+###--------
+I was telling you
+about my giving
+the girl a doughnut.
+###--------
+She didn't thank me
+and ran off with her
+head bowed...
+###--------
+I thought she was
+going off to be with
+her friends...
+###--------
+But on the way home,
+###--------
+The girl got off the
+bus and gave me
+something.
+###--------
+It was a short
+letter and a
+piece of clover.
+###--------
+The letter said:
+###--------
+"Mr. Andrew, I'm
+sorry I didn't find
+you a 4-leaf clover"
+###--------
+Written in tiny
+letters.
+###--------
+That was her way
+of saying "Thank
+you."
+###--------
+Whenever I pass by
+the harbor where the
+school was, I recall
+###--------
+the sweet voices of
+children calling to
+me, "Mr. Andrew"...
+###--------
+###Script:65
+Oh, it's you, Zero.
+###--------
+By the way, did I
+ever tell you about
+###--------
+<option>my younger days?
+  Yes
+  No
+###Command:option secondAnswerIndex=1
+###--------
+Ah, yes...
+do you remember what
+###--------
+<option>the story was about?
+  Yes
+  No
+###Command:option secondAnswerIndex=2
+###--------
+Really?!
+###--------
+I'm gonna quiz you
+to see if you do!
+###--------
+<option>Before teaching I...
+  Was a sailor
+  Was a bread maker
+###Command:option secondAnswerIndex=3
+###--------
+Wrong.
+###--------
+Before teaching I
+worked at a bread
+factory...
+###--------
+Nobody pays any
+attention to my
+stories anymore...
+###--------
+<msgSub>Is that so? Guess
+I haven't then.
+###Command:msgSub subindex=1
+###--------
+It'd probably bore
+you anyway...
+###--------
+<msgSub>Of course you
+don't...
+###Command:msgSub subindex=2
+###--------
+It can't be helped,
+my stories are all
+boring anyway...
+###--------
+<msgSub>Wow, that's correct!
+But maybe you just
+got lucky.
+###Command:msgSub subindex=3
+###--------
+Next question:
+###--------
+As a teacher, my
+fondest memory
+was of when I...
+###--------
+<option>...went to a:
+  Festival
+  Picnic
+###Command:option secondAnswerIndex=4
+###--------
+Nope.
+###--------
+Well...I suppose
+my stories are all
+useless anyway...
+###--------
+<msgSub>Well done!
+How about this?
+###Command:msgSub subindex=4
+###--------
+On the picnic,
+a girl forgot her
+lunch. I saw this...
+###--------
+<option>...and gave her:
+  A hamburger
+  A doughnut
+###Command:option secondAnswerIndex=5
+###--------
+...
+###--------
+Incorrect.
+###--------
+I had my hopes up
+for a second there
+...*sigh*...
+###--------
+<msgSub>Yes! That's correct!
+And in return for
+the doughnut, she...
+###Command:msgSub subindex=5
+###--------
+<option>...gave me a:
+  3-leaf clover
+  4-leaf clover
+###Command:option secondAnswerIndex=6
+###--------
+Yes, that's right.
+###--------
+She looked hard for
+a 4-leaf clover...
+###--------
+But couldn't find
+one...
+###--------
+And now, the last
+question for you!
+###--------
+<option>The girl's name was:
+  I don't know
+  Jasmine
+###Command:option secondAnswerIndex=7
+###--------
+Ooh! Fantastic!
+That was a trick
+question!
+###--------
+Thanks for humoring
+an old Reploid...
+###--------
+Here's a token of
+my appreciation.
+###--------
+Take this disk I
+have!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>...
+###Command:msgSub subindex=6
+###--------
+Not 4, but 3-leaf...
+###--------
+It's obvious you
+weren't really
+paying attention!
+###--------
+<msgSub>I never told you
+what her name was!
+###Command:msgSub subindex=7
+###--------
+Ah well, I guess
+it's only natural
+that you'd be bored
+###--------
+by an old geezer's
+ramblings...
+###--------
+###Script:66
+So, whippersnapper,
+###--------
+the Resistance Base
+has really been
+active lately...
+###--------
+Are we going to be
+relocating again?
+###--------
+Figures. Just when I
+was beginning to
+feel settled.
+###--------
+###Script:67
+Hmm? What that?
+We're not moving?
+###--------
+And here I thought
+we were leaving like
+we did last year...
+###--------
+###Script:68
+Oh, hey, Zero!
+###--------
+I've been waiting
+here the whole time
+for Ciel.
+###--------
+She came in and left
+again right away...
+###--------
+This little guy is a
+bit worn out, so I'd
+like it fixed...
+###--------
+I guess Ciel must
+be busy...
+###--------
+###Script:69
+I wonder where my
+little Crea and Prea
+went...
+###--------
+They are my precious
+Baby Elves...
+###--------
+Did you know that I
+could talk to them
+a little...?
+###--------
+At first it was just
+"MiMiMiMi" and
+other baby babble.
+###--------
+Zero, please let me
+know if you find
+them!
+###--------
+Promise me...
+okay?
+###--------
+###Script:70
+Oh, Zero!
+###--------
+Did you really find
+Crea and Prea?
+###--------
+###Script:71
+Crea...Prea...
+###--------
+<option>Do they remember me?
+  Probably...
+  Don't think so...
+###Command:option secondAnswerIndex=1
+###--------
+Hurray! That makes
+me so happy!
+###--------
+I'll give you this!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>You're horrible!
+I hate you, Zero!
+###Command:msgSub subindex=1
+###--------
+I was going to give
+you this disk, but I
+changed my mind!
+###--------
+###Script:72
+Hey, Zero?
+###--------
+What was on that
+disk that I gave
+you?
+###--------
+I hope it's
+something useful.
+###--------
+Well that disk...
+###--------
+I found it when I
+was going to clean
+this little guy up!
+###--------
+It's probably
+Menart's idea of a
+prank.
+###--------
+Did you know that he
+used the computer
+here without
+###--------
+permission, and also
+drew graffiti all
+over the walls?
+###--------
+Rocinolle and I
+cleaned every last
+bit of it up!
+###--------
+###Script:73
+Hey, Zero...
+###--------
+What is Weil trying
+to accomplish?
+###--------
+It's the scientist's
+job to plan for the
+future, right?
+###--------
+But, Weil is
+planning something
+terrible, isn't he?
+###--------
+I just hate people
+like Weil...
+###--------
+###Script:74
+Zero...
+###--------
+I'm scared...
+###--------
+Even when I hold on
+to this little guy,
+I'm still scared...
+###--------
+Zero...
+Please stay...Don't
+ever go away...
+###--------
+###Script:76
+Hi-ya, Zero!
+###--------
+It's been 2 months
+since Mr. Elpizo
+left here.
+###--------
+I wonder when I'll
+be promoted to
+commander...
+###--------
+I don't think there
+is a more qualified
+successor...
+###--------
+If that weren't
+possible, I might be
+an operator instead!
+###--------
+###Script:77
+Busy, busy, busy!
+###--------
+I think I work the
+hardest of everyone
+here at the base!
+###--------
+Zero, when you see
+everyone, tell them
+how hard I work!
+###--------
+###Script:78
+...
+###--------
+Oh, it's you, Zero.
+###--------
+I'm so busy, I
+didn't notice you
+were talking to me.
+###--------
+Um, Zero?
+###--------
+Do you think that
+I've lost a little
+bit of weight?
+###--------
+<option>You do, right?
+  Yeah...
+  Not really...
+###Command:option secondAnswerIndex=1
+###--------
+I knew it!
+So, you could tell?
+###--------
+Aw, shucks...!
+###--------
+It just goes to show
+how hard I've been
+working!
+###--------
+I feel pretty good
+today. Here, take
+this!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>WHAT?!
+###Command:msgSub subindex=1
+###--------
+That's harsh...
+###--------
+Even Reploids have
+feelings, you know.
+###--------
+###Script:79
+Zero!
+###--------
+Did you check out
+that disk?
+###--------
+Wasn't it quite a
+testimony to all
+my hard work?
+###--------
+###Script:80
+What's Dr. Weil
+trying to
+accomplish?
+###--------
+I wonder if he's
+planning on hoarding
+the E-Crystals...
+###--------
+If so, then my one
+enjoyment in life
+will be gone...
+###--------
+###Script:81
+Zero! At all costs,
+please stop Weil's
+vile scheme!
+###--------
+I'm not good at
+much, so I respect
+you Zero!
+###--------
+I hope you continue
+to support us in the
+Resistance!
+###--------
+###Script:82
+Oh, it's you, Zero.
+###--------
+I just can't stand
+work!
+###--------
+My job?
+###--------
+My job is to watch
+the harbor all day.
+All day, every day!
+###--------
+Heh, just kidding!
+###--------
+If that Hibou heard
+me say that he'd
+sure be mad.
+###--------
+###Script:83
+Oh, hey!
+###--------
+I found this disk
+underneath this
+load...
+###--------
+<option>Do you want it?
+  Sure...
+  No thanks...
+###Command:option secondAnswerIndex=1
+###--------
+Well...
+###--------
+You're not expecting
+to get it for free,
+are you?
+###--------
+Let me think...
+###--------
+Alright! You can
+have it if you
+answer my question.
+###--------
+Do you know that
+small Reploid down
+the hall?
+###--------
+The one that carries
+a book with him
+wherever he goes.
+###--------
+Answer me this!
+###--------
+<option>What's his name?
+  Menart
+  Perroquiet
+###Command:option secondAnswerIndex=2
+###--------
+Uh...
+###--------
+I'M Menart!
+###--------
+How could you forget
+my name!
+###--------
+<msgSub>Hmm...
+###Command:msgSub subindex=1
+###--------
+Well if you don't
+want it, you won't
+have it.
+###--------
+<msgSub>So, you knew.
+###Command:msgSub subindex=2
+###--------
+Very well, then.
+###--------
+Here, take it, as I
+promised!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:84
+About the disk I
+gave you...
+###--------
+To tell you the
+truth, I don't know
+what's on it.
+###--------
+###Script:85
+Zero!!
+###--------
+You're okay, even
+after that dive
+with the missile?
+###--------
+Wow, you really are
+a legendary Reploid.
+###--------
+###Script:86
+Zero!
+###--------
+I know you're pretty
+tough, but don't
+overdo it!
+###--------
+For us Reploids, our
+bodies are all we
+have!
+###--------
+That might sound
+strange coming from
+someone like me...
+###--------
+###Script:87
+Hmph!
+###--------
+So what about Weil!
+###--------
+Zero! Just don't
+lose to him,
+alright?
+###--------
+###Script:88
+I won't submit to
+Weil, even if he
+becomes ruler!
+###--------
+I'll live my life
+as I please!
+###--------
+###Script:89
+The lull in attacks
+from Neo Arcadia had
+me optimistic...
+###--------
+But it seems they're
+on the move...
+###--------
+I just hope they
+don't come here...
+###--------
+For my job, the
+quieter things are,
+the better.
+###--------
+###Script:90
+Ah, yes...if you
+have some time, do
+visit old Andrew.
+###--------
+Let's see, I think
+he's on the 3rd
+floor.
+###--------
+Oh!
+###--------
+Speaking of old
+Andrew, I just
+remembered...
+###--------
+This disk belongs to
+old Andrew.
+But since he's no
+###--------
+good with machines,
+you just go ahead
+and take it.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:91
+Have you studied
+what's on that
+disk?
+###--------
+You see, that was
+###--------
+an ID card from when
+old Andrew worked
+at a bread factory.
+###--------
+Hmm...I wonder how
+young he was back
+then...
+###--------
+He's such an enigma.
+###--------
+###Script:92
+I'm so glad that Mr.
+Harpuia is better.
+###--------
+Mr. Zero, remember
+to take care of
+yourself.
+###--------
+###Script:93
+Oh, Mr. Zero.
+I found this disk
+while cleaning.
+###--------
+It won't do me much
+good, so go ahead
+and take it.
+###--------
+Here.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:94
+Mr. Zero, don't you
+overwork yourself.
+###--------
+I've helped a lot
+of injured Reploids,
+but...
+###--------
+Every time I do, my
+heart just aches..
+###--------
+And it's not a
+sadness that fades
+over time, you see.
+###--------
+###Script:108
+Hey there, Zero!
+###--------
+Have you heard?
+###--------
+The appearance of
+Omega, who has the
+same signature as
+###--------
+the Dark Elf, has
+caused a rift in
+our world.
+###--------
+The rift is called
+Cyberspace.
+###--------
+A mysterious doorway
+connects it to the
+real world.
+###--------
+Inside Cyberspace,
+Cyber-elf abilities
+auto-activate.
+###--------
+###Script:109
+Oh, yes...
+About Cyberspace...
+###--------
+<option>Want to know more?
+  Yes
+  Not really...
+###Command:option secondAnswerIndex=1
+###--------
+Then let me explain.
+###--------
+Some elves activate
+when you go into
+Cyberspace...
+###--------
+But not all elves
+do.
+###--------
+Only elves with the
+<textColorRed>A<textColorWhite> mark on the
+lower left of the
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+icon activate.
+###--------
+They activate even
+when not grown, and
+they also don't die.
+###--------
+There are also no
+penalties for using
+elves!
+###--------
+But, when you enter
+Cyberspace, you lose
+five mission points.
+###--------
+Also, in Cyberspace
+you get no Secret
+Disks from foes.
+###--------
+And you can't fight
+bosses while still
+inside!
+###--------
+<msgSub>Oh, is that right?
+###Command:msgSub subindex=1
+###--------
+That's fine, if you
+already know.
+###--------
+###Script:110
+Hey, Zero!
+###--------
+Have you heard?
+###--------
+Cyberspace is a
+wholly uncharted
+territory for us.
+###--------
+For all we know, the
+spirits of the dead
+could be in there.
+###--------
+Hah hah hah...
+Just kidding.
+###--------
+But, it's not as if
+I've checked every
+corner of
+###--------
+Cyberspace, so who
+knows what could be
+in there!
+###--------
+###Script:111
+Hey, Zero!
+###--------
+Have you heard?
+###--------
+The night sky is
+absolutely
+beautiful here.
+###--------
+I love writing poems
+while stargazing.
+###--------
+<option>Want to hear one?
+  Sure
+  Um, no...
+###Command:option secondAnswerIndex=1
+###--------
+OK, here goes...
+###--------
+Fighting ends.
+Tomorrow offers the
+promise of peace.
+###--------
+But to those who
+fall and vanish with
+the night sky,
+###--------
+dawn never comes...
+###--------
+What do you think?
+Pretty good,
+wouldn't you say?
+###--------
+Hah hah hah...
+Sorry, sorry.
+###--------
+It's not really a
+poem that I made.
+###--------
+It's from an ancient
+text that I read a
+long time ago.
+###--------
+<msgSub>Really? Oh well...
+Never mind then.
+###Command:msgSub subindex=1
+###--------
+###Script:112
+Did you come to
+listen to a poem?
+###--------
+Hmm, sorry. I just
+don't feel up to it.
+###--------
+###Script:113
+Hey, Zero!
+###--------
+By the way, have you
+recalled your old
+memories yet?
+###--------
+It's been a while
+since Ciel woke you
+so I figured that
+###--------
+you'd have recalled
+something after all
+these discussions.
+###--------
+<option>Can I test you?
+  Sure
+  No thanks...
+###Command:option secondAnswerIndex=0
+###--------
+I'm going to ask you
+3 questions, OK?
+###--------
+The first one is
+about when Ciel
+discovered you.
+###--------
+Ciel was looking for
+you underground, and
+a Reploid lost his
+###--------
+life protecting
+Ciel. So, the
+question is...
+###--------
+<option>What was his name?
+  Colbor
+  Milan
+###Command:option secondAnswerIndex=1
+###--------
+OK, next!
+###--------
+Who was in charge
+of the Resistance
+in Ciel's absence?
+###--------
+<option>Do you remember?
+  Elpizo
+  Hibou
+###Command:option secondAnswerIndex=2
+###--------
+OK, next!
+###--------
+What's the name of
+the forest Hyleg
+Ourobockle protected
+###--------
+<option>Do you remember?
+  Forest of Notus
+  Forest of Dysis
+###Command:option secondAnswerIndex=3
+###--------
+Too bad. I can't
+give you anything
+since you failed...
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Hm, your memory
+circuits must still
+be on the fritz.
+###Command:msgSub subindex=0
+###--------
+<msgSub>OK, next!
+###Command:msgSub subindex=1
+###--------
+Who was in charge
+of the Resistance
+in Ciel's absence?
+###--------
+<option>Do you remember?
+  Elpizo
+  Hibou
+###Command:option secondAnswerIndex=4
+###--------
+Ok, next!
+###--------
+What's the name of
+The forest Hyleg
+Ourobockle protected
+###--------
+<option>Do you remember?
+  Forest of Notus
+  Forest of Dysis
+###Command:option secondAnswerIndex=5
+###--------
+Too bad. I can't
+give you anything
+since you failed...
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Too bad. I can't
+give you anything
+since you failed...
+###Command:msgSub subindex=3
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Ok, next!
+###Command:msgSub subindex=4
+###--------
+What's the name of
+The forest Hyleg
+Ourobockle protected
+###--------
+<option>Do you remember?
+  Forest of Notus
+  Forest of Dysis
+###Command:option secondAnswerIndex=6
+###--------
+Too bad. I can't
+give you anything
+since you failed...
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Wow, incredible!!
+All correct!
+###Command:msgSub subindex=5
+###--------
+Alright! I'll give
+you this! Use it
+well!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>Too bad. I can't
+give you anything
+since you failed...
+###Command:msgSub subindex=6
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Ok, next!
+###Command:msgSub subindex=2
+###--------
+What's the name of
+The forest Hyleg
+Ourobockle protected
+###--------
+<option>Do you remember?
+  Forest of Notus
+  Forest of Dysis
+###Command:option secondAnswerIndex=7
+###--------
+Too bad. I can't
+give you anything
+since you failed...
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<option>Do you remember?
+  Forest of Notus
+  Forest of Dysis
+###Command:option secondAnswerIndex=8
+###--------
+<msgSub>Too bad. I can't
+give you anything
+since you failed...
+###Command:msgSub subindex=7
+###--------
+Try again, anytime
+you feel like it!
+###--------
+<msgSub>Too bad. I can't
+give you anything
+since you failed...
+###Command:msgSub subindex=8
+###--------
+Try again, anytime
+you feel like it!
+###--------
+###Script:114
+Zero!
+###--------
+I just know it!
+###--------
+I know you can
+overcome any hurdle,
+no matter how high!
+###--------
+###Script:115
+Hey, hey! How's the
+new guy doing?
+###--------
+Oh, pardon me!
+###--------
+Can't keep calling
+the legendary 'roid
+the "new guy"!
+###--------
+It's been so boring
+since that Elpizo
+left here.
+###--------
+No one complains
+when I skip work,
+###--------
+and I don't have any
+stories to tell.
+###--------
+There's just no
+excitement anymore.
+###--------
+###Script:116
+Did you take the
+disk lying there?
+###--------
+That disk is pretty
+much just my
+personal profile.
+###--------
+Wonder what would
+possess someone to
+write about me...
+###--------
+It was as accurate
+as could be, but
+surely there's
+###--------
+something more
+interesting to write
+about.
+###--------
+###Script:117
+Hey there, new guy!
+I mean, greetings,
+O legendary Reploid!
+###--------
+Heh heh.
+I head a rumor
+that...
+###--------
+Harpuia is injured
+and sleeping in the
+maintenance room.
+###--------
+Is that true?
+###--------
+Now's the chance to
+finish Harpuia off,
+don't you think?
+###--------
+Well, I know you're
+not into underhanded
+tactics like that.
+###--------
+Don't get mad at me,
+it was just a
+suggestion.
+###--------
+###Script:118
+So, I heard that
+Harpuia's room is
+locked, hm?
+###--------
+Can't I just take
+a little peek
+inside?
+###--------
+Heh heh...It's not
+every day that a
+plain old 'roid like
+###--------
+me gets to see
+somebody special
+like that, y'know...
+###--------
+###Script:119
+Even if Dr. Weil
+were to take over
+the world...
+###--------
+Even if my meager
+life were to just
+end...
+###--------
+Right up to that
+last moment, I'll
+believe in you.
+###--------
+It ain't no joke
+when I call you the
+"legendary Reploid."
+###--------
+Heh heh...bet you
+didn't expect me to
+say that, hm?
+###--------
+Well, forget I even
+said it, then!
+###--------
+###Script:120
+Dr. Weil, huh...
+###--------
+Quite a nasty one,
+I'd say.
+###--------
+That laugh of his
+gives me goose
+bumps!
+###--------
+###Script:121
+Nice to meet you, my
+name is Perroquiet.
+###--------
+Oh, it's Mr. Zero!
+###--------
+Sorry about that.
+I have poor vision.
+###--------
+But that aside, Ms.
+Ciel's research is
+just incredible.
+###--------
+Incomplete as it is,
+I think that the
+miracle of undying
+###--------
+Cyber-elves shows
+the fruits of her
+labor.
+###--------
+###Script:122
+About Cyber-elves...
+###--------
+<option>Want to know more?
+  Sure
+  No thanks...
+###Command:option secondAnswerIndex=1
+###--------
+Ms. Ciel's research
+says that there are
+2 types of elves:
+###--------
+Fusion elves, and
+Satellite elves.
+###--------
+Fusion elves perish,
+as it has always
+been.
+###--------
+For example, when
+an elf turns in a
+Sub Tank or destroys
+###--------
+some enemy units.
+###--------
+Then, there's the
+newer type, the
+Satellite elves.
+###--------
+These elves can be
+equipped and removed
+freely, and they
+###--------
+won't perish. But,
+you can only equip
+two at a time.
+###--------
+One each in
+Satellite 1 and
+Satellite 2.
+###--------
+There is no penalty
+for using Satellite
+elves.
+###--------
+Some Fusion elves
+can be upgraded
+into Satellites.
+###--------
+<msgSub>Is that so?
+###Command:msgSub subindex=1
+###--------
+I'm the type that
+won't quit talking.
+###--------
+So I can understand
+if you don't really
+want to listen.
+###--------
+###Script:123
+I understand Mr.
+Harpuia is in the
+maintenance room.
+###--------
+I've heard that he's
+brilliant, so I'd
+like to talk to him.
+###--------
+But, I suppose he is
+from Neo Arcadia and
+all...
+###--------
+Yet, if he would
+only help us, Ms.
+Ciel's research
+###--------
+would most certainly
+benefit.
+###--------
+###Script:124
+I hope Mr. Harpuia
+gets well soon, even
+if he is the enemy!
+###--------
+There are so many
+things I'd like to
+discuss with him,
+###--------
+if only he weren't
+from the other side.
+It's really too bad.
+###--------
+###Script:125
+Mr. Zero...
+###--------
+Dr. Weil has finally
+showed his true
+colors.
+###--------
+This was all his
+doing, from the very
+beginning...
+###--------
+That Dr. Weil...
+What a pitiful
+soul.
+###--------
+###Script:126
+Mr. Zero...
+###--------
+There isn't much
+time left!
+###--------
+Dr. Weil is inching
+ever closer to
+his ambitions.
+###--------
+Mr. Zero!
+Please find him
+and defeat him!
+###--------
+###Script:127
+Hmm?
+Oh, it's you Zero.
+###--------
+Did you get your
+new weapon from
+Cerveau?
+###--------
+If not, you should
+go get it soon.
+###--------
+Let me know how it
+works when you do.
+###--------
+I can't really test
+its potential
+in the lab...
+###--------
+###Script:128
+The Recoil Rod is
+strongest when
+charged.
+###--------
+It incorporates
+features from Triple
+and Chain Rods...
+###--------
+It will require some
+effort to master it.
+###--------
+###Script:129
+Oh! It's you, Zero!
+Are you finding the
+Recoil Rod useful?
+###--------
+I'm busy developing
+yet another new
+weapon!
+###--------
+...er, well, not
+really. I'm actually
+totally drained from
+###--------
+working on the
+Recoil Rod. I need
+some time off.
+###--------
+###Script:130
+There's no time to
+rest. Cerveau and I
+have to make weapons
+###--------
+for the entire
+Resistance. That is
+no small task!
+###--------
+###Script:131
+Regardless of what
+power Dr. Weil may
+wield...
+###--------
+I can confidently
+say our Resistance
+will never lose!
+###--------
+That's because you,
+Ciel, and all of us
+are united together!
+###--------
+Zero!
+###--------
+You carry the hopes
+of all of us here!
+###--------
+###Script:132
+Oh, Zero. I'll give
+you this disk.
+###--------
+I meant to hand it
+to you a second ago,
+then I blanked.
+###--------
+But don't expect too
+much of it!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:133
+Maybe I'll think up
+a new weapon or two.
+###--------
+###Script:134
+Hello, Mr. Zero.
+###--------
+I'm sure you've
+forgotten my name.
+I'm Autruche.
+###--------
+I've been carrying
+loads around here
+for years.
+###--------
+Sometimes I wish I
+could do something
+else, but there just
+###--------
+isn't anything that
+I'm good at...
+###--------
+Sorry, I didn't mean
+to gripe to you,
+Mr. Zero.
+###--------
+###Script:135
+Keep up the good
+work, Mr. Zero.
+###--------
+I'll be working hard
+too...Yes indeed...
+###--------
+###Script:136
+Hello, Mr. Zero.
+###--------
+I wonder if I'd be
+good at anything
+besides loading.
+###--------
+<option>What do you think?
+  Sure
+  ...
+###Command:option secondAnswerIndex=1
+###--------
+You're just saying
+that to make me
+feel better, right?
+###--------
+Mr. Zero, I don't
+need sympathy.
+###--------
+<msgSub>Yeah, it figures.
+I knew you'd think
+that...
+###Command:msgSub subindex=1
+###--------
+It's fine...
+Really, it is...
+###--------
+###Script:137
+I wonder if I'll be
+working here in
+storage forever.
+###--------
+Well, I guess I
+can't complain...
+It's just...
+###--------
+###Script:138
+Keep up the good
+work, Mr. Zero.
+###--------
+Even I don't want to
+have to work for
+that Weil guy.
+###--------
+Besides, he'd
+probably have me
+scrapped, anyway.
+###--------
+###Script:139
+Mr. Zero...
+###--------
+Even someone like
+myself hopes for
+peace.
+###--------
+Conflict is tiring
+and meaningless.
+###--------
+###Script:140
+<option>Subject of interest?
+  Omega
+  Dr. Weil
+###Command:option secondAnswerIndex=2
+###--------
+Omega is a giant Reploid
+with the same energy
+signature as the Dark Elf.
+###--------
+Some say that Omega was
+involved in the Elf
+Wars.
+###--------
+The records state that
+a century ago, Omega was
+ejected into Space...
+###--------
+There is no other data
+available on Omega.
+###--------
+<msgSub>Ending session.
+###Command:msgSub subindex=1
+###--------
+<msgSub>Dr. Weil used the Dark Elf
+a century ago, causing the
+Elf Wars.
+###Command:msgSub subindex=2
+###--------
+He was banished from
+Neo Arcadia.
+###--------
+He is a scientist who
+excels at bringing dead
+Reploids back to life.
+###--------
+###Script:141
+<option>Subject of interest?
+  Dark Elf
+  Harpuia
+###Command:option secondAnswerIndex=2
+###--------
+Dark Elf is a Cyber-elf
+originally designed to
+end the Maverick Wars.
+###--------
+X used her to bring a
+prompt end to the conflict.
+###--------
+Afterward, she was stolen
+by Dr. Weil, subsequently
+causing the Elf Wars.
+###--------
+There is no other data
+available on the Dark Elf.
+###--------
+<msgSub>Ending session.
+###Command:msgSub subindex=1
+###--------
+<msgSub>The shrewd General Harpuia
+is one of the Four
+Guardians, and is a Reploid
+###Command:msgSub subindex=2
+###--------
+cloned from X's DNA.
+###--------
+Filling the void left by
+the destruction of Copy X,
+he became leader of
+###--------
+Neo Arcadia.
+###--------
+He was rendered unconscious
+by an attack from Omega,
+and remains so today.
+###--------
+###Script:142
+<option>Subject of interest?
+  Menart
+  Ciel
+###Command:option secondAnswerIndex=2
+###--------
+Menart is the coolest
+Reploid in the universe.
+###--------
+He is the kindest,
+smartest, and most hard-
+working one of them all.
+###--------
+...
+###--------
+I do not recall entering
+this data into my system...
+###--------
+...
+###--------
+Commencing shutdown.
+###--------
+<msgSub>Ciel is a human girl with
+an empathic connection
+to Cyber-elves.
+###Command:msgSub subindex=2
+###--------
+Also, she is a highly
+talented scientist who has
+devoted herself to
+###--------
+research on energies.
+###--------
+She recently completed
+the Ciel System...
+###--------
+###Script:158
+Mr. Zero!
+###--------
+Before I worked here
+I was a security
+guard in the desert.
+###--------
+Of course, that was
+over a year ago.
+###--------
+###Script:159
+Oh, Mr. Zero?
+###--------
+Have you been using
+Cyberspace?
+###--------
+I think that place
+is more than just a
+shortcut.
+###--------
+There must be some
+secrets to it.
+###--------
+###Script:160
+I just glanced to
+the east a moment
+ago...
+###--------
+Enemy activity is on
+the rise.
+###--------
+###Script:161
+To change topics...
+###--------
+Did you know that
+the core of Rainbow
+Devil consists of
+###--------
+the head of a
+Pantheon?
+###--------
+Oh?
+You did?
+###--------
+I thought I was the
+only one who knew
+that...
+###--------
+###Script:162
+Your efforts are
+an inspiration to us
+all, Mr. Zero!
+###--------
+I'll wring Dr.
+Weil's neck myself
+if I have to!
+###--------
+###Script:163
+Ah, Mr. Zero...
+###--------
+Cyber-elves have
+gotten easier to
+use, haven't they?
+###--------
+All thanks to those
+late nights Ms. Ciel
+spent researching.
+###--------
+It'd be really neat
+if elves became even
+more easier to use.
+###--------
+###Script:166
+Ah, Mr. Zero!
+###--------
+Lately I've been so
+bored...my trigger
+finger is itching.
+###--------
+But I suppose that's
+nothing to complain
+about, right?
+###--------
+Oh, yes!
+###--------
+I can't make out
+what's on this
+disk...
+###--------
+You can have it!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:167
+That disk I gave
+you...
+###--------
+<option>Did you decode it?
+  Yes
+  No...
+###Command:option secondAnswerIndex=1
+###--------
+Yup! I knew you
+would, Mr. Zero!
+###--------
+Your decisiveness is
+such an inspiration!
+###--------
+<msgSub>Oh, my!
+Not yet?
+###Command:msgSub subindex=1
+###--------
+You really should
+have Mr. Cerveau
+take a look at it.
+###--------
+###Script:168
+Oh, Mr. Zero...
+###--------
+Old news I guess,
+but do you remember
+the Crystal Cave?
+###--------
+Go to the very end
+of the 2nd Crystal
+area, and go back to
+###--------
+the left. Then,
+Z Panels will rain
+down.
+###--------
+...
+###--------
+Sorry it's old news.
+###--------
+###Script:169
+I looked through my
+binoculars just now
+and saw a missile.
+###--------
+It was well out of
+the range of this
+cannon...
+###--------
+All I could do was
+just hold the
+trigger and watch...
+###--------
+###Script:170
+Oh, Mr. Zero...
+###--------
+Sometimes snow falls
+out of season at
+this base.
+###--------
+Well, Leviathan
+might be behind it
+I guess.
+###--------
+###Script:171
+Oh, Mr. Zero...
+###--------
+Is it true that Dr.
+Weil is behind
+the Elf Wars?
+###--------
+If that's true, do
+we even stand a
+chance?
+###--------
+Oh, my. It's just
+frightful.
+###--------
+###Script:172
+Speaking of which,
+how is it that Weil
+can fly?
+###--------
+Oh, I guess he is a
+scientist! That's
+probably not even a
+###--------
+challenge for him!
+###--------
+###Script:173
+Ah, Mr. Zero.
+###--------
+I was just cleaning
+this room, and I
+###--------
+came across a Secret
+Disk. It must be
+around somewhere.
+###--------
+If you find it, it's
+yours.
+###--------
+###Script:174
+I wonder where
+Mr. Elpizo's
+subordinates went
+###--------
+off to. They were
+in this room until
+just recently.
+###--------
+Perhaps they felt
+uncomfortable now
+Mr. Elpizo has gone?
+###--------
+###Script:175
+Is the Dark Elf's
+power as intense
+as people say?
+###--------
+If that were true,
+it would be no
+surprise if another
+###--------
+guy like Mr. Elpizo
+came along.
+###--------
+###Script:176
+Ah, Mr. Zero!
+Good to see you!
+###--------
+I'm taking a break
+after patrolling
+the second floor.
+###--------
+So, don't think I'm
+just slacking off.
+###--------
+###Script:177
+Ah, Mr. Zero!
+Good to see you!
+###--------
+I found a Secret
+Disk while on patrol
+just now...
+###--------
+If you can answer my
+question, then I'll
+give it to you!
+###--------
+<option>Deal?
+  Sure
+  No...
+###Command:option secondAnswerIndex=1
+###--------
+Alright! You're
+pretty confident,
+Mr. Zero!
+###--------
+Here we go!
+###--------
+What's the name of
+the shrimp-like
+Mechaniloid
+###--------
+found in desert
+or snowy areas?
+###--------
+<option>Do you know?
+  Shrimpolin
+  Trampoline
+###Command:option secondAnswerIndex=2
+###--------
+Ooh, correct!
+You're pretty good!
+Next question.
+###--------
+What is the name of
+the Mechaniloid that
+jumps out of the
+###--------
+lava at Aegis
+Volcano?
+###--------
+<option>Do you know?
+  Lamplort
+  Volcaire
+###Command:option secondAnswerIndex=3
+###--------
+I'm sorry, that is
+incorrect.
+###--------
+Try again some time.
+###--------
+<msgSub>Oh you don't want
+it then...
+###Command:msgSub subindex=1
+###--------
+<msgSub>I'm sorry, that is
+incorrect.
+###Command:msgSub subindex=2
+###--------
+Try again some time.
+###--------
+<msgSub>Correct again!
+Very good Mr. Zero!
+The next one's hard.
+###Command:msgSub subindex=3
+###--------
+How many doors are
+there that you can
+enter in the Old
+###--------
+<option>Residential Area?
+  6
+  7
+###Command:option secondAnswerIndex=4
+###--------
+I'm sorry, that is
+incorrect.
+###--------
+Try again some time.
+###--------
+<msgSub>Wow! All questions
+answered correctly!
+###Command:msgSub subindex=4
+###--------
+Here, this is yours,
+as promised!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:178
+I'm certain that
+there's something
+great on that disk
+###--------
+I gave you.
+###--------
+When I picked it up
+it just felt very
+heavy.
+###--------
+###Script:179
+Ms. Ciel and Dr.
+Weil are both
+scientists.
+###--------
+How can they be
+so different in
+their thinking?
+###--------
+It's just scary to
+think about...
+###--------
+###Script:180
+Mr. Zero!
+###--------
+This big room
+doesn't get any
+use at all.
+###--------
+I was just cleaning
+up that locker...
+###--------
+and inside it
+I found some
+E-Crystals.
+###--------
+Then I noticed that
+it's Hibou's locker.
+###--------
+I hear he's on a
+diet so he won't be
+needing these.
+###--------
+Here, Mr. Zero!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:181
+I wonder if it was
+wrong to give you
+those E-Crystals.
+###--------
+But Hibou has a bad
+memory anyway, so
+he won't notice.
+###--------
+###Script:182
+Zero, how are you?
+###--------
+I'm so glad I could
+meet you again!
+###--------
+<option>Do you remember me?
+  Yes
+  No...
+###Command:option secondAnswerIndex=1
+###--------
+Of course you do!
+###--------
+That's right!
+###--------
+You rescued me when
+I was captured at
+that secret base!
+###--------
+I'm so happy you
+remembered me!
+###--------
+Here, let me give
+you some E-Crystals!
+###--------
+*SMOOCH!*<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>You're terrible!
+Even though you've
+kissed me before...
+###Command:msgSub subindex=1
+###--------
+Shoot, you probably
+forget every girl...
+###--------
+###Script:183
+Don't tell Ciel
+about that, OK?
+###--------
+Human girls get
+angry over little
+things like that.
+###--------
+###Script:184
+Mr. Zero!
+###--------
+I went to the harbor
+to go stargazing...
+and a shooting star
+###--------
+came down and hit me
+on the head. Now I
+have a big bruise!
+###--------
+On closer inspection
+I realized it was in
+fact E-Crystals.
+###--------
+And these are those
+very E-Crystals.
+###--------
+Every time I look at
+them, I remember
+that incident.
+###--------
+Let me give these
+E-Crystals to you,
+Mr. Zero.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:185
+You know, I was
+thinking...
+how is it possible
+###--------
+for E-Crystals to
+fall out of the sky?
+###--------
+Could a seagull have
+dropped them as a
+practical joke?
+###--------
+Or maybe it was a
+flying fish...
+###--------
+Life is full of
+mysteries.
+###--------
+###Script:186
+Hey, Mr. Zero!
+###--------
+Thanks for saving me
+that time.
+###--------
+If it weren't for
+you, Mr. Zero, I'd
+still be locked up.
+###--------
+That deer monster
+would have frozen me
+and sent me to the
+###--------
+bottom of the ocean.
+###--------
+I'm only here thanks
+to you, Mr. Zero.
+###--------
+Please let me thank
+you for that...
+###--------
+It's not much but
+please accept these
+E-Crystals.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:187
+I don't have any
+more E-Crystals.
+to give, Mr. Zero.
+###--------
+I'll shut down if I
+give you them all!
+###--------
+###Script:188
+Mr. Zero! Mr. Zero!
+###--------
+Looks like you're
+on a patrol of the
+Resistance Base.
+###--------
+So, Mr. Zero, is it
+hard to raise
+Cyber-elves?
+###--------
+I wish to help you
+in any way I can, so
+please, Mr. Zero...
+###--------
+Use these E-Crystals
+for raising your
+Cyber-elves.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:189
+I can't do nearly as
+much as you,
+Mr. Zero, but...
+###--------
+My desire to fight
+for peace is as
+strong as anybody's!
+###--------
+###Script:190
+Ah, Mr. Zero!
+###--------
+Fancy meeting you
+here.
+###--------
+Oh? You don't
+remember me?
+###--------
+I was working
+security for the
+subway long ago.
+###--------
+Now that I think
+about it, that place
+was the perfect
+###--------
+target for the
+enemy.
+###--------
+I know that I have
+you, Mr. Zero, to
+thank for my safety.
+###--------
+It's not much, but
+please accept these
+E-Crystals.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:191
+I'm sorry, I don't
+have any more E-
+Crystals to give.
+###--------
+I wonder if there's
+a way to get them
+fast and easy.
+###--------
+###Script:192
+Ah, Mr. Zero!
+###--------
+Hibou shared some of
+his E-Crystals with
+me the other day.
+###--------
+I was surprised that
+Hibou would do such
+a thing.
+###--------
+I wonder...
+###--------
+He said he gained
+15 kilograms, so he
+might be dieting...
+###--------
+What's that Reploid
+think he's doing?
+###--------
+Sorry that it's
+hand-me-down, but
+take these please!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:193
+Oh!
+###--------
+Maybe Hibou is on
+a diet so he can be
+an operator!
+###--------
+That chair would be
+too small for him...
+###--------
+###Script:194
+Mr. Zero!
+###--------
+There are things I
+ponder about every
+day.
+###--------
+Like, why do people
+wage wars out of
+greed?
+###--------
+I'm perfectly happy
+with a few E-
+Crystals.
+###--------
+What about you,
+Mr. Zero?
+###--------
+It's the little
+things in life
+that really count!
+###--------
+Here, let me share
+some of my blessings
+with you, Mr. Zero!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:195
+Mr. Zero.
+###--------
+I don't have any
+more E-Crystals!
+###--------
+Don't be greedy.
+###--------
+If you are, you'll
+end up just like
+Weil and Elpizo.
+###--------
+###Script:196
+Mr. Zero!
+###--------
+I was just cleaning
+under this bed.
+###--------
+You'd be surprised
+what you can find
+down there!
+###--------
+Most of it useless
+junk, of course...
+###--------
+Sometimes I get
+lucky and find some
+E-Crystals.
+###--------
+It wouldn't be right
+hoard them all to
+myself...
+###--------
+Here, Mr. Zero,
+I'll give you some!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:197
+On another note...
+###--------
+Lately I've been
+hearing the sound of
+a cat or baby...
+###--------
+There are no Baby
+Elves here, so what
+could it be?
+###--------
+###Script:198
+Oh, Mr. Zero!
+###--------
+Our life here in the
+Resistance has
+improved a lot,
+###--------
+All thanks to you,
+Mr. Zero!
+###--------
+In the past I had to
+watch friends die
+before my own eyes.
+###--------
+I really am grateful
+to you, Mr. Zero!
+###--------
+I know!
+###--------
+As a token of my
+gratitude, take
+these E-Crystals!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:199
+Mr. Zero...
+Will we ever achieve
+peace again?
+###--------
+People said that
+when the energy
+crisis is solved,
+###--------
+we would finally
+have peace, but...
+###--------
+I don't see what our
+being branded
+Mavericks has to do
+###--------
+with the energy
+crisis...
+###--------
+###Script:200
+Mr. Zero!
+###--------
+Do you know the
+operators in the
+commander's room?
+###--------
+The redhead is
+Ms. Rouge, and the
+blond is Ms. Joan.
+###--------
+But, I've never
+heard them called by
+their names...
+###--------
+Maybe it's because
+they once worked
+for Mr. Elpizo...
+###--------
+It's only been 2
+months since Mr.
+Elpizo left...
+###--------
+Oh, my! I'm rambling
+now. Didn't mean to
+bother you.
+###--------
+I know you're busy,
+Mr. Zero...
+###--------
+Here, please accept
+these E-Crystals as
+an apology!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:201
+Despite how calm
+Ms. Rouge and Ms.
+Joan appear, if
+###--------
+you called them by
+name, I bet they'd
+be bowled over!
+###--------
+###Script:202
+Mr. Zero.
+###--------
+This Resistance Base
+is dependent upon
+E-Crystals, too.
+###--------
+Especially the
+teleporter in the
+commander's room.
+###--------
+It uses plenty of
+power.
+###--------
+Compared to that,
+our needs are really
+quite humble.
+###--------
+Hm? What am I trying
+to say, you ask?
+###--------
+Hah hah hah?
+###--------
+Just, that no one
+would even notice
+if I took a few
+###--------
+E-Crystals from
+storage...
+###--------
+Don't tell, Mr.
+Zero! Here, will
+this be enough to
+###--------
+keep you quiet?<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+###Script:203
+Mr. Zero!
+###--------
+You can't tell
+anyone about this.
+###--------
+You don't talk much,
+so my secret is safe
+with you, right?
+###--------
+###Script:204
+Hey, Zero!
+Remember me?
+###--------
+Hah hah hah hah!
+###--------
+It's me, Andrew!
+Surprised?
+###--------
+###Script:205
+By the way,
+whippersnapper...
+###--------
+Where's the young
+lad with the long
+blonde hair,
+###--------
+who was in the
+commander's room
+until just recently?
+###--------
+Well, it's nothing
+really. There was
+just this thing...
+###--------
+###Script:206
+Hey, Zero...
+###--------
+When you have a
+moment, won't you
+listen to my story?
+###--------
+<option>Can I tell you?
+  Yes
+  No
+###Command:option secondAnswerIndex=1
+###--------
+A long time ago...
+I was a teacher at
+a school...
+###--------
+In fact, I'd say I
+was just about this
+young.
+###--------
+Back then, there
+were many humans...
+###--------
+It is no falsehood
+to say we lived in
+harmony together...
+###--------
+I have so many good
+memories of those
+days...
+###--------
+The one I remember
+most vividly is when
+we went on a picnic.
+###--------
+There was a girl who
+had forgotten to
+bring her lunch...
+###--------
+And when lunchtime
+came, she sat alone
+by herself.
+###--------
+All her friends were
+too busy talking and
+eating to notice.
+###--------
+She hard a hard time
+fitting in. Didn't
+speak up much...
+###--------
+She didn't know how
+to tell her friends
+she forgot lunch.
+###--------
+When I saw her, I
+figured that as much
+had happened.
+###--------
+So I gave her some
+doughnuts I had made
+that morning.
+###--------
+<option>Oh? Bored already?
+  Yes
+  No
+###Command:option secondAnswerIndex=2
+###--------
+Ah, bored I see...
+###--------
+There's more I want
+to tell you, but,
+oh well...
+###--------
+<msgSub>I see... no time eh?
+Can't be helped...
+###Command:msgSub subindex=1
+###--------
+Sorry to bother you
+when you're busy...
+###--------
+<msgSub>You know, before I
+taught, I worked
+at a bread factory.
+###Command:msgSub subindex=2
+###--------
+And before that I
+was a sailor.
+###--------
+Oops...
+Went off track...
+###--------
+I was telling you
+about my giving
+the girl a doughnut.
+###--------
+She didn't thank me
+and ran off with her
+head bowed...
+###--------
+I thought she was
+going off to be with
+her friends...
+###--------
+But on the way home,
+###--------
+the girl got off the
+bus and gave me
+something.
+###--------
+It was a short
+letter and a
+piece of clover.
+###--------
+The letter said:
+###--------
+"Mr. Andrew, I'm
+sorry I didn't find
+you a 4-leaf clover"
+###--------
+Written in tiny
+letters.
+###--------
+That was her way
+of saying "Thank
+you."
+###--------
+Whenever I pass by
+the harbor where the
+school was, I recall
+###--------
+the sweet voices of
+children calling to
+me, "Mr. Andrew"...
+###--------
+###Script:207
+Oh, it's you, Zero.
+###--------
+You think it looks
+funny that I'm so
+young, don't you?
+###--------
+Well, you'll get
+used to it.
+###--------
+By the way, did I
+ever tell you about
+###--------
+<option>my younger days?
+  Yes
+  No
+###Command:option secondAnswerIndex=1
+###--------
+Ah, yes...
+do you remember what
+###--------
+<option>the story was about?
+  Yes
+  No
+###Command:option secondAnswerIndex=2
+###--------
+Really?!
+###--------
+I'm gonna quiz you
+to see if you do!
+###--------
+<option>Before teaching I...
+  Was a sailor
+  Was a bread maker
+###Command:option secondAnswerIndex=3
+###--------
+Wrong.
+###--------
+Before teaching I
+worked at a bread
+factory...
+###--------
+Nobody pays any
+attention to my
+stories anymore...
+###--------
+<msgSub>Is that so? Guess
+I haven't then.
+###Command:msgSub subindex=1
+###--------
+It'd probably bore
+you anyway...
+###--------
+<msgSub>Of course you
+don't...
+###Command:msgSub subindex=2
+###--------
+It can't be helped,
+my stories are all
+boring anyway...
+###--------
+<msgSub>Wow, that's correct!
+But maybe you just
+got lucky.
+###Command:msgSub subindex=3
+###--------
+Next question:
+###--------
+As a teacher, my
+fondest memory
+was of when I...
+###--------
+<option>...went to a:
+  Festival
+  Picnic
+###Command:option secondAnswerIndex=4
+###--------
+Nope.
+###--------
+Well...I suppose
+my stories are all
+useless anyway...
+###--------
+<msgSub>Well done!
+How about this?
+###Command:msgSub subindex=4
+###--------
+On the picnic,
+a girl forgot her
+lunch. I saw this...
+###--------
+<option>...and gave her:
+  A hamburger
+  A doughnut
+###Command:option secondAnswerIndex=5
+###--------
+...
+###--------
+Incorrect.
+###--------
+I had my hopes up
+for a second there
+...*sigh*...
+###--------
+<msgSub>Yes! That's correct!
+And in return for
+the doughnut, she...
+###Command:msgSub subindex=5
+###--------
+<option>...gave me a:
+  3-leaf clover
+  4-leaf clover
+###Command:option secondAnswerIndex=6
+###--------
+Yes, that's right.
+###--------
+She looked hard for
+a 4-leaf clover...
+###--------
+But couldn't find
+one...
+###--------
+And now, the last
+question for you!
+###--------
+<option>The girl's name was:
+  I don't know
+  Jasmine
+###Command:option secondAnswerIndex=7
+###--------
+Ooh! Fantastic!
+That was a trick
+question!
+###--------
+Thanks for humoring
+an old Reploid...
+###--------
+Here's a token of
+my appreciation.
+###--------
+Take this disk I
+have!<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>...
+###Command:msgSub subindex=6
+###--------
+Not 4, but 3-leaf...
+###--------
+It's obvious you
+weren't really
+paying attention!
+###--------
+<msgSub>I never told you
+what her name was!
+###Command:msgSub subindex=7
+###--------
+Ah well, I guess
+it's only natural
+that you'd be bored
+###--------
+by an old geezer's
+ramblings...
+###--------
+###Script:208
+Hey, whippersnapper.
+###--------
+Well I suppose I'm
+still pretty young,
+too.
+###--------
+A big perk of being
+a Reploid is having
+replaceable parts.
+###--------
+###Script:209
+So, whippersnapper,
+###--------
+The Resistance Base
+has really been
+active lately...
+###--------
+Are we going to be
+relocating again?
+###--------
+Leave the heavy-
+lifting to me!
+###--------
+I'll prove it's not
+just my looks that
+are rejuvenated!
+###--------
+###Script:210
+Hmm? What that?
+We're not moving?
+###--------
+And here I thought
+we were leaving like
+we did last year...
+###--------
+I thought I'd get
+a chance to flex
+my young muscles...
+###--------
+###Script:211
+Hey, whippersnapper.
+###--------
+What was on that
+disk I gave you?
+###--------
+###Script:212
+...?
+###--------
+This elf has a
+sadness to it,
+like it's calling
+###--------
+to me from inside
+Cyberspace...
+###--------
+###Script:213
+...?
+###--------
+It has a warm light
+but there's a
+sadness to it...
+###--------
+Almost as if it
+remembers this base.
+###--------

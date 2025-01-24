@@ -1,0 +1,175 @@
+###TextArchive:msg08
+###Script:0
+Ciel:
+You made it!
+What a relief!
+###--------
+Have you determined
+the missile's
+target?
+###--------
+Ciel:
+The target is...
+Area Z... 3079.
+###--------
+What?! That's a
+human residential
+district!!!
+###--------
+Wait, that's not
+all... The Dark Elf
+is there, too!
+###--------
+So he's trying to
+jump right in and
+take the Dark Elf...
+###--------
+Understood.
+###--------
+###Script:1
+No!
+###--------
+###Script:2
+Ciel: They launched it!
+###--------
+Zero! Don't get any
+###--------
+closer!
+###--------
+###Script:3
+I have to act now,
+while Omega is
+immobile...
+###--------
+I'll sneak in and
+stop both him and
+the missile.
+###--------
+###Script:4
+Ciel: Zero!!!
+###--------
+###Script:5
+Baby Elves?!
+###--------
+###Script:6
+He came!
+The bad Reploid!
+###--------
+###Script:7
+He came!
+The nasty Reploid!
+###--------
+###Script:8
+Omega will go
+rescue Mama!
+###--------
+Don't get in his
+way! Leave!
+###--------
+###Script:9
+We'll protect him
+from you!
+###--------
+Don't get in his
+way! Leave!
+###--------
+###Script:10
+Hehe! Grandpa will
+be so proud of us!
+###--------
+Haha! Grandpa will
+be so proud of us!
+###--------
+###Script:11
+Waaaaah!
+You horrible thing!
+###--------
+###Script:12
+Owwwwww!
+That hurt!
+###--------
+###Script:13
+We may have lost,
+but the missile will
+land soon!
+###--------
+Our mission is a
+success!
+###--------
+###Script:14
+We may have lost,
+but we'll see our
+Mama soon!
+###--------
+Our mission is a
+success!
+###--------
+*gulp!*
+###--------
+###Script:15
+Grrawrrr!
+###--------
+###Script:16
+Yay!
+Maaama! Maaama!
+###--------
+###Script:17
+Yay!
+Maaama! Maaama!
+###--------
+###Script:18
+Grrarraarrrr!
+###--------
+###Script:19
+Grrarraarrrr!
+###--------
+###Script:20
+Hey, can you beat up
+that bad Reploid for
+us?
+###--------
+###Script:21
+Yeah, can you beat
+up that fake Reploid
+for us?
+###--------
+###Script:22
+...
+###--------
+We, the Reploids of
+Neo Arcadia...
+###--------
+We are defenders of
+humanity. The only
+justice here.
+###--------
+Is this wasteland
+what you people
+call justice?!
+###--------
+Weil!!!
+###--------
+###Script:23
+Arrrrggh!
+###--------
+I... I am...
+###--------
+###Script:24
+Harpuia!
+###--------
+###Script:25
+Perfect!
+###--------
+###Script:26
+Get him! Get him!
+###--------
+###Script:27
+Ciel: Zero, don't move!
+###--------
+I'll transfer you to the
+###--------
+base, now!
+###--------
+###Script:28
+Operator: Transferring!
+###--------

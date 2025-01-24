@@ -1,0 +1,2352 @@
+###TextArchive:msg02
+###Script:0
+Um, wait a second.
+###--------
+Allow me to
+introduce myself,
+Zero.
+###--------
+###Script:1
+My name is Elpizo.
+###--------
+I have been
+appointed as
+commander of this
+###--------
+new Resistance
+Base. I've heard
+a lot about you.
+###--------
+Please lend your
+support to us.
+###--------
+Let's fight together
+and destroy Neo
+Arcadia!!
+###--------
+###Script:2
+Destroy Neo Arcadia,
+huh?
+###--------
+It's not that
+easy...
+###--------
+###Script:3
+Then what are
+you gonna do?
+###--------
+I don't know.
+###--------
+###Script:4
+Hmm... I've got
+a feeling that
+you don't like
+###--------
+me very much.
+This is so
+unfortunate. I
+###--------
+was really hoping
+to get along with
+you. Maybe you
+###--------
+should talk to
+someone else...
+###--------
+###Script:5
+... ... ...
+###--------
+So, that's the
+"Operation
+Righteous Strike."
+###--------
+We are going to
+take advantage of
+the absence of X,
+###--------
+and thrust our
+forces upon Neo
+Arcadia. Victory
+###--------
+is in your hands.
+For a better
+tomorrow for all
+###--------
+Reploids!
+###--------
+###Script:6
+Why, it's you,
+Zero... We are
+now preparing for
+###--------
+an operation.
+Unlike the past
+minor scale ones,
+###--------
+this operation
+will inflict a
+crushing blow to
+###--------
+them. Once it
+succeeds, it will
+boost the morale
+###--------
+of the resistance.
+###--------
+###Script:7
+Neo Arcadia is not
+a sitting duck. We
+should not carry
+###--------
+out a frontal
+assault. We should
+gain time with
+###--------
+guerilla
+operations, and
+wait for Ciel to
+###--------
+complete her
+research...
+###--------
+###Script:8
+Thank you for the
+advice. We ARE
+going to continue
+###--------
+our guerilla
+activities. We
+have gained
+###--------
+strength... And
+we are ready to
+work it out by
+###--------
+ourselves.
+###--------
+... ... ...
+###--------
+###Script:9
+You were amazing,
+Zero! You did much
+better than I
+###--------
+expected!
+###--------
+I'd like to leave
+the other missions
+to you!
+###--------
+###Script:10
+You did very well,
+Zero.
+###--------
+I'd like you to
+handle the other
+missions!
+###--------
+###Script:11
+Are you all right,
+Zero?
+###--------
+I thought you
+could do better...
+Is your wounded
+###--------
+part still
+bothering you?
+###--------
+I'm expecting you
+to do very well...
+###--------
+###Script:18
+Ha ha ha ha.
+You are a funny
+Reploid.
+###--------
+Anyway, nice to
+meet you,
+Mr. Legend.
+###--------
+###Script:19
+For our future!
+###--------
+###Script:20
+Zero! Are you okay?
+###--------
+Uh-huh.
+###--------
+###Script:21
+That's good... I
+was so worried
+about you. We have
+###--------
+been trying so hard
+to find you... I'm
+glad you found us.
+###--------
+###Script:22
+I found you?
+###--------
+I came here...
+before I lost
+consciousness?
+###--------
+... ... ...
+###--------
+###Script:23
+Do you remember
+what I'm working
+on?
+###--------
+I'm conducting
+research that
+will help develop
+###--------
+a subsequent energy
+for Energy
+Crystals... It's a
+###--------
+great invention that
+can drastically
+change the world.
+###--------
+...Change the
+world?
+###--------
+###Script:24
+Neo Arcadia began
+its Ironfisted
+Policy because of
+###--------
+the energy
+shortage... In
+order to protect
+###--------
+the human society,
+Reploids were
+discriminated
+###--------
+against, labeled
+inferior citizens,
+and were sent to
+###--------
+concentration
+camps for
+"retirement..."
+###--------
+History shows
+that an energy
+shortage in an
+###--------
+era usually
+triggers a
+large scale
+###--------
+conflict...
+Once a substitute
+energy has been
+###--------
+developed, the
+destructive
+conflict ends...
+###--------
+###Script:25
+When I told this
+story to the
+Commander Elpizo,
+###--------
+he laughed at it.
+He does say he will
+wait until I
+###--------
+succeed in
+developing a
+subsequent energy,
+###--------
+but...
+In truth, Elpizo
+believes defeating
+###--------
+Neo Arcadia is the
+only way to regain
+peace...
+###--------
+I have to finish
+this...
+I'll bring order
+###--------
+to the world not
+with destruction,
+but by the power
+###--------
+of science. My
+research is almost
+done... I still
+###--------
+need a little more
+information,
+though...
+###--------
+Anyway, I'm going
+to manage your
+data for you, if
+###--------
+you need me, come
+and talk to me
+anytime, okay?
+###--------
+###Script:26
+Save data now?
+  YES
+  NO
+###--------
+###Script:27
+If you want me to
+save data, feel
+free to talk to me.
+###--------
+###Script:29
+Look at this
+Cyber-elf. Isn't
+it amazing?
+###--------
+It keeps emitting
+high tension
+energy from such
+###--------
+a small body...
+This Cyber-elf is
+a present from
+###--------
+Commander Elpizo.
+###--------
+He brought it from
+Neo Arcadia, where
+he used to work.
+###--------
+I'm conducting
+tests on this elf
+in order to
+###--------
+understand its
+mechanism. I know
+this is the key to
+###--------
+develop a safe and
+clean energy.
+###--------
+I'll do it, Zero.
+###--------
+###Script:30
+How are you doing,
+Zero?
+###--------
+Honestly... How can
+you wear out your
+weapons like that?
+###--------
+But don't worry.
+I've fixed them.
+###--------
+I even created a
+new weapon called
+the Chain Rod for
+###--------
+you.
+###--------
+It is an outstanding
+weapon.
+###--------
+<option>Want instructions?
+  YES
+  NO
+###Command:option secondAnswerIndex=0
+###--------
+With the Chain Rod,
+you can hook and
+then hang on the
+###--------
+ceiling, or draw in
+an item.
+###--------
+You can stab an
+enemy by holding
+the Attack Button
+###--------
+as well as hitting
+an enemy normally.
+###--------
+It is a useful
+weapon. You can
+also draw in an
+###--------
+enemy once they
+are stabbed by
+pressing the
+###--------
++Control Pad.
+###--------
+Why don't you try
+to hook the ceiling
+to hang!<msgGotoSub>
+###Command:msgGotoSub subindex=1
+###--------
+<msgSub>Huh? You don't
+wanna know...
+###Command:msgSub subindex=0
+###--------
+It's the
+invention of the
+century...
+###--------
+<msgSub>OK. I'll get back
+to my research.
+Use it wisely...
+###Command:msgSub subindex=1
+###--------
+###Script:31
+Um? What's up?
+###--------
+How do you like the
+Chain Rod?
+###--------
+<option>Did you master it?
+  YES
+  NO
+###Command:option secondAnswerIndex=0
+###--------
+OK. That's good.<msgGotoSub>
+###Command:msgGotoSub subindex=1
+###--------
+<msgSub>OK. I'll explain
+it to you. Listen
+very carefully...
+###Command:msgSub subindex=0
+###--------
+With the Chain Rod,
+you can hook and
+then hang on the
+###--------
+ceiling, or draw in
+an item.
+###--------
+You can stab an
+enemy by holding
+the Attack Button
+###--------
+as well as hitting
+an enemy normally.
+###--------
+It is a useful
+weapon. You can
+also draw in an
+###--------
+enemy once they
+are stabbed by
+pressing the
+###--------
++Control Pad.
+###--------
+Try to stab that
+box and draw it
+toward you.
+###--------
+<msgSub>If you still don't
+get it, please ask
+me again.
+###Command:msgSub subindex=1
+###--------
+###Script:40
+You have recovered,
+Zero.
+###--------
+You are known by
+all of our
+resistance
+###--------
+soldiers, Zero.
+###--------
+Well, except for
+the really new
+members who have
+###--------
+just arrived here
+recently.
+###--------
+If you meet
+someone, please
+press +Control Pad
+###--------
+Up and then you will
+talk with them.
+They will be glad
+###--------
+to talk with you.
+###--------
+I remember!
+Ciel and Cerveau are
+looking for you.
+###--------
+###Script:41
+How about going to
+visit Ciel and
+Cerveau first?
+###--------
+###Script:42
+Zero... I'm sorry
+to keep you feeling
+uncomfortable...
+###--------
+It will end when
+I complete the
+research, right?
+###--------
+###Script:43
+Are you OK, Zero?
+###--------
+I wonder why
+Elpizo is
+bothering you
+###--------
+with these very
+hard orders...
+###--------
+If there is a
+very difficult
+mission, I will
+###--------
+help you.
+###--------
+Please tell me
+if you need the
+power of the
+###--------
+Cyber-elf.
+###--------
+And, I just
+remembered!
+###--------
+The computer at
+the entrance has
+the data that I
+###--------
+have studied.
+###--------
+Please take a look
+at it when you have
+time.
+###--------
+###Script:44
+Things are getting
+terrible, Zero...
+###--------
+I am very worried
+about Elpizo.
+###--------
+It's important to
+find out where he
+is right now...
+###--------
+###Script:45
+Good luck, Zero...
+###--------
+Only you can
+stop Elpizo...
+###--------
+Zero...
+###--------
+###Script:46
+I hope you can
+do it...
+Good luck, Zero.
+###--------
+###Script:47
+Ah, Zero.
+###--------
+Can you use your
+weapons well?
+###--------
+By the way... I
+wanted to tell
+you one thing
+###--------
+that I noticed
+while watching
+you...
+###--------
+You seem to have
+a secret potential
+ability...
+###--------
+For example, if
+you defeat a boss
+enemy when your
+###--------
+level is high,
+you will learn
+how to use
+###--------
+their ability...
+###--------
+And...
+###--------
+If you use only
+Busters, the
+attack power of
+###--------
+the bullets will
+increase...
+###--------
+If you defeat
+many enemies with
+the Shield, your
+###--------
+defense power
+will increase.
+###--------
+It seems that
+there are more
+abilities inside
+###--------
+you...
+###--------
+It's really
+amazing...
+###--------
+You are a Reploid
+that was created a
+long time ago, but
+###--------
+you have such
+incredible
+abilities...
+###--------
+###Script:48
+Zero, it seems
+very noisy in
+the base, what's
+###--------
+happening?
+###--------
+...What?
+Elpizo?
+###--------
+He is dangerous.
+He should be the
+first person you
+###--------
+locate!
+###--------
+###Script:49
+Zero, catch Elpizo
+as soon as
+possible.
+###--------
+Before it is
+too late...
+###--------
+###Script:50
+Zero...
+I believe you.
+###--------
+That means that
+I will do any
+hard studies
+###--------
+and tests for
+you.
+###--------
+Just please promise
+me you will come
+back alive.
+###--------
+###Script:51
+Good luck, Zero...
+###--------
+###Script:52
+If you want to
+go to the area
+that you have
+###--------
+already cleared,
+please use the
+Trans Server.
+###--------
+It is located at
+the center of the
+commander room.
+###--------
+It can transfer
+you to the other
+areas.
+###--------
+In order to use
+the Trans Server,
+stand in the
+###--------
+middle of it and
+speak to the
+operator.
+###--------
+###Script:53
+Zero...
+Are you using the
+Trans Server well?
+###--------
+It's very useful.
+###--------
+###Script:54
+Zero, we can watch
+over the base.
+Please, just leave
+###--------
+it to us.
+###--------
+###Script:55
+Oh, Zero!
+You are safe!
+###--------
+###Script:56
+It seems that
+there is
+something wrong
+###--------
+with the elevator
+and you can't move
+to the 1st or 5th
+###--------
+floors. Plus, you
+cannot go higher
+than the 5th floor.
+###--------
+But, I think that
+it will be working
+soon...
+###--------
+###Script:57
+The pictures of
+the bosses in the
+monitors of the
+###--------
+commander's room
+is taken by an
+advance team who
+###--------
+used very impressive
+spy techniques.
+###--------
+It must have been
+very risky to take
+the pictures.
+###--------
+###Script:58
+Ah, Zero!
+###--------
+What's become of
+Elpizo?
+###--------
+###Script:59
+I am really worried
+about Elpizo.
+###--------
+###Script:60
+Good luck, Zero.
+###--------
+###Script:61
+You are new here.
+Welcome to our
+base, son.
+###--------
+My name is Andrew.
+If you have time,
+come to my place.
+###--------
+I'll tell you an
+interesting story.
+###--------
+###Script:62
+What is your name,
+young man?
+###--------
+Zero... You have
+the same name as
+that legendary
+###--------
+Reploid...
+###--------
+Work hard and don't
+disgrace that hero's
+name!
+###--------
+###Script:63
+Oh, Zero...
+###--------
+Are you doing well?
+###--------
+When I was new, I
+used to cause
+everyone problems
+###--------
+because I couldn't
+learn things
+quickly.
+###--------
+But you're working
+very hard without
+complaining about
+###--------
+anything...
+###--------
+Good luck, young
+man.
+###--------
+###Script:64
+Zero...
+###--------
+If you have time,
+I will tell you
+about my younger
+###--------
+days.
+###--------
+<option>Want to listen?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Oh! You want to
+listen!
+###--------
+I was working for
+a bread factory in
+a small village...
+###--------
+There was a clean
+and beautiful creek
+near the factory.
+###--------
+The location was
+the best for making
+bread.
+###--------
+All the bread we
+made sold very well.
+And the bread which
+###--------
+sold the best was...
+Wait, I know I can
+remember this...
+###--------
+Yes, it was buns
+with jam...
+###--------
+No, no, no, buns
+with cream was our
+best seller.
+###--------
+Some people came to
+buy our bread from
+far away places
+###--------
+because they heard
+such good things
+about our bread.
+###--------
+I used to work hard
+and not rest at all
+because I was happy
+###--------
+to see the smiles
+of those who ate
+our bread.
+###--------
+I had very happy
+days as a baker...
+###--------
+But... Who expected
+that incident...
+###--------
+I feel sad to
+remember...
+###--------
+Sorry, I can't tell
+you anymore. I'm
+just so sad now...
+###--------
+<msgSub>Are you busy...?
+How cold recent
+Reploids are...
+###Command:msgSub subindex=1
+###--------
+###Script:65
+Ah, Zero...
+###--------
+Did I tell you
+about my long and
+###--------
+<option>interesting past?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Oh, really...
+###--------
+<option>Do you remember it?
+  YES
+  NO
+###Command:option secondAnswerIndex=2
+###--------
+Is that true?!
+###--------
+I will test you to
+make sure you're
+not lying...
+###--------
+<option>Where did I work?
+  TV STATION
+  BREAD FACTORY
+###Command:option secondAnswerIndex=3
+###--------
+I didn't say that.
+The young people of
+today are not
+###--------
+willing to listen
+to me... How sad...
+###--------
+<msgSub>Oh, I didn't
+tell you yet.
+###Command:msgSub subindex=1
+###--------
+It was a very
+trivial story...
+###--------
+<msgSub>It is a dull story
+of an old man...
+###Command:msgSub subindex=2
+###--------
+No need to
+remember...
+###--------
+<msgSub>Correct! But
+everyone answers
+that one correctly.
+###Command:msgSub subindex=3
+###--------
+So, the next
+question...
+###--------
+Can you name the
+location of the
+###--------
+<option>factory?
+  NEAR A CREEK
+  NEAR A POND
+###Command:option secondAnswerIndex=4
+###--------
+Oh, you are correct!
+Then, how about
+this question?
+###--------
+Can you name the
+bread that sold the
+###--------
+<option>best in our factory?
+  BUN WITH JAM
+  BUN WITH CREAM
+###Command:option secondAnswerIndex=5
+###--------
+That's not
+correct...
+###--------
+I feel sad...
+###--------
+<msgSub>No one wants to
+listen to a story
+of an old man like
+###Command:msgSub subindex=4
+###--------
+me...
+###--------
+<msgSub>That's right!
+###Command:msgSub subindex=5
+###--------
+Then, when did I
+feel happiest?
+###--------
+<option>Can you answer?
+  PEOPLE SMILING
+  BECAME FAMOUS
+###Command:option secondAnswerIndex=6
+###--------
+Yes, that's right.
+###--------
+Young man...
+You must realize
+that some day...
+###--------
+The smiles of
+people will
+represent the
+###--------
+sign of peace.
+###--------
+Thank you for
+listening to my
+long story.
+###--------
+Here is a gift for
+answering my
+questions
+###--------
+correctly. Take this
+Cyber-elf with you.<msgGotoSub>
+###Command:msgGotoSub subindex=9
+###--------
+<msgSub>No... It's not
+important for me to
+be famous.
+###Command:msgSub subindex=6
+###--------
+I thought you were
+listening to me...
+How sad...
+###--------
+###Script:66
+Hey, young man.
+You are beginning
+to look like that
+###--------
+legendary hero.
+###--------
+I feel so...
+###--------
+###Script:67
+There will be many
+difficulties, but
+you will be able
+###--------
+to do it.
+###--------
+Good luck, young
+man.
+###--------
+###Script:68
+Zero! I really
+wanted to see
+you!
+###--------
+I asked you to
+stay with us...
+You lied to me!
+###--------
+But I'll forgive
+you because you
+came back.
+###--------
+###Script:69
+Ciel has looked
+sad since we
+escaped from our
+###--------
+old base. I loved
+our old Resistance
+Base, because I...
+###--------
+I don't like
+Commander Elpizo.
+###--------
+###Script:70
+Oh, Zero!
+###--------
+How are you
+doing in the
+new Resistance
+###--------
+Base?
+###--------
+I was told not to
+go to the other
+room, so I'm
+###--------
+talking with it
+here...
+###--------
+It is getting
+worse, so I
+want Ciel to
+###--------
+fix it...
+###--------
+But Ciel is busy...
+###--------
+Boring!
+###--------
+###Script:71
+Ciel showed me a
+very pretty Baby
+Elf in her room...
+###--------
+I wonder how it
+will look when
+it grows up...?
+###--------
+I named the elf
+Crea!
+###--------
+Ciel said this
+is a good name!
+###--------
+###Script:72
+Zero!
+###--------
+What became of
+Elpizo?
+###--------
+No one tells me
+anything about
+him...
+###--------
+###Script:73
+You know, I found
+a new Baby Elf in
+Ciel's room.
+###--------
+But it has gone
+somewhere with
+Crea...
+###--------
+I wanted to name
+it Prea...
+###--------
+Umm, well... Anyway
+do you think that
+###--------
+<option>they will be back?
+  YES...
+  NO...
+###Command:option secondAnswerIndex=1
+###--------
+Yahoo! I think
+they will be back,
+too!
+###--------
+<msgSub>Why do you say
+that? I hate you!
+###Command:msgSub subindex=1
+###--------
+###Script:74
+I want Ciel to show
+me the Baby Elves
+again!
+###--------
+###Script:75
+My Crea and
+Prea...
+###--------
+Zero, when my Baby
+Elves will be back?
+###--------
+###Script:76
+Zero...
+I feel lonely...
+###--------
+###Script:77
+Zero!! I worried
+about you very
+much!
+###--------
+I must hurry!
+I must hurry!!
+I must hurry!!!
+###--------
+I have been
+working so hard
+these days in
+###--------
+order to please
+Elpizo.
+###--------
+I wish I could do
+operations in that
+control room...
+###--------
+###Script:78
+I must hurry!
+I must hurry!!
+I must hurry!!!
+###--------
+I think I am
+the hardest
+worker in this
+###--------
+base.
+###--------
+Zero, if you meet
+Elpizo, tell him
+that I'm working
+###--------
+hard!
+###--------
+###Script:79
+Zero!
+How about Elpizo?
+###--------
+Elpizo...
+If he resigns from
+commander, I want
+###--------
+to succeed to him.
+###--------
+Being an operator
+is good, but being
+a commander is the
+###--------
+best!
+###--------
+###Script:80
+Zero...
+You work so hard.
+###--------
+I respect you
+because you're
+always trying
+###--------
+your best.
+###--------
+###Script:81
+Hiya! My name is
+Menart!
+###--------
+I'm not liked by
+everyone just
+because I always
+###--------
+blow off my work!
+###--------
+###Script:82
+Don't work so
+hard, because you
+won't defeat Neo
+###--------
+Arcadia!
+###--------
+###Script:83
+Hey, Zero!
+It must be so
+difficult.
+###--------
+Once I met him,
+I immediately
+felt that there
+###--------
+was something
+###--------
+wrong with him.
+Therefore, I don't
+want to work under
+###--------
+him!
+###--------
+###Script:84
+The first
+priority is to
+catch him.
+###--------
+###Script:85
+Are you all
+right, Zero?
+You must never
+###--------
+die...
+###--------
+If you die,
+there are many
+people who will
+###--------
+be very sad!
+###--------
+###Script:86
+You are the one who
+was brought here?
+Oh, you look
+###--------
+completely
+recovered.
+###--------
+I'm Rocinolle...
+I look after
+injured Reploids.
+###--------
+When the injury is
+serious, Cerveau
+will take care of
+###--------
+them.
+###--------
+###Script:87
+What is happening
+Zero?
+###--------
+If you have time,
+please talk with
+old Andrew.
+###--------
+I want to listen
+to his stories,
+but I am needed
+###--------
+here.
+###--------
+If you talk with
+him, maybe you'll
+get something good
+###--------
+out of it...
+###--------
+###Script:88
+Hey, Zero.
+###--------
+I heard about
+Elpizo...
+###--------
+What on earth is
+he thinking? Please
+be careful.
+###--------
+###Script:89
+Zero, didn't you
+see Elpizo?
+###--------
+I don't know why
+such a thing
+happened...
+###--------
+Be careful, Zero.
+###--------
+###Script:90
+You saved my life,
+Zero. Thank you
+very much.
+###--------
+###Script:91
+What has become of
+Master Elpizo?
+Where is he?
+###--------
+###Script:92
+Master Elpizo...
+I hope he is safe...
+###--------
+###Script:93
+Thank you for
+saving me.
+###--------
+I did't think I
+would be able to
+come back like
+###--------
+this.
+###--------
+###Script:94
+I think that
+Master Elpizo is
+thinking something
+###--------
+very important. And
+that is why he is
+acting like this.
+###--------
+I don't think we
+have to worry about
+him.
+###--------
+###Script:95
+Master Elpizo...
+I hope that is
+just a nightmare...
+###--------
+###Script:96
+Zero, thank you
+very much. You are
+the legendary hero!
+###--------
+###Script:97
+Master Elpizo is
+always thinking
+about us.
+###--------
+I hope Neo Arcadia
+will be defeated as
+soon as possible
+###--------
+and peace will come.
+###--------
+###Script:98
+I wonder if we
+resistance soldiers
+have a chance of
+###--------
+winning without
+Master Elpizo...
+###--------
+###Script:99
+I owe you, Zero...
+Thank you very much.
+###--------
+###Script:100
+Even the invincible
+Master Elpizo won't
+be able to destroy
+###--------
+Neo Arcadia by
+himself.
+###--------
+So please help him,
+Zero.
+###--------
+###Script:101
+Is Elpizo safe...?
+I really worry
+about him...
+###--------
+###Script:102
+Without you, I
+wouldn't be here...
+Thank you, Zero.
+###--------
+###Script:103
+Without Elpizo,
+the Resistance
+Base will become
+###--------
+a mess.
+###--------
+I hope he will
+return as soon
+as possible.
+###--------
+###Script:104
+Zero, everything
+depends on your
+power.
+###--------
+###Script:105
+I would have been
+killed by the
+monster like a
+###--------
+snake without
+you. Thank you,
+Zero.
+###--------
+###Script:106
+Master Elpizo is
+interested in the
+little elves.
+###--------
+They must have some
+amazing power.
+###--------
+###Script:107
+Zero, everything
+depends on your
+incredible power.
+###--------
+Good luck.
+###--------
+###Script:108
+Hey, Zero!
+No one would
+believe me, but
+###--------
+I'll tell you
+anyway.
+###--------
+I saw green wind
+blow in the sky
+for a moment, just
+###--------
+when you were being
+carried here.
+###--------
+Ha ha ha... Or
+maybe I was seeing
+an illusion?
+###--------
+###Script:109
+Hey, Zero!
+###--------
+You know what?
+###--------
+Inside the bushes
+in the forest, you
+can find various
+###--------
+things...
+###--------
+You will also find
+a ruin when you
+progress, which
+###--------
+has many secrets.
+###--------
+They are from the
+mystery of the
+Maverick Wars.
+###--------
+###Script:110
+Hey, Zero!
+###--------
+You Know what?
+###--------
+In the center
+part of Neo Arcadia,
+there is a very
+###--------
+huge tree, which I
+have never seen
+anywhere else.
+###--------
+Behind its root, you
+may find something
+important.
+###--------
+However, it's not
+easy for you to
+get there.
+###--------
+Due to the fact
+that the area is
+protected by many
+###--------
+buildings.
+###--------
+Actually, this is
+just a rumor that
+I heard from
+###--------
+someone else. So
+I guess it just
+depends on your
+###--------
+belief in rumors...
+###--------
+###Script:111
+What's up, Zero?
+###--------
+Did you already
+find Elpizo?
+###--------
+I can't understand
+what he wants...
+###--------
+###Script:112
+I know that you
+can destroy Neo
+Arcadia...
+###--------
+I'll always be
+watching you
+from here.
+###--------
+###Script:113
+Ha ha ha...
+You're doing very
+well, new comer.
+###--------
+Now you must defeat
+me to move on.
+###--------
+No, no, I was
+only kidding!
+###--------
+###Script:114
+Do you know Ciel?
+###--------
+I think she
+shouldn't be a
+human being.
+###--------
+The reason why is
+because humans age
+and grow old.
+###--------
+But, there is a
+Reploid who
+purposely asked
+###--------
+to look like an
+old one...
+###--------
+That's funny.
+###--------
+###Script:115
+What? Is there
+anything more you
+want to tell me?
+###--------
+I wanted you to
+tell me everything
+you can.
+###--------
+###Script:116
+New comer, did you
+come here to listen
+to my sarcastic
+###--------
+comment?
+###--------
+By the way,
+what's going on
+with Commander
+###--------
+Elpizo?
+###--------
+Shouldn't you
+catch him as soon
+as possible?
+###--------
+###Script:117
+Hey, why are you
+working so hard?
+###--------
+Do you think you
+can change this
+world by yourself?
+###--------
+If you think so,
+you are the
+happiest man in
+###--------
+the world.
+###--------
+###Script:118
+You are amazing.
+Even someone as
+great as myself
+###--------
+has respect for
+you.
+###--------
+You might hate to
+listen to me, but
+good luck!
+###--------
+###Script:119
+Nice to meet you,
+Zero. My name is
+Perroquiet.
+###--------
+I came here to
+help Ciel locate
+data, but there
+###--------
+are just too many
+here...
+###--------
+However, I think
+the data on Baby
+Elves that Ciel
+###--------
+wants is not
+here...
+###--------
+###Script:120
+It will take a
+month to check
+all the data here.
+###--------
+I understand she
+wants to study and
+test it as soon as
+###--------
+possible, but this
+schedule is too
+difficult to
+###--------
+accomplish.
+###--------
+By the way, I've
+never seen such a
+beautiful elf...
+###--------
+###Script:121
+Are you looking for
+something too, Zero?
+###--------
+Ah, you're looking
+for Elpizo...
+###--------
+But he isn't here!
+###--------
+###Script:122
+Zero...
+###--------
+When you finish
+your job, help me
+tidy up this shelf.
+###--------
+I can't reach the
+higher place...
+###--------
+I had hoped that
+Autruche in the
+storage room would
+###--------
+have to do this
+instead of me...
+###--------
+###Script:123
+Zero...
+I didn't think
+that the Baby Elves
+###--------
+were dangerous
+elves...
+###--------
+Ciel believes that
+she can improve the
+energy shortage,
+###--------
+but...
+###--------
+Anyway, I'm glad
+that Ciel is
+doing well.
+###--------
+###Script:124
+The power of the
+elves will destroy
+even Neo Arcadia...
+###--------
+The arbitrary
+action of a
+commander Reploid
+###--------
+is...
+The change in
+Elpizo is...
+###--------
+It is in many ways
+similar to the
+record of the one
+###--------
+Reploid, who caused
+the Maverick Wars...
+###--------
+Please, please stop
+Elpizo, or it will
+be too late!
+###--------
+###Script:125
+Um?
+You must be Zero.
+###--------
+My name is Doigt.
+###--------
+As Cerveau told me,
+you're so
+well-designed that
+###--------
+I can't believe
+you're an old-type
+Reploid.
+###--------
+I want to see your
+insides, so do you
+mind if I rip you
+###--------
+apart?
+###--------
+Ha ha ha.
+I'm kidding.
+###--------
+No really, I'm
+just kidding.
+###--------
+Don't look at me
+like that.
+###--------
+###Script:126
+By the way, Cerveau
+is so very
+interesting...
+###--------
+Once he gets deep
+into research, he
+does not hear
+###--------
+anything...
+###--------
+It seems there is no 
+way that I will ever
+be a match for him.
+###--------
+###Script:127
+Oh, hello Zero.
+I heard you're
+doing great.
+###--------
+It's all thanks
+to the weapons
+that Cerveau
+###--------
+developed!
+###--------
+...Well, I
+shouldn't say
+that because you
+###--------
+might get mad.
+###--------
+###Script:128
+Cerveau and I are
+making weapons for
+all the resistance
+###--------
+soldiers.
+###--------
+But, it's just too
+much work for the
+two of us...
+###--------
+###Script:129
+I don't mean to
+brag, but...
+###--------
+We're very proud of
+the weapons we made.
+###--------
+So, you'd better
+believe in yourself.
+###--------
+###Script:130
+Hello, Mr. Zero.
+###--------
+My name is Autruche.
+###--------
+I'm ashamed to
+say this...
+###--------
+I'm tall but I'm
+not good at heavy
+work.
+###--------
+In spite of the
+fact, I have to
+carry goods in
+###--------
+storage...
+###--------
+I don't know who
+decided the
+assignment but they
+###--------
+do not have any
+knowledge of
+aptitude.
+###--------
+Oh, I'm sorry...
+I really shouldn't
+complain.
+###--------
+###Script:131
+Keep up the good
+work, Mr. Zero.
+###--------
+I also hang in
+there... somehow...
+###--------
+###Script:132
+Hello, Mr. Zero.
+###--------
+You came to listen
+to my complaints?
+###--------
+Oh, you shouldn't
+do that...
+###--------
+It will just make
+you feel blue...
+###--------
+###Script:133
+Even for me, I
+don't have so
+much complaining.
+###--------
+Well, if I force
+myself...
+###--------
+The amount of
+Energy Crystal
+I get a day is
+###--------
+the same as
+Perroquet.
+###--------
+That doesn't
+make sense.
+###--------
+###Script:134
+Mr. Zero.
+Good luck.
+###--------
+Though I can't
+do anything for
+you...
+###--------
+###Script:135
+Boot complete.
+###--------
+<option>Do you want to know?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Request accepted.
+###--------
+<option>What do you want?
+  MAVERICK WARS
+  CYBER-ELF
+###Command:option secondAnswerIndex=2
+###--------
+The Maverick Wars
+was started by the
+Sigma virus, which
+###--------
+terrified the world.
+###--------
+Eventually the
+Maverick Wars
+turned into everyone
+###--------
+misusing the power
+of the Cyeber-elves.
+###--------
+Thanks to X, the
+evil Cyber-elves
+have been deleted.
+###--------
+No further
+information can
+be found.
+###--------
+<msgSub>Terminating
+program...
+###Command:msgSub subindex=1
+###--------
+<msgSub>The Cyber-elf is a
+program created to
+support humans and
+###Command:msgSub subindex=2
+###--------
+Reploids.
+###--------
+The Cyber-elf has
+its own will and
+can talk.
+###--------
+However, once it
+is used, it dies.
+###--------
+###Script:136
+Boot complete.
+###--------
+<option>Do you want to know?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Request accepted.
+###--------
+<option>What do you want?
+  X
+  FOUR GUARDIANS
+###Command:option secondAnswerIndex=2
+###--------
+X is...
+###--------
+A Reploid who was
+a famous Maverick
+Hunter.
+###--------
+After he ended the
+Maverick Wars, he
+created Neo Arcadia
+###--------
+in hope of
+creating a lasting
+peace.
+###--------
+However, he went
+missing and his
+location is
+###--------
+still unknown...
+###--------
+If Cyber-elf X is
+real...
+###--------
+Then the body of
+the original X
+should still exist
+###--------
+somewhere.
+###--------
+<msgSub>Terminating
+program...
+###Command:msgSub subindex=1
+###--------
+<msgSub>The Four Guardians
+are Harpuia, Fefnir,
+Leviathan and
+###Command:msgSub subindex=2
+###--------
+Phantom.
+###--------
+They are designed
+based upon parts
+of the original X.
+###--------
+Three of the
+Guardians have
+attributes like
+###--------
+Thunder, Flame, or
+Ice.
+###--------
+However, Phantom
+blew himself up in
+a fight against
+###--------
+Zero a year ago.
+###--------
+###Script:137
+Boot complete.
+###--------
+<option>Do you want to know?
+  YES
+  NO
+###Command:option secondAnswerIndex=1
+###--------
+Request accepted.
+###--------
+<option>What do you want?
+  DARK ELF
+  ELPIZO
+###Command:option secondAnswerIndex=2
+###--------
+The Dark Elf is a
+special type of
+Cyber-elf created
+###--------
+to bring the
+Maverick
+Wars to end...
+###--------
+X used it and the
+wars quickly
+ended...
+###--------
+After that, it was
+stolen by someone,
+and then the Dark
+###--------
+Elf brought about
+the Elf Wars.
+###--------
+Dark Elf...
+###--------
+Power Unknown...
+###--------
+Unknown...
+Unknown...
+Unknown...
+###--------
+ERROR: Termination
+commencing...
+###--------
+<msgSub>Terminating
+program...
+###Command:msgSub subindex=1
+###--------
+<msgSub>Elpizo once
+worked for Neo
+Arcadia.
+###Command:msgSub subindex=2
+###--------
+Then he rebelled
+against Neo
+Arcadia and built
+###--------
+up the Resistance
+Base.
+###--------
+Presently, he has
+abandoned the
+Resistance Base
+###--------
+because he has
+become enchanted
+by the power of
+###--------
+the Dark Elf...
+###--------
+His location is
+unknown...
+###--------
+###Script:138
+What?!!
+I conducted
+attacks against
+###--------
+Mr. Zero?
+###--------
+It must be some
+mistake!?
+###--------
+###Script:139
+Stay alert,
+Mr. Zero.
+###--------
+Neo Arcadia is
+full of danger.
+###--------
+###Script:140
+Mr. Zero.
+You saved me?
+###--------
+Thank you very
+much.
+###--------
+###Script:141
+Mr. Zero. Please
+bring back our
+Commander Elpizo.
+###--------
+###Script:142
+For a new Resistance
+Base, don't you
+think this room
+###--------
+is too small?
+###--------
+###Script:143
+Mr. Zero...
+Do you think that
+a peaceful era
+###--------
+will ever really
+come true?
+###--------
+###Script:144
+Is it true that
+I was brainwashed?
+I don't remember
+###--------
+at all.
+###--------
+###Script:145
+Mr. Zero, we'd like
+to come along with
+you to Neo Arcadia.
+###--------
+But it appears to
+be impossible to
+transfer all of
+###--------
+us simultaneously.
+###--------
+###Script:146
+Mr. Zero, you're
+a lifesaver.
+###--------
+###Script:147
+This new Resistance
+Base would have
+easily been
+###--------
+destroyed without
+you here to protect
+us all.
+###--------
+###Script:148
+Even though I was
+brainwashed, I
+can't believe I
+###--------
+turned a gun to
+you, Mr. Zero...
+###--------
+My apologies for
+acting like that.
+###--------
+###Script:149
+Mr. Zero.
+###--------
+The Neo Arcadia
+Temple is full
+of traps.
+###--------
+Please stay on
+guard!
+###--------
+###Script:150
+If you hadn't
+rescued me, I
+might have killed
+###--------
+my comrade. I feel
+so disgusted just
+thinking of it...
+###--------
+###Script:151
+Be careful not to
+get brainwashed,
+Mr. Zero.
+###--------
+###Script:152
+I almost gave up
+returning to the
+base... I still
+###--------
+can't believe that
+I survived.
+###--------
+###Script:153
+Mr. Zero...
+Thank you for your
+efforts and risks.
+###--------
+###Script:154
+I was brainwashed?
+I had no idea...
+###--------
+###Script:155
+I sometimes have
+problems with my
+memory.
+###--------
+Is this an effect
+of the brainwash?
+###--------
+###Script:156
+I remember up until
+I headed for the
+crashed aircraft...
+###--------
+Neo Arcadia is very
+scary...
+###--------
+###Script:157
+Mr. Zero. Leave us
+here to guard the
+Resistance Base.
+###--------
+###Script:158
+Mr. Zero, leave
+this area to me.
+###--------
+I'll take care
+of any enemies
+by myself.
+###--------
+###Script:159
+I just shot down
+an enemy minnow
+Mechaniloid.
+###--------
+###Script:160
+To tell the truth...
+My hand on the
+trigger was
+###--------
+trembling when
+I saw a bombardment
+aircraft.
+###--------
+Though I'm a
+resistance
+soldier...
+###--------
+I'm ashamed to
+admit it...
+###--------
+###Script:161
+I'm proud to be
+able to fight
+with Mr. Zero.
+###--------
+Thank you for
+your cooperation,
+Mr. Zero.
+###--------
+###Script:162
+Oh, Mr. Zero!
+###--------
+I found a lost
+Cyber-elf earlier.
+Can you take this?
+###--------
+I think this
+Cyber-elf would be
+happier with other
+###--------
+the Cyber-elves.
+###--------
+###Script:163
+I heard that
+Miss Ciel is
+commanding
+###--------
+operations. Is she
+all right?
+###--------
+Don't get me
+wrong... I didn't
+mean that I don't
+###--------
+trust Miss Ciel.
+###--------
+###Script:164
+As long as Mr. Zero
+is with us, we
+won't be afraid
+###--------
+of Neo Arcadia.
+###--------
+###Script:165
+Hey, Zero!
+###--------
+You've got Ultimate
+Form! Amazing!
+###--------
+By the way,you
+know what?
+###--------
+I'm afraid that
+even if you use
+all Cyber-elves,
+###--------
+you can't get
+the Rare Elf.
+###--------
+###Script:166
+Oh, Zero...
+###--------
+Listen to me when
+you have time.
+###--------
+###Script:167
+Well, the scenery
+from here is
+outstanding...
+###--------
+I can't help but
+forget about the
+fact that we are
+###--------
+here on a mission.
+###--------

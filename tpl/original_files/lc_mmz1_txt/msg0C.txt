@@ -1,0 +1,100 @@
+###TextArchive:msg0C
+###Script:0
+CIEL:We have a
+###--------
+CIEL:problem, Zero.
+###--------
+CIEL:They are coming at
+###--------
+CIEL:us in large numbers!
+###--------
+###Script:1
+We'll hold the
+final defense
+line at any
+cost!
+###--------
+You should
+destroy their
+main vein!!
+###--------
+###Script:2
+CIEL:Their main troops
+###--------
+CIEL:are approaching!
+###--------
+CIEL:Zero, please take
+###--------
+CIEL:care of them!
+###--------
+###Script:3
+CIEL:Their reinforcement
+###--------
+CIEL:units have arrived!
+###--------
+CIEL:Watch out!!
+###--------
+###Script:4
+エラー
+###--------
+###Script:5
+エラー
+###--------
+###Script:6
+エラー
+###--------
+###Script:7
+エラー
+###--------
+###Script:8
+CIEL:Their transport
+###--------
+CIEL:chopper is
+###--------
+CIEL:rapidly approaching!
+###--------
+CIEL:Stay alert, Zero!
+###--------
+###Script:9
+I heard there's
+a highly-skilled
+Reploid in the
+Resistance...
+###--------
+But I never
+expected you to
+be this good...
+###--------
+You are amazing,
+and that is what
+excites me the
+most!
+###--------
+My name is
+Fefnir,
+###--------
+one of the four
+Guardians of
+master X!
+###--------
+Now don't let me
+down, kid!!
+###--------
+###Script:10
+Puff... Puff...
+###--------
+I have never
+been so
+excited...
+###--------
+I'll let you
+live for a
+little longer.
+###--------
+Make sure that
+you do not lose
+before I fight
+you again!
+###--------
+Farewell!!
+###--------

@@ -1,0 +1,1312 @@
+###TextArchive:msg13
+###Script:0
+Ms. Ciel, please
+cheer up.
+###--------
+Everything's turned
+out alright before,
+hasn't it?!
+###--------
+That's right.
+###--------
+We believe in you,
+Ms. Ciel. And in
+Mr. Zero, too!
+###--------
+Thank you, everyone.
+###--------
+###Script:1
+The simulation will
+take a while longer
+to finish...
+###--------
+I think we're going
+to need your help
+again, Zero...
+###--------
+But you should get a
+little rest, first.
+###--------
+For now...
+###--------
+###Script:2
+I'll save our data.
+  YES
+  NO
+###--------
+###Script:3
+I'll take care of
+managing the data,
+just like always.
+###--------
+If you need any-
+thing, let me know.
+###--------
+One more thing...
+You should go see
+Cerveau.
+###--------
+I hear he's finished
+his Secret Disk
+analyzer.
+###--------
+If you find any
+Secret Disks that
+you can't analyze,
+###--------
+ask Cerveau to have
+a look for you.
+###--------
+###Script:4
+Shouldn't you be
+resting? Don't
+overdo it.
+###--------
+I'll manage the
+data. Tell me if
+you need anything.
+###--------
+One more thing...
+You should go see
+Cerveau.
+###--------
+I hear he's finished
+his Secret Disk
+analyzer.
+###--------
+If you find any
+Secret Disks that
+you can't analyze,
+###--------
+ask Cerveau to have
+a look for you.
+###--------
+###Script:5
+Have you talked to
+Cerveau yet?
+###--------
+I hear he can't wait
+to try out his
+disk analyzer!
+###--------
+###Script:6
+Cerveau's room?
+###--------
+Go through the
+commander's room to
+the right, and it's
+###--------
+the room right in
+front of you.
+###--------
+It's convenient
+that the base is so
+big now, but it sure
+###--------
+is easy to get lost!
+###--------
+###Script:7
+Hey, Zero! You're
+all right!
+###--------
+I heard the news.
+###--------
+Despite the new
+energy, the world is
+still not at peace.
+###--------
+I never thought
+peace would be easy,
+but still...
+###--------
+...
+###--------
+Anyway, I just
+finished a new
+weapon for you.
+###--------
+I also fixed your
+S.Boomerang!
+###--------
+Here, take it!
+###--------
+###Script:8
+Oh, one more thing.
+About Secret Disks.
+###--------
+Secret Disks contain
+things that you
+can't decode, right?
+###--------
+Well, I can analyze
+them for you, so
+stop by anytime.
+###--------
+You can also talk to
+me if you ever want
+to look at the
+###--------
+contents of a disk
+we've already
+analyzed.
+###--------
+###Script:9
+Operator: Mr. Zero...
+###--------
+Please come to the
+###--------
+commander's room,
+###--------
+immediately.
+###--------
+###Script:10
+Hmm? Zero, they're
+asking for you.
+###--------
+###Script:11
+This Recoil Rod
+looks easy to use.
+Thanks.
+###--------
+###Script:12
+The world is too
+much for Ciel to
+bear alone...
+###--------
+Take good care of
+her, Zero...
+###--------
+###Script:13
+Sorry this took so
+long, Zero.
+Are you ready?
+###--------
+We've simulated our
+options based on the
+information at hand.
+###--------
+I've had the results
+prepared in the form
+of missions.
+###--------
+The first two are...
+###--------
+Missions to prevent
+Neo Arcadia getting
+the Dark Elf.
+###--------
+The other two are...
+###--------
+Guerilla attacks
+on Neo Arcadia.
+###--------
+to protect everyone
+from its threat.
+###--------
+...
+###--------
+...
+###--------
+Zero...is fighting
+our only option?
+###--------
+I mean, we've
+developed this new
+energy...
+###--------
+I thought the world
+would finally be at
+peace...
+###--------
+Do we really have to
+keep fighting?
+###--------
+Ciel...
+###--------
+You're already doing
+the best you can.
+###--------
+And you're not
+alone.
+###--------
+Leave the rest to
+us.
+###--------
+Ze...Zero...
+###--------
+Mr. Zero, we're
+ready. You can leave
+at any time.
+###--------
+###Script:14
+Select a mission?
+  YES
+  NO
+###--------
+###Script:15
+Whenever you're
+ready, just let me
+know.
+###--------
+###Script:16
+You have completed
+all the missions.
+###--------
+This next mission
+involves deciding
+what to do with a
+###--------
+missile factory
+that's been newly
+discovered.
+###--------
+We are currently
+also searching for
+the Dark Elf,
+###--------
+while we look into
+solutions for this
+problem.
+###--------
+###Script:17
+We have to do
+something about that
+missile right now.
+###--------
+We had to calculate
+the transfer
+coordinates for the
+###--------
+missile factory
+based on old satel-
+lite photographs...
+###--------
+...so the coordi-
+nates would be too
+dangerous to use as
+###--------
+a direct transfer
+route.
+###--------
+The land route to
+the missile factory
+is also dangerous,
+###--------
+due to the scout
+patrols that are
+searching the area.
+###--------
+We're scanning
+for the Dark Elf,
+but no luck yet.
+###--------
+Understood.
+###--------
+Let me know if
+anything changes.
+###--------
+###Script:18
+All right.
+###--------
+Oh, yeah...
+###--------
+###Script:19
+We'll contact you
+right away if we
+learn anything new.
+###--------
+Please get some rest
+until then.
+###--------
+###Script:20
+Okay...but please
+try not to overdo
+it.
+###--------
+We'll contact you
+soon, so please get
+some rest for now.
+###--------
+###Script:21
+Master X...
+###--------
+Do you still trust
+that man...Weil?
+###--------
+His banishment did
+not follow official
+ch-channels.
+###--------
+Just because what he
+did resulted i-in a
+terrible calamity...
+###--------
+Do-does not mean
+that banishing him
+was justified.
+###--------
+He has returned to
+Neo Arcadia in a
+legal manner.
+###--------
+What reason-n is
+there to drive him
+out?
+###--------
+Don't worr-rr-rry.
+He learned many
+things from his
+###--------
+mistakes of the
+past.
+###--------
+He'll do things
+right th-this time.
+###--------
+###Script:22
+But...
+###--------
+Hehehe...
+Thank you, Master X.
+###--------
+###Script:23
+I, Dr. Weil, shall
+never repeat my
+past mistakes.
+###--------
+Never again. Yes.
+Hehehe...
+###--------
+###Script:24
+Still, to gossip
+about me behind my
+back...
+###--------
+My, how the almighty
+Four Guardians have
+fallen!
+###--------
+What?! Weil!
+###--------
+###Script:25
+Master X.
+###--------
+The Dark Elf has
+appeared in Neo
+Arcadia.
+###--------
+Area Z-3079...
+It's the farthest
+area from here.
+###--------
+A human
+residential
+district.
+###--------
+###Script:26
+We'll go.
+###--------
+Leviathan and
+Fefnir are still
+undergoing
+###--------
+maintenance, but if
+we hurry things
+along a bit...
+###--------
+Harpuia, how long do
+you plan to act like
+you're in charge?
+###--------
+Letting th-the
+Resistance get away
+with countless
+###--------
+uprisings...
+###--------
+Even letting th-the
+Dark Elf escape...
+###--------
+I'm tired of useless
+p-people like you.
+###--------
+The Four Guardians
+are going to be
+stepped down.
+###--------
+But...Master X?!
+###--------
+Dr. Weil...
+###--------
+I'm entrusting you
+with the leadership
+of our ar-armies.
+###--------
+Will you accept?
+###--------
+###Script:27
+Hehehehe...
+Yes sir!
+###--------
+I will capture the
+Dark Elf, without
+fail...
+###--------
+...Before she falls
+into the hands of
+the Resistance and
+###--------
+becomes a threat to
+this world...
+###--------
+###Script:28
+Preparations have
+begun for the launch
+of the missile.
+###--------
+We do not know the
+target area, but we
+are attempting to
+###--------
+hack our way in and
+find out.
+###--------
+A tremendous energy
+is emanating
+from the missile.
+###--------
+It seems that Omega
+is on board.
+###--------
+Omega?!
+###--------
+That Omega, on the
+missile!?
+###--------
+...
+###--------
+###Script:29
+Ciel...
+###--------
+Enter the coordi-
+nates you found.
+###--------
+###Script:30
+That's...dangerous!
+###--------
+###Script:31
+Operator.
+###--------
+Hurry up and prepare
+for transfer.
+###--------
+###Script:32
+Zero, I'm not sure
+about this!
+###--------
+I believe in you.
+###--------
+###Script:33
+...
+###--------
+###Script:34
+Okay...
+...
+Enter...the data...
+###--------
+Please, transfer
+him!
+###--------
+Understood.
+Commencing transfer
+preparations.
+###--------
+###Script:35
+Zero...
+###--------
+###Script:36
+Zero...
+###--------
+I'm so happy that
+you're safe...
+###--------
+Please...never do
+anything as crazy as
+that again....
+###--------
+...
+I'll think about it.
+###--------
+By the way...
+How is Harpuia?
+###--------
+###Script:37
+Cerveau took him to
+the maintenance
+room.
+###--------
+He wasn't hurt very
+badly, but...
+###--------
+He'll have to rest
+and recuperate for
+a while.
+###--------
+...
+###--------
+Things really have
+gotten horrible...
+###--------
+The operators will
+collect as much
+info as possible.
+###--------
+Analyzing all of the
+information will
+take a while.
+###--------
+Try to get some rest
+until then.
+###--------
+I'm all right.
+###--------
+###Script:38
+Then, at least...
+###--------
+###Script:39
+I still don't under-
+stand how Neo
+Arcadia could fire a
+###--------
+missile into an
+area where humans
+live...
+###--------
+...even to obtain
+the Dark Elf...
+###--------
+###Script:40
+Okay...
+###--------
+I still don't under-
+stand how Neo
+Arcadia could fire a
+###--------
+missile into an
+area where humans
+live...
+###--------
+...even to obtain
+the Dark Elf.
+###--------
+###Script:41
+Someone has broken
+into our trans-
+mission circuit!
+###--------
+It's Neo Arcadia!
+###--------
+###Script:42
+Put them through!
+###--------
+###Script:43
+Can you h-h-hear me?
+Members of the
+Resistance.
+###--------
+And...Dr. C-Ciel.
+###--------
+Copy X!
+###--------
+We have custody of
+the D-Dark Elf.
+###--------
+Let us put a-a
+stop to this foolish
+conflict.
+###--------
+We ask that you
+surrender t-to us.
+###--------
+###Script:44
+Surrender?
+###--------
+Hand over the new
+energy you invented,
+the Ciel System.
+###--------
+If you do this, I
+guarantee the safety
+of you Mavericks.
+###--------
+He's got to be...
+###--------
+As a result of our
+analysis of the
+Ciel System
+###--------
+information you so
+kindly sent us...
+###--------
+We have determined
+that by combining it
+with the Dark Elf,
+###--------
+it may be possible
+to generate enormous
+amounts of energy.
+###--------
+This would solve the
+energy crisis in
+one fell swoop.
+###--------
+There would no
+longer be a reason
+for us to fight.
+###--------
+Ciel...
+###--------
+A single answer from
+you will bring peace
+t-to the world.
+###--------
+###Script:45
+...
+###--------
+I can't...
+###--------
+trust...you.
+###--------
+What's th-that?
+###--------
+###Script:46
+You were prepared to
+sacrifice humans to
+obtain the Dark Elf!
+###--------
+I cannot trust you
+after seeing that.
+###--------
+You cannot have the
+Ciel System.
+###--------
+It was built so that
+humans and Reploids
+could live in peace!
+###--------
+###Script:47
+Is that...y-your
+answer?
+###--------
+Fine.
+###--------
+You have a-a
+monopoly on energy
+resources...
+###--------
+And Zero, a Reploid
+with terrifying
+f-fighting skills...
+###--------
+Y-you are nothing
+more than filthy
+extremists!
+###--------
+Ciel...
+I was holding-ng
+back until now,
+###--------
+because you were
+there, a human...
+###--------
+Now, you can face
+the consequences,
+along with your
+###--------
+Maverick friends!
+###--------
+###Script:48
+The transmission was
+cut off.
+###--------
+###Script:49
+The Neo Arcadian
+military has begun
+advancing on our
+###--------
+base from multiple
+areas.
+###--------
+They've launched a
+total offensive.
+###--------
+###Script:50
+Zero...I...
+###--------
+You believed in
+yourself, and fought
+accordingly.
+###--------
+What comes next...
+is my job.
+###--------
+Tell me which areas
+they are in.
+I will intercept.
+###--------
+Zero...
+###--------
+Displaying the Neo
+Arcadian movements
+on the monitor...
+###--------
+###Script:51
+Maintenance room in use...
+###--------
+###Script:52
+So this is what it
+has come to...
+###--------
+Dr. Weil as the
+ruler of Neo
+Arcadia...
+###--------
+Those humans haven't
+been told a thing...
+###--------
+No, that's not it.
+They haven't tried
+to learn a thing...
+###--------
+###Script:53
+Lives with plenty
+of food and
+comfort...
+###--------
+People have stopped
+bothering to think
+with their heads...
+###--------
+There may still be
+some people who want
+to do something.
+###--------
+If we could somehow
+let those kinds of
+people know what
+###--------
+Dr. Weil is really
+thinking...
+###--------
+We might be able to
+change Neo Arcadia.
+###--------
+Who is this
+Dr. Weil, anyway?
+###--------
+What has he been
+doing since he
+reappeared?
+###--------
+If you can gather
+some information...
+###--------
+We might be able to
+analyze it to
+determine where he
+###--------
+is presently, and
+what he's been doing
+until now.
+###--------
+Okay.
+###--------
+Where do I need to
+go? Just tell me...
+###--------
+###Script:54
+Yes, but first...
+###--------
+###Script:55
+We've isolated some
+locations for you to
+gather information.
+###--------
+###Script:56
+And...there.
+###--------
+We've just finished
+inputting the data
+recovered so far.
+###--------
+Now, to begin the
+analysis.
+###--------
+###Script:57
+Thanks to Zero,
+we've collected
+much information.
+###--------
+It will take time to
+analyze the data, so
+for now...
+###--------
+###Script:58
+Oh yes, that reminds
+me.
+###--------
+Cerveau told me that
+Harpuia's condition
+has improved a lot.
+###--------
+Why don't you go
+pay your respects?
+###--------
+###Script:59
+Okay...
+But please, don't
+overdo it.
+###--------
+Oh yes, that reminds
+me.
+###--------
+Cerveau told me that
+Harpuia's condition
+has improved a lot.
+###--------
+Why don't you go
+pay your respects?
+###--------
+###Script:60
+Can you stand up
+already?
+###--------
+Wow, Harpuia, you're
+hard to keep down...
+###--------
+###Script:61
+What are you up to?
+Why did you rescue
+me?
+###--------
+Do you expect some
+favor in return?
+###--------
+Perhaps.
+###--------
+###Script:62
+Oh, you're awake.
+###--------
+How do you feel?
+###--------
+Horrible.
+###--------
+Just the thought of
+being helped by you
+makes me nauseous.
+###--------
+Stripped of my
+position, and driven
+out of Neo Arcadia.
+###--------
+I'm used goods...
+###--------
+That's not true.
+###--------
+You just stood up
+for your beliefs,
+just like we do.
+###--------
+You've made no
+mistakes.
+###--------
+My beliefs...
+###--------
+I can't sit back
+any longer...
+###--------
+We must protect the
+humans from Weil.
+###--------
+We have to stop him
+immediately. That...
+that...Weil!!!
+###--------
+###Script:63
+Wait!
+###--------
+Your wounds are not
+fully healed yet!
+###--------
+I am a warrior, born
+to protect humans.
+###--------
+I am a proud warrior
+of Neo Arcadia! I
+don't need any help!
+###--------
+Even if my body
+should fall into
+ruin...
+###--------
+I will still gladly
+fight for humanity!
+###--------
+###Script:64
+So...
+###--------
+Harpuia refuses
+to go with us.
+###--------
+...
+###--------
+###Script:65
+Operator: Mr. Zero...
+###--------
+Come to the commander's
+###--------
+room immediately.
+###--------
+###Script:66
+They sure run you
+ragged, don't they,
+Zero.
+###--------
+I'll be back later.
+###--------
+###Script:67
+Zero...
+###--------
+Harpuia...
+###--------
+Don't you dare
+die...
+###--------
+###Script:68
+We are analyzing the
+data. Please wait a
+little longer.
+###--------
+###Script:69
+Information analysis
+is complete.
+###--------
+Ms. Ciel will report
+on what we've found.
+###--------
+###Script:70
+Zero... I'm sorry.
+###--------
+You gathered a lot
+of information for
+us, but...
+###--------
+We still do not know
+where Weil is.
+###--------
+But we have figured
+out what he might
+be attempting to do.
+###--------
+Before we talk about
+Weil...
+###--------
+I'll open the data
+file for the Elf
+Wars that you found.
+###--------
+###Script:71
+File #945388
+== Elf Wars ==
+###--------
+###Script:72
+Near the end of the
+Maverick Wars, many
+Cyber-elves were used...
+###--------
+The period from this time
+until the end of the
+fighting was referred to as
+###--------
+the Elf Wars, as a result.
+###--------
+In particular, the use of
+the gigantic elf known as
+the "Dark Elf,"
+###--------
+and copies of this
+elf, known as "Baby
+Elves,"
+###--------
+to amplify the power
+of Reploids...
+###--------
+while controlling
+said Reploids at
+will...
+###--------
+made this the worst
+war in recorded
+history...
+###--------
+While use of the Dark
+Elf brought the war to
+an end in four years...
+###--------
+Approximately 90% of
+all Reploids,
+###--------
+and 60% of all humans,
+were wiped out.
+###--------
+###Script:73
+The technology used
+at this time...
+###--------
+...the technology of
+using Baby Elves to
+control Reploids.
+###--------
+This must be what
+Weil is attempting
+to use again.
+###--------
+I'm sure that what
+Zero saw at the Dark
+Elf copy factory,
+###--------
+was machinery
+prepared for just
+this purpose.
+###--------
+###Script:74
+...
+###--------
+Hehehehe...
+###--------
+Excellent detective
+work, Dr. Ciel.
+###--------
+###Script:75
+What?
+###--------
+Unfortunately...
+###--------
+...you were a little
+too late.
+###--------
+###Script:76
+Is that Dr. Weil?!
+###--------
+###Script:77
+Hehehe...
+###--------
+This time, Omega is
+absolutely perfect.
+###--------
+I can now manipulate
+all the Reploids on
+the planet,
+###--------
+without using the
+Baby Elves,
+###--------
+and make them do
+whatever I want!
+###--------
+Hehehehe...
+Time to start,
+Omega.
+###--------
+###Script:78
+Now you will see,
+pitiful humans,
+###--------
+what you get for
+banishing Dr. Weil!
+###--------
+###Script:79
+Taste the fear...
+###--------
+Foolish Reploids,
+who banished me!
+###--------
+###Script:80
+Inscribe my name,
+upon this world...
+###--------
+The name of your
+new ruler!
+###--------
+###Script:81
+That name is
+Dr. Weil.
+###--------
+The entire world is
+in my hands...
+###--------
+I have the power to
+crush it between my
+fingers at any time!
+###--------
+###Script:82
+Heheheheheee...
+###--------
+Bwahahahahah!
+###--------
+###Script:83
+No!
+###--------
+###Script:84
+Rrr...grrph...
+###--------
+###Script:85
+This can't be
+happening!
+###--------
+###Script:86
+A new world...
+A new order...
+###--------
+History is once
+again in motion...
+###--------
+###Script:87
+Ciel! Back!
+###--------
+###Script:88
+Zero?!
+###--------
+Inscribe it upon the
+world... The name of
+our ruler...
+###--------
+Weil! Weil! Weil!
+Weil! Weil! Weil!
+Weil! Weil! Weil!
+###--------
+###Script:89
+Both of you, freeze!
+###--------
+###Script:90
+Argh!
+###--------
+It's okay. They're
+just unconscious.
+###--------
+All I did was
+disable the power of
+the Dark Elf.
+###--------
+But my current power
+can only protect
+those at this base.
+###--------
+###Script:91
+Took you long
+enough, X.
+###--------
+Where's Weil?
+###--------
+In Neo Arcadia's
+underground power
+system...
+###--------
+"Sub Arcadia"!
+###--------
+Omega is there too,
+transmitting the
+power of the Dark
+###--------
+Elf around the
+world.
+###--------
+Apparently...
+###--------
+X and I are the only
+ones who can move
+around freely.
+###--------
+X.
+###--------
+Tell us the
+coordinates for
+Sub Arcadia.
+###--------
+So you plan on
+fighting against
+Omega?
+###--------
+Yes...
+###--------
+Why?
+###--------
+Nothing,I'm sure
+you'll be fine...
+###--------
+Be careful, Zero.
+###--------
+###Script:92
+I...
+###--------
+I've verified the
+coordinates for
+Sub Arcadia on the
+###--------
+transfer device.
+###--------
+Transfer me.
+###--------
+###Script:93
+Roger. All
+personnel, prepare
+for transfer.
+###--------
+###Script:94
+Preparations for
+transfer complete.
+###--------
+###Script:95
+Transfer!
+###--------
+###Script:96
+Coordinate data
+obtained from
+Original X...
+###--------
+...has been
+input completely.
+###--------
+###Script:97
+The coordinates
+lead to an abandoned
+research lab.
+###--------
+According to our
+records, this is
+where Weil used to
+###--------
+carry out his
+research.
+###--------
+It's right next to
+the place where you
+were sleeping, Zero.
+###--------
+Weil and Omega are
+there, aren't they?
+###--------
+###Script:98
+Zero...
+###--------
+Be careful...
+###--------
+I will.
+###--------
+Operator...
+Is everything ready?
+###--------
+###Script:99
+You can go at any
+time, Mr. Zero.
+###--------

@@ -1,0 +1,1586 @@
+###TextArchive:misc_text
+###Script:0
+[ArrowRight]
+###--------
+###Script:1
+NO DATA
+###--------
+###Script:2
+CANCEL
+###--------
+###Script:3
+<textColorRed>H
+###Command:textColorRed
+###--------
+###Script:4
+<textColorRed>U
+###Command:textColorRed
+###--------
+###Script:5
+/
+###--------
+###Script:6
+:
+###--------
+###Script:7
+'
+###--------
+###Script:8
+(Puff Puff Puff)
+     Arggghhhh!
+###--------
+###Script:9
+(Puff Puff Puff)...
+###--------
+###Script:10
+<textColorRed>エラー<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:11
+Rescue Ciel
+###--------
+###Script:12
+Retrieve Data
+###--------
+###Script:13
+Rescue Reploid
+###--------
+###Script:14
+Stop Mechaniloid
+###--------
+###Script:15
+Destroy Train
+###--------
+###Script:16
+Rescue Colbor
+###--------
+###Script:17
+Occupy Factory
+###--------
+###Script:18
+Protect Factory
+###--------
+###Script:19
+Find Shuttle
+###--------
+###Script:20
+Duel in Desert 
+###--------
+###Script:21
+Find Hidden Base
+###--------
+###Script:22
+Stop the Hacking
+###--------
+###Script:23
+Protect the Base
+###--------
+###Script:24
+Enemy Base
+###--------
+###Script:25
+Neo Arcadia
+###--------
+###Script:26
+Neo Arcadia Core
+###--------
+###Script:27
+<printCodeName>
+###Command:printCodeName
+###--------
+###Script:30
+0
+###--------
+###Script:31
+1
+###--------
+###Script:32
+2
+###--------
+###Script:33
+3
+###--------
+###Script:34
+4
+###--------
+###Script:35
+5
+###--------
+###Script:36
+6
+###--------
+###Script:37
+7
+###--------
+###Script:38
+8
+###--------
+###Script:39
+9
+###--------
+###Script:40
+Lv.F
+###--------
+###Script:41
+Lv.E
+###--------
+###Script:42
+Lv.D
+###--------
+###Script:43
+Lv.C
+###--------
+###Script:44
+Lv.B
+###--------
+###Script:45
+Lv.A
+###--------
+###Script:46
+Lv.S
+###--------
+###Script:47
+Underground Laboratory
+###--------
+###Script:48
+Disposal Center
+###--------
+###Script:49
+Subway
+###--------
+###Script:50
+Desert
+###--------
+###Script:51
+Neo Arcadia Shrine
+###--------
+###Script:52
+Neo Arcadia Tower
+###--------
+###Script:53
+Neo Arcadia Core
+###--------
+###Script:54
+Resistance Base
+###--------
+###Script:55
+<textColorRed>Underground<textColorWhite> <textColorRed>Laboratory<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:56
+<textColorRed>Disposal<textColorWhite> <textColorRed>Center<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:57
+<textColorRed>Subway<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:58
+<textColorRed>Desert<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:59
+<textColorRed>Neo<textColorWhite> <textColorRed>Arcadia<textColorWhite> <textColorRed>Shrine<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:60
+<textColorRed>Neo<textColorWhite> <textColorRed>Arcadia<textColorWhite> <textColorRed>Tower<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:61
+<textColorRed>Neo<textColorWhite> <textColorRed>Arcadia<textColorWhite> <textColorRed>Core<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:62
+<textColorRed>Resistance<textColorWhite> <textColorRed>Base<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:63
+CONTINUE?
+###--------
+###Script:64
+RETRY 
+###--------
+###Script:65
+GIVE UP
+###--------
+###Script:66
+RESTART SAVED GAME
+###--------
+###Script:67
+QUIT THE GAME
+###--------
+###Script:68
+<textColorRed>RETRY<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:69
+<textColorRed>GIVE<textColorWhite> <textColorRed>UP<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:70
+<textColorRed>RESTART<textColorWhite> <textColorRed>SAVED<textColorWhite> <textColorRed>GAME<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:71
+<textColorRed>HUNTER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:72
+<textColorRed>WARRIOR<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:73
+<textColorRed>HERO<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:74
+<textColorRed>SUPERHERO<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:75
+<textColorRed>SAVIOR<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:76
+<textColorRed>IMMORTAL<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:77
+<textColorRed>SPEEDSTER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:78
+<textColorRed>DESTROYER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:79
+<textColorRed>SLAYER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:80
+<textColorRed>SNIPER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:81
+<textColorRed>ジャンキー<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:82
+<textColorRed>SLOWPOKE<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:83
+<textColorRed>PACIFIST<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:84
+<textColorRed>BUGGY<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:85
+<textColorRed>LAZY<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:86
+<textColorRed>SCRAPPER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:87
+<textColorRed>CRASHER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:88
+<textColorRed>COLLECTOR<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:89
+<textColorRed>FEARFUL<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:90
+<textColorRed>MASTER<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:100
+Winkie
+###--------
+###Script:101
+Nuppie
+###--------
+###Script:102
+Mippie
+###--------
+###Script:103
+Reppie
+###--------
+###Script:104
+Lippie
+###--------
+###Script:105
+Hapitan
+###--------
+###Script:106
+Nutan
+###--------
+###Script:107
+Lubtan
+###--------
+###Script:108
+Nebitan
+###--------
+###Script:109
+Areff
+###--------
+###Script:110
+Bireff
+###--------
+###Script:111
+Sireff
+###--------
+###Script:112
+Dereff
+###--------
+###Script:113
+Ereff
+###--------
+###Script:114
+Fureff
+###--------
+###Script:115
+Greff
+###--------
+###Script:116
+Hareff
+###--------
+###Script:117
+Ireff
+###--------
+###Script:118
+Gireff
+###--------
+###Script:119
+Morick
+###--------
+###Script:120
+Keick
+###--------
+###Script:121
+Coswick
+###--------
+###Script:122
+Somack
+###--------
+###Script:123
+Motolar
+###--------
+###Script:124
+Tielar
+###--------
+###Script:125
+Muelar
+###--------
+###Script:126
+Rohealar
+###--------
+###Script:127
+Shelter
+###--------
+###Script:128
+Turbo
+###--------
+###Script:129
+Ribbid
+###--------
+###Script:130
+Gibber
+###--------
+###Script:131
+Buffer
+###--------
+###Script:132
+Birsky
+###--------
+###Script:133
+Birtack
+###--------
+###Script:134
+Birdian
+###--------
+###Script:135
+Birtross
+###--------
+###Script:136
+Birfly
+###--------
+###Script:137
+Birrair
+###--------
+###Script:138
+Beesus
+###--------
+###Script:139
+Beedle
+###--------
+###Script:140
+Beenet
+###--------
+###Script:141
+Beehoney
+###--------
+###Script:142
+Beefive
+###--------
+###Script:143
+Beevoize
+###--------
+###Script:144
+Sticker
+###--------
+###Script:145
+Stickon
+###--------
+###Script:146
+Stickle
+###--------
+###Script:147
+Sticken
+###--------
+###Script:148
+Bomga
+###--------
+###Script:149
+Bomgu
+###--------
+###Script:150
+Bompa
+###--------
+###Script:151
+Bompu
+###--------
+###Script:152
+Totten
+###--------
+###Script:153
+Eenite
+###--------
+###Script:154
+Kenite
+###--------
+###Script:155
+Hafmargo
+###--------
+###Script:156
+Hafmarda
+###--------
+###Script:157
+Stoccue
+###--------
+###Script:158
+Stocchu
+###--------
+###Script:159
+Stoctto
+###--------
+###Script:160
+Stocpie
+###--------
+###Script:161
+Stocpoh
+###--------
+###Script:162
+Clocka
+###--------
+###Script:163
+Clocta
+###--------
+###Script:164
+Cloctch
+###--------
+###Script:165
+Clocpah
+###--------
+###Script:166
+Clocpooh
+###--------
+###Script:167
+Itecle
+###--------
+###Script:168
+Itemon
+###--------
+###Script:169
+Itettle
+###--------
+###Script:170
+Itepon
+###--------
+###Script:171
+Iteron
+###--------
+###Script:172
+M-orell
+###--------
+###Script:173
+M-oria
+###--------
+###Script:174
+M-orque
+###--------
+###Script:175
+M-orekka
+###--------
+###Script:176
+M-orolli
+###--------
+###Script:177
+Jackson
+###--------
+###Script:178
+Nurse
+###--------
+###Script:179
+Animal
+###--------
+###Script:180
+Hacker
+###--------
+###Script:181
+Rare
+###--------
+###Script:200
+I double
+your
+vitality.
+###--------
+###Script:201
+I increase
+vitality
+slightly.
+###--------
+###Script:202
+You want
+increased
+vitality?
+###--------
+###Script:203
+I'll boost
+your
+vitality.
+###--------
+###Script:204
+Sacrifice
+me for
+vitality.
+###--------
+###Script:205
+I turn
+into a
+Sub Tank.
+###--------
+###Script:206
+I can be
+your
+Sub Tank.
+###--------
+###Script:207
+I'll be a
+Sub Tank,
+if needed.
+###--------
+###Script:208
+Sacrifice
+me for a
+Sub Tank.
+###--------
+###Script:209
+I can sort
+of restore
+vitality.
+###--------
+###Script:210
+Use my
+energy for
+vitality.
+###--------
+###Script:211
+I can give
+a little
+vitality.
+###--------
+###Script:212
+I can
+help your
+wound.
+###--------
+###Script:213
+I can heal
+you
+slightly.
+###--------
+###Script:214
+You want
+me to help
+cure you?
+###--------
+###Script:215
+Sacrifice
+me to cure
+yourself.
+###--------
+###Script:216
+Health for
+you,death
+for me.
+###--------
+###Script:217
+My power
+will help
+heal you!
+###--------
+###Script:218
+I can give
+you some
+vitality.
+###--------
+###Script:219
+I can cure
+you fully!
+###--------
+###Script:220
+You want
+me to cure
+you fully?
+###--------
+###Script:221
+My power
+will save
+you.
+###--------
+###Script:222
+It's my
+duty to
+heal you.
+###--------
+###Script:223
+I take the
+hits, and
+you heal.
+###--------
+###Script:224
+I change
+bullets to
+vitality.
+###--------
+###Script:225
+I'll
+shield and
+heal you.
+###--------
+###Script:226
+The hits I
+take will
+heal you.
+###--------
+###Script:227
+I'll boost
+your
+defense.
+###--------
+###Script:228
+I'll teach
+you how to
+run fast.
+###--------
+###Script:229
+I'll help
+you defy
+gravity!
+###--------
+###Script:230
+Climbing
+is my
+specialty!
+###--------
+###Script:231
+You'll
+never fall
+with me!
+###--------
+###Script:232
+I'll save
+you from a
+pit.
+###--------
+###Script:233
+I must
+save those
+who fall!
+###--------
+###Script:234
+I'll save
+you from a
+pit fall!
+###--------
+###Script:235
+I'll help
+you out of
+a hole.
+###--------
+###Script:236
+I'll get
+you out of
+any pit!
+###--------
+###Script:237
+I'll help
+you out of
+any hole.
+###--------
+###Script:238
+I'll give
+you cover
+fire.
+###--------
+###Script:239
+I'll help
+you fight
+enemies.
+###--------
+###Script:240
+My weapon
+will give
+you cover.
+###--------
+###Script:241
+I'll shoot
+at your
+attackers.
+###--------
+###Script:242
+I'll
+provide
+backup.
+###--------
+###Script:243
+My bullets
+provide
+backup.
+###--------
+###Script:244
+I stun
+certain
+enemies.
+###--------
+###Script:245
+I can stun
+certain
+enemies.
+###--------
+###Script:246
+Your enemy
+can't
+shake me!
+###--------
+###Script:247
+Use me to
+stun your
+enemies.
+###--------
+###Script:248
+I explode
+on your
+enemies!
+###--------
+###Script:249
+I can use
+bullets to
+explode!
+###--------
+###Script:250
+I'll eat
+bullets
+and burst!
+###--------
+###Script:251
+Bullets
+make me
+explode!
+###--------
+###Script:252
+I help in
+the damage
+zone.
+###--------
+###Script:253
+I'll erase
+the small
+enemies!
+###--------
+###Script:254
+I can rub
+out small
+enemies!
+###--------
+###Script:255
+I reduce a
+boss's
+energy!
+###--------
+###Script:256
+I can cut
+a boss's
+energy!
+###--------
+###Script:257
+I'm able
+to stun
+enemies.
+###--------
+###Script:258
+I can stun
+certain
+enemies.
+###--------
+###Script:259
+I'll stun
+enemies
+for you.
+###--------
+###Script:260
+Enemies
+will get
+stunned!
+###--------
+###Script:261
+My power
+can stun
+enemies.
+###--------
+###Script:262
+I can slow
+time.
+###--------
+###Script:263
+To slow
+time, just
+ask me!
+###--------
+###Script:264
+I'll give
+you more
+time.
+###--------
+###Script:265
+Use my
+power for
+more time.
+###--------
+###Script:266
+Count on
+me to get
+more time.
+###--------
+###Script:267
+Enemies
+will drop
+an item.
+###--------
+###Script:268
+Small foe
+will drop
+an item.
+###--------
+###Script:269
+Use my
+power to
+get items.
+###--------
+###Script:270
+I'll make
+foe drop
+items!
+###--------
+###Script:271
+Please use
+me to get
+items!
+###--------
+###Script:272
+I'll turn
+foe into
+Mettalls.
+###--------
+###Script:273
+I'll make
+foe into
+Mettalls.
+###--------
+###Script:274
+I can turn
+foe into
+Mettalls.
+###--------
+###Script:275
+Enemies'll
+turn into
+Mettalls!
+###--------
+###Script:276
+I turn foe
+into
+Mettalls.
+###--------
+###Script:277
+Hold Jump
+Button for
+supremacy!
+###--------
+###Script:278
+You can't
+have this
+one yet.
+###--------
+###Script:279
+This one
+rests in
+peace now.
+###--------
+###Script:280
+They nurse
+you back
+to health.
+###--------
+###Script:281
+They boost
+your
+ability.
+###--------
+###Script:282
+They
+change
+data.
+###--------
+###Script:283
+A very
+unique
+Cyber-elf.
+###--------
+###Script:284
+This one
+is resting
+in peace.
+###--------
+###Script:300
+Your main weapon.
+###--------
+###Script:301
+Your sub weapon.
+###--------
+###Script:302
+Z Buster <textColorRed>★<textColorWhite>☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:303
+Z Buster <textColorRed>★★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:304
+Z Buster <textColorRed>★★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:305
+Z Buster <textColorRed>★★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:306
+Z Saber <textColorRed>★<textColorWhite>☆☆☆☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:307
+Z Saber <textColorRed>★★<textColorWhite>☆☆☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:308
+Z Saber <textColorRed>★★★<textColorWhite>☆☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:309
+Z Saber <textColorRed>★★★★<textColorWhite>☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:310
+Z Saber <textColorRed>★★★★★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:311
+Z Saber <textColorRed>★★★★★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:312
+Z Saber <textColorRed>★★★★★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:313
+Triple Rod <textColorRed>★<textColorWhite>☆☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:314
+Triple Rod <textColorRed>★★<textColorWhite>☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:315
+Triple Rod <textColorRed>★★★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:316
+Triple Rod <textColorRed>★★★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:317
+Triple Rod <textColorRed>★★★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:318
+Shield Boomerang <textColorRed>★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:319
+Shield Boomerang <textColorRed>★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:320
+Shield Boomerang <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:321
+Your chosen Element.
+###--------
+###Script:322
+It acts like electricity.
+###--------
+###Script:323
+It acts like a flame.
+###--------
+###Script:324
+It acts like ice.
+###--------
+###Script:325
+Your chosen Cyber-elf.
+###--------
+###Script:326
+It doubles your energy.
+###--------
+###Script:327
+Improves your MAX energy.
+###--------
+###Script:328
+It becomes a Sub Tank.
+###--------
+###Script:329
+It recovers some energy.
+###--------
+###Script:330
+It restores your energy.
+###--------
+###Script:331
+Turn bullets into energy!
+###--------
+###Script:332
+It boosts your defense.
+###--------
+###Script:333
+It increases your speed.
+###--------
+###Script:334
+Reduce your sliding speed.
+###--------
+###Script:335
+It quickens your climbing.
+###--------
+###Script:336
+It lets you stand firm.
+###--------
+###Script:337
+Rescues you from a hole.
+###--------
+###Script:338
+Shoots bullets for cover.
+###--------
+###Script:339
+It sticks to some enemies.
+###--------
+###Script:340
+It eats bullets to burst.
+###--------
+###Script:341
+Shield you in damage zone.
+###--------
+###Script:342
+It wipes out some enemies.
+###--------
+###Script:343
+Cut boss's energy by 50%.
+###--------
+###Script:344
+Temporarily stun some foe.
+###--------
+###Script:345
+This one slows time.
+###--------
+###Script:346
+Beaten foe'll drop items.
+###--------
+###Script:347
+Turns foe into Mettall.
+###--------
+###Script:348
+Temporary invincibility.
+###--------
+###Script:349
+Abort and escape mission.
+###--------
+###Script:350
+Press A button to Escape.
+###--------
+###Script:351
+You can't escape now.
+###--------
+###Script:352
+Store extra life energy.
+###--------
+###Script:353
+Remove the chosen Element.
+###--------
+###Script:354
+Only 3 allowed at a time.
+###--------
+###Script:355
+Only works in a mission.
+###--------
+###Script:360
+Thank you!
+###--------
+###Script:361
+Yahoo!
+Just what
+I wanted!
+###--------
+###Script:362
+Thank you,
+Zero.
+###--------
+###Script:363
+Thank you,
+Zero!
+###--------
+###Script:364
+Thanks for
+feeding
+me,Zero.
+###--------
+###Script:365
+I've grown
+thanks to
+you,Zero.
+###--------
+###Script:366
+Yummy!
+Yummy!
+###--------
+###Script:367
+Thank you!
+###--------
+###Script:368
+I need
+more to
+grow up...
+###--------
+###Script:369
+Zero, give
+me more,
+please...!
+###--------
+###Script:370
+Just a
+little
+more.
+###--------
+###Script:371
+I feel
+wonderful,
+thanks.
+###--------
+###Script:372
+I need
+Energy
+Crystals!
+###--------
+###Script:373
+Please
+feed me...
+###--------
+###Script:380
+Press the A button.
+###--------
+###Script:381
+Choose an Elf.
+###--------
+###Script:382
+Press A button to remove.
+###--------
+###Script:383
+You've already used it.
+###--------
+###Script:384
+The Elf has not grown up.
+###--------
+###Script:385
+Already been downloaded.
+###--------
+###Script:386
+Choose and press A button.
+###--------
+###Script:387
+Cr.:
+###--------
+###Script:388
+To Give / Required
+###--------
+###Script:389
+It's already fully-grown.
+###--------
+###Script:390
+You've used it already.
+###--------
+###Script:391
+It doesn't need raising.
+###--------
+###Script:392
+Choose a Cyber-Elf.
+###--------
+###Script:395
+Will you save the
+game data?
+  YES
+  NO
+###--------
+###Script:396
+To which file?
+###--------
+###Script:397
+Data has been
+saved.
+###--------
+###Script:398
+OK to overwrite?
+  YES
+  NO
+###--------
+###Script:399
+Data has been
+overwitten.
+###--------
+###Script:400
+          STAFF
+###--------
+###Script:404
+   DIRECTOR
+###--------
+###Script:405
+      RYOTA ITO
+###--------
+###Script:406
+      YOSHINORI KAWANO
+###--------
+###Script:408
+   GAME DESIGNER
+###--------
+###Script:409
+      MASAHIRO MIZUKOSHI
+###--------
+###Script:411
+   CHARACTER DESIGNER
+###--------
+###Script:412
+      TORU NAKAYAMA
+###--------
+###Script:414
+   CHARACTER STAFF
+###--------
+###Script:415
+      MASAYA SUZUKI
+###--------
+###Script:416
+      HIROKATSU MAEDA
+###--------
+###Script:418
+      YUUKI TSUNEMI
+###--------
+###Script:419
+      KEIICHI NABETANI
+###--------
+###Script:420
+      HIRONORI SHIRAKURA
+###--------
+###Script:422
+      STUDIO A-CAT
+###--------
+###Script:423
+        TAKAHIKO KIMURA
+###--------
+###Script:424
+        MASAMI SUEOKA
+###--------
+###Script:425
+        MASAKO TANAKA
+###--------
+###Script:426
+        TOSHIMI FUKUSHIMA
+###--------
+###Script:427
+        KAZUNORI YAHATA
+###--------
+###Script:429
+   BACKGROUND DESIGNER
+###--------
+###Script:430
+      NOBORU HONDA
+###--------
+###Script:432
+      HIDETAKA KATSUKI
+###--------
+###Script:433
+      YUKIMASA TAMURA
+###--------
+###Script:434
+      SATORU NARITA
+###--------
+###Script:436
+      IPPEI MASUDA
+###--------
+###Script:437
+      JUN MUNAKATA
+###--------
+###Script:439
+   PROGRAMMER
+###--------
+###Script:440
+      TAKAYUKI INOUE
+###--------
+###Script:442
+      KAZUTAKA YANAGISAWA
+###--------
+###Script:443
+      AKIHIRO SHISHIDO
+###--------
+###Script:445
+      HIROKATSU KAWANISHI
+###--------
+###Script:447
+   SOUND DESIGNER
+###--------
+###Script:448
+      IPPO YAMADA
+###--------
+###Script:450
+   VOICE CAST
+###--------
+###Script:451
+      YUTO KAZAMA
+###--------
+###Script:452
+      RIE TANAKA
+###--------
+###Script:453
+      MEGUMI OGATA
+###--------
+###Script:454
+      KAZUYA NAKAI
+###--------
+###Script:455
+      TETSU INADA
+###--------
+###Script:456
+      YUKA IMAI
+###--------
+###Script:458
+   PACKAGE DESIGNER
+###--------
+###Script:459
+      MINORU NAGAOKA
+###--------
+###Script:461
+   TEST PLAYERS
+###--------
+###Script:462
+      AKINORI MURATA
+###--------
+###Script:463
+      TAKASHI HASHIMOTO
+###--------
+###Script:464
+      NAOKI KAMURA
+###--------
+###Script:466
+   SPECIAL THANKS
+###--------
+###Script:467
+      OOKO
+###--------
+###Script:468
+      MAKOTO TOMOZAWA
+###--------
+###Script:469
+      TOSHIHIKO UKAI
+###--------
+###Script:470
+      KUNIHITO TAKASHIMA
+###--------
+###Script:471
+      KUNIO FUNAHARA
+###--------
+###Script:472
+      HIROKO NAKAMURA
+###--------
+###Script:473
+      HIROYUKI IRIE
+###--------
+###Script:474
+      SHIGEYOSHI KOBAYASHI
+###--------
+###Script:475
+      ASUKA HAYASHI
+###--------
+###Script:476
+      SARA TANAKA
+###--------
+###Script:477
+      HIRONORI OJIMA
+###--------
+###Script:478
+      TAKUYA SHIRAIWA
+###--------
+###Script:479
+      Shizukichi Abe
+###--------
+###Script:480
+      Erik"GenAzea"Suzuki
+###--------
+###Script:481
+      KAORI FUNAKOSHI
+###--------
+###Script:482
+      STUDIO882
+###--------
+###Script:484
+      ALL CAPCOM STAFF
+###--------
+###Script:486
+   SUPERVISOR
+###--------
+###Script:487
+      YOSHIHISA TSUDA
+###--------
+###Script:489
+   PRODUCER
+###--------
+###Script:490
+      TAKUYA AIZU
+###--------
+###Script:491
+      KEIJI INAFUNE
+###--------
+###Script:494
+   PRESENTED BY CAPCOM
+###--------
+###Script:499
+  Thank you for playing!
+###--------
+###Script:501
+To play the HARD mode,
+save game-clear data, then
+hold L Button down when
+you choose "NEW GAME".
+###--------
+###Script:502
+Save with all Cyber-Elves
+used, hold R Button and
+choose "NEW GAME" to play
+ULTIMATE mode.
+###--------

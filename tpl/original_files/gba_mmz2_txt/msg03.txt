@@ -1,0 +1,247 @@
+###TextArchive:msg03
+###Script:0
+Let's go...
+###--------
+###Script:1
+Somehow...
+I... I did it...
+###--------
+But... It...
+###--------
+It cost me
+everything...
+###--------
+###Script:2
+... ... ...
+###--------
+Zero...
+###--------
+To live or die...?
+Hmm...
+###--------
+... ... ...
+###--------
+###Script:3
+Ladies and
+gentlemen.
+Thanks to your
+###--------
+great efforts, it
+gives me great
+pleasure to
+###--------
+announce the
+completion of this
+new Resistance
+###--------
+Base...
+###--------
+###Script:4
+I thank you all for
+accepting me as the
+commander of this
+###--------
+new base. I promise
+to bring about a
+new era of peace.
+###--------
+###Script:5
+Hooray!
+###--------
+###Script:6
+Yah!!
+###--------
+Victory!
+###--------
+For peace!
+###--------
+Yah!!
+###--------
+###Script:7
+Ha ha ha... I'm
+still a little
+embarrassed when I
+###--------
+think about being a
+commander... Are
+you sure about
+###--------
+this? Trusting our
+fate to a Reploid
+like me...?
+###--------
+###Script:8
+Absolutely. It
+was you who
+organized us to
+###--------
+fight against Neo
+Arcadia, when we
+were barely able
+###--------
+to escape from
+there...
+###--------
+###Script:9
+I'm flattered...
+###--------
+But, you helped me
+all along. You know
+how unreliable I am
+###--------
+without you, Ciel.
+###--------
+###Script:10
+You just keep in
+mind...
+###--------
+###Script:11
+...that we had
+to organize a
+resistance force
+###--------
+in order to defend
+ourselves...
+###--------
+###Script:12
+Yes, I will
+remember that.
+And now we are
+###--------
+buying time for
+you to complete
+your research.
+###--------
+###Script:13
+Still... Since X
+has not been
+resurrected yet,
+###--------
+we couldn't ask
+for a better
+opportunity than
+###--------
+now. Please, allow
+me to carry out my
+operation.
+###--------
+###Script:14
+... ... ...
+###--------
+All right...
+###--------
+###Script:15
+But promise me one
+thing... Do not be
+too strict.
+###--------
+###Script:16
+You have my...
+###--------
+###Script:17
+Excuse me, sir!
+###--------
+It's about Zero.
+He was found lying
+unconscious...
+###--------
+just outside the
+base!
+###--------
+###Script:18
+What? Zero!?
+###--------
+###Script:19
+This way.
+###--------
+###Script:20
+Zero! Zero!
+###--------
+###Script:21
+... ... ...
+###--------
+Zero...
+###--------
+###Script:22
+Zero...!
+###--------
+###Script:23
+I'm glad you are
+alive, Zero!
+###--------
+###Script:24
+Zero! You're
+functional
+again!
+###--------
+You were in
+rough shape...
+###--------
+I'm amazed you
+are still alive.
+###--------
+Welcome back!
+###--------
+###Script:25
+... ... ...
+###--------
+###Script:26
+Where am I?
+###--------
+###Script:27
+You are in our
+new Resistance
+Base. Thanks to
+###--------
+you, we were able
+to escape from Neo
+Arcadia and start a
+###--------
+new life in this
+place. Thank you
+so much... And I'm
+###--------
+sorry... that we
+were unable to
+come rescue you.
+###--------
+###Script:28
+C'mon, Ciel...
+Zero must be
+very tired.
+###--------
+I know you have
+lots to discuss
+with him, but
+###--------
+why don't we
+let him rest for
+a bit.
+###--------
+And, Zero I'm
+afraid that most
+of your weapons
+###--------
+were broken.
+Therefore, I've
+fixed them.
+###--------
+I also created a new
+weapon, so why don't
+you come by later
+###--------
+to pick it up.
+###--------
+###Script:29
+Okay, I'll go
+here. I'll be in
+my lab for a while.
+###--------
+Come talk to me
+when you are
+feeling better.
+###--------
+###Script:40
+This isn't fun
+anymore...
+###--------

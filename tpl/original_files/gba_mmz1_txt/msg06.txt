@@ -1,0 +1,93 @@
+###TextArchive:msg06
+###Script:0
+CIEL:The giant
+###--------
+CIEL:Mechaniloid must be
+###--------
+CIEL:up ahead of you.
+###--------
+CIEL:Stay sharp, Zero...
+###--------
+###Script:1
+CIEL:There must be a
+###--------
+CIEL:weak point...
+###--------
+CIEL:even for a giant
+###--------
+CIEL:Mechaniloid...
+###--------
+CIEL:Good luck.
+###--------
+###Script:2
+CIEL:Are you okay, Zero?
+###--------
+CIEL:We've almost
+###--------
+CIEL:finished preparing
+###--------
+CIEL:for the assault.
+###--------
+CIEL:Don't worry.
+###--------
+###Script:3
+CIEL:We have the enemy
+###--------
+CIEL:within visual range.
+###--------
+CIEL:It IS a giant
+###--------
+CIEL:Mechaniloid.
+###--------
+CIEL:Be careful, Zero.
+###--------
+###Script:4
+CIEL:The enemy
+###--------
+CIEL:Mechaniloid has
+###--------
+CIEL:reached our shield
+###--------
+CIEL:generator.
+###--------
+CIEL:We're engaging the
+###--------
+CIEL:enemy!
+###--------
+###Script:5
+CIEL:The gate won't hold
+###--------
+CIEL:much longer!
+###--------
+###Script:6
+CIEL:Good work, Zero!!
+###--------
+CIEL:Our base is safe,
+###--------
+CIEL:thanks to you!!
+###--------
+CIEL:We really appreciate
+###--------
+CIEL:your effort, Zero.
+###--------
+###Script:7
+CIEL:The enemy has
+###--------
+CIEL:penetrated our
+###--------
+CIEL:defense line!
+###--------
+CIEL:Smoke is coming out
+###--------
+CIEL:of the Mechaniloid!
+###--------
+CIEL:It's gonna explode!
+###--------
+CIEL:Evacuate the base,
+###--------
+CIEL:immediately!
+###--------
+CIEL:You should evacuate
+###--------
+CIEL:too, Zero!!
+###--------

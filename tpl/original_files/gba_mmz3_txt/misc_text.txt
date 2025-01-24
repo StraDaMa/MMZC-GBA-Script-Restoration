@@ -1,0 +1,3349 @@
+###TextArchive:misc_text
+###Script:0
+[ArrowRight]
+###--------
+###Script:1
+NO DATA
+###--------
+###Script:2
+CANCEL
+###--------
+###Script:3
+<textColorRed>H
+###Command:textColorRed
+###--------
+###Script:4
+<textColorRed>U
+###Command:textColorRed
+###--------
+###Script:5
+X
+###--------
+###Script:6
+/
+###--------
+###Script:7
+:
+###--------
+###Script:8
+'
+###--------
+###Script:9
+"
+###--------
+###Script:10
+  The legendary Reploid Zero 
+ awoke from a long slumber...
+
+
+  With Ciel's Resistance he
+  defeated Copy X, the ruler
+       of Neo Arcadia.
+
+
+
+
+
+
+    The terror of the Neo
+    Arcadian regime ended,
+
+
+   but the energy shortage
+ remained a constant problem.
+
+
+
+
+
+
+   Ciel devoted herself to
+   researching new forms of
+           energy.
+
+
+ And Elpizo became the newly
+ appointed Resistance leader.
+
+
+
+
+
+
+   However, overcome by his
+      desire for power, 
+
+
+   Elpizo awakened the Dark
+   Elf, whose magic had once
+  nearly destroyed the world.
+
+
+
+
+
+
+   Elpizo, thirsting for the
+  power of the Dark Elf, lost
+    sight of his true duty,
+
+
+   and was finally defeated
+    after a fierce battle.
+
+
+  However, the Dark Elf fled,
+  her destination unknown...
+
+
+
+
+
+
+ The battle over the Dark Elf
+    had only just begun...
+###--------
+###Script:11
+Two months later.
+###--------
+###Script:30
+0
+###--------
+###Script:31
+1
+###--------
+###Script:32
+2
+###--------
+###Script:33
+3
+###--------
+###Script:34
+4
+###--------
+###Script:35
+5
+###--------
+###Script:36
+6
+###--------
+###Script:37
+7
+###--------
+###Script:38
+8
+###--------
+###Script:39
+9
+###--------
+###Script:40
+Lv.F
+###--------
+###Script:41
+Lv.E
+###--------
+###Script:42
+Lv.D
+###--------
+###Script:43
+Lv.C
+###--------
+###Script:44
+Lv.B
+###--------
+###Script:45
+Lv.A
+###--------
+###Script:46
+Lv.S
+###--------
+###Script:47
+DERELICT SPACECRAFT
+###--------
+###Script:48
+AEGIS VOLCANO BASE
+###--------
+###Script:49
+OCEANIC HWY RUINS
+###--------
+###Script:50
+W.R. FACTORY
+###--------
+###Script:51
+OLD RESIDENTIAL
+###--------
+###Script:52
+MISSILE FACTORY
+###--------
+###Script:53
+TWILIGHT DESERT
+###--------
+###Script:54
+FOREST OF ANATRE
+###--------
+###Script:55
+FRONTLINE ICE BASE
+###--------
+###Script:56
+AREA X-2
+###--------
+###Script:57
+ENERGY FACILITY
+###--------
+###Script:58
+SNOWY PLAINS
+###--------
+###Script:59
+SUNKEN LIBRARY
+###--------
+###Script:60
+GIANT ELEVATOR
+###--------
+###Script:61
+SUB ARCADIA
+###--------
+###Script:63
+AREA: AEGIS VOLCANO BASE
+BOSS: BLAZIN' FLIZARD
+MISSION: N.A. ARMY RECON
+###--------
+###Script:64
+AREA: OCEANIC HWY RUINS
+BOSS: CHILDRE INARABITTA
+MISSION: TRACK D.E. SIGNAL
+###--------
+###Script:65
+AREA: W.R. FACTORY
+BOSS: DEVILBAT SCHILT
+MISSION: DESTROY FACTORY
+###--------
+###Script:66
+AREA: OLD RESIDENTIAL
+BOSS: DEATHTANZ MANTISK
+MISSION: FIND DARK ELF
+###--------
+###Script:67
+AREA: TWILIGHT DESERT
+BOSS: ANUBIS NECROMANCESS V
+MISSION: ENGAGE N.A. ARMY
+###--------
+###Script:68
+AREA: FOREST OF ANATRE
+BOSS: HANUMACHINE R
+MISSION: ENGAGE N.A. ARMY
+###--------
+###Script:69
+AREA: FRONTLINE ICE BASE
+BOSS: BLIZZACK STAGGROFF R
+MISSION: ENGAGE N.A. ARMY
+###--------
+###Script:70
+AREA: AREA X-2
+BOSS: COPY X MARK II
+MISSION: INFILTRATE N.A.
+###--------
+###Script:71
+AREA: ENERGY FACILITY
+BOSS: CUBIT FOXTAR
+MISSION: SEARCH FACILITY
+###--------
+###Script:72
+AREA: SNOWY PLAINS
+BOSS: GLACIER LE CACTANK
+MISSION: RETRIEVE DATA
+###--------
+###Script:73
+AREA: SUNKEN LIBRARY
+BOSS: VOLTEEL BIBLIO
+MISSION: RETRIEVE DATA FILE
+###--------
+###Script:74
+AREA: GIANT ELEVATOR
+BOSS: TRETISTA KELVERIAN
+MISSION: SEARCH FACILITY
+###--------
+###Script:75
+Mission already completed.
+###--------
+###Script:100
+Martina
+###--------
+###Script:101
+Milvy
+###--------
+###Script:102
+Elphy
+###--------
+###Script:103
+Sylphy
+###--------
+###Script:104
+Rilphy
+###--------
+###Script:105
+Artan
+###--------
+###Script:106
+Zictan
+###--------
+###Script:107
+Mott
+###--------
+###Script:108
+Dott
+###--------
+###Script:109
+Curiph
+###--------
+###Script:110
+Luriph
+###--------
+###Script:111
+Suriph
+###--------
+###Script:112
+Tiriph
+###--------
+###Script:113
+Yuriph
+###--------
+###Script:114
+Beriph
+###--------
+###Script:115
+Wiliph
+###--------
+###Script:116
+Cyliph
+###--------
+###Script:117
+Snoq
+###--------
+###Script:118
+Mathiq
+###--------
+###Script:119
+Miyaq
+###--------
+###Script:120
+Ajiq
+###--------
+###Script:121
+Dobuq
+###--------
+###Script:122
+Mulaq
+###--------
+###Script:123
+Mailla
+###--------
+###Script:124
+Miulla
+###--------
+###Script:125
+Cloppe
+###--------
+###Script:126
+Sloppe
+###--------
+###Script:127
+Putite
+###--------
+###Script:128
+Balette
+###--------
+###Script:129
+Maya
+###--------
+###Script:130
+Kwappa
+###--------
+###Script:131
+Gambul
+###--------
+###Script:132
+Biraid
+###--------
+###Script:133
+Birleaf
+###--------
+###Script:134
+Pitapah
+###--------
+###Script:135
+Pitapuh
+###--------
+###Script:136
+Beetack
+###--------
+###Script:137
+Beenipe
+###--------
+###Script:138
+Archim
+###--------
+###Script:139
+Archil
+###--------
+###Script:140
+Byse
+###--------
+###Script:141
+Dylphina
+###--------
+###Script:142
+Lizetus
+###--------
+###Script:143
+Cottus
+###--------
+###Script:144
+Shuthas
+###--------
+###Script:145
+Malthas
+###--------
+###Script:146
+Ilethas
+###--------
+###Script:147
+Enethas
+###--------
+###Script:148
+Busras
+###--------
+###Script:149
+Sabras
+###--------
+###Script:150
+Roderas
+###--------
+###Script:151
+Boomeras
+###--------
+###Script:152
+Clokkle
+###--------
+###Script:153
+Metoras
+###--------
+###Script:154
+Metorika
+###--------
+###Script:155
+Metorph
+###--------
+###Script:156
+Metella
+###--------
+###Script:157
+Meterom
+###--------
+###Script:158
+Kynite
+###--------
+###Script:159
+Surnite
+###--------
+###Script:160
+Tenite
+###--------
+###Script:161
+Stopalla
+###--------
+###Script:162
+Stopina
+###--------
+###Script:163
+Stopule
+###--------
+###Script:164
+Stopeta
+###--------
+###Script:165
+Stoposa
+###--------
+###Script:166
+Hanmarga
+###--------
+###Script:167
+Hanmarji
+###--------
+###Script:168
+Hanmarbo
+###--------
+###Script:169
+Aina
+###--------
+###Script:170
+Acooi
+###--------
+###Script:171
+Achoon
+###--------
+###Script:172
+Anater
+###--------
+###Script:173
+Awarne
+###--------
+###Script:174
+None
+###--------
+###Script:175
+<textColorRed>Equip SAT.1<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:176
+<textColorRed>Equip SAT.2<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:177
+Fusion elves
+will die
+when used.
+###--------
+###Script:178
+Raise and
+upgrade your
+Cyber-elves.
+###--------
+###Script:179
+You can see
+a list of
+Cyber-elves.
+###--------
+###Script:180
+Select and press A BUTTON.
+###--------
+###Script:181
+Elves that
+boost
+vitality.
+###--------
+###Script:182
+Elves that
+boost
+movement or
+help attack.
+###--------
+###Script:183
+Elves that
+assist with
+mission data
+and weapons.
+###--------
+###Script:184
+Left or Right chooses a tag.
+###--------
+###Script:185
+Select and press A BUTTON.
+###--------
+###Script:186
+Select and press A BUTTON.
+###--------
+###Script:187
+EC:Need/Hold
+###--------
+###Script:188
+Upgrade one
+level?
+  Yes   No
+###--------
+###Script:189
+Upgrade to
+Satellite?
+  Yes   No
+###--------
+###Script:190
+Upgrade to
+Fusion type?
+  Yes   No
+###--------
+###Script:191
+Upgrade to
+new version?
+  Yes   No
+###--------
+###Script:192
+Select and press A BUTTON.
+###--------
+###Script:193
+Select and press A BUTTON.
+###--------
+###Script:194
+EC
+###--------
+###Script:195
+Satellite 1
+not equipped
+with an Elf.
+###--------
+###Script:196
+Satellite 2
+not equipped
+with an Elf.
+###--------
+###Script:197
+Insufficient E-Crystals.
+###--------
+###Script:198
+Can't upgrade when equipped.
+###--------
+###Script:199
+Elf converted to Sub Tank!
+###--------
+###Script:200
+I double
+your
+vitality.
+###--------
+###Script:201
+I increase
+vitality
+slightly.
+###--------
+###Script:202
+I can raise
+vitality
+a tiny bit.
+###--------
+###Script:203
+Use my power
+to boost
+vitality!
+###--------
+###Script:204
+Let me boost
+your
+vitality!
+###--------
+###Script:205
+I become
+a Sub Tank
+to help you.
+###--------
+###Script:206
+If you need
+a Sub Tank,
+I can help!
+###--------
+###Script:207
+Use my power
+to increase
+lives by 3!
+###--------
+###Script:208
+If you want
+3 more lives
+call on me!
+###--------
+###Script:209
+My energy
+can heal
+8 vitality.
+###--------
+###Script:210
+I heal 8
+vitality
+for you.
+###--------
+###Script:211
+Let me heal
+8 vitality
+for you.
+###--------
+###Script:212
+Wounded?
+I can heal
+8 vitality.
+###--------
+###Script:213
+If you get
+hurt, I heal
+8 vitality.
+###--------
+###Script:214
+Use me when
+you need
+8 vitality!
+###--------
+###Script:215
+My powers
+can heal
+8 vitality.
+###--------
+###Script:216
+Just for
+you, I heal
+8 vitality.
+###--------
+###Script:217
+I can heal
+all of your
+vitality!
+###--------
+###Script:218
+I can heal
+vitality
+completely!
+###--------
+###Script:219
+Let me heal
+all of your
+vitality.
+###--------
+###Script:220
+Let me help!
+I heal all
+vitality!
+###--------
+###Script:221
+It's my job
+to heal you
+completely!
+###--------
+###Script:222
+My powers
+can heal you
+completely.
+###--------
+###Script:223
+Damage down.
+Bullets into
+1 vitality.
+###--------
+###Script:224
+Damage down.
+Bullets into
+1 vitality.
+###--------
+###Script:225
+I drop Life
+Energy (S)
+around you!
+###--------
+###Script:226
+I scatter
+Life Energy
+(S)!
+###--------
+###Script:227
+I'll make
+deadly traps
+non-lethal.
+###--------
+###Script:228
+I can make
+you run
+faster!
+###--------
+###Script:229
+I can boost
+your speed
+up ladders!
+###--------
+###Script:230
+I'll help
+you defy
+gravity!
+###--------
+###Script:231
+You won't
+slide back
+from hits!
+###--------
+###Script:232
+I save you
+if you fall
+down a pit!
+###--------
+###Script:233
+I won't let
+you fall
+down pits!
+###--------
+###Script:234
+I cling to
+and stop
+certain
+enemies.
+###--------
+###Script:235
+I grab and
+stop certain
+enemies.
+###--------
+###Script:236
+I'll shoot
+ahead
+to help you!
+###--------
+###Script:237
+My bullets
+will give
+cover fire!
+###--------
+###Script:238
+My shots
+head toward
+the ground!
+###--------
+###Script:239
+My shots
+hit the
+ground!
+###--------
+###Script:240
+I double
+the items
+you get!
+###--------
+###Script:241
+Enemies will
+drop more
+items!
+###--------
+###Script:242
+Press Up
+during 
+TRIPLE ATK.
+###--------
+###Script:243
+Press Down
+during
+TRIPLE ATK.
+###--------
+###Script:244
+Four shots
+for your
+Buster Shot!
+###--------
+###Script:245
+Dash + Up/
+Down or jump
++ Up: spin.
+###--------
+###Script:246
+Slash at
+bullets to
+stop them.
+###--------
+###Script:247
+Block shots
+and you'll
+get EC (S).
+###--------
+###Script:248
++1 to your
+Buster Shot.
+###--------
+###Script:249
++1 to your
+Z Saber.
+###--------
+###Script:250
++1 to your
+Rod.
+###--------
+###Script:251
++1 to your
+Shield.
+###--------
+###Script:252
+Speed up
+your weapon
+charge.
+###--------
+###Script:253
+Certain foes
+become
+Mettaurs.
+###--------
+###Script:254
+I can turn
+foes into
+Mettaurs.
+###--------
+###Script:255
+I'll turn
+foes into
+Mettaurs.
+###--------
+###Script:256
+I turn foes
+into
+Mettaurs.
+###--------
+###Script:257
+Enemies
+will become
+Mettaurs.
+###--------
+###Script:258
+I destroy
+all small
+enemies!
+###--------
+###Script:259
+Use me to
+wipe out
+small foes!
+###--------
+###Script:260
+Knock out
+small foes
+instantly!
+###--------
+###Script:261
+Certain 
+enemies
+get stunned.
+###--------
+###Script:262
+I can stun
+certain
+foes.
+###--------
+###Script:263
+Some foes
+will get
+stunned!
+###--------
+###Script:264
+My job is to
+stun certain
+enemies!
+###--------
+###Script:265
+It's my duty
+to stun
+some foes.
+###--------
+###Script:266
+My job is to
+cut a boss's
+vitality!
+###--------
+###Script:267
+I halve
+a boss's
+vitality!
+###--------
+###Script:268
+I will cut
+a boss's
+vitality!
+###--------
+###Script:269
+Become Lv.A
+during the
+mission.
+###--------
+###Script:270
+Use me to
+boost you to
+Lv.A.
+###--------
+###Script:271
+I'll boost
+you to
+level A.
+###--------
+###Script:272
+My energies
+will boost
+you to Lv.A.
+###--------
+###Script:273
+Lv.A? Sure,
+but it will
+only last
+the mission!
+###--------
+###Script:274
+Use my power
+to increase
+lives by 5!
+###--------
+###Script:275
+If you want
+5 more lives
+call on me!
+###--------
+###Script:276
+My energy
+can heal
+16 vitality.
+###--------
+###Script:277
+I heal 16
+vitality
+for you.
+###--------
+###Script:278
+Let me heal
+16 vitality
+for you.
+###--------
+###Script:279
+Wounded?
+I can heal
+16 vitality.
+###--------
+###Script:280
+If you get
+hurt, I heal
+16 vitality.
+###--------
+###Script:281
+Use me when
+you need
+16 vitality!
+###--------
+###Script:282
+My powers
+can heal
+16 vitality.
+###--------
+###Script:283
+Just for
+you, I heal
+16 vitality.
+###--------
+###Script:284
+I can heal
+all of your
+vitality
+and 1 tank!
+###--------
+###Script:285
+I can heal
+all vitality
+and 1 tank!
+###--------
+###Script:286
+Let me heal
+all of your
+vitality
+and 1 tank.
+###--------
+###Script:287
+Let me help!
+I heal all
+vitality
+and 1 tank!
+###--------
+###Script:288
+It's my job
+to heal you
+and 1 tank
+completely!
+###--------
+###Script:289
+My powers
+can heal you
+and 1 tank
+completely.
+###--------
+###Script:290
+Damage down.
+Bullets into
+2 vitality.
+###--------
+###Script:291
+Damage down.
+Bullets into
+2 vitality.
+###--------
+###Script:292
+I drop Life
+Energy (S)
+faster!
+###--------
+###Script:293
+I scatter
+Life Energy
+(S) faster!
+###--------
+###Script:294
+I'll shoot
+your enemies
+to help you!
+###--------
+###Script:295
+My bullets
+will pick
+off enemies!
+###--------
+###Script:296
+Block shots
+and you'll
+get EC (L)
+sometimes.
+###--------
+###Script:297
+None
+###--------
+###Script:300
+Your main weapon.
+###--------
+###Script:301
+Your sub weapon.
+###--------
+###Script:302
+Tank for extra Life Energy.
+###--------
+###Script:303
+Your Head Chip.
+###--------
+###Script:304
+Your Body Chip.
+###--------
+###Script:305
+Your Foot Chip.
+###--------
+###Script:306
+Abort completed missions.
+###--------
+###Script:307
+A BUTTON:Esc B BUTTON:Cancel
+###--------
+###Script:308
+You can't escape now!
+###--------
+###Script:309
+BUSTER SHOT
+###--------
+###Script:310
+Z SABER
+###--------
+###Script:311
+RECOIL ROD
+###--------
+###Script:312
+S.BOOMERANG
+###--------
+###Script:313
+Remaining energy:
+###--------
+###Script:314
+A normal Head Chip.
+###--------
+###Script:315
+Heals when standing still.
+###--------
+###Script:316
+Auto-charges weapon.
+###--------
+###Script:317
+Boosts weapon charge speed.
+###--------
+###Script:318
+A normal Body Chip.
+###--------
+###Script:319
+Ignores crumbling terrain.
+###--------
+###Script:320
+No recoil when hit.
+###--------
+###Script:321
+Enables Thunder attack.
+###--------
+###Script:322
+Enables Flame attack.
+###--------
+###Script:323
+Enables Ice attack.
+###--------
+###Script:324
+A normal Foot Chip.
+###--------
+###Script:325
+Can jump on water.
+###--------
+###Script:326
+Can double jump.
+###--------
+###Script:327
+Can dash through some foes.
+###--------
+###Script:328
+Boosts running speed.
+###--------
+###Script:329
+Ignores slippery terrain.
+###--------
+###Script:330
+Slower sliding down walls.
+###--------
+###Script:331
+All Foot Chip traits on.
+###--------
+###Script:374
+<textColorRed>Job Complete<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:395
+OK to save the current data?
+  YES
+  NO
+###--------
+###Script:396
+To which file?
+###--------
+###Script:397
+Data has been saved.
+###--------
+###Script:398
+Okay to overwrite?
+  YES
+  NO
+###--------
+###Script:399
+Data has been overwriten.
+###--------
+###Script:450
+ReflectLaser
+###--------
+###Script:451
+V-Shot
+###--------
+###Script:452
+BurstShot
+###--------
+###Script:453
+BlizzrdArrow
+###--------
+###Script:454
+GaleAttack
+###--------
+###Script:455
+SaberSmash
+###--------
+###Script:456
+SplitHeavens
+###--------
+###Script:457
+ThrowBlade
+###--------
+###Script:458
+1000 Slash
+###--------
+###Script:459
+SoulLauncher
+###--------
+###Script:460
+ShieldSweep
+###--------
+###Script:461
+OrbitShield
+###--------
+###Script:462
+None learned
+###--------
+###Script:463
+<textColorRed>BUSTER SHOT<textColorWhite>
+Reflects off
+of walls.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:464
+<textColorRed>BUSTER SHOT<textColorWhite>
+Splits shot
+when used
+with Thunder
+Body Chip.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:465
+<textColorRed>BUSTER SHOT<textColorWhite>
+Explodes
+when used
+with Flame
+Body Chip.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:466
+<textColorRed>BUSTER SHOT<textColorWhite>
+Shoots ice
+when used
+with Ice
+Body Chip.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:467
+<textColorRed>Z SABER<textColorWhite>
+Skewer foes
+by dashing
+with saber.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:468
+<textColorRed>Z SABER<textColorWhite>
+Press Down
+and slash
+during fall
+or slide to
+skewer foes
+below.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:469
+<textColorRed>Z SABER<textColorWhite>
+Press Up and
+use Saber
+to slice
+upward.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:470
+<textColorRed>Z SABER<textColorWhite>
+Press Down
+and slash
+to shoot a
+blade ahead.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:471
+<textColorRed>RECOIL ROD<textColorWhite>
+Rapidly use
+Rod for
+multi atk.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:472
+<textColorRed>RECOIL ROD<textColorWhite>
+Press Up and
+charge Rod
+to shoot
+above.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:473
+<textColorRed>S.BOOMERANG<textColorWhite>
+S.Boomerang
+skims the
+ground.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:474
+<textColorRed>S.BOOMERANG<textColorWhite>
+Press Down
+and use S.
+Boomerang
+to form a 
+shield.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:475
+None learned
+
+###--------
+###Script:476
+Press A BUTTON to analyze.
+###--------
+###Script:477
+Press B BUTTON to end.
+###--------
+###Script:478
+No.
+###--------
+###Script:479
+This disk
+is unread.
+###--------
+###Script:510
+NEW GAME
+###--------
+###Script:511
+NEW GAME
+###--------
+###Script:512
+LOAD GAME
+###--------
+###Script:513
+LOAD GAME
+###--------
+###Script:514
+MINI GAMES
+###--------
+###Script:515
+MINI GAMES
+###--------
+###Script:516
+PLEASE WAIT...
+###--------
+###Script:517
+B BUTTON: CANCEL
+###--------
+###Script:518
+    Exe 4 is
+
+###--------
+selecting chip.
+###--------
+###Script:519
+LINK
+TERMINATED.
+###--------
+###Script:520
+ 
+###--------
+   CONTINUE
+###--------
+###Script:521
+ 
+###--------
+   CONTINUE
+###--------
+###Script:522
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:523
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:524
+ QUIT THE GAME
+###--------
+###Script:525
+ QUIT THE GAME
+###--------
+###Script:526
+ 
+###--------
+  ZERO
+###--------
+###Script:527
+ 
+###--------
+  ZERO
+###--------
+###Script:528
+ 
+###--------
+  CIEL
+###--------
+###Script:529
+ 
+###--------
+  CIEL
+###--------
+###Script:530
+ 
+###--------
+ COPY X
+###--------
+###Script:531
+ 
+###--------
+ COPY X
+###--------
+###Script:532
+ HARPUIA
+###--------
+###Script:533
+ HARPUIA
+###--------
+###Script:534
+ 
+###--------
+ FEFNIR
+###--------
+###Script:535
+ 
+###--------
+ FEFNIR
+###--------
+###Script:536
+LEVIATHAN
+###--------
+###Script:537
+LEVIATHAN
+###--------
+###Script:538
+ PHANTOM
+###--------
+###Script:539
+ PHANTOM
+###--------
+###Script:550
+   STAFF
+
+
+
+
+   DIRECTOR
+      RYOTA ITO
+      YOSHINORI KAWANO
+
+
+   GAME DESIGNER
+      YOSHIHISA TSUDA
+
+
+   CHARACTER DESIGNER
+      TORU NAKAYAMA
+
+
+   CHARACTER STAFF
+      MASAYA SUZUKI
+
+      AKIHIRO NOTSU
+      YUKIMASA TAMURA
+      RIE OONISHI
+
+      STUDIO A-CAT
+        KENICHIRO SAKUNO
+        MASAKO TANAKA
+        TAKAHIKO KIMURA
+        TOSHIHIRO HONDA
+        KAZUNORI YAHATA
+
+
+   BACKGROUND DESIGNERS
+      MAKOTO YABE
+
+      SATORU NARITA
+      HIDETAKA KATSUKI
+      HIROYUKI TAMURA
+
+
+   PROGRAMMERS
+      KAZUTAKA YANAGISAWA
+
+      AKIHIRO SHISHIDO
+      GEN KAMADA
+
+
+   SOUND PRODUCTION
+   SOUND DESIGNER / MUSIC
+      IPPO YAMADA
+
+
+   MUSIC
+      MASAKI SUZUKI
+      TSUTOMU KURIHARA
+      LUNA UMEGAKI
+
+
+   VOICE CAST
+      YUTO KAZAMA
+      RIE TANAKA
+
+      HIROAKI MIURA
+      YUKIKO HIROTSU
+      HIDEKI OGIHARA
+      KEIJI HIRAI
+      NAOKI YANAGI
+      HIRO'OMI SUGINO
+      MUNEHIRO TOKITA
+      HISAO EGAWA
+
+      MEGUMI OGATA
+      KAZUYA NAKAI
+      TETSU INADA
+      YUKA IMAI
+
+      JUN'ICHI SUWABE
+
+
+   PACKAGE DESIGNER
+      MIZUHO TOYONAGA
+
+
+   GAME TESTERS
+      AKINORI MURATA
+      MASAHIRO IKEGAWA
+      TAKAHIRO TOKUDA
+      SEISHAKU TAKAYAMA
+
+
+   DEBUGGING TEAM
+      KUNISHIGE MATSUBARA
+      TETSUNORI MATSUOKA
+      MAKO FUJIMOTO
+      HIDEKI TANAKA
+      KENJI MIYANISHI
+      NORIKO KAMIKAWA
+      TAKAYA KONDO
+      MASAYASU MUKAI
+
+
+   SPECIAL THANKS
+      KUNIHITO TAKASHIMA
+      SHINYA IKUTA
+      SATOSHI UKAI
+      SHIGEYOSHI KOBAYASHI
+      MITSUNORI SAKANO
+      DAISUKE SASAKI
+      TAKAYUKI SANO
+      TETSUYA TAKAGI
+      MAKOTO TOMOZAWA
+      HIROKO NAKAMURA
+      ASUKA HAYASHI
+      TAKESHI HORINOUCHI
+      NAOTO MINAMIDE
+
+      AONI PRODUCTION
+        KAZUSHI KISEN
+      HOLY PEAK
+      AKSENT
+      DRAMATIC DEPARTMENT
+      T'S FACTORY
+      CRYSTA
+      J&L STUDIO
+      RIVERSIDE MUSIC
+        TAKEHIRO KAWABE
+        AKI TATSUNO
+
+      ENTIRE INTI STAFF
+      ENTIRE CAPCOM STAFF
+
+
+   PRODUCERS
+      TAKUYA AIZU
+      KEIJI INAFUNE
+
+
+
+   PRODUCED AND COPYRIGHT BY
+      CAPCOM
+
+
+
+
+
+
+   Thank you for playing!
+###--------
+###Script:700
+AUTO-CHARGE
+<textColorRed>(Head Chip)<textColorWhite>
+
+Automatic
+charge to
+your weapon.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:701
+AUTO-RECOVER
+<textColorRed>(Head Chip)<textColorWhite>
+
+Automatic
+recovery of
+vitality.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:702
+QUICK-CHARGE
+<textColorRed>(Head Chip)<textColorWhite>
+
+Boosts your
+charge spd.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:703
+FROG
+<textColorRed>(Foot Chip)<textColorWhite>
+
+Slide slower
+down walls.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:704
+SPLASH JUMP
+<textColorRed>(Foot Chip)<textColorWhite>
+
+Jump on
+water.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:705
+ULTIMA FOOT
+<textColorRed>(Foot Chip)<textColorWhite>
+
+Can use all
+Foot Chip
+traits.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:706
+<textColorRed>FILE A<textColorWhite>
+The beast-
+like Mutos
+Reploids
+defend the 
+human race.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:707
+<textColorRed>FILE B<textColorWhite>
+Neo Arcadia
+is a utopia
+of peace
+without any
+Mavericks.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:708
+<textColorRed>FILE C<textColorWhite>
+Cyber-elves
+are smart
+programs for
+helping man
+and Reploid.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:709
+<textColorRed>FILE D<textColorWhite>
+Weil altered
+Mother Elf,
+starting the
+Elf Wars.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:710
+<textColorRed>FILE E<textColorWhite>
+Pantheon are
+degraded,
+massproduced
+Reploid
+copies of X.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:711
+<textColorRed>FILE F<textColorWhite>
+Maverick
+Reploids
+fated to die
+formed the
+Resistance.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:712
+<textColorRed>FILE G<textColorWhite>
+Cyber-elf X
+was once the
+original X,
+but now he
+has no body.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:713
+<textColorRed>FILE H<textColorWhite>
+The Four
+Guardians
+are Reploids
+made from
+DNA of X.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:714
+<textColorRed>FILE I<textColorWhite>
+Elpizo was a
+Neo Arcadian
+Reploid that
+was seduced
+by Dark Elf.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:715
+<textColorRed>FILE J<textColorWhite>
+Dark Elf was
+Mother Elf
+before Dr.
+Weil altered
+her.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:716
+<textColorRed>FILE K<textColorWhite>
+Omega was
+made by Dr.
+Weil, but 
+was banished
+to space.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:717
+<textColorRed>FILE L<textColorWhite>
+Use of Dark
+Elf made the
+Elf Wars
+terribly
+tragic.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:718
+<textColorRed>FILE M<textColorWhite>
+A Maverick
+now means
+somebody who
+fights Neo
+Arcadia.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:719
+<textColorRed>FILE N<textColorWhite>
+The Sigma
+virus turned
+Reploids
+into 
+Mavericks.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:720
+A Cyber-elf
+###--------
+###Script:722
+was inside.
+###--------
+###Script:724
+E-Crystals
+###--------
+###Script:725
+were inside.
+###--------
+###Script:726
+Omega
+
+This Reploid
+has a the
+signature
+of Dark Elf.
+###--------
+###Script:727
+D. Mantisk
+
+Uses scythes
+to dispose
+of old
+Reploids.
+###--------
+###Script:728
+C. Inarbitta
+
+Can become
+small to 
+boost speed.
+###--------
+###Script:729
+B. Flizard
+
+This lizard
+can detach
+his tail and
+frill.
+###--------
+###Script:730
+D. Schilt
+
+Attacks with
+small bat
+drones from
+his cape.
+###--------
+###Script:731
+Crea
+
+A blue Baby
+Elf named by
+Alouette.
+###--------
+###Script:732
+Prea
+
+A red Baby
+Elf named by
+Alouette.
+###--------
+###Script:733
+Anubis
+Necromncss V
+
+Jackal 'loid
+revived by
+Dr. Weil.
+###--------
+###Script:734
+Hanumachne R
+
+Monkey 'loid
+revived by
+Dr. Weil.
+###--------
+###Script:735
+B. Stagrff R
+
+Elk Reploid
+revived by
+Dr. Weil.
+###--------
+###Script:736
+Copy X MK.II
+
+A revised
+Copy X
+revived by
+Dr. Weil.
+###--------
+###Script:737
+T. Kelverian
+
+Can detach
+the 2 heads
+on his
+shoulders.
+###--------
+###Script:738
+Glacier
+Le Cactank
+
+Swings
+chained
+arms around.
+###--------
+###Script:739
+Cubit
+Foxtar
+
+Fox Reploid
+that uses 9
+remotes.
+###--------
+###Script:740
+Volteel
+Biblio
+
+Eel Reploid
+that uses
+electricity.
+###--------
+###Script:741
+P. Hunter
+
+Carries a
+3 shot gun.
+###--------
+###Script:742
+P. Guardian
+
+Carries an
+electric
+club.
+###--------
+###Script:743
+P. Aqua
+
+Shoots a
+harpoon
+from its
+arm.
+###--------
+###Script:744
+P. Fist
+
+Punches
+when close.
+###--------
+###Script:745
+P. Base
+
+Rides a
+hovercraft,
+uses hammer.
+###--------
+###Script:746
+Deathlock
+
+Mechaniloid
+made from
+old parts.
+
+###--------
+###Script:747
+Gyro Cannon
+
+Floats up
+with a
+propeller.
+###--------
+###Script:748
+Grand Cannon
+
+A cannon
+made for
+frozen
+terrain.
+###--------
+###Script:749
+Tile Cannon
+
+A cannon
+that hides
+in walls.
+###--------
+###Script:750
+P. Cannon
+
+A cannon
+that attacks
+from poles.
+###--------
+###Script:751
+Heavy Cannon
+
+Shoots a
+one-ton
+cannonball.
+###--------
+###Script:752
+C. Cannon
+
+Shoots 2
+shots from
+a capsule.
+###--------
+###Script:753
+G. Cannon
+
+Creates
+small Mech-
+aniloids.
+###--------
+###Script:754
+Eye Cannon
+
+Spots
+intruders
+and attacks.
+###--------
+###Script:755
+Shrimpolin
+
+This foe can
+move quickly
+in sand or 
+snow.
+###--------
+###Script:756
+Volcaire
+
+Stores lava
+inside body
+then splits
+mid-air.
+###--------
+###Script:757
+Claveker
+
+This foe
+shoots from
+ceilings.
+###--------
+###Script:758
+Petatria
+
+Revives if
+eye is not
+attacked.
+###--------
+###Script:759
+Shotloid
+
+Shoots while
+moving in
+small steps.
+###--------
+###Script:760
+Seimeran
+
+This plant
+Mechaniloid
+smells nice.
+###--------
+###Script:761
+Lamplort
+
+Mechaniloid
+made to cook
+fish.
+###--------
+###Script:762
+Lemmingles
+
+4 mouse-like
+Mechaniloids
+in a group.
+###--------
+###Script:763
+Cattatank
+
+Guards with
+shield then
+punches.
+###--------
+###Script:764
+Top Gabyoall
+
+Patrols
+floors and
+walls.
+###--------
+###Script:765
+Snakecord
+
+Hangs from
+ceilings and
+bites when
+separated.
+###--------
+###Script:766
+Gallisni
+
+Appears
+when alarm
+is tripped.
+###--------
+###Script:767
+Crossbyne
+
+Shoots 4-way
+bullets and
+warps.
+###--------
+###Script:768
+Flopper
+
+Explodes,
+damaging
+close units.
+###--------
+###Script:769
+PurpleNerple
+
+This foe
+has a bomb
+underneath.
+###--------
+###Script:770
+Mothjiro
+
+Congregates
+near light.
+###--------
+###Script:771
+Batring
+
+Repels any
+attack when
+wings close.
+###--------
+###Script:772
+Mellnet
+
+A bee-type
+Mechaniloid
+that stings.
+###--------
+###Script:773
+Shotcounter
+
+Can block
+frontal
+attacks.
+###--------
+###Script:774
+Sharkseal X
+
+A shark-type
+Mechaniloid
+that bites.
+###--------
+###Script:775
+Shelluno
+
+Attacks from
+behind its
+target.
+###--------
+###Script:776
+Icebon
+
+Produces ice
+underwater.
+###--------
+###Script:777
+Shellcrawler
+
+Runs when it
+loses its
+shell.
+###--------
+###Script:778
+Cannonhopper
+
+Shoots from
+ceilings and
+floors.
+###--------
+###Script:779
+Weil
+
+Scientist 
+who created
+Reploids.
+###--------
+###Script:780
+Ciel
+
+Researcher
+specializing
+in energy.
+###--------
+###Script:781
+Cerveau
+
+Engineer who
+makes Zero's
+weapons.
+###--------
+###Script:782
+Andrew
+
+Old Reploid
+who likes to
+talk a lot.
+###--------
+###Script:783
+Alouette
+
+Treasures
+a doll Ciel
+gave her.
+###--------
+###Script:784
+Hibou
+
+This hungry
+Reploid eats
+E-Crystals.
+###--------
+###Script:785
+Rocinolle
+
+Helps with
+wounded
+Reploids.
+###--------
+###Script:786
+Perroquiet
+
+A brilliant
+assistant
+to Ciel.
+###--------
+###Script:787
+Autruche
+
+A tall Rep-
+loid known
+for his dull
+speeches.
+###--------
+###Script:788
+Hirondelle
+
+Flies around
+and gathers
+information.
+###--------
+###Script:789
+Doigt
+
+Cerveau's
+helper and
+weaponmaker.
+###--------
+###Script:790
+Menart
+
+A mischief-
+maker who
+plays hooky.
+###--------
+###Script:791
+Pic
+
+A cynical
+Reploid who
+makes snide
+comments.
+###--------
+###Script:792
+Harpuia
+
+The shrewd
+Green Lord
+leads the
+Rekku Army.
+###--------
+###Script:793
+Fefnir
+
+The fierce
+Red Lord
+leads the
+Jin'en Army.
+###--------
+###Script:794
+Leviathan
+
+The sly
+Blue Lord
+leads the
+Meikai Army.
+###--------
+###Script:795
+Phantom
+
+The evil
+Dark Lord
+Leads the
+Zan'ei Army.
+###--------
+###Script:800
+<textColorRed>000<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:801
+<textColorRed>001<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:802
+<textColorRed>002<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:803
+<textColorRed>003<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:804
+<textColorRed>004<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:805
+<textColorRed>005<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:806
+<textColorRed>006<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:807
+<textColorRed>007<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:808
+<textColorRed>008<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:809
+<textColorRed>009<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:810
+<textColorRed>010<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:811
+<textColorRed>011<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:812
+<textColorRed>012<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:813
+<textColorRed>013<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:814
+<textColorRed>014<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:815
+<textColorRed>015<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:816
+<textColorRed>016<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:817
+<textColorRed>017<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:818
+<textColorRed>018<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:819
+<textColorRed>019<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:820
+<textColorRed>020<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:821
+<textColorRed>021<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:822
+<textColorRed>022<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:823
+<textColorRed>023<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:824
+<textColorRed>024<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:825
+<textColorRed>025<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:826
+<textColorRed>026<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:827
+<textColorRed>027<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:828
+<textColorRed>028<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:829
+<textColorRed>029<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:830
+<textColorRed>030<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:831
+<textColorRed>031<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:832
+<textColorRed>032<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:833
+<textColorRed>033<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:834
+<textColorRed>034<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:835
+<textColorRed>035<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:836
+<textColorRed>036<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:837
+<textColorRed>037<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:838
+<textColorRed>038<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:839
+<textColorRed>039<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:840
+<textColorRed>040<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:841
+<textColorRed>041<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:842
+<textColorRed>042<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:843
+<textColorRed>043<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:844
+<textColorRed>044<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:845
+<textColorRed>045<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:846
+<textColorRed>046<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:847
+<textColorRed>047<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:848
+<textColorRed>048<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:849
+<textColorRed>049<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:850
+<textColorRed>050<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:851
+<textColorRed>051<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:852
+<textColorRed>052<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:853
+<textColorRed>053<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:854
+<textColorRed>054<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:855
+<textColorRed>055<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:856
+<textColorRed>056<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:857
+<textColorRed>057<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:858
+<textColorRed>058<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:859
+<textColorRed>059<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:860
+<textColorRed>060<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:861
+<textColorRed>061<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:862
+<textColorRed>062<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:863
+<textColorRed>063<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:864
+<textColorRed>064<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:865
+<textColorRed>065<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:866
+<textColorRed>066<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:867
+<textColorRed>067<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:868
+<textColorRed>068<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:869
+<textColorRed>069<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:870
+<textColorRed>070<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:871
+<textColorRed>071<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:872
+<textColorRed>072<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:873
+<textColorRed>073<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:874
+<textColorRed>074<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:875
+<textColorRed>075<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:876
+<textColorRed>076<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:877
+<textColorRed>077<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:878
+<textColorRed>078<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:879
+<textColorRed>079<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:880
+<textColorRed>080<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:881
+<textColorRed>081<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:882
+<textColorRed>082<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:883
+<textColorRed>083<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:884
+<textColorRed>084<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:885
+<textColorRed>085<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:886
+<textColorRed>086<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:887
+<textColorRed>087<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:888
+<textColorRed>088<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:889
+<textColorRed>089<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:890
+<textColorRed>090<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:891
+<textColorRed>091<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:892
+<textColorRed>092<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:893
+<textColorRed>093<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:894
+<textColorRed>094<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:895
+<textColorRed>095<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:896
+<textColorRed>096<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:897
+<textColorRed>097<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:898
+<textColorRed>098<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:899
+<textColorRed>099<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:900
+<textColorRed>100<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:901
+<textColorRed>101<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:902
+<textColorRed>102<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:903
+<textColorRed>103<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:904
+<textColorRed>104<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:905
+<textColorRed>105<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:906
+<textColorRed>106<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:907
+<textColorRed>107<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:908
+<textColorRed>108<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:909
+<textColorRed>109<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:910
+<textColorRed>110<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:911
+<textColorRed>111<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:912
+<textColorRed>112<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:913
+<textColorRed>113<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:914
+<textColorRed>114<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:915
+<textColorRed>115<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:916
+<textColorRed>116<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:917
+<textColorRed>117<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:918
+<textColorRed>118<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:919
+<textColorRed>119<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:920
+<textColorRed>120<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:921
+<textColorRed>121<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:922
+<textColorRed>122<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:923
+<textColorRed>123<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:924
+<textColorRed>124<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:925
+<textColorRed>125<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:926
+<textColorRed>126<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:927
+<textColorRed>127<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:928
+<textColorRed>128<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:929
+<textColorRed>129<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:930
+<textColorRed>130<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:931
+<textColorRed>131<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:932
+<textColorRed>132<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:933
+<textColorRed>133<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:934
+<textColorRed>134<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:935
+<textColorRed>135<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:936
+<textColorRed>136<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:937
+<textColorRed>137<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:938
+<textColorRed>138<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:939
+<textColorRed>139<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:940
+<textColorRed>140<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:941
+<textColorRed>141<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:942
+<textColorRed>142<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:943
+<textColorRed>143<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:944
+<textColorRed>144<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:945
+<textColorRed>145<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:946
+<textColorRed>146<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:947
+<textColorRed>147<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:948
+<textColorRed>148<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:949
+<textColorRed>149<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:950
+<textColorRed>150<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:951
+<textColorRed>151<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:952
+<textColorRed>152<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:953
+<textColorRed>153<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:954
+<textColorRed>154<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:955
+<textColorRed>155<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:956
+<textColorRed>156<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:957
+<textColorRed>157<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:958
+<textColorRed>158<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:959
+<textColorRed>159<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:960
+<textColorRed>160<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:961
+<textColorRed>161<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:962
+<textColorRed>162<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:963
+<textColorRed>163<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:964
+<textColorRed>164<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:965
+<textColorRed>165<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:966
+<textColorRed>166<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:967
+<textColorRed>167<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:968
+<textColorRed>168<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:969
+<textColorRed>169<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:970
+<textColorRed>170<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:971
+<textColorRed>171<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:972
+<textColorRed>172<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:973
+<textColorRed>173<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:974
+<textColorRed>174<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:975
+<textColorRed>175<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:976
+<textColorRed>176<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:977
+<textColorRed>177<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:978
+<textColorRed>178<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:979
+<textColorRed>179<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:980
+<textColorRed>180<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:990
+Dr. Weil
+###--------
+###Script:991
+Omega
+###--------
+###Script:992
+Dark Elf
+###--------
+###Script:993
+Elf Wars
+###--------
+###Script:1088
+<textColorRed>RULES<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:1089
+Aim with +Control Pad and
+use B BUTTON to hit
+Mellnets with Recoil Rod.
+Different colored Mellnets
+are harder and require 2
+shots or a charged shot.
+3 misses = game over.
+###--------
+###Script:1090
+Guide 5 colored jewels to
+the right colored beaker.
+The jewels will take all
+possible turns.
+Use A BUTTON or B BUTTON
+to open or close paths.
+3 misses = game over.
+###--------
+###Script:1091
+Using 3 elements, destroy
+panels on a belt conveyor.
+The L BUTTON and R BUTTON
+change elements, B BUTTON
+attacks. Thunder on Ice,
+Ice on Fire, Fire on Thun-
+der. 3 misses = game over.
+###--------
+###Script:1092
+Riding Aztec Falcon jump
+over obstacles and slash
+foes. A BUTTON to jump;
+B BUTTON to slash. Ends
+when you get hit 3 times,
+crash, or fall in a pit.
+###--------
+###Script:1093
+Stop Carryarms from taking
+the items. +Control Pad 
+to move Fefnir; B BUTTON
+to fire Meteor Rain. Score
+bonus points when items
+Drop.Game ends when an
+item is taken.
+###--------
+###Script:1094
+Move Leviathan w/ +Control
+Pad; B BUTTON for spear.
+Earn score and time by
+hitting only Mechaniloids.
+Consecutive hits score
+bonus points. Game ends 
+when time runs out.
+###--------
+###Script:1095
+Jump from one shuriken to
+another. +Control Pad to
+move; A BUTTON to jump. 
+Ends when hit 3 times, or
+you fall from a shuriken.
+###--------

@@ -1,0 +1,78 @@
+###TextArchive:msg04
+###Script:0
+Operator:
+A strong energy
+reading detected.
+###--------
+They are building
+a huge missile
+outside the base.
+###--------
+The base must be
+here to support the
+construction.
+###--------
+Ciel:
+Analyzing a route to
+the missile factory
+###--------
+will take quite a
+while... Zero, what
+should we do?!
+###--------
+All right. I'll
+buy us some time by
+attacking the base.
+###--------
+Start your analysis!
+###--------
+###Script:2
+I almost gave up on
+finding a foe worthy
+of fighting me...
+###--------
+You look like you
+might at least be a
+minor challenge.
+###--------
+I'm gonna enjoy
+this, Zero!
+###--------
+###Script:3
+Ssyaaaaah!
+###--------
+Get ready for
+Blazin' Flizard, one
+of Weil's Numbers!
+###--------
+Let's heat it up,
+Zerrroooo!!!
+###--------
+###Script:4
+What, is that all
+you got?
+###--------
+How...tepid. And I
+was hoping to have a
+little fun, too.
+###--------
+Ssyahahah!
+###--------
+###Script:5
+Who are you to...put
+out my flames?
+###--------
+Lord Weil will get
+you, though... Make
+no mistake...
+###--------
+He'll cover the
+whole world in
+flames, you'll see.
+###--------
+You can't...put out
+the flames...of our
+new world...
+###--------
+Ssyah...aaaarrgh!
+###--------

@@ -1,0 +1,471 @@
+###TextArchive:msg03
+###Script:0
+It sure is quiet...
+###--------
+There haven't been
+many Neo Arcadian
+attacks lately.
+###--------
+Things are almost
+too peaceful now...
+###--------
+Ms. Ciel completed
+her research on the
+new energy...
+###--------
+And if it solves
+the energy crisis,
+###--------
+Neo Arcadia won't
+have a reason to
+fight us anymore.
+###--------
+Actually...
+###--------
+I already informed
+Neo Arcadia about
+###--------
+this new energy,
+the "Ciel System"...
+###--------
+But...
+###--------
+I haven't received
+a reply yet...
+###--------
+Don't worry! I'm
+sure their answer
+will come soon!
+###--------
+There's no more
+reason to fight. We
+can live in peace!
+###--------
+Right?!
+###--------
+We're in the middle
+of a mission.
+###--------
+So put a lid on it
+and walk!
+###--------
+*gulp!* Sorry!
+###--------
+###Script:1
+The reading is
+getting stronger.
+We're close...
+###--------
+###Script:2
+The snow is letting
+up...
+###--------
+###Script:3
+W-wow!
+###--------
+Look at that!
+###--------
+###Script:4
+Is that...some kind
+of ship?
+###--------
+###Script:5
+Ms. Ciel...
+###--------
+Did that...huge
+thing...fall from
+outer space?!
+###--------
+Yes...but what's
+more...
+###--------
+It's giving out the
+same energy reading
+as the Dark Elf...
+###--------
+of which there is
+only one in the
+whole world...
+###--------
+Zero was against the
+idea, but I just had
+to find out...
+###--------
+What could possibly
+be going on here?
+###--------
+###Script:6
+Neo Arcadia has the
+area ahead of us
+cordoned off.
+###--------
+What?!
+###--------
+You guys stay here
+until I make sure
+it's safe.
+###--------
+Okay...
+Be careful, Zero...
+###--------
+###Script:7
+Up ahead...
+###--------
+That's where the
+Dark Elf reading is
+coming from.
+###--------
+###Script:8
+She knew who I
+was...
+###--------
+Why would the elf
+who almost destroyed
+the world know me?
+###--------
+###Script:9
+Ciel: Zero? Are you there?
+###--------
+###Script:10
+Maintain radio
+silence!
+###--------
+The enemy is near...
+###--------
+###Script:11
+Oh, I-I'm sorry...
+###--------
+###Script:12
+Get down!
+###--------
+###Script:14
+Neo Arcadians!
+###--------
+Ms. Ciel, look out!
+###--------
+###Script:15
+No!
+###--------
+###Script:16
+Relax.
+They won't come to
+any harm.
+###--------
+Harpuia?!
+###--------
+I'm letting you off
+the hook this time.
+###--------
+But you and those
+Resistance fighters
+must leave, now!
+###--------
+You're letting us
+off the hook?!
+###--------
+###Script:17
+Scram!
+###--------
+I don't have time to
+mess with you now!
+###--------
+###Script:18
+...
+###--------
+###Script:19
+Ciel: Zero...
+###--------
+Can you hear me?
+###--------
+###Script:20
+Seems you're okay...
+###--------
+Leave the rest of
+this up to me.
+###--------
+I want you all to
+head back to the
+Resistance Base.
+###--------
+###Script:21
+Ciel: But, Zero...
+###--------
+###Script:22
+I've heard that
+voice somewhere
+before...
+###--------
+###Script:23
+Is it...calling me?
+###--------
+###Script:24
+Aaaaaargh!
+###--------
+###Script:25
+Now you're askin'
+for it!
+###--------
+###Script:26
+I'll blast you to
+pieces!
+###--------
+###Script:27
+Ooph!
+###--------
+###Script:28
+*pant pant*
+###--------
+Are you alive,
+Fefnir?
+###--------
+What a monster...
+###--------
+The two of us
+fighting together,
+and not a scratch.
+###--------
+Omega, the evil
+Reploid banished
+from Neo Arcadia...
+###--------
+He's pretty tough...
+###--------
+###Script:29
+Zero?!
+###--------
+What the heck are
+YOU doing here?!
+###--------
+What is that thing?
+###--------
+###Script:30
+That's Omega.
+His mere existence
+defies reality...
+###--------
+He's strong, but...
+###--------
+He's not as fun to
+fight as you are.
+Hehe...
+###--------
+I don't feel like
+fighting him, so
+he's all yours...
+###--------
+See you later, Zero.
+###--------
+###Script:31
+Bah, that
+Leviathan...
+###--------
+Grr, I can't move!
+We'll have to finish
+this another time!
+###--------
+Hey, Zero!
+###--------
+I'll get you and
+that Omega one of
+these days!
+###--------
+Don't you dare die
+before then, Zero!
+###--------
+###Script:32
+Omega, huh?
+###--------
+So you were the one
+who called me here?
+###--------
+###Script:33
+Grrr...
+###--------
+###Script:34
+You just don't give
+up, do you...
+###--------
+###Script:35
+So you're Omega.
+###--------
+I'm afraid I can't
+let you leave this
+place, ever.
+###--------
+Time for your
+destruction!
+###--------
+###Script:36
+Gaaarrrrwl!
+###--------
+###Script:37
+Hehehehe...
+###--------
+Omega, that will be
+quite enough.
+###--------
+###Script:38
+From this day
+forward...
+###--------
+You will fight with
+this person as a
+Neo Arcadian.
+###--------
+It's not polite,
+smashing a friend
+like that.
+###--------
+###Script:39
+Gaarwl...
+Lord...Weil...
+###--------
+A Neo Arcadian?!
+###--------
+Who is this guy?!
+###--------
+###Script:40
+Hehehehe...
+###--------
+I am Weil. You may
+call me Dr. Weil.
+###--------
+You must know my
+name, Harpuia of the
+Four Guardians?
+###--------
+And you...the
+legendary hero.
+###--------
+Zero...
+###--------
+Dr. Weil?!
+###--------
+You're kidding me!
+It can't be! Why
+are you, who were
+###--------
+banished from Neo
+Arcadia a century
+ago, with Omega?!
+###--------
+That's simple.
+###--------
+I-I brought him.
+###--------
+###Script:41
+M...Master X?!
+Is that you?!
+###--------
+###Script:42
+Harpuia! Hehe, you
+haven't ch-changed!
+###--------
+And th-then
+there's...
+###--------
+I missed y-you,
+Zero...
+###--------
+###Script:43
+You must be...
+You're a copy,
+aren't you?
+###--------
+Hehehe!
+###--------
+I brought back
+Master X, whom you
+defeated long ago!
+###--------
+To protect humanity
+from the chaos of
+this world!
+###--------
+Weil saved my life.
+I owe h-him, see...
+###--------
+I'll take Omega
+back, thank y-you.
+###--------
+Harpuia, you k-keep
+searching for the
+Dark Elf.
+###--------
+Omega and the Dark
+Elf... 
+###--------
+We'll need them
+both for what's to
+c-come...
+###--------
+###Script:44
+But Master X! Think
+how many humans died
+###--------
+because of the Dark
+Elf and Omega, both
+built by this man...
+###--------
+How can you justify
+exposing humanity to
+such a grave danger,
+###--------
+especially now with
+the energy crisis
+almost solved?!
+###--------
+What's this? Are you
+trying to tell
+Master X what to do?
+###--------
+When did you grow so
+bold, Harpuia?
+###--------
+###Script:45
+Weil...you...
+###--------
+So, Zero.
+###--------
+You g-guys are
+also searching for
+the Dark Elf, right?
+###--------
+Let's m-make a
+contest out of it!
+###--------
+I'll sh-show you
+who the real hero
+i-is!
+###--------
+###Script:46
+Hehehe... Now things
+are getting
+interesting, Zero!
+###--------
+Let's see how far
+you get with that
+body! Hehehe...
+###--------
+###Script:47
+"With that body"...?
+###--------
+...
+###--------
+###Script:48
+Ciel: Zero... 
+###--------
+This is terrible...
+###--------
+###Script:49
+So you were
+monitoring the whole
+thing?
+###--------
+###Script:50
+Ciel: Hurry back to base.
+###--------
+Operator?
+###--------
+Operator: Commencing trans.
+###--------

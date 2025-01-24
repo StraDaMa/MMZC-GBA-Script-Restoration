@@ -1,0 +1,2241 @@
+###TextArchive:msg02
+###Script:0
+I'm gathering
+intelligence on Area
+Zero, but I'm going
+###--------
+to need a little
+more time.
+###--------
+Drop by Cerveau's in
+the meantime for
+some maintenance.
+###--------
+###Script:1
+I'm gathering
+intelligence on Area
+Zero, but I'm going
+###--------
+to need a little
+more time.
+###--------
+Drop by Cerveau's in
+the meantime for
+some maintenance.
+###--------
+###Script:2
+Area Zero...
+It's where the space
+colony crashed
+###--------
+during the Maverick
+Wars...
+###--------
+It's hard to believe
+humans and nature
+are thriving at
+###--------
+ground zero after
+such a disaster...
+###--------
+I've never seen
+nature before...
+###--------
+I can't wait to see
+it with my own eyes.
+###--------
+###Script:3
+Area Zero...
+It's where the space
+colony crashed
+###--------
+during the Maverick
+Wars...
+###--------
+It's hard to believe
+humans and nature
+are thriving at
+###--------
+ground zero after
+such a disaster...
+###--------
+I've never seen
+nature before...
+###--------
+I can't wait to see
+it with my own eyes.
+###--------
+###Script:4
+If nature really has
+been revived, that
+would be amazing.
+###--------
+I have to see it to
+believe it.
+###--------
+###Script:5
+Zero...
+Can you go on ahead
+to Area Zero?
+###--------
+We'll be there
+shortly.
+###--------
+###Script:6
+If Ragnarok is
+carried out, this
+world will become a
+###--------
+desolate graveyard
+in a matter of
+minutes...
+###--------
+###Script:7
+Zero...
+###--------
+Pick up the latest
+Cyber-elf from
+Alouette and go on
+###--------
+ahead to the
+Settlement.
+###--------
+###Script:8
+Zero, did you decide
+on a name for the
+Elf?
+###--------
+No, from the looks
+of it...
+###--------
+I feel bad for the
+poor little thing
+not having a name.
+###--------
+###Script:9
+How about Charite?
+  I like it.
+  I don't think so.
+###--------
+###Script:10
+It's a gentle name
+fit for a gentle
+Elf.
+###--------
+###Script:11
+What was wrong with
+it? Tough to
+pronounce?
+###--------
+###Script:12
+What's up Zero?
+###--------
+Still haven't
+decided on a name
+for the Elf yet?
+###--------
+If that's the case
+then...
+###--------
+###Script:13
+Charite's no good?
+  I like it.
+  I don't think so.
+###--------
+###Script:14
+It's a gentle name
+fit for a gentle
+Elf.
+###--------
+###Script:15
+Too bad, I kind of
+liked the name...
+###--------
+Hurry up and pick
+a name, don't keep
+Alouette waiting.
+###--------
+###Script:16
+Oh, Zero...
+###--------
+Alouette is dying to
+tell you about
+Elves.
+###--------
+You should go and
+see her.
+###--------
+###Script:17
+Alouette's waiting.
+###--------
+You should see her
+as soon as you can.
+###--------
+###Script:18
+I just heard from
+Faucon guarding
+outside.
+###--------
+Weil's troops have
+left the road to
+the Settlement.
+###--------
+###Script:19
+Zero...
+###--------
+Do you think you
+could scout ahead
+and check out the
+###--------
+Settlement?
+###--------
+###Script:20
+I'm not surprised
+the people at the
+Settlement don't
+###--------
+like us. It's only
+natural they
+wouldn't trust us
+###--------
+when we talk about
+helping them...
+###--------
+But we don't have
+time to fix that
+impression of us...
+###--------
+We just have to hope
+they'll learn to
+trust us after we
+###--------
+stand up to Weil.
+###--------
+###Script:21
+We might not have
+much time, but I'll
+do my best to get
+###--------
+the people in the
+Settlement to
+understand us. Maybe
+###--------
+someday they'll come
+around.
+###--------
+###Script:24
+Zero...
+I'm worried about
+Neige.
+###--------
+Please, you have
+to help her!
+###--------
+###Script:25
+We know where Neige
+was taken.
+###--------
+There's an enemy
+base west of here.
+###--------
+Neige and Craft
+should be inside.
+###--------
+###Script:26
+Thanks Zero...
+###--------
+I'm glad Neige was
+alright.
+###--------
+###Script:27
+Zero...
+###--------
+Ragnarok is still
+underway...
+###--------
+...
+###--------
+We have to protect
+the world from Weil!
+###--------
+###Script:30
+I would've never
+thought to use the
+Transporter Base.
+###--------
+Neige knows her
+stuff.
+###--------
+###Script:31
+Zero...
+###--------
+It's going to be
+dangerous out there,
+so watch yourself.
+###--------
+###Script:32
+The transporter
+circuit is a lot
+like Cyberspace.
+###--------
+Just be careful in
+there, Zero.
+###--------
+###Script:33
+Find a way to
+disable that
+protection program.
+###--------
+###Script:34
+Zero, keep it up...
+###--------
+You're just one step
+away from saving
+everyone.
+###--------
+###Script:35
+Zero...
+Stay safe...
+###--------
+###Script:48
+Hey Zero, you
+hanging in there?
+###--------
+Need a little work?
+Those dust clouds
+are something else.
+###--------
+No, I'm fine.
+###--------
+Alright, but don't
+overdo it.
+###--------
+Did you try out your
+Zero Knuckle yet?
+###--------
+You probably already
+know about it, but
+it's a weapon
+###--------
+onboard a chip
+implanted into your
+hand. It gives you a
+###--------
+big strength boost
+that comes in handy
+when attacking
+###--------
+enemies or stealing
+their weapons. It
+doesn't work for
+###--------
+every enemy, but for
+the ones it does,
+just finish them off
+###--------
+with the Zero
+Knuckle to grab
+their weapon.
+###--------
+By the way, what's
+your next move?
+###--------
+Ciel is looking into
+Area Zero.
+###--------
+I think the humans
+there need our
+help...
+###--------
+Looks like you've
+got your work cut
+out for you.
+###--------
+If there's anything
+I can do to help,
+don't be afraid to
+###--------
+ask!
+###--------
+Oh!
+###--------
+I almost forgot
+something important.
+###--------
+Enemies sometimes
+drop parts.
+###--------
+You might be able to
+use some of those
+to make new chips.
+###--------
+If you want to try
+making one, just let
+me know!
+###--------
+###Script:49
+Just some extra
+info on the Zero
+Knuckle... You
+###--------
+can push the Toss
+Button or pick a
+weapon from the sub
+###--------
+screen to throw away
+one you've taken
+from an enemy.
+###--------
+There's a limit to
+the amount of times
+you can use a
+###--------
+weapon that was
+taken, so keep that
+in mind. Oh, and
+###--------
+another thing, if
+you're hanging down,
+you don't need to go
+###--------
+to the sub screen to
+equip the Zero
+Knuckle, you can
+###--------
+just press Up while
+jumping or falling.
+Just remember that
+###--------
+you can't use your
+Zero Knuckle or any
+of the weapons
+###--------
+you've taken while
+hanging down. That's
+because you're using
+###--------
+the Zero Knuckle's
+power to hang down.
+If you need to
+###--------
+practice, go ahead
+and try it out in
+this room.
+###--------
+###Script:50
+If you want to make
+chips, the easiest
+way to go about it
+###--------
+is by finding
+recipes. The only
+problem with that
+###--------
+is some of the
+better chips don't
+have recipes.
+###--------
+###Script:51
+What's that? Nature
+is growing again in
+Area Zero?
+###--------
+Just goes to show
+the power of nature
+is head and
+###--------
+shoulders above the
+power of science...
+###--------
+###Script:52
+Zero, weren't you
+going to Area Zero?
+###--------
+You better not keep
+Ciel waiting.
+###--------
+###Script:53
+Ragnarok...
+###--------
+That Weil is a fool.
+###--------
+###Script:54
+Zero...
+###--------
+Even you don't stand
+a chance if Ragnarok
+is implemented...
+###--------
+You have to stop it
+before it's
+activated.
+###--------
+###Script:55
+Hmm? What's up Zero?
+###--------
+Ah, you're making
+the rounds trying to
+figure out what to
+###--------
+call the Elf eh?
+###--------
+Hmm...
+###--------
+###Script:56
+How about Progress?
+  I like it.
+  I don't think so.
+###--------
+###Script:57
+Progress is a great
+name for a brand new
+kind of Elf.
+###--------
+###Script:58
+Hmm...
+Not your thing?
+###--------
+Naming is not easy.
+###--------
+###Script:59
+Hmm...
+###--------
+Well, it doesn't
+matter how many
+times you ask,
+###--------
+Progress is what
+comes to my mind.
+###--------
+###Script:60
+Well, how about it?
+  I like it.
+  I don't think so.
+###--------
+###Script:61
+Then we agree!
+###--------
+Progress is a great
+name for a brand new
+kind of Elf.
+###--------
+###Script:62
+Hmm...
+No good, huh?
+###--------
+###Script:63
+Well, now that you
+have a name, go tell
+Alouette.
+###--------
+###Script:64
+What is it?
+###--------
+Alouette's waiting,
+you know.
+###--------
+###Script:65
+Hey Zero!
+###--------
+Did you know there
+are different
+levels for chips?
+###--------
+The different levels
+have similar recipes.
+###--------
+Just add a certain
+something to a level
+1 chip recipe and
+###--------
+voila, it becomes a
+level 2 chip.
+###--------
+###Script:66
+If you start to find
+a lot of parts, just
+come to me.
+###--------
+I'll make you some
+great chips from
+them!
+###--------
+###Script:67
+Hey Zero!
+###--------
+Are you picking up
+some parts?
+###--------
+Try just combining
+some of the parts
+you have. You might
+###--------
+discover a brand-new
+chip!
+###--------
+###Script:68
+If you want to make
+a rare chip, try
+finding more parts.
+###--------
+When you get more
+parts, be sure to
+drop by and see me!
+###--------
+###Script:71
+What!?
+Craft took Neige!?
+###--------
+Then...
+###--------
+The people at the
+Settlement must be
+off mounting a
+###--------
+rescue attempt,
+right?
+###--------
+###Script:72
+I don't think the
+humans stand a
+chance against Weil.
+###--------
+You need to get to
+Neige first.
+###--------
+###Script:73
+Hey Zero!
+###--------
+I'm glad Neige is
+okay.
+###--------
+I hope this helps
+the humans to open
+up to us.
+###--------
+###Script:74
+Zero...
+###--------
+Ragnarok is still
+underway?
+###--------
+We better stay on
+guard.
+###--------
+###Script:77
+It's been a long
+and tough fight...
+###--------
+But, I think you
+made the right
+decision.
+###--------
+###Script:78
+Zero...
+###--------
+I'm so sorry that
+all I can do is help
+you with new weapons
+###--------
+and chips. I feel
+terrible leaving all
+the fighting to you.
+###--------
+###Script:79
+Hey Zero!
+###--------
+It looks like you've
+managed to disable
+the protection
+###--------
+surrounding the
+Teleporter Base.
+###--------
+Now all that's left
+is the protection
+program blocking
+###--------
+access to Ragnarok.
+###--------
+###Script:80
+It's said that the
+inside of the
+circuit is like
+###--------
+Cyberspace, but the
+big difference is
+that Elves won't
+###--------
+automatically
+activate in the
+circuit.
+###--------
+###Script:81
+Hey Zero!
+###--------
+Good job taking out
+that protection
+program.
+###--------
+###Script:82
+Zero, the time has
+come.
+###--------
+...
+###--------
+I'm so sorry that
+all I can do is help
+you with new weapons
+###--------
+and chips. I feel
+terrible leaving all
+the fighting to you.
+###--------
+###Script:90
+Oh, Zero!
+###--------
+Check this Elf out.
+###--------
+It's actually really
+handy, but you can't
+use it in Hard Mode.
+###--------
+Sorry Zero...
+###--------
+I know you can't use
+it, but it still
+needs a name...
+###--------
+###Script:91
+Let me explain.
+###--------
+This new Elf can
+copy the abilities
+of other Elves.
+###--------
+In fact, it can
+handle up to 3 at a
+time!
+###--------
+Here's where it gets
+a little tricky.
+###--------
+The Elf has
+something called a
+max level.
+###--------
+If the 3 ability
+levels combined
+exceed the max,
+###--------
+then you lose a
+point for each
+level over the max.
+###--------
+In other words, as
+long as you keep the
+combined levels
+###--------
+below the max
+level, you don't
+lose any points!
+###--------
+There's probably
+also a way to raise
+the max level.
+###--------
+Of course, it can't
+be used in Hard
+Mode...
+###--------
+###Script:92
+Oh, Zero!
+###--------
+Take a look, this
+Elf's a real beaut!
+###--------
+It's Ultimate Mode,
+so it can use
+several abilities
+###--------
+at the same time!
+###--------
+Oh yeah, Zero!
+Could you help me
+with the name?
+###--------
+###Script:93
+Let me explain.
+###--------
+This new Elf can
+copy the abilities
+of other Elves.
+###--------
+It can handle a lot
+of abilities at the
+same time!
+###--------
+Here's where it gets
+a little tricky.
+###--------
+The Elf has
+something called a
+max level.
+###--------
+If the 3 ability
+levels combined
+exceed the max,
+###--------
+then you lose a
+point for each
+level over the max.
+###--------
+In other words, as
+long as you keep the
+combined levels
+###--------
+below the max
+level, you don't
+lose any points!
+###--------
+Well, then again
+because it's
+Ultimate Mode, you
+###--------
+don't have to worry
+about the max level.
+###--------
+Use it well!
+###--------
+###Script:96
+Oh, Zero!
+###--------
+A new Elf is coming
+soon!
+###--------
+I've been wracking
+my brain trying to
+come up with a name,
+###--------
+but I can't narrow
+it down to just one.
+###--------
+I guess I need to
+see it first.
+###--------
+###Script:97
+Hey, Zero.
+###--------
+I heard the new Elf
+is really smart!
+###--------
+If the Elf is
+smarter than me,
+maybe I can get it
+###--------
+to teach me
+something.
+###--------
+###Script:98
+Hey, Zero.
+###--------
+I asked Ciel to let
+me look after the
+new Elf.
+###--------
+I'm a little worried
+if I can do a good
+job or not.
+###--------
+###Script:99
+I hope the new Elf
+comes soon...
+###--------
+###Script:100
+Oh, Zero!
+###--------
+What's Area Zero
+anyway?
+###--------
+Rouge, the operator,
+explained it to me,
+but I don't get it.
+###--------
+###Script:101
+I'd like to see Area
+Zero just once.
+###--------
+###Script:102
+Oh, Zero!
+###--------
+Check this Elf out!
+###--------
+Its eyes are closed
+because it's still a
+baby.
+###--------
+It just came!
+###--------
+Oh yeah, Zero!
+I came up with a
+name...
+###--------
+###Script:103
+How's Croire?
+  I like it.
+  I don't think so.
+###--------
+###Script:104
+Really?
+That's great. I'm
+glad you like it!
+###--------
+Croire means
+"believe." Not a bad
+name at all!
+###--------
+###Script:105
+No!? I put a lot of
+thought into that
+name...
+###--------
+Well, go check with
+the others, they
+might have a better
+###--------
+name. When you find
+one, come back and
+I'll tell you how
+###--------
+to use the new Elf.
+###--------
+###Script:106
+Hey Zero...
+###--------
+Let's just go with
+Croire for the name.
+###--------
+###Script:107
+Croire's okay right?
+  I like it.
+  I don't think so.
+###--------
+###Script:108
+Really?
+I'm glad I thought
+of it then!
+###--------
+###Script:109
+You're no fun...
+###--------
+Hurry up and name
+the poor thing.
+###--------
+###Script:110
+Hey Zero...
+###--------
+Let's just go with
+Croire for the name.
+###--------
+###Script:111
+Croire's okay right?
+  I like it.
+  I don't think so.
+###--------
+###Script:112
+Really?
+I'm glad I thought
+of it then!
+###--------
+###Script:113
+You're no fun...
+###--------
+Hurry up and name
+the poor thing.
+###--------
+###Script:114
+Okay Zero, I'm going
+to tell you how the
+Elf works.
+###--------
+It came with a
+manual...
+###--------
+###Script:115
+Want me to explain?
+  Sure.
+  No.
+###--------
+###Script:116
+Okay, I'll explain!
+###--------
+This new Elf can
+copy the abilities
+of other Elves.
+###--------
+In fact, it can
+handle up to 3 at a
+time!
+###--------
+It's still a baby
+though, so you can't
+use all of them yet.
+###--------
+Give it E-Crystals
+to help it grow.
+###--------
+Here's where it gets
+a little tricky.
+###--------
+The Elf has
+something called a
+max level.
+###--------
+If the 3 ability
+levels combined
+exceed the max,
+###--------
+then you lose
+a point for each
+level over the max.
+###--------
+In other words, as
+long as you keep the
+combined levels
+###--------
+below the max
+level, you don't
+lose any points!
+###--------
+There's probably
+also a way to raise
+the max level.
+###--------
+When you want to
+help the Elf grow,
+come on by!
+###--------
+###Script:117
+Hmph!
+###--------
+I was all set to
+tell you about the
+Elf!
+###--------
+You're no fun at
+all...
+###--------
+I hope you know
+what you're doing.
+###--------
+###Script:118
+If you need any help
+with your Elf, leave
+it to me!
+###--------
+I still need to
+check the manual
+from time to time,
+###--------
+but I hope I can be
+of some help.
+###--------
+###Script:119
+Need help with your
+Elf, I'm your girl!
+###--------
+I hope I can be some
+use even if I have
+to check the manual
+###--------
+now and again.
+###--------
+###Script:120
+Need an explanation?
+  No, I'm fine.
+  Can I hear it?
+###--------
+###Script:121
+Alright...
+If you're sure.
+###--------
+###Script:122
+Alright!
+I'll start from the
+top.
+###--------
+###Script:123
+Wanna ask something?
+  Total Level
+  Max Level
+###--------
+###Script:124
+This Elf can handle
+one of each of the
+Nurse, Animal and
+###--------
+Hacker abilities.
+The combined level
+of all three
+###--------
+abilities is called
+the total level.
+Got it?
+###--------
+###Script:125
+The max level
+is basically how
+much you can use
+###--------
+your Elf without
+overdoing it.
+For example, if it
+###--------
+has a max level
+of 5, and the
+combined levels of
+###--------
+the Nurse, Animal
+and Hacker abilities
+comes to less than
+###--------
+5, then there is no
+point loss for using
+the Elf. If you
+###--------
+don't care about
+losing points, then
+you can always go
+###--------
+beyond the max.
+It's a bit tricky,
+but did you get it?
+###--------
+###Script:126
+Hey Zero!
+###--------
+Can you look after
+my Elf for me?
+###--------
+Take good care of it!
+###--------
+###Script:127
+Hey Zero!
+###--------
+You know...
+###--------
+Don't tell Ciel, but
+when I grow up, I
+want to do research
+###--------
+about Elves.
+###--------
+###Script:130
+Hey Zero...
+###--------
+The humans at the
+Settlement don't
+seem to like
+###--------
+Reploids very
+much...
+###--------
+But, I have faith in
+them. Neige and the
+others are human
+###--------
+just like Ciel, so
+they'll come
+around...
+###--------
+###Script:131
+Hey Zero...
+###--------
+Neige is okay,
+right?
+###--------
+###Script:132
+Zero!
+###--------
+What a relief Neige
+is okay!
+###--------
+###Script:133
+Hey Zero...
+###--------
+I wonder if I can
+make friends with
+the people in the
+###--------
+Settlement too?
+###--------
+###Script:136
+Hey Zero...
+###--------
+What'll happen to us
+if Ragnarok crashes
+down?
+###--------
+###Script:137
+I'm scared Zero...
+###--------
+###Script:138
+Hey Zero...
+###--------
+Why does Weil keep
+doing bad things?
+###--------
+He used Crea and
+Prea too!
+###--------
+I hope he gets
+what's coming to
+him!
+###--------
+###Script:139
+Speaking of them, do
+you think Crea and
+Prea are getting
+###--------
+along with the
+Mother Elf? I hope
+so!
+###--------
+###Script:140
+Hey Zero...
+###--------
+When you and Ciel
+have free time, we
+should all go and
+###--------
+check out Area Zero
+together. Let's
+promise!
+###--------
+###Script:141
+Zero, don't forget
+our promise!
+###--------
+###Script:142
+Oh Zero!
+###--------
+Check this Elf out,
+isn't it great!?
+###--------
+It's Easy Mode, so
+you don't even have
+to give it
+###--------
+E-Crystals to use
+its abilities!
+###--------
+Oh yeah! Zero, I
+thought of a name
+for it...
+###--------
+###Script:143
+Let me explain.
+###--------
+This new Elf can
+copy the abilities
+of other Elves.
+###--------
+In fact, it can
+handle up to 3 at a
+time!
+###--------
+But since it's Easy
+Mode, it can only
+handle up to level
+###--------
+5 abilities, and
+here's where it gets
+a little tricky.
+###--------
+The Elf has
+something called a
+max level.
+###--------
+If the 3 ability
+levels combined
+exceed the max,
+###--------
+then you lose a
+point for each
+level over the max.
+###--------
+In other words, as
+long as you keep the
+combined levels
+###--------
+below the max
+level, you don't
+lose any points!
+###--------
+There's probably
+also a way to raise
+the max level.
+###--------
+Use it well!
+###--------
+###Script:144
+Hey there, Zero!
+###--------
+Have you heard?
+###--------
+This trailer has
+been riding so rough
+for so long, my body
+###--------
+is all messed up.
+###--------
+###Script:145
+Oh yeah, Zero...
+###--------
+Weren't you going to
+head over to
+Cerveau's?
+###--------
+###Script:146
+Hey there, Zero!
+###--------
+Have you heard about
+the Weather Changer?
+###--------
+Let me just briefly
+explain it...
+###--------
+It's an orbiting
+satellite capable of
+altering the very
+###--------
+weather. It's still
+a work in progress,
+but it should be
+###--------
+online soon. There
+are only some areas
+it can be used in.
+###--------
+Depending on the
+area, a change of
+weather might make
+###--------
+it easier or harder
+to progress through
+it!
+###--------
+###Script:147
+Hey there, Zero!
+Have you heard?
+###--------
+Ciel's been waiting
+for you.
+###--------
+###Script:148
+Huh?
+###--------
+Nature is coming
+back to Area Zero?
+###--------
+I-I heard about
+that! Of c-course
+it is...
+###--------
+###Script:149
+Huh?
+###--------
+What kind of place
+is Area Zero?
+###--------
+I-I know, b-but you
+should see it with
+your own eyes.
+###--------
+###Script:150
+Ragnarok? That's the
+first time I've
+heard of it.
+###--------
+###Script:151
+I'll try to find out
+what I can to help
+you stop it!
+###--------
+###Script:152
+What is it Zero?
+###--------
+Huh? You want me to
+pick an Elf name?
+###--------
+Hmm, well...
+###--------
+###Script:153
+How's Nouvelle?
+  I like it.
+  I don't think so.
+###--------
+###Script:154
+Nouvelle's my
+favorite word!
+###--------
+It means "news."
+###--------
+Figures an
+information hound
+like me would come
+###--------
+up with a name like
+that eh?
+###--------
+I'm glad you liked
+it.
+###--------
+###Script:155
+B-but...
+###--------
+*sigh* It was such a
+good name too...
+###--------
+###Script:156
+Zero!
+###--------
+Nouvelle is the
+perfect name for
+that Elf!
+###--------
+###Script:157
+Don't you agree?
+  I like it.
+  I don't think so.
+###--------
+###Script:158
+You should've gone
+with that the first
+time.
+###--------
+You're way too
+wishy-washy.
+###--------
+###Script:159
+What?
+Here I thought you'd
+like it...
+###--------
+Nouvelle is such a
+cool name...
+###--------
+###Script:160
+Alouette's looking
+after the Elf?
+###--------
+Hmm...
+###--------
+Alouette's more
+responsible than I
+gave her credit for.
+###--------
+###Script:161
+Isn't Alouette
+waiting?
+###--------
+You should hurry
+over there.
+###--------
+###Script:162
+Hey there, Zero!
+Have you heard?
+###--------
+You can use the
+Weather Changer now.
+###--------
+###Script:163
+The areas you can
+use the Weather
+Changer are limited,
+###--------
+but you can tell
+which ones can be
+adjusted by the
+###--------
+weather icon on the
+monitor.
+###--------
+###Script:164
+Hey there, Zero!
+Have you heard?
+###--------
+If you alter the
+weather with the
+Weather Changer,
+###--------
+some of the Eight
+Warriors' weapons
+will be no good.
+###--------
+It would seem they
+use the weather to
+power up their
+###--------
+attacks, so make
+sure you avoid
+giving them the
+###--------
+edge when picking
+the weather for an
+area.
+###--------
+The one drawback is
+that you won't be
+able to pick up
+###--------
+their EX Skill.
+###--------
+###Script:165
+Hey there, Zero!
+Have you heard?
+###--------
+In order to make
+body chips, you'll
+need to pick up
+###--------
+Ceratanium.
+###--------
+###Script:168
+Hey there, Zero!
+Have you heard?
+###--------
+The journalist woman
+in the Settlement
+got kidnapped!
+###--------
+What? You knew?
+###--------
+You're pretty down
+with the latest
+happenings, huh?
+###--------
+###Script:169
+Hey there, Zero!
+Have you heard?
+###--------
+The name of the
+Reploid that has the
+journalist is Craft.
+###--------
+What? You knew that
+too!?
+###--------
+You really know your
+stuff!
+###--------
+###Script:170
+Hey there, Zero!
+Have you heard?
+###--------
+That journalist is
+safe now.
+###--------
+Oh! That's right,
+you saved her...
+###--------
+Sorry about that!
+###--------
+###Script:171
+I'm sorry.
+###--------
+Since I've been
+stuck here, I
+haven't been able to
+###--------
+go and get any new
+information for you.
+###--------
+I'm looking forward
+to traveling around
+the world again...
+###--------
+###Script:174
+Zero...
+###--------
+Back when I was
+traveling around the
+world, I saw a lot
+###--------
+of the devastation
+caused by war with
+my own two eyes.
+###--------
+I can understand now
+why Neige hates war
+so much.
+###--------
+Zero...
+###--------
+I wonder if humans
+and Reploids will
+ever be able to live
+###--------
+together in peace
+again?
+###--------
+###Script:175
+Zero...
+###--------
+I have a feeling we
+still have a lot
+left to do.
+###--------
+We need to pool our
+strength if we want
+to bring peace back
+###--------
+to this war-torn
+world.
+###--------
+###Script:176
+Zero!
+###--------
+You're going to
+enter Ragnarok from
+the Teleporter
+###--------
+Circuit?
+###--------
+That's nothing I've
+ever experienced, so
+I can't tell you
+###--------
+much about it...
+###--------
+###Script:177
+Tell me what it's
+like inside the
+circuit when you
+###--------
+get back.
+###--------
+###Script:178
+Zero...
+It's time...
+###--------
+You're the only one
+that can protect
+this world of ours
+###--------
+from the power of
+Ragnarok...
+###--------
+Take care of
+yourself!
+###--------
+###Script:179
+Zero...
+Play it safe and
+come back to us!
+###--------
+###Script:180
+Hey there, Zero!
+###--------
+Whazza-!?
+###--------
+Is that an S-Crystal
+you've got there?
+###--------
+That's a real
+beauty!
+###--------
+I'll trade you for a
+Sub Tank.
+###--------
+If you have any
+more, let me know!
+###--------
+###Script:181
+Hey there, Zero!
+###--------
+Got another
+S-Crystal?
+###--------
+I'll trade you for
+one of my Sub Tanks.
+###--------
+That's the last of
+them.
+###--------
+Use 'em well!
+###--------
+###Script:182
+Hey there, Zero!
+###--------
+Have you heard about
+the Weather Changer?
+###--------
+Let me just briefly
+explain it...
+###--------
+It's an orbiting
+satellite capable of
+altering the very
+###--------
+weather, but since
+this is Easy Mode,
+you can't use it.
+###--------
+Sorry...
+###--------
+###Script:183
+Hey there, Zero!
+Have you heard?
+###--------
+You can't use EX
+Skills in Easy
+Mode...
+###--------
+###Script:184
+If you beat Easy
+Mode, challenge
+Normal Mode next!
+###--------
+###Script:185
+Hey there, Zero!
+Have you heard?
+###--------
+Even if you beat an
+enemy in Easy Mode,
+they won't drop any
+###--------
+E-Crystals...
+###--------
+If you wanna know
+why, it's because
+Elves can't be
+###--------
+raised in Easy Mode.
+###--------
+###Script:186
+Hey there, Zero!
+###--------
+Have you heard about
+the Weather Changer?
+###--------
+Let me just briefly
+explain it...
+###--------
+It's an orbiting
+satellite capable of
+altering the very
+###--------
+weather, but since
+this is Hard Mode,
+you can't use it.
+###--------
+Sorry...
+###--------
+###Script:187
+Hey there, Zero!
+Have you heard?
+###--------
+You can't use EX
+Skills in Hard
+Mode...
+###--------
+###Script:188
+Hey there, Zero!
+Have you heard?
+###--------
+You can't use the
+Saber's Triple or
+Charge Attacks in
+###--------
+Hard Mode!
+###--------
+You can still charge
+the Zero Knuckle up
+though!
+###--------
+###Script:189
+Hey there, Zero!
+Have you heard?
+###--------
+There's no point to
+gathering E-Crystals
+in Hard Mode.
+###--------
+The simple reason is
+because you can't
+even use Elves!
+###--------
+###Script:192
+Hey Zero!
+###--------
+Weil's troops are
+still wandering
+around up ahead.
+###--------
+If we're not
+careful, we might
+be discovered.
+###--------
+We'll have to wait
+until they leave.
+###--------
+###Script:193
+Oh yeah, Zero.
+###--------
+Did you meet up with
+Cerveau?
+###--------
+If not, you should.
+###--------
+He'll tell you how
+to use your new
+weapons.
+###--------
+###Script:194
+Hey Zero!
+###--------
+I just received word
+from Ciel. She'd
+like you to go see
+###--------
+her in the
+commander's room.
+###--------
+###Script:195
+You don't want to
+keep Ciel waiting...
+###--------
+###Script:196
+Hey Zero!
+###--------
+With Weil's troops
+still crawling
+around, it's better
+###--------
+to wait a little
+longer.
+###--------
+###Script:197
+Zero...
+###--------
+Sorry, I wish I
+could come with you
+and offer a little
+###--------
+protection on your
+way to Area Zero,
+but I have to stay
+###--------
+here and stand
+guard.
+###--------
+###Script:198
+Hey Zero!
+###--------
+With Weil's troops
+still crawling
+around, it's better
+###--------
+to wait a little
+longer.
+###--------
+###Script:199
+I'll keep standing
+guard here!
+###--------
+###Script:200
+Hey Zero!
+###--------
+Me? Come up with an
+Elf name?
+###--------
+You sure it's okay
+for me to make that
+important decision?
+###--------
+Alright...
+###--------
+###Script:201
+How about Recrue?
+  I like it.
+  I don't think so.
+###--------
+###Script:202
+Are you sure?
+###--------
+Well, I'm glad you
+like it!
+###--------
+###Script:203
+No good huh?
+###--------
+Too bad...
+###--------
+###Script:204
+Zero...
+###--------
+Recrue means new
+warrior.
+###--------
+###Script:205
+Not bad, eh?
+  I like it.
+  I don't think so.
+###--------
+###Script:206
+Great!
+I'm glad you liked
+it.
+###--------
+###Script:207
+Not even with that
+meaning huh?
+Too bad.
+###--------
+###Script:208
+Hey Zero!
+###--------
+With Weil's troops
+still crawling
+around, it's better
+###--------
+to wait a little
+longer.
+###--------
+###Script:209
+Hey Zero!
+###--------
+What's that?
+You want my weapon?
+###--------
+Sorry, I need this
+little baby.
+###--------
+###Script:210
+Hey Zero!
+###--------
+Weil's troops have
+finally left the
+area.
+###--------
+Now you can go to
+the Settlement
+whenever you want!
+###--------
+I have to warn you
+though, they aren't
+going to be throwing
+###--------
+any welcome parties
+for Reploids like
+us.
+###--------
+It's too bad because
+we just want to help
+them.
+###--------
+###Script:211
+I'll keep standing
+guard here!
+###--------
+###Script:212
+Hey Zero!
+###--------
+When I was cleaning
+out the trailer, I
+found this.
+###--------
+I'm not too sure,
+but it looks like a
+recipe.
+###--------
+Maybe you can put it
+to better use than
+I can.
+###--------
+###Script:213
+Zero...
+###--------
+I've heard that
+Hirondelle has some
+Sub Tanks on hand
+###--------
+for when he goes
+traveling around the
+world.
+###--------
+If you can find an
+S-Crystal, he might
+trade you for one.
+###--------
+###Script:216
+Zero...
+###--------
+I can't believe what
+happened...
+###--------
+I hope Neige is
+okay...
+###--------
+###Script:217
+If the Settlement
+was attacked,
+###--------
+we might be in
+danger too.
+###--------
+I'll be extra
+vigilant in my guard
+duty!
+###--------
+###Script:218
+It's a relief to
+hear Neige is okay.
+###--------
+But poor Craft...
+###--------
+I can understand
+where he was coming
+from though.
+###--------
+###Script:219
+It looks like the
+people at the
+Settlement are
+###--------
+finally starting to
+understand us.
+###--------
+I wonder if the day
+when humans and
+Reploids can live
+###--------
+together in peace is
+closer than we
+realize.
+###--------
+###Script:222
+Zero...
+###--------
+You did good out
+there.
+###--------
+###Script:223
+I'll keep watch
+until we're sure the
+threat is over.
+###--------
+###Script:224
+Zero...
+###--------
+Can you really use
+the Teleporter Base
+to reach Ragnarok?
+###--------
+I was surprised to
+learn that Neo
+Arcadia made such
+###--------
+remarkable advances
+in technology.
+###--------
+###Script:225
+I'm sorry that
+you're the one that
+always ends up
+###--------
+having to risk your
+life for us...
+###--------
+###Script:226
+Zero...
+###--------
+I know it won't be
+easy, but watch it
+out there...
+###--------
+###Script:227
+I'll be waiting here
+for your safe
+return!
+###--------
+###Script:238
+Zero...
+###--------
+I got word that the
+newest Cyber-elf has
+arrived.
+###--------
+Alouette is eager
+to show you.
+###--------
+###Script:239
+Alouette was really
+looking forward to
+that new Elf.
+###--------
+###Script:240
+Need something Zero?
+###--------
+A name for the new
+Cyber-elf?
+###--------
+Alright, let me do a
+quick search for
+something good.
+###--------
+...
+###--------
+...
+###--------
+Thanks for waiting!
+How about the name
+Variable?
+###--------
+I picked it because
+it was the first
+thing that jumped
+###--------
+out at me...
+###--------
+###Script:241
+Is that name okay?
+  I like it.
+  I don't think so.
+###--------
+###Script:242
+I wonder if naming
+should be this easy?
+###--------
+Then again, a name
+is just an
+identifier.
+###--------
+###Script:243
+I'm sorry you didn't
+like it...
+###--------
+###Script:244
+What's up Zero?
+###--------
+Do you like the Elf
+name I chose after
+all?
+###--------
+###Script:245
+You like Variable?
+  I like it.
+  I don't think so.
+###--------
+###Script:246
+I knew you would!
+###--------
+You seem like the
+type to have a good
+sense for names.
+###--------
+###Script:247
+You really don't
+like it?
+###--------
+Too bad, but I hope
+you find a name you
+like soon.
+###--------
+###Script:248
+Zero...
+###--------
+Since the name's
+been decided, you
+should hurry up
+###--------
+and tell Alouette.
+###--------
+###Script:249
+I heard the new
+model of Cyber-elf
+is something else!
+###--------
+###Script:250
+Zero...
+###--------
+Alouette really
+likes that
+Cyber-elf,
+###--------
+so make sure you
+take good care of it
+for her.
+###--------
+###Script:251
+Zero...
+###--------
+Weil's troops have
+left the area around
+the Settlement.
+###--------
+You should head over
+and talk with the
+people there.
+###--------
+###Script:254
+Oh, Zero!
+###--------
+Take a look, this
+Elf's a real beaut!
+###--------
+It's Casual Scenario
+Mode, so it can use
+several abilities
+###--------
+at the same time!
+###--------
+Oh yeah, Zero!
+Could you help me
+with the name?
+###--------
+###Script:255
+Let me explain.
+###--------
+This new Elf can
+copy the abilities
+of other Elves.
+###--------
+It can handle a lot
+of abilities at the
+same time!
+###--------
+Here's where it gets
+a little tricky.
+###--------
+The Elf has
+something called a
+max level.
+###--------
+If the 3 ability
+levels combined
+exceed the max,
+###--------
+then you lose a
+point for each
+level over the max.
+###--------
+In other words, as
+long as you keep the
+combined levels
+###--------
+below the max
+level, you don't
+lose any points!
+###--------
+Well, then again
+because it's Casual
+Scenario Mode,
+###--------
+you don't have to
+worry about
+the max level.
+###--------
+Use it well!
+###--------

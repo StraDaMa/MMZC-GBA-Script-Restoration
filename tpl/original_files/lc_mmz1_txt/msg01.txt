@@ -1,0 +1,169 @@
+###TextArchive:msg01
+###Script:0
+You got the Z Saber!!
+###--------
+###Script:1
+You got the Triple Rod!!
+###--------
+###Script:2
+You got the Shield
+###--------
+Boomerang!!
+###--------
+###Script:3
+Buster Shot Skill Up!
+###--------
+You can now charge your
+###--------
+Buster up to 2 grades!!
+###--------
+###Script:4
+Buster Shot Skill Up!
+###--------
+You can now charge your
+###--------
+Buster in less time!!
+###--------
+###Script:5
+Buster Shot Skill MAX!
+###--------
+You can now charge your
+###--------
+Buster in less time!!
+###--------
+###Script:6
+Buster Shot Skill Up!
+###--------
+You can now shoot 4
+###--------
+bullets at a time!!
+###--------
+###Script:7
+Buster Shot Skill MAX!
+###--------
+You can now shoot 4
+###--------
+bullets at a time!!
+###--------
+###Script:8
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+double slash!!
+###--------
+###Script:9
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+triple slash!!
+###--------
+###Script:10
+Z Saber Skill Up!
+###--------
+You can now charge your
+###--------
+slash!!
+###--------
+###Script:11
+Z Saber Skill Up!
+###--------
+You can now charge your
+###--------
+slash in less time!!
+###--------
+###Script:12
+Z Saber Skill MAX!
+###--------
+You can now charge your
+###--------
+slash in less time!!
+###--------
+###Script:13
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+jumping rolling slash!!
+###--------
+###Script:14
+Z Saber Skill MAX!
+###--------
+You can now perform a
+###--------
+jumping rolling slash!!
+###--------
+###Script:15
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+dash rolling slash!!
+###--------
+###Script:16
+Z Saber Skill MAX!
+###--------
+You can now perform a
+###--------
+dash rolling slash!!
+###--------
+###Script:17
+Triple Rod Skill Up!
+###--------
+You can now perform a
+###--------
+double attack!!
+###--------
+###Script:18
+Triple Rod Skill Up!
+###--------
+You can now perform a
+###--------
+triple attack!!
+###--------
+###Script:19
+Triple Rod Skill Up!
+###--------
+You can now charge your
+###--------
+attack!!
+###--------
+###Script:20
+Triple Rod Skill MAX!
+###--------
+You can now charge your
+###--------
+attack in less time!!
+###--------
+###Script:21
+Shield Boomerang Skill Up!
+###--------
+You can now perform a
+###--------
+middle range attack!!
+###--------
+###Script:22
+Shield Boomerang
+###--------
+Skill MAX!
+###--------
+You can now perform a
+###--------
+long range attack!!
+###--------
+###Script:23
+You got the Thunder Chip!!
+###--------
+###Script:24
+You got the Flame Chip!!
+###--------
+###Script:25
+You got the Ice Chip!!
+###--------
+###Script:26
+You got a Cyber-elf!!
+###--------
+###Script:27
+You got the Escape Unit!!
+###--------

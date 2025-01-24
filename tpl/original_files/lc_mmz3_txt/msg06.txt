@@ -1,0 +1,65 @@
+###TextArchive:msg06
+###Script:0
+Operator:
+Ahead is the factory
+control unit.
+###--------
+Data from cameras
+in the factory is
+sent to this unit.
+###--------
+Destroy the cameras
+as you proceed.
+###--------
+###Script:2
+Well, if it isn't
+the legendary hero.
+###--------
+The Mechaniloids
+do all the repairs
+on their own.
+###--------
+So I was just
+trying to enjoy a
+little tea break.
+###--------
+How dare you disturb
+my peace and quiet!
+###--------
+Where are your
+manners, sir hero?
+###--------
+I, Devilbat Schilt,
+of Weil's Numbers,
+shall educate you.
+###--------
+###Script:3
+Kekeke!
+###--------
+The first lesson a
+gentleman must learn
+in refinement is...
+###--------
+Intruders are to
+expire without
+a fuss!
+###--------
+###Script:4
+Keke!
+###--------
+The blood of a
+century-old hero has
+such a lovely odor!
+###--------
+###Script:5
+Ke...keke!
+###--------
+No manners...
+No manners at all!
+###--------
+Trying to defy Lord
+Weil, what dismal
+behavior!
+###--------
+Ke...kekekekeeee!
+###--------

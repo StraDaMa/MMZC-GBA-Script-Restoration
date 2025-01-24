@@ -1,0 +1,18 @@
+###TextArchive:msg0D
+###Script:0
+Ciel: I've set a
+###--------
+coordinate axis...
+###--------
+Now you can return here
+###--------
+anytime you want...
+###--------
+So please return to the
+###--------
+base once,
+###--------
+before you go any further.
+###--------
+Please... Zero.
+###--------

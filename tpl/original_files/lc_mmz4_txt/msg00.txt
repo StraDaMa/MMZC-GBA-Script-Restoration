@@ -1,0 +1,1762 @@
+###TextArchive:msg00
+###Script:0
+Talk to who?
+  Operator
+  Ciel
+###--------
+###Script:1
+What's up?
+  Data storage
+  Talk
+###--------
+###Script:2
+  Save data
+  Load data
+  Delete data
+###--------
+###Script:3
+Oh, before that...
+###--------
+###Script:4
+I'll save your data!
+  Yes
+  No
+###--------
+###Script:5
+All saved!
+###--------
+I'll be here in the
+commander's room.
+###--------
+If you ever want to
+store your data,
+just drop by.
+###--------
+...
+###--------
+###Script:6
+You sure?
+Don't overdo it.
+###--------
+I'll be here if you
+change your mind.
+###--------
+I'm in charge of
+data. Just drop by
+if you need to save.
+###--------
+...
+###--------
+###Script:7
+Zero...
+I...
+###--------
+Worrying won't stop
+Weil's army.
+###--------
+You can only do your
+best and hope that's
+enough.
+###--------
+Alright then, let's
+do what we can to
+protect the nature
+###--------
+around Area Zero.
+I hope the people in
+the Settlement will
+###--------
+come to realize
+we're not trying
+to hurt them.
+###--------
+I'm sure they will.
+###--------
+###Script:8
+I've found signals
+for Weil's army!
+There are 8 units!
+###--------
+Ragnarok has
+begun...
+###--------
+###Script:9
+Feeding data to the
+screen now.
+###--------
+###Script:10
+Choose mission?
+  Yes
+  No
+###--------
+###Script:11
+Tell me when you're
+ready to go!
+###--------
+###Script:12
+There are Reploids
+converging on Area
+Zero!
+###--------
+Weil's Reploids are
+heading for the
+Settlement!
+###--------
+What!?
+They found it!?
+###--------
+Fighting is breaking
+out across the
+Settlement!
+###--------
+The Reploids are
+advancing.
+###--------
+Operator!
+Transfer me to the
+Settlement!
+###--------
+Inputting
+coordinates!
+###--------
+###Script:13
+Zero! Protect the
+Settlement...
+Please...
+###--------
+###Script:14
+Data saved!
+Zero, be careful!
+###--------
+Zero!
+Ready for transfer!
+###--------
+Transfer me!
+###--------
+###Script:15
+Zero, be careful!
+###--------
+Zero!
+Ready for transfer!
+###--------
+Transfer me!
+###--------
+###Script:16
+This is the point
+where Craft
+disappeared after
+###--------
+taking Neige.
+###--------
+This is probably the
+forward base for
+Ragnarok operations.
+###--------
+So Neige is here...
+###--------
+Hey Zero...
+###--------
+Are we doing the
+right thing?
+###--------
+You mean the people
+in the Settlement?
+###--------
+Yeah...
+Even if we help
+Neige...
+###--------
+What good will it do
+if the people don't
+open their hearts?
+###--------
+I've been thinking
+ever since I heard
+about how much the
+###--------
+humans hate the
+Reploids...
+###--------
+I wonder if we can
+make this world a
+better place.
+###--------
+###Script:17
+An outside line.
+It's coming from the
+Settlement.
+###--------
+Huh?
+###--------
+Patching it through.
+###--------
+Settlement youth:
+"Come in Zero..."
+###--------
+"We can't do
+ anything to save
+ Neige."
+###--------
+"We humans aren't as
+ strong as you
+ Reploids."
+###--------
+"But you were
+ right."
+###--------
+"If we abandon
+ Neige, this whole
+ Settlement means
+###--------
+ nothing."
+###--------
+"From the moment we
+ all decided to live
+ free of Weil's
+###--------
+ rule, Neige has
+ helped us too many
+ times to count."
+###--------
+"We don't have the
+ right to ask you
+ this, but..."
+###--------
+"Please save Neige
+ for us."
+###--------
+"If you really
+ aren't like Weil
+ and the others,
+###--------
+ please lend us your
+ strength!"
+###--------
+Zero!
+###--------
+I will save Neige.
+###--------
+Settlement youth:
+"Thank you...
+ and...good luck..."
+###--------
+Zero, we're ready
+when you are.
+###--------
+Zero...
+Be careful out
+there!
+###--------
+Operator,
+transfer me.
+###--------
+###Script:40
+Need something?
+  Item recipes
+  Talk
+###--------
+###Script:41
+What is it Zero?
+  Elf
+  Talk
+###--------
+###Script:42
+These are the areas
+you can go.
+###--------
+###Script:43
+This mission?
+  Yes
+  No
+###--------
+###Script:48
+Alright...
+Ready for transfer.
+###--------
+###Script:49
+Transfer!
+###--------
+###Script:51
+Zero, be careful.
+###--------
+###Script:53
+Zero...
+###--------
+###Script:54
+Zero...
+###--------
+Make sure you come
+back in one piece.
+###--------
+###Script:55
+Do your best Zero...
+###--------
+###Script:56
+Zero...
+###--------
+Come back to us...
+###--------
+###Script:59
+Zerooo!
+###--------
+###Script:60
+Transferring in...
+2...
+1...
+###--------
+###Script:61
+Welcome back.
+###--------
+###Script:64
+A large particle
+beam has been placed
+at point A-4 by
+###--------
+Weil's army.
+###--------
+It fires
+intermittent laser
+beams destroying
+###--------
+everything in the
+area.
+###--------
+It appears to be
+solar powered.
+###--------
+Soon, it'll be
+within firing range
+of Area Zero.
+###--------
+Cut the power supply
+to the particle beam
+before Area Zero
+###--------
+comes into its
+range.
+###--------
+###Script:65
+A large particle
+beam has been placed
+at point A-4 by
+###--------
+Weil's army.
+###--------
+It fires
+intermittent laser
+beams destroying
+###--------
+everything in the
+area.
+###--------
+It appears to be
+solar powered.
+###--------
+Soon, it'll be
+within firing range
+of Area Zero.
+###--------
+Cut the power supply
+to the particle beam
+before Area Zero
+###--------
+comes into its
+range.
+###--------
+Since the weather is
+overcast, the beam
+is not charging at
+###--------
+100% capacity. This
+may be your chance
+to strike.
+###--------
+###Script:66
+I received a report
+that the giant drill
+sub is currently
+###--------
+patrolling the
+bottom of the sea.
+Explosives are
+###--------
+packed on board, so
+I believe they are
+going to drill into
+###--------
+the earth and
+detonate the sub.
+By breaking up a
+###--------
+tectonic plate, they
+may start an
+earthquake of
+###--------
+catastrophic
+proportions. Stop
+the drill sub before
+###--------
+it reaches its
+destination.
+###--------
+###Script:67
+I received a report
+that the giant drill
+sub is currently
+###--------
+patrolling the
+bottom of the sea.
+Explosives are
+###--------
+packed on board, so
+I believe they are
+going to drill into
+###--------
+the earth and
+detonate the sub.
+By breaking up a
+###--------
+tectonic plate, they
+may start an
+earthquake of
+###--------
+catastrophic
+proportions. Stop
+the drill sub before
+###--------
+it reaches its
+destination. The
+weather is sunny, so
+###--------
+we shouldn't have
+any problems
+maintaining radio
+###--------
+contact. Ciel should
+be able to help you
+navigate your way to
+###--------
+the sub.
+###--------
+###Script:68
+We've located Weil's
+floating fortress.
+It generates special
+###--------
+clouds that become a
+source of lightning
+and acid rain. Get
+###--------
+on board and ground
+that floating
+monstrosity.
+###--------
+###Script:69
+We've located Weil's
+floating fortress.
+It generates special
+###--------
+clouds that become a
+source of lightning
+and acid rain. Get
+###--------
+on board and ground
+that floating
+monstrosity.
+###--------
+As the area is
+sunny, some of the
+clouds have
+###--------
+dissipated, keeping
+visibility high.
+This seems like an
+###--------
+opportune time to
+strike.
+###--------
+###Script:70
+This area used to
+belong to another
+resistance group.
+###--------
+Now it's being used
+as a forward base by
+Weil. I'm detecting
+###--------
+plant-like
+nanomachines. They
+seem to be thriving
+###--------
+on the geothermal
+energy. At this
+rate, they'll
+###--------
+continue until they
+engulf Area Zero.
+Stop them before
+###--------
+that happens.
+###--------
+###Script:71
+This area used to
+belong to another
+resistance group.
+###--------
+Now it's being used
+as a forward base by
+Weil. I'm detecting
+###--------
+plant-like
+nanomachines. They
+seem to be thriving
+###--------
+on the geothermal
+energy. At this
+rate, they'll
+###--------
+continue until they
+engulf Area Zero.
+Stop them before
+###--------
+that happens. It's
+overcast, so the
+nanomachines and
+###--------
+Mechaniloids are not
+operating at 100%
+efficiency. Now is a
+###--------
+good time to strike.
+###--------
+###Script:72
+I'm reading an
+abnormal spike in
+the heat signature
+###--------
+at point A-2. It
+seems as if Weil has
+taken over an
+###--------
+artificial sun,
+originally designed
+for weather control,
+###--------
+and has modified it
+to overheat. The
+extreme heat has
+###--------
+dried out the area,
+making it a desert.
+The desertification
+###--------
+is spreading towards
+Area Zero, so stop
+that sun before it's
+###--------
+too late.
+###--------
+###Script:73
+I'm reading an
+abnormal spike in
+the heat signature
+###--------
+at point A-2. It
+seems as if Weil has
+taken over an
+###--------
+artificial sun,
+originally designed
+for weather control,
+###--------
+and has modified it
+to overheat. The
+extreme heat has
+###--------
+dried out the area,
+making it a desert.
+The desertification
+###--------
+is spreading towards
+Area Zero, so stop
+that sun before it's
+###--------
+too late. It's
+overcast now, so the
+temperature is not
+###--------
+as bad as it could
+be. Consider
+yourself lucky, now
+###--------
+is a good time to
+strike.
+###--------
+###Script:74
+I've discovered an
+old Cyber-elf
+research lab that
+###--------
+is over a century
+old. Some of the
+failed experiments
+###--------
+have been in
+hibernation since
+the war... They are
+###--------
+starting to wake up,
+and some of them are
+quite dangerous.
+###--------
+There are
+Mechaniloids and
+Mavericks all over
+###--------
+the place.
+Infiltrate and wipe
+out the enemy.
+###--------
+###Script:75
+I've discovered an
+old Cyber-elf
+research lab that
+###--------
+is over a century
+old. Some of the
+failed experiments
+###--------
+have been in
+hibernation since
+the war... They are
+###--------
+starting to wake up,
+and some of them are
+quite dangerous.
+###--------
+There are
+Mechaniloids and
+Mavericks all over
+###--------
+the place.
+Infiltrate and wipe
+out the enemy.
+###--------
+It's sunny out, so
+some routes blocked
+by ice may become
+###--------
+available. You might
+discover a hidden
+route.
+###--------
+###Script:76
+I've detected a
+large magnetic flux
+at point B-1. The
+###--------
+electromagnetic
+pulses are
+generating a lot of
+###--------
+noise and it's
+spreading. There's a
+good chance the
+###--------
+noise could
+interfere with the
+operation of the
+###--------
+environmental
+control systems in
+Area Zero.
+###--------
+Infiltrate and put a
+stop to that device.
+###--------
+###Script:77
+I've detected a
+large magnetic flux
+at point B-1. The
+###--------
+electromagnetic
+pulses are
+generating a lot of
+###--------
+noise and it's
+spreading. There's a
+good chance the
+###--------
+noise could
+interfere with the
+operation of the
+###--------
+environmental
+control systems in
+Area Zero.
+###--------
+Infiltrate and put a
+stop to that device.
+The lightning
+###--------
+serving as a source
+of power has
+stopped, rendering
+###--------
+the device
+temporarily
+inactive. This is
+###--------
+your chance to stop
+it for good.
+###--------
+###Script:78
+I've discovered the
+ruins of what used
+to be a great city
+###--------
+a century ago. It
+looks to be a fully
+functional city, but
+###--------
+I detect no signs of
+life. The security
+system has been
+###--------
+hijacked by a virus.
+It would appear the
+security system is
+###--------
+growing and
+attacking anything
+in sight. Put a stop
+###--------
+to the city's
+ambitious expansion
+plans.
+###--------
+###Script:79
+I've discovered the
+ruins of what used
+to be a great city
+###--------
+a century ago. It
+looks to be a fully
+functional city, but
+###--------
+I detect no signs of
+life. The security
+system has been
+###--------
+hijacked by a virus.
+It would appear the
+security system is
+###--------
+growing and
+attacking anything
+in sight. Put a stop
+###--------
+to the city's
+ambitious expansion
+plans.
+###--------
+The snowfall in the
+area has interfered
+with security
+###--------
+system operation.
+Now is the perfect
+time to strike.
+###--------
+###Script:80
+I've put in the
+coordinates for the
+Teleporter Base.
+###--------
+###Script:82
+Using the Teleporter
+Base, we can
+transfer you to
+###--------
+Ragnarok, but you'll
+have to disable the
+protection around
+###--------
+Ragnarok on your
+own.
+###--------
+How do I do that?
+###--------
+I can help there.
+Whenever we transfer
+you somewhere, we
+###--------
+transform you into
+program data and
+send you over a
+###--------
+circuit. I can
+modify the transfer
+program to allow you
+###--------
+to move freely
+inside of the
+circuit.
+###--------
+It superimposes
+visuals on the
+circuit so you can
+###--------
+tell what's going
+on... That way you
+can navigate from
+###--------
+the Teleporter Base
+to Ragnarok via
+something akin to
+###--------
+Cyberspace. If you
+head towards the end
+of the circuit, you
+###--------
+should be able to
+directly disable the
+protection program.
+###--------
+With that out of the
+way, you should be
+able to finish
+###--------
+transferring over.
+###--------
+###Script:83
+It's finally time
+for Ragnarok.
+###--------
+I'll transfer you
+inside. Try to find
+a way to disable
+###--------
+Ragnarok's core
+without destroying
+it. If the core is
+###--------
+destroyed, Ragnarok
+may break apart.
+###--------
+With both Weil and
+Craft gone, who
+could still be
+###--------
+running Ragnarok?
+###--------
+Zero, I have a bad
+feeling about this.
+###--------
+Just be careful,
+okay?
+###--------
+Alright...
+###--------
+###Script:100
+Something about the
+Caravan bothering
+you?
+###--------
+###Script:101
+Yeah...
+###--------
+I was shocked to
+hear that all of the
+humans at the
+###--------
+Settlement hated
+the Reploids...
+###--------
+It's just I've...
+we've fought so hard
+for the Reploids,
+###--------
+that I didn't know
+other humans felt
+that way...
+###--------
+Didn't they say the
+Settlement was in a
+place called
+###--------
+Area Zero?
+###--------
+That's where we
+should be heading
+too.
+###--------
+They're struggling
+to maintain their
+independence from
+###--------
+Weil, and we have to
+help them.
+###--------
+Do what you feel is
+right.
+###--------
+Thanks Zero, I just
+need a little more
+time.
+###--------
+Now might be a good
+time to drop by
+Cerveau's for some
+###--------
+maintenance. After
+that come and see me
+in the commander's
+###--------
+room.
+###--------
+Oh, before that...
+###--------
+###Script:102
+Welcome back Zero.
+###--------
+It seems the
+Reploids weren't
+aware of the
+###--------
+Settlement's
+presence.
+###--------
+I know Neige warned
+us not to go to the
+Settlement, but we
+###--------
+need to tell them
+about Ragnarok.
+###--------
+With Weil's army so
+close, we can't
+afford to risk
+###--------
+alerting them to the
+Settlement's
+presence by
+###--------
+transferring you
+there. You'll have
+to go on foot, just
+###--------
+exit the trailer and
+keep going right. It
+shouldn't take you
+###--------
+long to reach it.
+###--------
+Oh, and Zero...
+###--------
+We just received
+data on an all new
+Cyber-elf from the
+###--------
+Resistance Base.
+###--------
+New Cyber-elf?
+###--------
+They've been
+conducting research
+on Cyber-elves.
+###--------
+We've got one of the
+new ones in the room
+next door with
+###--------
+Alouette. Pick it up
+from her. She also
+has the operating
+###--------
+manual, so ask her
+for more details
+about it.
+###--------
+I will.
+###--------
+When you're ready,
+head out to the
+Settlement.
+###--------
+I'll catch up to
+you later in the
+trailer.
+###--------
+###Script:104
+It looks like the
+boss of that area
+was the power
+###--------
+reactor for the
+particle beam.
+###--------
+Without that around,
+the beam's power is
+slowly fading away
+###--------
+and no longer poses
+a threat to Area
+Zero.
+###--------
+Good work Zero.
+###--------
+###Script:105
+So the boss of this
+area was one of
+Phantom's men...
+###--------
+Phantom lost his
+life in one of our
+many battles.
+###--------
+I sometimes wonder
+if all of our
+fighting is only
+###--------
+creating more
+suffering in the
+world?
+###--------
+###Script:106
+I can't believe they
+were planning to
+attack using that
+###--------
+flying fortress.
+###--------
+Weil means business.
+###--------
+I can't believe he's
+human. How can he
+be so cruel?
+###--------
+###Script:107
+Artificial plants...
+How ironic that the
+very technology
+###--------
+meant to protect
+nature is destroying
+it.
+###--------
+Humans are capable
+of the most
+wonderful and the
+###--------
+most terrifying
+things with the
+power of science.
+###--------
+As a scientist, it
+makes me shiver just
+thinking about it.
+###--------
+###Script:108
+Welcome back Zero.
+How are you holding
+up?
+###--------
+Even for you, that
+level of heat is
+dangerous.
+###--------
+I was so worried...
+###--------
+I'm glad to see
+you're safe.
+###--------
+###Script:109
+Thank you Zero.
+###--------
+You helped contain
+the Cyber-elves.
+###--------
+Now they can rest
+in peace...
+###--------
+###Script:110
+You managed to stop
+the spreading noise.
+###--------
+Good thing too
+because if it
+would've kept
+###--------
+going, even this
+trailer would've
+been in danger.
+###--------
+###Script:111
+There's something
+lonely about a ghost
+town...
+###--------
+Even if we win this
+battle, so long as a
+gulf exists between
+###--------
+humans and Reploids,
+things like that are
+bound to exist.
+###--------
+We must do what we
+can for everyone's
+future.
+###--------
+###Script:112
+Welcome back Zero.
+###--------
+I know where Neige
+was taken.
+###--------
+There's an enemy
+base west of our
+current position.
+###--------
+Neige and Craft
+should be there.
+###--------
+We're ready for
+transfer when you
+are.
+###--------
+###Script:113
+Transfer complete.
+###--------
+It's good to see you
+back.
+###--------
+Where's Neige?
+###--------
+She went back to the
+Settlement to tell
+everyone thanks.
+###--------
+I see...
+###--------
+Do you think we
+really helped the
+humans?
+###--------
+I do...
+###--------
+But we're not out of
+it yet, there's
+still work to do.
+###--------
+Right!
+Let's put a stop to
+Weil's evil plan!
+###--------
+###Script:114
+Thanks to you, we've
+secured access to
+the Teleporter
+###--------
+Circuit.
+###--------
+We still have to
+bypass the
+protection
+###--------
+surrounding
+Ragnarok, but I've
+got an idea.
+###--------
+Let's continue with
+the next mission
+when you're ready.
+###--------
+###Script:115
+If we don't stop
+Ragnarok, Area Zero
+is done for...
+###--------
+And the last of
+nature goes with it.
+###--------
+You can't fail...
+The world is
+counting on you.
+###--------
+And...
+###--------
+Make sure you come
+back, okay?
+###--------
+###Script:150
+All missions are
+complete.
+###--------
+Area Zero's
+situation is
+nominal.
+###--------
+It looks like I made
+it in time then.
+###--------
+###Script:151
+It looks like you
+did!
+###--------
+Now Area Zero is
+safe.
+###--------
+###Script:152
+I saved your data
+for you.
+###--------
+Take a break, you
+deserve one.
+###--------
+###Script:153
+Is everything okay?
+###--------
+Take a break, you
+deserve one.
+###--------
+###Script:154
+I'm receiving word
+from the Resistance
+Base.
+###--------
+Opening channel.
+###--------
+Ciel! Zero!
+It's terrible!
+###--------
+The base radar has
+detected a large
+energy signature!
+###--------
+The signature is
+coming from space!
+###--------
+Space!?
+###--------
+The energy signature
+is off the charts!
+###--------
+It's heading...
+Area Zero!
+Get out...there!
+###--------
+What is it!?
+Respond!
+###--------
+What's going on up
+there!?
+###--------
+###Script:155
+Something's
+overriding the
+signal!
+###--------
+The source is... Neo
+Arcadia!
+###--------
+???:
+"Hehehe..."
+###--------
+"Bwahahaha!"
+###--------
+I knew it...
+Dr. Weil!
+###--------
+I told you Zero!
+You don't have a
+chance of stopping
+###--------
+Ragnarok!
+###--------
+Laying down a
+blanket of
+destruction from
+###--------
+the comfort of my
+space cannon was
+what Ragnarok was
+###--------
+built for the
+whole time!
+###--------
+The Eight Warriors
+were nothing more
+than a diversion
+###--------
+until I could
+complete Ragnarok!
+###--------
+Operator!
+Can you transfer me
+to Ragnarok?
+###--------
+I'm sorry, I can't
+pinpoint the
+coordinates!
+###--------
+I can't send you
+anywhere without a
+destination!
+###--------
+Hehehe!
+Bwahahaha!
+###--------
+Your confusion
+thrills me to no
+end!
+###--------
+You pathetic
+insects crawling
+around getting
+###--------
+excited about your
+precious nature!
+###--------
+I want to hear you
+scream as you meet
+your doom!
+###--------
+###Script:156
+???:
+"The only one that's
+ doomed is you!"
+###--------
+How dare you!
+###--------
+That voice...
+Craft!?
+###--------
+###Script:157
+Craft:
+"I've destroyed
+ Ragnarok's remote
+###--------
+ control system."
+###--------
+"I am no longer your
+ dog to yank around
+ by the chain!"
+###--------
+###Script:158
+Now I control
+Ragnarok!
+###--------
+Your space cannon
+is no longer pointed
+at Area Zero...
+###--------
+It's pointed at you
+and Neo Arcadia!
+###--------
+Seduced by the sweet
+words of a woman!
+###--------
+Unbelievable!
+###--------
+You do realize how
+many humans and
+Reploids are living
+###--------
+under my control!
+###--------
+Are you saying I
+should play the
+loyal Reploid and
+###--------
+follow you!?
+###--------
+Not doing...
+Not thinking...
+###--------
+Just waiting at
+your beck and call?
+###--------
+And are you
+condoning the
+destruction of
+###--------
+nature, struggling
+just to survive!?
+###--------
+I... I will not let
+you take control!
+###--------
+I've fought too long
+and too hard for
+humanity to let you!
+###--------
+I will change the
+world!
+###--------
+###Script:159
+What!? So you're
+going to attack Neo
+Arcadia instead!?
+###--------
+There are still
+humans and Reploids
+there!
+###--------
+Come in Resistance
+Base!
+###--------
+..el!
+Com...!
+Cie...
+###--------
+Communication
+restored!
+Ciel, come in!
+###--------
+Get everyone in the
+Resistance over to
+Neo Arcadia!
+###--------
+Get the humans and
+Reploids out of
+there!
+###--------
+Even if you have to
+force them out, try
+to save as many as
+###--------
+you can!
+###--------
+###Script:160
+Too many have
+already seen enough
+suffering...
+###--------
+Understood!
+I will relay your
+orders immediately!
+###--------
+Preparations for
+transfer to Ragnarok
+complete!
+###--------
+Since the
+coordinates are
+based on Craft's
+###--------
+signal, this will be
+a forced transfer.
+Also, your position
+###--------
+will be somewhat
+removed from Craft's
+in the control room.
+###--------
+Alright, just
+transfer me...
+###--------
+Ciel...
+###--------
+Don't give up
+hope...
+###--------
+Zero!
+###--------
+###Script:170
+Colbor Team here!
+###--------
+Mission complete
+Ciel!
+###--------
+###Script:171
+The humans and
+Reploids have been
+evacuated!
+###--------
+Neo Arcadia has been
+eradicated by
+Ragnarok's attack...
+###--------
+There is nothing but
+a crater in the
+center where Weil
+###--------
+was.
+###--------
+I doubt there were
+any survivors
+in that area...
+###--------
+###Script:172
+I see...
+Good work
+everyone...
+###--------
+Continue to search
+for any survivors...
+###--------
+Colbor:
+"Acknowledged..."
+###--------
+Ciel, are you okay?
+###--------
+I'm okay... Just a
+little tired...
+###--------
+###Script:173
+Incoming
+communication from
+an outside line...
+###--------
+It's from the
+Settlement. I'll
+patch it in.
+###--------
+Neige:
+"Zero..."
+###--------
+Neige...
+###--------
+It was just like you
+said...
+###--------
+It doesn't matter
+what I do, as long
+as I keep fighting,
+###--------
+I'm no different
+from Weil.
+###--------
+And I... had to
+fight Craft...
+###--------
+Neige:
+"No Zero..."
+"Thank you..."
+###--------
+"For stopping
+ Craft..."
+###--------
+###Script:174
+Ragnarok and Neo
+Arcadia are no
+more...
+###--------
+Is it finally over?
+###--------
+So many humans and
+Reploids lost their
+lives...
+###--------
+Zero, did we do the
+right thing?
+###--------
+###Script:175
+What was that!?
+###--------
+It... came from
+Ragnarok!
+###--------
+It's still
+operational!
+###--------
+But Weil and Craft
+are gone!
+###--------
+Who could be
+controlling it!?
+###--------
+Operator!
+Send me back to
+Ragnarok!
+###--------
+I can't!
+Only the control
+room is connected.
+###--------
+There's protection
+around the circuit
+to the center.
+###--------
+We can't transfer
+you from the access
+port in the trailer!
+###--------
+Ragnarok is
+accelerating...
+###--------
+And it's heading
+straight for...
+###--------
+What's wrong?
+###--------
+It's heading
+straight for Area
+Zero!
+###--------
+Someone's trying to
+crash it!
+###--------
+What!?
+###--------
+There's still some
+time before it
+touches down, but we
+###--------
+can't disable the
+circuit protection
+from here!
+###--------
+Isn't there
+something we can
+do!?
+###--------
+Neige:
+"Zero! Ciel!"
+"You okay!?"
+###--------
+###Script:176
+Neige!
+Ragnarok is...
+###--------
+Neige:
+"I heard!"
+###--------
+"I'm sending over
+ some coordinates,
+ you might be able
+###--------
+ to reach Ragnarok
+ with these!"
+###--------
+Wh...
+Where do these go?
+###--------
+Neige:
+"To the Teleporter
+ Base in Neo
+###--------
+ Arcadia."
+###--------
+"It was originally
+ designed to
+ transfer troops.
+###--------
+ It might have just
+ enough power to get
+ you over to
+###--------
+ Ragnarok!"
+###--------
+Coordinates received
+from the Settlement.
+###--------
+Inputting now.
+###--------
+Zero!
+###--------
+If that's our only
+chance, it's one I
+have to take.
+###--------
+###Script:177
+Coordinates to the
+Teleporter Base have
+been set.
+###--------
+###Script:178
+Transfer to T. Base?
+  Yes
+  No
+###--------
+###Script:179
+Preparations for
+transfer complete!
+###--------
+Transferring!
+###--------
+###Script:180
+Alright, I'll add
+the Base to the map.
+###--------
+It's available
+whenever you're
+ready.
+###--------
+###Script:217
+<textColorRed>Hard Mode<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+Can play hard mode.
+###--------
+###Script:218
+<textColorRed>Ultimate Mode<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+Can play ultimate mode.
+###--------
+###Script:220
+<textColorRed>"Plant Panic"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:221
+<textColorRed>"Busy Basket"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:222
+<textColorRed>"Lumberjack"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:223
+<textColorRed>"Lava Surf"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:224
+<textColorRed>"Elf Chase"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:225
+<textColorRed>"Slam Harvest"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:226
+<textColorRed>"Energy Lab"<textColorWhite>
+<textColorRed>Mini Game<textColorWhite> added.
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:230
+Stop the Mini Game?
+  Yes
+  No
+###--------

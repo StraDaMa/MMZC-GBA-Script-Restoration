@@ -1,0 +1,287 @@
+###TextArchive:msg0F
+###Script:0
+Operator:
+First, please go to
+the Data Room.
+###--------
+That room has the
+highest probability
+of containing
+###--------
+information about
+Weil and Omega.
+###--------
+###Script:1
+Operator:
+This is the Data
+Room.
+###--------
+Please search for
+information on Weil
+at that console.
+###--------
+After searching,
+the data's location
+will be displayed.
+###--------
+Please go to that
+area, and recover
+the data.
+###--------
+###Script:2
+Push Up on +Control Pad.
+###--------
+###Script:3
+Four matches...
+###--------
+Weil, Omega, Dark
+Elf, Elf Wars...
+###--------
+###Script:4
+Three more matches.
+###--------
+###Script:5
+Two more matches.
+###--------
+###Script:6
+Last one...
+###--------
+###Script:7
+Specify search data.
+###--------
+###Script:8
+Area with Weil's
+data found.
+###--------
+To search for more
+information, use the
+console again.
+###--------
+###Script:9
+Area with Omega's
+data found.
+###--------
+To search for more
+information, use the
+console again.
+###--------
+###Script:10
+Area with Dark Elf's
+data found.
+###--------
+To search for more
+information, use the
+console again.
+
+###--------
+###Script:11
+Area with data
+concerning the Elf
+Wars found.
+###--------
+To search for more
+information, use the
+console again.
+###--------
+###Script:12
+Who dares intrude
+upon my territory?
+###--------
+...Ze-Zero! Heheh!
+So, it's you!
+Heheh!
+###--------
+###Script:13
+I am Volteel Biblio,
+of Weil's Numbers.
+###--------
+What is that you've
+got there? Give that
+data back! Nooowww!
+###--------
+###Script:14
+Heheheheh!
+###--------
+You can't have this
+data! Nyah nyah
+nyah nyaaaah nyah!
+###--------
+###Script:15
+What's up with you!
+###--------
+You're opposing
+Lord Weil?! Aren't
+you afraid of him?!
+###--------
+You...you're crazy!
+###--------
+Aaaaaarrrggghhh!!!
+###--------
+###Script:16
+Operator: Mission
+completed. Commencing
+transfer.
+###--------
+###Script:17
+You got Weil's data!
+###--------
+###Script:18
+You got Omega's data!
+###--------
+###Script:19
+You got the Dark Elf data!
+###--------
+###Script:20
+You got the Elf Wars data!
+###--------
+###Script:21
+File #650326
+== Dr. Weil ==
+###--------
+From Neo Arcadia...
+###--------
+Creator of Omega...
+###--------
+Altered the Mother
+Elf, sparking the
+Elf Wars...
+###--------
+Banished from Neo
+Arcadia after the
+Elf Wars...
+###--------
+###Script:22
+If we can analyze
+this data, we might
+be able to find some
+###--------
+new information
+about Weil...
+###--------
+###Script:23
+File #815156
+== Omega ==
+###--------
+The ultimate
+Reploid, created by
+Dr. Weil...
+###--------
+Possesses incredible
+power when combined
+with the Dark Elf.
+###--------
+Banished to outer
+space to avoid
+another Elf War...
+###--------
+###Script:24
+If we can analyze
+this data, we might
+be able to find out
+###--------
+something new
+about Omega...
+###--------
+###Script:25
+File #351848
+== Dark Elf ==
+###--------
+Officially known as
+the "Mother Elf."
+Creator unknown.
+###--------
+This Cyber-elf was
+originally created
+for the purpose of
+###--------
+restoring Maverick
+Programs to their
+original state...
+###--------
+But the Mother Elf
+was altered by Dr.
+Weil so she could be
+###--------
+used to manipulate
+Reploids, by freely
+rewriting programs.
+###--------
+Although the
+organized fighting
+of the Reploids
+###--------
+manipulated by the
+altered Mother Elf
+did end the wars,
+###--------
+this terrible power
+was sealed off to
+prevent misuse.
+###--------
+###Script:26
+So, the Dark Elf...
+What's going on?
+###--------
+...
+###--------
+If we can analyze
+this data, we might
+be able to find out
+###--------
+something new
+about her...
+###--------
+###Script:27
+File #945388
+== Elf Wars ==
+###--------
+.........end of the
+.........Wars......
+Cyber-elves......used...
+###--------
+...........from this time
+....................
+...........................
+###--------
+....Elf Wars..............
+###--------
+..........the use...
+.........................
+...."Dark Elf,"
+###--------
+and copies........
+...................
+.......
+###--------
+...amplify the power
+..............
+###--------
+while............
+............at
+will...
+###--------
+..........the worst
+....in.........
+..........
+###--------
+....................
+............the war...
+...end.................
+###--------
+Approximately 90%...
+.............
+###--------
+......................
+.........wiped.....
+###--------
+###Script:28
+Ciel: Zero? It looks like
+###--------
+that data is corrupt. I
+###--------
+think we may be able to
+###--------
+repair it at the base.
+###--------
+Thank you...Zero...
+###--------

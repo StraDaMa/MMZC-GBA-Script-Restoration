@@ -1,0 +1,1973 @@
+###TextArchive:msg02
+###Script:0
+Wow! Are you
+Zero? I never
+thought I'd get
+to meet you.
+###--------
+We believe that
+your Z Saber
+has unlimited
+potential for
+###--------
+power-ups. It
+could also have
+an effect on
+other weapons.
+###--------
+I believe your
+buster can be
+charged to shoot
+a powerful
+###--------
+energy bullet.
+###--------
+<option>Learn more
+about weapons?
+  Yes, please.
+  Not really...
+###Command:option secondAnswerIndex=1
+###--------
+I know you've
+lost your memory,
+but you still
+have Skills. You
+###--------
+just need to find
+a way to recover
+them.
+###--------
+Supposedly, your
+memory has been
+improving ever
+since you
+###--------
+obtained the Z
+Saber.
+###--------
+Don't worry,
+everything you
+learned during
+the battles in
+###--------
+your past life
+will come back in
+time.
+###--------
+The number of
+skills you've
+recalled is shown
+in the Sub-screen
+###--------
+by the number of
+★. Check it
+sometimes.
+###--------
+<msgSub>I see... That's
+unfortunate. I'm
+not good at
+persuading
+###Command:msgSub subindex=1
+###--------
+someone to change
+his mind...
+###--------
+###Script:1
+I still can't
+believe you are
+who Ciel says you
+are.
+###--------
+Wait, I'm getting
+ahead of myself.
+My name is
+Cerveau.
+###--------
+As you can see,
+I'm a Reploid
+engineer.
+###--------
+Ciel and I have
+been researching
+and conducting
+experiments on
+###--------
+entities called
+Cyber-elves. They
+were kind enough
+to spared me an
+###--------
+engine room which
+I modified to be
+my laboratory.
+###--------
+###Script:2
+If only I had
+enough time and
+data, I could
+develop some
+###--------
+weapons for
+you...
+###--------
+I'm too busy to
+ask old Andrew to
+tell me about old
+times. But, you
+###--------
+should try to
+keep him company
+and listen to
+what he has to
+###--------
+say. It's helpful
+and informative
+to spend time
+with the aged.
+###--------
+###Script:3
+Zero, you came
+just in time.
+Look at this.
+It's a weapon
+###--------
+called the Triple
+Rod. You can
+attack in any of
+the eight
+###--------
+directions. It
+requires some
+technique, but
+I'm sure you'll
+###--------
+be able to handle
+it.
+###--------
+###Script:4
+I hope you like
+it.
+###--------
+###Script:5
+By the way, if
+you want to
+perform an attack
+with the
+###--------
+attribute of the
+Element you have
+equipped,
+remember to
+###--------
+charge your
+weapon before you
+use it!
+###--------
+###Script:6
+Zero, I created a
+new weapon for
+you! It's
+called... Oh, I
+###--------
+haven't named it
+yet... Say, I'll
+call it Shield
+Boomerang!
+###--------
+###Script:7
+Not only can you
+use the Shield
+Boomerang to
+block enemies'
+###--------
+bullets, but you
+can also throw it
+if you charge it.
+###--------
+However, you
+can't perform a
+dash while you
+equip the Shield
+###--------
+Boomerang. Keep
+that in mind.
+###--------
+###Script:8
+This is all I can
+do for you for
+now. Good luck!
+###--------
+###Script:9
+As you may know,
+the more you use
+a particular
+weapon, the more
+###--------
+your skill on it
+will go up!
+###--------
+###Script:10
+Just between us,
+developing
+weapons is not
+easy to do.
+###--------
+###Script:11
+Science can be a
+cut-throat
+business... I've
+had ideas and
+###--------
+secret data
+stolen several
+times...
+###--------
+I'm sorry, I'm
+afraid I was kind
+of sloppy.
+###--------
+###Script:12
+Thank goodness!
+Zero, are you
+alright? I
+thought I was
+###--------
+doomed... 
+Thank you for
+saving us,
+Zero...
+###--------
+###Script:13
+I'm fine, thank
+you. It could
+have been worse.
+Is everyone okay?
+###--------
+You don't need
+to worry about
+me and my
+laboratory
+###--------
+anymore. You
+should go
+check Ciel.
+###--------
+###Script:14
+I'm proud to
+have helped
+a Reploid like
+you.
+###--------
+###Script:15
+I hope you
+continue to
+support the
+Resistance.
+###--------
+###Script:16
+Zero... Since you
+came to this
+place, I've
+regained my
+###--------
+confidence both
+as a scientist
+and engineer.
+###--------
+###Script:17
+I want to develop
+more weapons for
+you... Come back
+alive, Zero.
+###--------
+###Script:18
+I look forward to
+your safe return.
+###--------
+###Script:19
+Oh, you are
+unfamiliar to me.
+Are you new here?
+###--------
+Kick butt so that
+you can become a
+Reploid like the
+others.
+###--------
+###Script:20
+Ummm... You are a
+new boy, aren't
+you. Are you 
+kicking butt, so
+###--------
+as to become like
+the other
+Reploids?
+###--------
+Listen, son.
+###--------
+Are you 
+interested in
+###--------
+<option>what I have to
+say?
+  Yes, I am.
+  No. I'm busy.
+###Command:option secondAnswerIndex=1
+###--------
+You are
+interested in my
+story! Thanks for
+saying that...
+###--------
+I may not look
+it, but I used to
+be a handsome
+Reploid. I was
+###--------
+very popular with
+the ladies.
+###--------
+It was the night
+of the full moon
+when it
+happened...
+###--------
+I was carrying
+containers in a
+warehouse at the
+harbor, when I
+###--------
+heard a song
+drifting over the
+night air. I
+looked up to find
+###--------
+a beautiful lady
+with long hair
+singing in front
+of the crowd that
+###--------
+had gathered at
+the harbor.
+###--------
+I was amazed to
+find that I was
+deeply moved by
+her song though
+###--------
+my body and mind
+are made of
+machines...
+###--------
+After spending
+time together and
+talking, we fell
+in love, and
+###--------
+eventually
+started living
+together...
+###--------
+Umm? Are you
+tired of
+###--------
+<option>listening to my
+story yet?
+  Yes.
+  No, not at all.
+###Command:option secondAnswerIndex=2
+###--------
+I see. I
+understand. It's
+boring to listen
+to what old folks
+###--------
+have to say.
+###--------
+<msgSub>How unfortunate.
+If you were a
+Reploid, you
+could spare some
+###Command:msgSub subindex=1
+###--------
+time, I guess...
+Oh, well.
+###--------
+<msgSub>Oh, you want to
+listen!
+###Command:msgSub subindex=2
+###--------
+I told you up to
+the time we began
+to live together,
+didn't I?
+###--------
+I'll continue...
+As time went by,
+she grew older
+and older,while
+###--------
+I remained the
+same. She came to
+resent how she
+looked, and began
+###--------
+avoiding me. So,
+I asked Ciel to
+modify me to be
+what I am now...
+###--------
+So that we could
+be together.
+###--------
+She has long
+since passed
+away, but the
+memory of her
+###--------
+will never be
+erased from my
+memory chip...
+###--------
+Thank you for
+indulging me with
+your company and
+listening to my
+###--------
+story. Keep this
+as a token of my
+gratitude.
+###--------
+###Script:21
+Good luck, son.
+###--------
+###Script:22
+Welcome, son.
+You must have
+a lot of time
+on your hands!
+###--------
+Will you spare
+time to listen to
+###--------
+<option>what I have to
+say?
+  Okay, I will.
+  No,not now.
+###Command:option secondAnswerIndex=3
+###--------
+I'll tell you a
+story of when I
+was a sailor. The
+first ship I was
+###--------
+assigned to was a
+huge, gorgeous
+yellow vessel.
+###--------
+Storms and high
+winds tossed me
+into the ocean
+many times during
+###--------
+my freshman days.
+Every time I fell
+in, I'd cause the
+crew a lot of
+###--------
+trouble. I can't
+remember how many
+times I thought I
+should quit the
+###--------
+job and go back
+home...
+###--------
+<option>Hmmm? Do you wish
+to leave now?
+  Yes.
+  No, I don't.
+###Command:option secondAnswerIndex=4
+###--------
+That's too bad...
+Well, thank you
+for your time.
+###--------
+<msgSub>You say you've
+heard enough...
+###Command:msgSub subindex=3
+###--------
+Okay, then.
+Thanks for
+listening.
+###--------
+<msgSub>Okay, let me
+continue.
+###Command:msgSub subindex=4
+###--------
+Time passed, and
+I became a
+full-fledged
+sailor. I
+###--------
+traveled all over
+the world and got
+###--------
+to meet lots of
+people, and
+experienced
+emotional
+###--------
+farewells.
+There's just as
+many farewells
+for that as there
+###--------
+are hellos.
+###--------
+Funny, I know
+that some of my
+bosses were very
+demanding, yet I
+###--------
+only have fond
+memories of them
+now.
+###--------
+Once peace is
+restored, I'd
+like to go see
+the ocean again.
+###--------
+Thank you for
+sharing your
+time. As a token
+of my gratitude,
+###--------
+I'll spare you
+some Energy
+Crystal.
+###--------
+###Script:23
+Please come back,
+if you have time.
+###--------
+###Script:24
+Hello, son. How
+are you doing?
+Have you settled
+into the job?
+###--------
+I guess it's
+tough for a
+rookie.
+Good luck!
+###--------
+###Script:25
+If you need
+someone to tell
+your woes to,
+call on me
+###--------
+any time.
+###--------
+###Script:26
+Hello son.
+Are you all
+right?
+###--------
+###Script:27
+If I were a
+little younger, I
+would kick their
+butts, or toes...
+###--------
+###Script:28
+I envy young
+Reploids... I
+wish I were a few
+years younger...
+###--------
+###Script:29
+Hello, son. You
+know what?
+###--------
+I heard it was a
+red Reploid who
+saved us and our
+base. You should
+###--------
+take a leaf out
+of his book, and
+be a hero like
+him.
+###--------
+###Script:30
+A legendary
+Reploid... I
+wonder what he
+looks like. I'd
+###--------
+like to catch a
+glimpse of him.
+###--------
+###Script:31
+Hello, son. You
+look much
+stronger than
+when you first
+###--------
+arrived.
+It may just be my
+imagination, but
+you look very
+###--------
+familiar... Am I
+hallucinating?
+###--------
+###Script:32
+I almost
+forgot...
+I meant to ask
+you your name
+###--------
+when you came
+here again...
+###--------
+Never mind. It's
+too late now.
+See you later.
+###--------
+###Script:33
+You don't look
+familiar to me,
+sir...
+###--------
+I see.
+Zero is your
+name...
+###--------
+###Script:34
+Then I'll call
+you Mr. Zero.
+My name is Dande.
+It's the name
+###--------
+Ciel gave me. I
+used to be called
+ONB6. Dull name,
+isn't it.
+###--------
+###Script:35
+Thank you very
+much, sir! They
+say you saved a
+friend of mine.
+###--------
+Thank you so
+much!
+###--------
+###Script:36
+エラー
+###--------
+###Script:37
+I don't know how
+to thank you,
+Mr. Zero.
+###--------
+###Script:38
+エラー
+###--------
+###Script:39
+That's you, Mr.
+Zero! Everybody
+calls you "ZERO
+THE <printCodeName>!"
+###Command:printCodeName
+###--------
+You are true to
+your reputation.
+Keep going and
+fight for world
+###--------
+peace for me,
+sir.
+###--------
+###Script:40
+Some call you
+"ZERO THE
+<printCodeName>" behind
+your back, sir.
+###Command:printCodeName
+###--------
+But I believe you
+are a great
+Reploid.
+###--------
+###Script:41
+Have you gotten
+used to the life
+here? Every one
+is so friendly, I
+###--------
+think it's easy
+to get along with
+us, sir.
+###--------
+###Script:42
+If you have time,
+why don't you
+talk to them?
+Some Reploids are
+###--------
+a little
+eccentric, but
+every one is
+honest at heart.
+###--------
+###Script:43
+I'd like to be a
+useful Reploid.
+Can you think of
+something I could
+###--------
+do, sir.
+###--------
+###Script:44
+Mr. Zero, please
+stay. We need
+your help.
+###--------
+###Script:45
+Miss Ciel was
+fine, right?
+Oh, thank
+goodness.
+###--------
+###Script:46
+That Neo Arcadia!
+I'll never
+forgive them!
+###--------
+###Script:47
+I wonder if Neo
+Arcadia is really
+a utopia?
+###--------
+###Script:48
+I like this place
+better than Neo
+Arcadia.
+###--------
+###Script:49
+Mr. Zero, don't
+work so hard,
+sir.
+
+###--------
+###Script:50
+Everyone is
+waiting for you
+to return,sir!
+###--------
+###Script:51
+Nice to meet you.
+You saved Ciel,
+didn't you?
+###--------
+My name is
+Alouette. Ciel
+named me.
+###--------
+###Script:52
+Have you ever
+heard of a thing
+called Cyber-elf?
+###--------
+A Cyber-elf is an
+electronic entity
+that gives some
+kind of a power.
+###--------
+But once they use
+their powers,
+they die...
+###--------
+I feel sorry for
+them...
+###--------
+###Script:53
+I'd say you are
+like <printCodeName>.
+That's why you
+could save Ciel,
+###Command:printCodeName
+###--------
+I guess.
+Oops, I almost
+forgot... I heard
+that a Cyber-elf
+###--------
+who was in Ciel's
+room is missing.
+It's said to be a
+baby elf, so I
+###--------
+wonder if it lost
+its way home or
+something...?
+###--------
+###Script:54
+Zero, I want to
+be a scientist
+like Ciel, when I
+grow up.
+###--------
+Oops, I almost
+forgot... I heard
+that a Cyber-elf
+who was in Ciel's
+###--------
+room is missing.
+It's said to be a
+baby elf, so I
+wonder if it lost
+###--------
+its way home or
+something...?
+###--------
+###Script:55
+If I become a
+scientist like
+Ciel, I want to
+study
+###--------
+Cyber-elves...
+Ciel is very kind
+and generous to
+anyone. I think I
+###--------
+should follow her
+good example.
+I never felt
+kindness from
+###--------
+others, when I
+was in Neo
+Arcadia...
+###--------
+###Script:56
+We feel reassured
+with a Reploid
+like you, Zero.
+###--------
+###Script:57
+Zero, please...
+Please help Ciel.
+###--------
+###Script:58
+I wonder if this
+place is safe.
+I wish you'd stay
+and help us, if
+###--------
+this place is
+attacked...
+###--------
+###Script:59
+I'd never thought
+about the
+importance of our
+existence...
+###--------
+But everything
+changed when I
+met Ciel.
+###--------
+###Script:60
+Ciel once told me
+that... I am like
+a security
+blanket. That she
+###--------
+can feel relaxed,
+no matter what,
+as long as I am
+by her side...
+###--------
+That's why I made
+up my mind to
+stay with Ciel
+forever.
+###--------
+###Script:61
+This doll is a
+present from
+Ciel. She made it
+for me.
+###--------
+To tell you the
+truth, Ciel is
+the only human in
+this base!
+###--------
+Are you
+surprised?
+###--------
+###Script:62
+Zero, I was
+scared...!
+Ciel wasn't
+injured, was she?
+###--------
+###Script:63
+Zero, what's
+going to happen
+to our base next?
+I don't want to
+###--------
+be deported back
+to Neo Arcadia.
+###--------
+###Script:64
+I'm not designed
+for combat, so I
+can't assist you.
+But remember that
+###--------
+I'm praying
+for you.
+###--------
+###Script:65
+Zero...
+###--------
+###Script:66
+Zero, don't leave
+us... You will
+stay here with
+us, won't you?
+###--------
+###Script:67
+Zero, they say
+that a human
+would shed tears
+over a situation
+###--------
+like this...
+###--------
+###Script:68
+Huh? Who are you?
+Ah, who cares.
+Will you do me a
+favor? I'm too
+###--------
+hungry to move.
+Will you spare me
+some Energy
+Crystal?
+###--------
+250 Crystals will
+do.
+###--------
+<option>Will you give
+them to me?
+  Here you are.
+  No way.
+###Command:option secondAnswerIndex=5
+###--------
+Really!! How kind
+of you!
+###--------
+<msgSub>Fine,then. Be
+like that...
+###Command:msgSub subindex=5
+###--------
+###Script:69
+Thank you so
+much! But I don't
+have anything to
+give you in
+###--------
+return. Sorry.
+###--------
+###Script:70
+Hey,give me a
+break. Do you
+really think I
+can get healthy
+###--------
+with a few measly
+Crystals like
+this...?
+###--------
+###Script:71
+Thank you for the
+Crystals. See?
+Now I'm in tip
+top shape!
+###--------
+Time to work!
+###--------
+###Script:72
+Huh? Now what?
+###--------
+Did you realize
+your mistake and
+###--------
+<option>decide to give me
+Energy Crystals?
+  Yeah, alright.
+  Of course not.
+###Command:option secondAnswerIndex=6
+###--------
+Really?
+###--------
+<msgSub>Oh, okay then...
+###Command:msgSub subindex=6
+###--------
+###Script:73
+Thank you so
+much! But I don't
+have anything to
+give you in
+###--------
+return. Sorry.
+###--------
+###Script:74
+Hey, this is not
+enough. What are
+you trying to
+pull?
+###--------
+###Script:75
+I know they call
+me "Excess
+Baggage" behind
+my back.
+###--------
+But I didn't ask
+to be created
+like this.
+###--------
+###Script:76
+We are Reploids.
+We can't go on
+diets, you know.
+###--------
+###Script:77
+We are in big
+trouble! I told
+them it's
+reckless to fight
+###--------
+by ourselves.
+It's not my
+fault!
+###--------
+###Script:78
+Arrrghhhh, what
+should I do? What
+should I do?
+###--------
+###Script:79
+Watching you
+fight has made me
+realize that the
+most important
+###--------
+thing is not to
+give up hope!
+###--------
+###Script:80
+I'll never give
+up until the day
+Ciel can smile
+and laugh from
+###--------
+the bottom of
+her heart.
+###--------
+###Script:81
+I'm so glad I got
+to know you!
+Though I don't
+know if you feel
+###--------
+the same way
+about me.
+###--------
+Hmm, I don't know
+what I'm
+saying...
+###--------
+###Script:82
+What I meant
+was... Simply...
+Always be my
+friend...
+###--------
+###Script:83
+Ciel asked me to
+watch for when
+the enemies'
+transport train
+###--------
+arrives. I'll
+inform you if a
+train comes, so
+you can leave
+###--------
+this place to me.
+###--------
+###Script:84
+The transport
+train has just
+arrived! It's
+time to attack!
+###--------
+###Script:85
+Everyone rushed
+into the enemy
+base, but no one
+has come back...
+###--------
+I'm so worried
+about what has
+happened to
+them...
+###--------
+###Script:86
+Are you the one
+called Zero?
+Ciel has been
+looking for you.
+###--------
+Please help us,
+Zero!
+###--------
+###Script:87
+I came here to
+investigate the
+factory above,
+but it's heavily
+###--------
+guarded. I'm
+afraid I'm not
+up to this
+mission...
+###--------
+###Script:88
+I wonder what
+happened to our
+comrades who
+rushed the base!
+###--------
+I'm so worried...
+###--------
+###Script:89
+I'm sorry to put
+you through
+this...
+###--------
+We'll go in as
+soon as we have
+an opportunity!!
+You have nothing
+###--------
+to worry about.
+Trust us and
+concentrate on
+your mission.
+###--------
+###Script:90
+I was planning to
+go into the
+factory, but it's
+too heavily
+###--------
+guarded...
+###--------
+###Script:91
+CIEL:I haven't cracked
+CIEL:the password yet...
+CIEL:We can't open the
+###--------
+CIEL:door now.
+###--------
+###Script:92
+I'm worried
+about the lost
+soldier.
+###--------
+I want to go
+look for him,
+but the desert
+has so many
+###--------
+enemies...
+Good luck,
+Zero.
+###--------
+###Script:93
+Amazing! Zero
+has rescued
+the survivor!
+###--------
+Let's go back
+to the base!
+###--------
+###Script:94
+I'm standing
+guard just
+in case there
+is an enemy
+###--------
+attack.
+###--------
+Nothing unusual
+so far.
+###--------
+###Script:95
+We've received
+information that
+some enemies are
+around here...
+###--------
+I wonder if
+there is a
+hidden passage
+somewhere...
+###--------
+###Script:96
+We've got a
+report that says
+that some enemy
+activities are
+###--------
+taking place
+somewhere around
+here.
+###--------
+Be careful...
+###--------
+###Script:97
+CIEL:...! The Password
+###--------
+CIEL:seems to have been
+###--------
+CIEL:changed...
+###--------
+CIEL:...We can't open
+###--------
+CIEL:the door unless
+###--------
+CIEL:we get the new
+###--------
+CIEL:password.
+###--------
+CIEL:Give me a little
+###--------
+CIEL:more time...
+###--------
+###Script:98
+CIEL:We can't disarm this
+###--------
+CIEL:security system now.
+###--------
+###Script:99
+CIEL:They seem to have
+###--------
+CIEL:set a security
+###--------
+CIEL:system...
+###--------
+CIEL:It will take time
+###--------
+CIEL:to disarm it...
+###--------
+###Script:100
+So, it was you
+who saved
+Dr. Ciel.
+###--------
+Thank you so
+much.
+###--------
+Dr. Ciel says
+she wants to ask
+you something.
+Please help her.
+###--------
+###Script:101
+Are you the
+Reploid known
+as Zero, sir?
+###--------
+Thank you for
+saving Dr. Ciel.
+###--------
+By the way...
+###--------
+<option>Know how to use
+a Trans Server?
+  Yes
+  No
+###Command:option secondAnswerIndex=7
+###--------
+If you need to
+know something
+about it,
+please let me
+###--------
+know.
+###--------
+<msgSub>Let me explain.
+###Command:msgSub subindex=7
+###--------
+A Trans Server
+basically moves
+something to
+someplace.
+###--------
+It can transfer
+you to wherever
+you have been.
+###--------
+If you want to
+download an
+electronic
+entity called a
+###--------
+Cyber-elf, this
+is also the
+place to do
+that.
+###--------
+Some of the
+Cyber-elves that
+you capture are
+not useable at
+###--------
+first.
+###--------
+You should
+give these
+Cyber-elves
+blue items
+###--------
+called Energy
+Crystals, which
+you will
+sometimes find
+###--------
+when you destroy
+an enemy.
+###--------
+As you feed a
+Cyber-elf with
+Energy Crystals,
+it will grow.
+###--------
+Once it is
+fully grown, it
+will become
+available to use.
+###--------
+However, once
+you use a
+Cyber-elf, it
+will perish...
+###--------
+Remember, they
+are only
+electronic code,
+but if you treet
+###--------
+them poorly, they
+will turn on you.
+###--------
+###Script:102
+An unfamiliar
+Cyber-elf
+appeared a
+while ago, and
+###--------
+decoded the
+security system.
+###--------
+You are now able
+to go to Neo
+Arcadia...
+###--------
+We'll protect
+the base while
+you are away.
+Good luck!
+###--------
+###Script:103
+Zero, please
+defeat Neo
+Arcadia.
+###--------
+###Script:104
+Zero... We've
+got trouble!
+###--------
+It's about
+Dr. Ciel...
+She left the
+base...
+###--------
+I'm so
+worried
+about her...
+###--------
+###Script:105
+The entrance to
+the enemy base
+is up ahead of
+us.
+###--------
+Please prevent
+their hacking
+activities.
+###--------
+The development
+of a substitute
+energy is the
+dream not only
+###--------
+for Ciel, but
+for all of us.
+###--------
+###Script:106
+<option>Know how to use
+a Trans Server?
+  Yes
+  No
+###Command:option secondAnswerIndex=8
+###--------
+If you need to
+know something
+about it,
+please let me
+###--------
+know.
+###--------
+<msgSub>Let me explain.
+###Command:msgSub subindex=8
+###--------
+A Trans Server
+basically moves
+something to
+someplace.
+###--------
+It can transfer
+you to wherever
+you have been.
+###--------
+If you want to
+download an
+electronic
+entity called a
+###--------
+Cyber-elf, this
+is also the
+place to do
+that.
+###--------
+Some of the
+Cyber-elves that
+you capture are
+not useable at
+###--------
+first.
+###--------
+You should
+give these
+Cyber-elves
+blue items
+###--------
+called Energy
+Crystals, which
+you will
+sometimes find
+###--------
+when you destroy
+an enemy.
+###--------
+As you feed a
+Cyber-elf with
+Energy Crystals,
+it will grow.
+###--------
+Once it is
+fully grown, it
+will become
+available to use.
+###--------
+However, once
+you use a
+Cyber-elf, it
+will perish...
+###--------
+Remember, they
+are only
+electronic code,
+but if you treat
+###--------
+them poorly, they
+will turn on you.
+###--------
+###Script:110
+You'll assault
+the enemy base,
+while we hold
+our final
+###--------
+defense line
+and keep them
+away!!
+###--------
+###Script:150
+Since you have
+gained control
+of the factory,
+we seem to have
+###--------
+no shortage of
+energy.
+Thank you,
+Zero.
+###--------
+###Script:151
+Look! Crystals
+are everywhere!
+If you don't
+get them all,
+###--------
+you'll be
+sorry!!
+###--------
+###Script:152
+There must be
+some more
+Crystals up
+ahead, but I
+###--------
+don't have
+enough courage
+to go...
+###--------
+###Script:200
+We have been
+saved again,
+thanks to you...
+###--------
+Still...
+###--------
+As long as X
+exists, maybe
+someday...
+###--------
+So, you'll only
+be happy if X
+does not
+exist...
+###--------
+I'll take care
+of that. Just
+tell me where
+he is.
+###--------
+You can go
+directly to the
+core of the
+enemy base with
+###--------
+the Trans
+Server...
+###--------
+Unfortunately,
+we haven't
+cracked the
+security system
+###--------
+of their
+Trans Server
+yet...
+###--------
+Without the
+Trans Server,
+you won't be
+able to reach
+###--------
+your
+destination
+easily...
+###--------
+And if you are
+away from the
+base for such a
+long time, I
+###--------
+don't know what
+might happen to
+us...
+###--------
+###Script:201
+Huh?
+###--------
+###Script:202
+I'VE CRACKED THE
+SECURITY SYSTEM
+OF THE TRANS
+SERVER...
+###--------
+I'M SORRY THAT
+IT TOOK SO
+LONG...
+###--------
+BUT NOW YOU CAN
+ENTER NEO
+ARCADIA WHENEVER
+YOU WANT.
+###--------
+###Script:203
+You... You're
+the one who
+gave the Z Saber
+to me...
+###--------
+NOW GO.
+TERMINATE THAT
+COPY OF ME...
+###--------
+TERMINATE WITH
+EXTREME
+PREJUDICE...
+###--------
+###Script:204
+Wait, who are
+you...!?
+###--------
+......
+###--------
+It's not
+possible...
+###--------
+###Script:205
+Did he say
+that I can
+now use the
+Trans Server!?
+###--------
+Yes... He did...
+###--------
+I'm going now!
+Take care!
+###--------
+###Script:206
+You can now
+reach X through
+the Trans
+Server, thanks
+###--------
+to him.
+###--------
+Zero...
+###--------
+It was I who
+recreated X...
+###--------
+<option>I have to come
+###Command:option secondAnswerIndex=2
+###--------
+with you...
+  No way
+  ......
+###--------
+I see... I'll
+only be a
+nuisance to
+you...
+###--------
+I understand
+Zero...
+###--------
+<msgSub>......
+###Command:msgSub subindex=2
+###--------
+###Script:207
+Zero, head for
+the Trans
+Server.
+###--------
+You can trust us
+to protect this
+place.
+###--------
+Good luck...
+Zero...
+###--------
+###Script:208
+While you are
+away, we'll
+protect this
+place. You must
+###--------
+have faith in
+us.
+I wish you
+good luck!!
+###--------
+###Script:209
+エラー
+###--------
+###Script:210
+An extremely
+huge Cyber-elf
+suddenly
+appeared and
+###--------
+unlocked the
+security system!
+###--------
+Now you can go
+straight to
+Neo Arcadia...
+###--------
+While you are
+away, we'll
+protect this
+place. You must
+###--------
+have faith in
+us.
+I wish you
+good luck!!
+###--------
+###Script:211
+CIEL:
+"You have
+ disrupted
+ the area.
+###--------
+CIEL:
+ The Trans
+ Server near
+ your current
+###--------
+CIEL:
+ position has
+ been
+ activated.
+###--------
+CIEL:
+ You should
+ return to base
+ now to take a
+###--------
+CIEL:
+ rest..."
+###--------
+###Script:212
+CIEL:
+"You want to
+ proceed without
+ saving?
+###--------
+CIEL:
+ Good luck,
+ Zero..."
+###--------
+###Script:213
+Be very
+careful...
+Zero...
+###--------
+###Script:214
+While you are
+away, we'll
+protect this
+place. You must
+###--------
+have faith in
+us.
+I wish you
+good luck!!
+###--------
+###Script:215
+エラー
+###--------
+###Script:216
+エラー
+###--------
+###Script:217
+エラー
+###--------
+###Script:218
+エラー
+###--------
+###Script:220
+I've never
+thought I could
+meet him again.
+###--------
+###Script:221
+Zero, please
+avenge our
+fallen friends!
+###--------
+###Script:222
+Thank you very
+much. I can work
+here, thanks to
+you.
+###--------
+###Script:223
+Is everyone all
+right? I was
+lucky that it
+was just a
+###--------
+scratch...
+You should be
+careful, Zero.
+###--------
+###Script:224
+I'm very
+grateful.
+###--------
+###Script:225
+I never thought
+that I would come
+back alive...
+###--------
+Thank you,
+Zero.
+###--------
+I don't know
+what would have
+happend to
+me...
+###--------
+###Script:226
+I can't believe
+Neo Arcadia's
+attack has
+reached our
+###--------
+base!
+###--------
+But it could
+have been
+worse... Thank
+you, Zero.
+###--------
+###Script:227
+I'll protect our
+base!
+###--------
+###Script:228
+We couldn't have
+made it without
+you...
+###--------
+Thank you,
+Zero. You are
+a true
+<printCodeName>.
+###Command:printCodeName
+###--------
+By the way, did
+you notice that
+strange room
+near the
+###--------
+Computer Room?
+###--------
+###Script:229
+We couldn't have
+made it without
+you...
+###--------
+I am so lucky
+to be able to
+work in the
+warehouse for
+###--------
+the Energy
+Crystal again.
+###--------
+By the way, did
+you notice that
+strange room
+near the
+###--------
+Computer Room?
+###--------
+###Script:230
+I never
+imagined that
+the base would
+be attacked...
+###--------
+I'm very sorry
+that I allowed
+them inside!
+###--------
+You saved us
+again, Zero.
+Thank you.
+###--------
+###Script:231
+Thank you, Zero.
+I would have
+been smashed
+into who knows
+###--------
+what, if it
+were not for
+your rescue...
+###--------
+Still, I never
+expected that I
+could live with
+Ciel again...
+###--------
+###Script:232
+I was so
+afraid...
+###--------
+Is Ciel fine?
+How about the
+others?
+###--------
+I wonder what
+will happen to
+us...
+###--------
+Zero... We
+won't lose to
+Neo Arcadia,
+will we...?
+###--------
+###Script:233
+Zero... Thank
+you for saving
+me...
+###--------
+###Script:234
+Zero... Are
+you all right?
+I wonder what
+we should do...
+###--------
+###Script:235
+Zero, thank
+you for your
+continued
+support.
+###--------

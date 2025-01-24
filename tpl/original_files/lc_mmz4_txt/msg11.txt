@@ -1,0 +1,48 @@
+###TextArchive:msg11
+###Script:0
+So this is the
+inside of the
+Teleporter Circuit?
+###--------
+It looks a lot like
+Cyberspace.
+###--------
+Operator:
+"Zero! Come in!"
+###--------
+"The circuit leads
+ to Ragnarok."
+###--------
+"It looks like the
+ enemy is there
+ too."
+###--------
+"Destroy the
+ protection program
+ up ahead."
+###--------
+###Script:2
+This is the
+protection program?
+###--------
+Beep... Beep...
+Circuit intrusion
+detected...
+###--------
+Protection
+activated...
+###--------
+Eliminating
+intruder...
+###--------
+###Script:3
+Operator:"Protection has
+###--------
+ been disabled..."
+###--------
+"You can head to Ragnarok
+###--------
+ any time now!"
+###--------
+"Zero, hurry back."
+###--------

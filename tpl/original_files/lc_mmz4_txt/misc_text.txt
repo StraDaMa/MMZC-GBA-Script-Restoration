@@ -1,0 +1,2875 @@
+###TextArchive:misc_text
+###Script:0
+[ArrowRight]
+###--------
+###Script:1
+NO DATA
+###--------
+###Script:2
+CANCEL
+###--------
+###Script:3
+<textColorRed>H
+###Command:textColorRed
+###--------
+###Script:4
+<textColorRed>U
+###Command:textColorRed
+###--------
+###Script:5
+X
+###--------
+###Script:6
+/
+###--------
+###Script:7
+:
+###--------
+###Script:8
+'
+###--------
+###Script:9
+"
+###--------
+###Script:10
+_
+###--------
+###Script:11
+<textColorRed>E
+###Command:textColorRed
+###--------
+###Script:30
+0
+###--------
+###Script:31
+1
+###--------
+###Script:32
+2
+###--------
+###Script:33
+3
+###--------
+###Script:34
+4
+###--------
+###Script:35
+5
+###--------
+###Script:36
+6
+###--------
+###Script:37
+7
+###--------
+###Script:38
+8
+###--------
+###Script:39
+9
+###--------
+###Script:40
+Lv.F
+###--------
+###Script:41
+Lv.E
+###--------
+###Script:42
+Lv.D
+###--------
+###Script:43
+Lv.C
+###--------
+###Script:44
+Lv.B
+###--------
+###Script:45
+Lv.A
+###--------
+###Script:46
+Lv.S
+###--------
+###Script:47
+A:AREA ZERO
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:48
+A:PARTICLE BEAM
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:49
+A:DEEP SEA
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:50
+A:HANGING GARDENS
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:51
+A:UNDERGROUND FOREST
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:52
+A:ARTIFICIAL SUN
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:53
+A:HIBERNATION CHAMBER
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:54
+A:MAGNETIC ZONE
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:55
+A:LIVING CITY
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:56
+A:THE PRISON
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:57
+A:RAGNAROK CONTROL
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:58
+A:TELEPORTER BASE
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:59
+A:TELEPORTER CIRCUIT
+<textColorRed>This mission has<textColorWhite>
+<textColorRed>been completed<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:60
+A:RESISTANCE TRAILER
+
+
+###--------
+###Script:61
+A:AREA ZERO
+B:???
+M:Explore Area Zero
+###--------
+###Script:62
+A:PARTICLE BEAM
+B:HEAT GENBLEM
+M:Cut the power
+###--------
+###Script:63
+A:DEEP SEA
+B:TECH KRAKEN
+M:Stop the drill sub
+###--------
+###Script:64
+A:HANGING GARDENS
+B:PEGASOLTA ECLAIR
+M:Stop the acid rain
+###--------
+###Script:65
+A:UNDERGROUND FOREST
+B:NOBLE MANDRAGO
+M:Stop the erosion
+###--------
+###Script:66
+A:ARTIFICIAL SUN
+B:SOL TITANION
+M:Halt the sun
+###--------
+###Script:67
+A:HIBERNATION CHAMBER
+B:FENRI LUNAEDGE
+M:Destroy the enemy
+###--------
+###Script:68
+A:MAGNETIC ZONE
+B:MINO MAGNUS
+M:Halt the facility
+###--------
+###Script:69
+A:LIVING CITY
+B:POPLA COCAPETRI
+M:Stop sec system
+###--------
+###Script:70
+A:HUMAN COLONY
+B:???
+M:Save the humans
+###--------
+###Script:71
+A:THE PRISON
+B:???
+M:Save Neige
+###--------
+###Script:72
+A:RAGNAROK CONTROL
+B:???
+M:Find Craft
+###--------
+###Script:73
+A:TELEPORTER BASE
+B:???
+M:Cancel the jammer
+###--------
+###Script:74
+A:TELEPORTER CIRCUIT
+B:???
+M:Destroy program
+###--------
+###Script:75
+A:RAGNAROK CORE
+B:???
+M:Stop the core
+###--------
+###Script:76
+This mission has
+been completed
+###--------
+###Script:77
+Start the mission
+Change the weather
+Return to selection
+###--------
+###Script:78
+Start the mission
+Return to selection
+###--------
+###Script:79
+Go to the area
+Change the weather
+Return to selection
+###--------
+###Script:80
+Go to the area
+Return to selection
+###--------
+###Script:90
+Charite
+###--------
+###Script:91
+Variable
+###--------
+###Script:92
+Progress
+###--------
+###Script:93
+Croire
+###--------
+###Script:94
+Nouvelle
+###--------
+###Script:95
+Recrue
+###--------
+###Script:100
+Main weapon
+Equipped:
+###--------
+###Script:101
+Sub weapon
+Equipped:
+###--------
+###Script:102
+EX Skill
+Change the EX Skill used
+###--------
+###Script:103
+Sub Tank
+Holds extra energy
+###--------
+###Script:104
+Escape Unit
+Leave cleared areas
+###--------
+###Script:105
+Initiate escape sequence?
+A Button:Esc B Button:Cancel
+###--------
+###Script:106
+Cannot escape at this time
+###--------
+###Script:107
+Throw away current weapon?
+A Button:Toss B Button:Keep
+###--------
+###Script:108
+Cannot throw away anything
+
+###--------
+###Script:110
+BUSTER SHOT
+###--------
+###Script:111
+Z SABER
+###--------
+###Script:112
+ZERO KNUCKLE
+###--------
+###Script:113
+Good at distance attacks
+###--------
+###Script:114
+Good at close-range attacks
+###--------
+###Script:115
+Steal weapons from enemies
+###--------
+###Script:116
+Restore energy from tank
+Energy Remaining:
+###--------
+###Script:117
+Weapon taken with Z Knuckle
+###--------
+###Script:120
+Change Head Chip
+###--------
+###Script:121
+Change Body Chip
+###--------
+###Script:122
+Change Foot Chip
+###--------
+###Script:123
+Check parts being carried
+###--------
+###Script:124
+List of parts being carried
+###--------
+###Script:125
++Control Pad:Change elf lv.
+###--------
+###Script:126
+No elves carried
+###--------
+###Script:127
+No elves
+carried
+###--------
+###Script:130
+<textColorRed>Time Stopper<textColorWhite>: Non-elemental
+Damage/freeze some enemies
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:131
+<textColorRed>Tractor Shot<textColorWhite>: Thunder
+Absorb certain energy shots
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:132
+<textColorRed>Burning Shot<textColorWhite>: Flame
+Damage enemy with explosion
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:133
+<textColorRed>Ice Javelin<textColorWhite>: Ice
+Attack with spear of ice
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:134
+<textColorRed>Sky Chaser<textColorWhite>: Non-elemental
+Press Down in air and saber
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:135
+<textColorRed>Thunder Stab<textColorWhite>: Thunder
+Attack with saber mid-dash
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:136
+<textColorRed>Flame Fang<textColorWhite>: Flame
+Press Up and saber attack
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:137
+<textColorRed>Ice Blade<textColorWhite>: Ice
+Press Down and saber attack
+
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:138
+None learned
+###--------
+###Script:140
+Nurse traits
+are at 0
+###--------
+###Script:141
+Drops Life
+Energy(S)
+###--------
+###Script:142
+Increase max
+<textColorRed>4<textColorWhite> vitality
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:143
+Increase max
+<textColorRed>8<textColorWhite> vitality
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:144
+Increase max
+<textColorRed>12<textColorWhite> vitality
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:145
+Increase max
+<textColorRed>16<textColorWhite> vitality
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:146
+Increase max
+<textColorRed>16<textColorWhite> vitality
+& drop Life
+Energy(S)
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:147
+<textColorRed>Quadruple<textColorWhite>
+max vitality
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:150
+Animal
+traits are
+at 0
+###--------
+###Script:151
+Increase
+running
+speed
+###--------
+###Script:152
+Slow down
+wall sliding
+###--------
+###Script:153
+Fire off
+<textColorRed>flame<textColorWhite>shots
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:154
+Fire off
+<textColorRed>ice<textColorWhite>shots
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:155
+Fire off
+<textColorRed>thunder<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:156
+Rise back
+out of pits
+###--------
+###Script:157
+<textColorRed>Double<textColorWhite> the
+basic
+defense
+value
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:160
+Hacker
+traits are
+at 0
+###--------
+###Script:161
+Fire four
+bullets in a
+row from the
+buster
+###--------
+###Script:162
+Press Up
+in triple
+attack for
+rising slash
+###--------
+###Script:163
+Add 1 to
+power of
+Buster,Saber
+and Knuckle
+###--------
+###Script:164
+Press Down
+in triple
+attack for
+attack wave
+###--------
+###Script:165
+Up chance
+of enemies
+dropping
+items
+###--------
+###Script:166
+<textColorRed>Double<textColorWhite> the
+effect of
+some items
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:167
+Sp. cmnds
+to execute
+chg atk or
+EX Skills
+###--------
+###Script:170
+Evolve elf
+View effect
+Talk to elf
+###--------
+###Script:171
+Give Crystal
+ Yes
+ No
+Next Lv:
+Left:
+###--------
+###Script:172
+Not enough
+Crystals
+
+Next Lv:
+Left:
+###--------
+###Script:173
+Cannot raise
+level higher
+###--------
+###Script:174
+Evolve elf with E-Crystal
+###--------
+###Script:175
+View elf level and effect
+###--------
+###Script:176
+Talk to elf
+###--------
+###Script:200
+Spread Shot
+###--------
+###Script:201
+Drill Shot
+###--------
+###Script:202
+Cross Shot
+###--------
+###Script:203
+Lamp Burner
+###--------
+###Script:204
+2-Way Shot
+###--------
+###Script:205
+IM Shot
+###--------
+###Script:206
+Ice Buster
+###--------
+###Script:207
+Beam Shot
+###--------
+###Script:208
+Search Shot
+###--------
+###Script:209
+Blaze Shot
+###--------
+###Script:210
+Tri Shot
+###--------
+###Script:211
+Vertical Shot
+###--------
+###Script:212
+Wide Buster
+###--------
+###Script:213
+Bend Laser
+###--------
+###Script:214
+Reflect Laser
+###--------
+###Script:215
+Water Gun
+###--------
+###Script:216
+Cannon Buster
+###--------
+###Script:217
+Lamp
+###--------
+###Script:225
+Met Shield
+###--------
+###Script:226
+Lamp Shield
+###--------
+###Script:227
+Ice Shield
+###--------
+###Script:228
+Blade Shield
+###--------
+###Script:229
+Sharp Shield
+###--------
+###Script:235
+Bound Tire
+###--------
+###Script:236
+Joint Bomb
+###--------
+###Script:237
+Rising Bomb
+###--------
+###Script:238
+Egg Bomb
+###--------
+###Script:239
+Balloon Bomb
+###--------
+###Script:240
+Gear Bomb
+###--------
+###Script:241
+Hive Bomb
+###--------
+###Script:242
+Neon Bomb
+###--------
+###Script:243
+Gyro Boomerang
+###--------
+###Script:244
+Wave Bomb
+###--------
+###Script:245
+Burst Bomb
+###--------
+###Script:246
+3-Way Bomb
+###--------
+###Script:247
+Mini Craban R
+###--------
+###Script:248
+Mini Craban B
+###--------
+###Script:250
+Long Snapper
+###--------
+###Script:251
+Electric Rod
+###--------
+###Script:252
+Tang Rod
+###--------
+###Script:253
+Bee Rod
+###--------
+###Script:254
+Electric Nail
+###--------
+###Script:255
+MagPunch N
+###--------
+###Script:256
+MagPunch S
+###--------
+###Script:257
+Drill Rod
+###--------
+###Script:258
+Card Key
+###--------
+###Script:259
+Electric Arm
+###--------
+###Script:260
+Heat Sabre
+###--------
+###Script:261
+Steel Claw
+###--------
+###Script:265
+Mega Axe
+###--------
+###Script:266
+Flame Sword
+###--------
+###Script:267
+Mega Hammer
+###--------
+###Script:268
+Death Pierce
+###--------
+###Script:269
+Iron Pipe
+###--------
+###Script:280
+ArcCannon
+###--------
+###Script:281
+Axeloid
+###--------
+###Script:282
+BeamWalker
+###--------
+###Script:283
+Beeneran
+###--------
+###Script:284
+Bombadeer
+###--------
+###Script:285
+Bongal
+###--------
+###Script:286
+Bonsect
+###--------
+###Script:287
+C-Hopper
+###--------
+###Script:288
+Ceratanium
+###--------
+###Script:289
+Crossbyne
+###--------
+###Script:290
+CryoNeon
+###--------
+###Script:291
+E-Laser
+###--------
+###Script:292
+EleDeserter
+###--------
+###Script:293
+Faital
+###--------
+###Script:294
+GangaGun
+###--------
+###Script:295
+Glacial
+###--------
+###Script:296
+GlassCannon
+###--------
+###Script:297
+Gyrator
+###--------
+###Script:298
+GyroCannonH
+###--------
+###Script:299
+Hechrysta
+###--------
+###Script:300
+Junk
+###--------
+###Script:301
+Kerberos
+###--------
+###Script:302
+Kerosh
+###--------
+###Script:303
+LamplortX
+###--------
+###Script:304
+MagnePaN
+###--------
+###Script:305
+MagnePaS
+###--------
+###Script:306
+Mechameson
+###--------
+###Script:307
+MeduHopper
+###--------
+###Script:308
+Mettaur
+###--------
+###Script:309
+MiniCrabanB
+###--------
+###Script:310
+MiniCrabanR
+###--------
+###Script:311
+Molegule
+###--------
+###Script:312
+Moloid
+###--------
+###Script:313
+NeedBalloon
+###--------
+###Script:314
+NicosCrabB
+###--------
+###Script:315
+P.Corpse
+###--------
+###Script:316
+Poplan
+###--------
+###Script:317
+Raiken
+###--------
+###Script:318
+RBCannon
+###--------
+###Script:319
+RefleBeemer
+###--------
+###Script:320
+S-Crystal
+###--------
+###Script:321
+SandDozer
+###--------
+###Script:322
+ScrapElf
+###--------
+###Script:323
+SerpentGear
+###--------
+###Script:324
+TellyBomb
+###--------
+###Script:325
+Triaformer
+###--------
+###Script:326
+V.Claw
+###--------
+###Script:327
+V.Fencer
+###--------
+###Script:328
+V.Fire
+###--------
+###Script:329
+V.Missile
+###--------
+###Script:330
+Yadokroid
+###--------
+###Script:340
+<textColorRed>ArcCannon<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:341
+<textColorRed>Axeloid<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:342
+<textColorRed>BeamWalker<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:343
+<textColorRed>Crossbyne<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:344
+<textColorRed>Bombadeer<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:345
+<textColorRed>Bongal<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:346
+<textColorRed>Bonsect<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:347
+<textColorRed>C-Hopper<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:348
+<textColorRed>Ceratanium<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:349
+<textColorRed>Beeneran<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:350
+<textColorRed>CryoNeon<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:351
+<textColorRed>E-Laser<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:352
+<textColorRed>EleDeserter<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:353
+<textColorRed>Faital<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:354
+<textColorRed>GangaGun<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:355
+<textColorRed>Glacial<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:356
+<textColorRed>GlassCannon<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:357
+<textColorRed>Gyrator<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:358
+<textColorRed>GyroCannonH<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:359
+<textColorRed>Hechrysta<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:360
+<textColorRed>Junk<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:361
+<textColorRed>Kerberos<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:362
+<textColorRed>Kerosh<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:363
+<textColorRed>LamplortX<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:364
+<textColorRed>MagnePaN<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:365
+<textColorRed>MagnePaS<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:366
+<textColorRed>Mechameson<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:367
+<textColorRed>MeduHopper<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:368
+<textColorRed>Mettaur<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:369
+<textColorRed>MiniCrabanB<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:370
+<textColorRed>MiniCrabanR<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:371
+<textColorRed>Molegule<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:372
+<textColorRed>Moloid<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:373
+<textColorRed>NeedBalloon<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:374
+<textColorRed>NicosCrabB<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:375
+<textColorRed>P.Corpse<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:376
+<textColorRed>Poplan<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:377
+<textColorRed>Raiken<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:378
+<textColorRed>RBCannon<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:379
+<textColorRed>RefleBeemer<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:380
+<textColorRed>S-Crystal<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:381
+<textColorRed>SandDozer<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:382
+<textColorRed>ScrapElf<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:383
+<textColorRed>SerpentGear<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:384
+<textColorRed>TellyBomb<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:385
+<textColorRed>Triaformer<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:386
+<textColorRed>V.Claw<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:387
+<textColorRed>V.Fencer<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:388
+<textColorRed>V.Fire<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:389
+<textColorRed>V.Missile<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:390
+<textColorRed>Yadokroid<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:400
+A-Charge
+###--------
+###Script:401
+A-Recover1
+###--------
+###Script:402
+A-Recover2
+###--------
+###Script:403
+A-Recover3
+###--------
+###Script:404
+Q-Charge1
+###--------
+###Script:405
+Q-Charge2
+###--------
+###Script:406
+Q-Charge3
+###--------
+###Script:407
+A-Filling
+###--------
+###Script:408
+WeaponPlus
+###--------
+###Script:409
+JunkHead
+###--------
+###Script:410
+Absorber
+###--------
+###Script:411
+Rolling
+###--------
+###Script:412
+Erase
+###--------
+###Script:413
+Strong
+###--------
+###Script:414
+Stronger
+###--------
+###Script:415
+Strongest
+###--------
+###Script:416
+Reflect
+###--------
+###Script:417
+Extend
+###--------
+###Script:418
+Elf
+###--------
+###Script:419
+JunkBody
+###--------
+###Script:420
+Quick
+###--------
+###Script:421
+DoubleJump
+###--------
+###Script:422
+SplashJump
+###--------
+###Script:423
+SpikeTypeI
+###--------
+###Script:424
+SpikeTypeW
+###--------
+###Script:425
+Frog
+###--------
+###Script:426
+JunkFoot
+###--------
+###Script:427
+S-Crystal
+###--------
+###Script:435
+Auto-charge weapons
+###--------
+###Script:436
+Heal standing still:<textColorRed>Lv.1<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:437
+Heal standing still:<textColorRed>Lv.2<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:438
+Heal standing still:<textColorRed>Lv.3<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:439
+Speed weapon charge:<textColorRed>Lv.1<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:440
+Speed weapon charge:<textColorRed>Lv.2<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:441
+Speed weapon charge:<textColorRed>Lv.3<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:442
+Refill ammo over time
+###--------
+###Script:443
+Weapon capacity increased 1
+###--------
+###Script:444
+Gives off a special aura
+###--------
+###Script:445
+No knock back when hit
+###--------
+###Script:446
+Air+U or Dash+U/D and Saber
+###--------
+###Script:447
+Saber stops energy shots
+###--------
+###Script:448
+Trap death chng to dmg:Lv.1
+###--------
+###Script:449
+Trap death chng to dmg:Lv.2
+###--------
+###Script:450
+Trap death chng to dmg:Lv.3
+###--------
+###Script:451
+Saber reflects energy shots
+###--------
+###Script:452
+Invinc. after damage longer
+###--------
+###Script:453
+Elf Max Lv. raised 1
+###--------
+###Script:454
+Gives off a special aura
+###--------
+###Script:455
+Running speed increases
+###--------
+###Script:456
+Can perform double jump
+###--------
+###Script:457
+Can jump on water
+###--------
+###Script:458
+Walk on ice w/o slipping
+###--------
+###Script:459
+No effect from wind/magnets
+###--------
+###Script:460
+Slow down wall sliding
+###--------
+###Script:461
+Gives off a special aura
+###--------
+###Script:470
+NormalHead
+###--------
+###Script:471
+NormalBody
+###--------
+###Script:472
+NormalFoot
+###--------
+###Script:473
+Head state is normal
+###--------
+###Script:474
+Body state is normal
+###--------
+###Script:475
+Feet state is normal
+###--------
+###Script:478
+???????????
+###--------
+###Script:479
+None
+###--------
+###Script:480
+Not enough
+###--------
+###Script:481
+Using parts
+###--------
+###Script:482
+Done
+###--------
+###Script:483
+Successful
+###--------
+###Script:484
+Failed
+###--------
+###Script:485
+Combine parts to make chips
+###--------
+###Script:486
+View recipe while making
+###--------
+###Script:487
+Select part with A Button
+###--------
+###Script:488
+Cancel with A Button
+###--------
+###Script:489
+Select recipe with A Button
+###--------
+###Script:490
+Warning:Parts will be used
+###--------
+###Script:491
+Not enough parts
+###--------
+###Script:492
+Cannot make any more chips
+###--------
+###Script:493
+Results being displayed
+###--------
+###Script:520
+ 
+###--------
+   CONTINUE
+###--------
+###Script:521
+ 
+###--------
+   CONTINUE
+###--------
+###Script:522
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:523
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:524
+ QUIT THE GAME
+###--------
+###Script:525
+ QUIT THE GAME
+###--------
+###Script:526
+PLANT PANIC
+###--------
+###Script:527
+PLANT PANIC
+###--------
+###Script:528
+BUSY BASKET
+###--------
+###Script:529
+BUSY BASKET
+###--------
+###Script:530
+LUMBERJACK
+###--------
+###Script:531
+LUMBERJACK
+###--------
+###Script:532
+LAVA SURF
+###--------
+###Script:533
+LAVA SURF
+###--------
+###Script:534
+ELF CHASE
+###--------
+###Script:535
+ELF CHASE
+###--------
+###Script:536
+SLAM HARVEST
+###--------
+###Script:537
+SLAM HARVEST
+###--------
+###Script:538
+ENERGY LAB
+###--------
+###Script:539
+ENERGY LAB
+###--------
+###Script:540
+Move with the +Control
+Pad and cut weeds
+with the B Button.Cut
+early for more points.
+Grab Mechaniloid
+Dragonflies for bonus
+points within 60 secs.
+###--------
+###Script:541
+Grab rolling balls with
+the Zero Knuckle and
+put it in the goal.Move
+with the +Control Pad.
+A Button=jump
+B Button=catch/release
+60 second time limit.
+###--------
+###Script:542
+Move with the +Control
+Pad.Cut falling
+logs with B Button.
+Cut in middle for more
+points.Bombs explode
+and take off time.
+60 second time limit.
+###--------
+###Script:543
+Move with the +Control
+Pad.Extinguish flames
+with B Button.
+A Button=jump. Drench
+flames early for more
+points.Keep cool or lose
+time.60s time limit.
+###--------
+###Script:544
+Move with the +Control
+Pad.Drive the Scrap Elf
+to the light with the
+lamp.
+A Button=jump
+B Button=shine lamp
+60s time limit.
+###--------
+###Script:545
+Move with the +Control
+Pad.Smash switches
+and grab items.A Button=
+jump.B Button=hammer.
+Item size determines pts.
+Spikes drop time but can
+be broken.60s time limit.
+###--------
+###Script:546
+Move with the +Control
+Pad.Remove joints by
+pressing the B Button.
+A Button=jump.Press B
+Button again to move
+joint forward.Match to
+destroy.90s time limit.
+###--------
+###Script:547
+<textColorRed>RULES<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:600
+Appnet
+###--------
+###Script:601
+ArcCannon
+###--------
+###Script:602
+Axeloid
+###--------
+###Script:603
+BeamWalker
+###--------
+###Script:604
+Beeneran
+###--------
+###Script:605
+Bombadeer
+###--------
+###Script:606
+Bongal
+###--------
+###Script:607
+Bonsect
+###--------
+###Script:608
+C-Hopper
+###--------
+###Script:609
+CocaPoulet
+###--------
+###Script:610
+Crossbyne
+###--------
+###Script:611
+CryoNeon
+###--------
+###Script:612
+E-Laser
+###--------
+###Script:613
+EleDeserter
+###--------
+###Script:614
+Faital
+###--------
+###Script:615
+GangaGun
+###--------
+###Script:616
+Glacial
+###--------
+###Script:617
+GlassCannon
+###--------
+###Script:618
+Gyrator
+###--------
+###Script:619
+GyroCannonH
+###--------
+###Script:620
+Hechrysta
+###--------
+###Script:621
+Kerberos
+###--------
+###Script:622
+Kerosh
+###--------
+###Script:623
+LamplortX
+###--------
+###Script:624
+MagneMineN
+###--------
+###Script:625
+MagneMineS
+###--------
+###Script:626
+MagnePaN
+###--------
+###Script:627
+MagnePaS
+###--------
+###Script:628
+Mechameson
+###--------
+###Script:629
+MeduHopper
+###--------
+###Script:630
+Mettaur
+###--------
+###Script:631
+MiniCrabanB
+###--------
+###Script:632
+MiniCrabanR
+###--------
+###Script:633
+Molegule
+###--------
+###Script:634
+Moloid
+###--------
+###Script:635
+NicosCrabB
+###--------
+###Script:636
+NicosCrabC
+###--------
+###Script:637
+NeedBalloon
+###--------
+###Script:638
+P.Corpse
+###--------
+###Script:639
+PechPricker
+###--------
+###Script:640
+PetitNet
+###--------
+###Script:641
+Poplan
+###--------
+###Script:642
+Raiken
+###--------
+###Script:643
+RBCannon
+###--------
+###Script:644
+RefleBeemer
+###--------
+###Script:645
+SandDozer
+###--------
+###Script:646
+ScrapElf
+###--------
+###Script:647
+SerpentGear
+###--------
+###Script:648
+TellyBomb
+###--------
+###Script:649
+Triaformer
+###--------
+###Script:650
+TriRay
+###--------
+###Script:651
+V.Claw
+###--------
+###Script:652
+V.Fencer
+###--------
+###Script:653
+V.Fire
+###--------
+###Script:654
+V.Missile
+###--------
+###Script:655
+Yadokroid
+###--------
+###Script:656
+Carnage 0
+###--------
+###Script:657
+Craft
+###--------
+###Script:658
+Cyball
+###--------
+###Script:659
+F.Lunaedge
+###--------
+###Script:660
+H.Genblem
+###--------
+###Script:661
+M.Magnus
+###--------
+###Script:662
+N.Mandrago
+###--------
+###Script:663
+P.Cocapetri
+###--------
+###Script:664
+P.Eclair
+###--------
+###Script:665
+R.Bandam
+###--------
+###Script:666
+S.Titanion
+###--------
+###Script:667
+Sub Core
+###--------
+###Script:668
+T.Kraken
+###--------
+###Script:669
+TheGiant
+###--------
+###Script:670
+Weil(Form1)
+###--------
+###Script:671
+Weil(Form2)
+###--------
+###Script:672
+ClabangerNS
+###--------
+###Script:673
+FireRenant
+###--------
+###Script:674
+GearBank
+###--------
+###Script:675
+Ribops
+###--------
+###Script:676
+SpyLarueE
+###--------
+###Script:677
+SpyLarueF
+###--------
+###Script:678
+SpyLarueI
+###--------
+###Script:679
+Tyrine
+###--------
+###Script:680
+Alouette
+###--------
+###Script:681
+Brise
+###--------
+###Script:682
+Caravaner
+###--------
+###Script:683
+Cerveau
+###--------
+###Script:684
+Ciel
+###--------
+###Script:685
+Colbor
+###--------
+###Script:686
+Faucon
+###--------
+###Script:687
+Hirondelle
+###--------
+###Script:688
+Neige
+###--------
+###Script:689
+Rafale
+###--------
+###Script:690
+Rouge
+###--------
+###Script:691
+Tempete
+###--------
+###Script:692
+Tornado
+###--------
+###Script:693
+Typhon
+###--------
+###Script:694
+Weil(Norm)
+###--------
+###Script:695
+Zero
+###--------
+###Script:696
+Data about
+the boss
+###--------
+###Script:697
+Data about
+the sub boss
+###--------
+###Script:698
+Data about
+the enemy
+###--------
+###Script:699
+Data about
+characters
+###--------
+###Script:700
+Will swarm
+in if Noble
+Mandrago's
+honey attack
+hits.Doesn't
+drop parts.
+###--------
+###Script:701
+A cannon
+found on
+ceilings,
+walls and
+floors.
+###--------
+###Script:702
+A shotloid
+converted
+to harvest
+timber.
+###--------
+###Script:703
+Mechaniloid
+that walks
+the roof or
+floor and
+fires beams.
+###--------
+###Script:704
+Mechaniloid
+growing in
+the Undrgrnd
+Forest.
+Growth chng
+w/weather.
+###--------
+###Script:705
+Spat from
+Mechameson
+and sets
+bombs on
+the floor.
+###--------
+###Script:706
+Mechaniloid
+that drops
+bombs down
+from above.
+###--------
+###Script:707
+A bomb that
+tries to fly
+into its
+target.Comes
+in diff.
+lengths.
+###--------
+###Script:708
+Attached to
+ceilings and
+floors,it
+has a wide
+shot radius.
+###--------
+###Script:709
+Machines
+coming from
+Popla
+Cocapetri.
+Don't drop
+parts.
+###--------
+###Script:710
+Warps around
+and fires
+shots in
+eight
+directions.
+###--------
+###Script:711
+Converted
+hologram
+projector.
+Fires elec
+from core.
+###--------
+###Script:712
+Attached to
+walls, this
+cannon will
+focus energy
+to fire a
+laser.
+###--------
+###Script:713
+Mechameson
+spits these
+Mechaniloids
+that emit
+balls of
+electricity.
+###--------
+###Script:714
+Mechaniloid
+that expands
+& contracts.
+Can ride on
+top.
+###--------
+###Script:715
+Mechaniloid
+originally
+designed for
+digging,it
+scatters
+debris.
+###--------
+###Script:716
+A mobile
+Mechaniloid
+that fires
+ice shots.
+###--------
+###Script:717
+Concentrates
+around the
+Tyrine found
+in the
+artificial
+sun.
+###--------
+###Script:718
+Mechaniloid
+designed for
+watching
+power lines.
+Will stop
+with damage.
+###--------
+###Script:719
+Flies and
+shoots in
+two
+directions.
+Can hang on
+propeller.
+###--------
+###Script:720
+Spat from
+Mechameson
+and fires
+ice shards
+in six
+directions.
+###--------
+###Script:721
+Running
+Mechaniloid
+capable of
+jumping
+over small
+obstacles.
+###--------
+###Script:722
+Swims and
+whips out
+its tongue
+to attack
+prey.
+###--------
+###Script:723
+Mechaniloid
+originally
+designed for
+burning
+garbage.
+###--------
+###Script:724
+Floating
+mine with
+magnet.Can
+deflect w/
+MagPunchN.
+No parts.
+###--------
+###Script:725
+Floating
+mine with
+magnet.Can
+deflect w/
+MagPunchS.
+No parts.
+###--------
+###Script:726
+Protects the
+Magn. Zone
+along with
+the blue
+MagnePaS.
+###--------
+###Script:727
+Protects the
+Magn. Zone
+along with
+the red
+MagnePaN.
+###--------
+###Script:728
+Spits out
+three
+types of
+Mechaniloid.
+###--------
+###Script:729
+Mechaniloid
+that jumps
+and shoots
+left and
+right.
+###--------
+###Script:730
+Ancient
+Mechaniloid
+that can
+resist any
+attack when
+it's closed.
+###--------
+###Script:731
+ClabangerNS
+sends this
+Mechaniloid.
+Explodes if
+it runs into
+MiniCrabanR.
+###--------
+###Script:732
+ClabangerNS
+sends this
+Mechaniloid.
+Explodes if
+it runs into
+MiniCrabanB.
+###--------
+###Script:733
+Mole that
+pokes its
+head up from
+the ground
+and fires
+drill shots.
+###--------
+###Script:734
+Converted
+Shotloid.
+Uses hammer
+to fire
+water from
+pumps.
+###--------
+###Script:735
+Mechaniloid
+carrying
+bombs that
+split into
+three parts.
+###--------
+###Script:736
+Mechaniloid
+that moves
+and carries
+card keys.
+Doesn't drop
+parts.
+###--------
+###Script:737
+Mechaniloid
+resembling a
+balloonfish.
+Fires off
+spikes from
+its body.
+###--------
+###Script:738
+Pantheon in
+Hibernation
+Chamber that
+scrap elves
+can return
+to life.
+###--------
+###Script:739
+Lies in
+narrow holes
+and can't be
+destroyed.
+Doesn't drop
+parts.
+###--------
+###Script:740
+Mechaniloid
+that lies
+inside the
+Beeneran.
+Doesn't drop
+parts.
+###--------
+###Script:741
+Plant
+Mechaniloid
+that is weak
+against
+flame.
+###--------
+###Script:742
+Rolls
+electricity
+along the
+ground.It
+powers up in
+lightning.
+###--------
+###Script:743
+Protected by
+a shelter,
+this cannon
+fires round
+projectiles.
+###--------
+###Script:744
+Mechaniloid
+that fires
+reflecting
+lasers from
+the sky.
+###--------
+###Script:745
+Sand digging
+Mechaniloid
+that drops
+down from
+above.
+###--------
+###Script:746
+Cyber-elf
+that's weak
+against
+light and is
+in H.Chamber
+capsule.
+###--------
+###Script:747
+Mechaniloids
+spat from
+GearBank
+in the
+Hibernation
+Chamber.
+###--------
+###Script:748
+Excels at
+tracking.
+Explodes and
+causes dmg
+to nearby
+targets.
+###--------
+###Script:749
+Moves in a
+triangle
+pattern and
+fires three
+shots.
+###--------
+###Script:750
+Fires lasers
+in three
+directions.
+Can't be
+destroyed.
+No parts.
+###--------
+###Script:751
+Assassin
+variant.
+Likes to
+sneak
+attack.
+###--------
+###Script:752
+Variant that
+hangs from
+power lines
+and attacks
+with a fire
+sword.
+###--------
+###Script:753
+Very generic
+variant.
+If its shot
+hits,the
+target is
+lit on fire.
+###--------
+###Script:754
+Variant that
+fires a wide
+sweeping
+missile
+attack.
+###--------
+###Script:755
+Mechaniloid
+crab that
+can reflect
+shots off
+of its hard
+shell.
+###--------
+###Script:756
+Built from
+ancient
+blueprints.
+Its code
+name is
+Mod-CF.
+###--------
+###Script:757
+Neo Arcadian
+combat
+reploid that
+was an old
+friend of
+Neige's.
+###--------
+###Script:758
+Protection
+program in
+the Teleport
+Circuit.Can
+utilize
+Cyber-elves.
+###--------
+###Script:759
+Wolf Reploid
+that spits
+sharp fangs
+of ice.
+###--------
+###Script:760
+This turtle
+Reploid can
+reflect
+all attacks
+w/its shell.
+###--------
+###Script:761
+Reploid
+capable of
+coming apart
+& combining
+using its
+magnet.
+###--------
+###Script:762
+Reploid that
+lies in the
+Undrgrnd
+Forest.Can
+recover on
+sunny days.
+###--------
+###Script:763
+Bird Reploid
+entrusted w/
+the security
+of the
+Living City.
+###--------
+###Script:764
+Pegasus
+Reploid
+destroying
+nature from
+the Hanging
+Garden.
+###--------
+###Script:765
+Protects the
+Teleporter
+Base.
+Connected w/
+four
+computers.
+###--------
+###Script:766
+Butterfly
+Reploid that
+flaps around
+on its wings
+of fire.
+###--------
+###Script:767
+Large core.
+Pull the
+plug to
+halt the
+lasers.
+###--------
+###Script:768
+Squid
+Reploid
+inside the
+Submarine.
+Attacks from
+amidst ink.
+###--------
+###Script:769
+Has spent a
+long time in
+prison.
+Attacks w/a
+hammer
+punch.
+###--------
+###Script:770
+Strapped w/
+Ragnarok
+parts,this
+Dr.Weil is
+powered up.
+###--------
+###Script:771
+Dr.Weil
+after
+melding
+completely
+w/Ragnarok.
+###--------
+###Script:772
+Crab
+Mechaniloid
+that guards
+the Magnetic
+Zone from
+intruders.
+###--------
+###Script:773
+This ant
+Mechaniloid
+burns
+intruders
+of Undergrnd
+Forest.
+###--------
+###Script:774
+Spits out
+Serpent
+Gears.Weak
+spots are
+the four
+hatches.
+###--------
+###Script:775
+Destroy or
+pull the
+eight key
+disks to
+stop this
+monstrosity.
+###--------
+###Script:776
+Wyvern
+Mechaniloid
+that spits
+out
+electricity.
+###--------
+###Script:777
+Wyvern
+Mechaniloid
+that fires
+incendiary
+shots.
+###--------
+###Script:778
+Wyvern
+Mechaniloid
+with breath
+that turns
+into ice
+shards.
+###--------
+###Script:779
+Mechaniloid
+with eight
+GlassCannons
+in tow.
+###--------
+###Script:780
+Lonely
+Reploid in
+charge of
+Cyber-elves.
+###--------
+###Script:781
+Human girl
+that feels
+no ill will
+towards the
+Reploids.
+###--------
+###Script:782
+Humans saved
+from Neo
+Arcadia by
+Neige.
+###--------
+###Script:783
+Engineer who
+designs new
+weapons for
+Zero.Will
+design new
+chips.
+###--------
+###Script:784
+Scientist
+developing
+Elves,
+Reploids &
+Energy.
+###--------
+###Script:785
+Dedicated
+leader of
+the Colbor
+Team, has
+made some
+mistakes.
+###--------
+###Script:786
+Combat
+Reploid that
+is traveling
+with Zero
+and the
+others.
+###--------
+###Script:787
+Resistance
+intel.Joined
+to provide
+information.
+###--------
+###Script:788
+Leader of
+Humans in
+Settlement.
+Is an active
+journalist.
+###--------
+###Script:789
+Functions as
+a leader for
+the Caravan.
+Trusted by
+everyone.
+###--------
+###Script:790
+Female
+Reploid in
+charge of
+mission
+planning.
+###--------
+###Script:791
+Human who
+guards the
+baggage.Only
+trusts X.
+###--------
+###Script:792
+Trying to
+bring all of
+the Humans
+to Area
+Zero.
+###--------
+###Script:793
+Boy that has
+joined the
+Caravan.
+Friendly to
+Zero.
+###--------
+###Script:794
+An evil
+scientist.
+After the
+loss of Copy
+X,he rules
+Neo Arcadia.
+###--------
+###Script:795
+Legendary
+Reploid
+found by
+Ciel in an
+underground
+laboratory.
+###--------
+###Script:798
+Left/Right to change tag
+###--------
+###Script:799
+Up/Down then A Button
+###--------
+###Script:800
+Mi Mimi...
+###--------
+###Script:801
+Mi Mimimi...
+###--------
+###Script:802
+Mimimimi!
+Mimimi!
+###--------
+###Script:803
+Zero?
+###--------
+###Script:804
+I'm hungry.
+###--------
+###Script:805
+E-Crystals,
+give me
+more!
+###--------
+###Script:806
+Zero!
+###--------
+###Script:807
+I've been
+good.Can I
+have more
+E-Crystals?
+###--------
+###Script:808
+Zero!
+I'll do my
+best!
+###--------
+###Script:809
+Hey Zero.
+I want to
+help you
+any way
+I can.
+###--------
+###Script:810
+Use magnet
+enemy and
+frog enemy
+parts for
+a new chip.
+###--------
+###Script:811
+All this
+talking has
+made me
+hungry.
+###--------
+###Script:812
+I want to
+grow and be
+able to copy
+new powers!
+###--------
+###Script:813
+Ceratanium+
+propeller+
+reflective
+beam parts=
+new chip.
+###--------
+###Script:814
+Hey Zero!
+Alouette is
+teaching me
+how to
+speak!
+###--------
+###Script:815
+Hey Zero!
+I hope that
+I can grow.
+Do you think
+I can?
+###--------
+###Script:816
+With hard
+mech.parts
+you can
+strengthen
+your body.
+###--------
+###Script:817
+Zero!
+Am I being
+of service
+to you?
+###--------
+###Script:818
+Hey Zero.
+Why does
+Ciel always
+look so
+busy?
+###--------
+###Script:819
+Hmr+Flame
+thrower+
+spinner+
+ceratanium
+=new chip.
+###--------
+###Script:820
+Zero!
+Thanks for
+all of the
+E-Crystals!
+###--------
+###Script:821
+Zero!
+Thanks for
+helping me
+to grow
+this far!
+###--------
+###Script:822
+Lv.7 Hacker
+Buster Cmd=
+Face right
+and D,DR,R,
+D,DR,R,Bstr.
+###--------
+###Script:823
+Lv.7 Hacker
+Saber Cmd=
+Face right
+and R,DR,D
+then saber!
+###--------
+###Script:829
+Failed to load data!
+###--------
+###Script:830
+Save data?
+  Yes
+  No
+###--------
+###Script:831
+Saving sys.data
+###--------
+###Script:832
+Saving sys.data.
+###--------
+###Script:833
+Saving sys.data..
+###--------
+###Script:834
+Saving sys.data...
+###--------
+###Script:835
+Do not turn off power
+###--------
+###Script:836
+Data saved
+###--------
+###Script:837
+Failed to save
+###--------
+###Script:838
+Failed to save
+###--------
+###Script:839
+Save data corrupted
+###--------
+###Script:840
+Up/Down then A Button
+###--------
+###Script:841
+Data saved
+###--------
+###Script:842
+Overwrite data?
+  Yes
+  No
+###--------
+###Script:843
+Data overwritten
+###--------
+###Script:844
+Load data?
+  Yes
+  No
+###--------
+###Script:845
+Data loaded
+###--------
+###Script:846
+Delete data?
+  Yes
+  No
+###--------
+###Script:847
+Data deleted
+###--------
+###Script:848
+Saving
+###--------
+###Script:849
+Saving.
+###--------
+###Script:850
+Saving..
+###--------
+###Script:851
+Saving...
+###--------
+###Script:852
+Loading
+###--------
+###Script:853
+Loading.
+###--------
+###Script:854
+Loading..
+###--------
+###Script:855
+Loading...
+###--------
+###Script:860
+High score updated
+
+  Save high score
+  Do not save
+###--------
+###Script:861
+<textColorRed>Mini Game:<textColorWhite>
+<textColorRed>Energy Lab.<textColorWhite> added
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:862
+Exit game & return to
+the title screen.Game
+progress will be lost.
+###--------
+###Script:863
+Exit to main title
+screen.Unsaved game
+progress will be lost.
+###--------

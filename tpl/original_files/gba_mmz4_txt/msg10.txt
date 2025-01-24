@@ -1,0 +1,62 @@
+###TextArchive:msg10
+###Script:0
+Operator:
+"In order to send
+ the transporter
+###--------
+ coordinates, you're
+ going to have to
+ disable the base's
+###--------
+ protection."
+###--------
+"You can disable it
+ by pulling all of
+ the switches at the
+###--------
+ end of each of the
+ hallways."
+###--------
+###Script:1
+Operator:"3 left."
+###--------
+"Pull all the switches."
+###--------
+###Script:2
+Operator:"2 left."
+###--------
+"Pull all the switches."
+###--------
+###Script:3
+Operator:"1 left."
+###--------
+"Pull that switch."
+###--------
+###Script:4
+Operator:"Protection
+###--------
+ disabled."
+###--------
+"I'll input the
+###--------
+ coordinates."
+###--------
+"Return to the central
+###--------
+ section and check the
+###--------
+ transporter."
+###--------
+###Script:16
+Operator:"Inputting
+###--------
+ coordinates..."
+###--------
+"Done."
+###--------
+Ciel:"Now you can reach
+###--------
+ Ragnarok, so get back
+###--------
+ here ASAP."
+###--------

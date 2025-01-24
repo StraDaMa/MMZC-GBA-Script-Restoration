@@ -1,0 +1,361 @@
+###TextArchive:msg0E
+###Script:0
+Operator:
+"Keep going and
+ you'll eventually
+###--------
+ reach a duct
+ leading inside."
+###--------
+"It's dangerous, but
+ it leads to Neige's
+ location."
+###--------
+###Script:1
+Zero!
+What are you doing
+here!?
+###--------
+###Script:2
+I'm here to rescue
+you.
+###--------
+The people back
+at the Settlement
+sent me.
+###--------
+Thanks...
+But I still want
+to talk to Craft...
+###--------
+Is he a friend
+of yours?
+###--------
+Craft saved me from
+Mavericks when I was
+just starting out
+###--------
+as a reporter.
+###--------
+I was amazed at
+how he fought to
+protect the humans.
+###--------
+Hehe, it's kinda
+strange, a human
+falling for a
+###--------
+Reploid.
+###--------
+...
+###--------
+###Script:3
+Then I fell in love
+too.
+###--------
+Neige fought her
+hardest to expose
+the truth to people.
+###--------
+###Script:4
+Craft!
+###--------
+Neige... You haven't
+changed a bit.
+###--------
+Once you set your
+mind to something,
+you see it through
+###--------
+to the end.
+###--------
+###Script:5
+You've changed.
+###--------
+You think you're
+fighting for
+humanity, but you
+###--------
+are just a pawn
+being played by
+Weil.
+###--------
+###Script:6
+You understand
+nothing.
+###--------
+Weil will destroy
+everything outside
+of Neo Arcadia
+###--------
+with Ragnarok.
+That includes you.
+###--------
+That's why I helped
+him, so I could find
+you...
+###--------
+To protect you...
+###--------
+Not just you, but
+all humans and
+Reploids...
+###--------
+We have to maintain
+what little energy
+we have to survive.
+###--------
+Even if that means
+a life under Weil's
+control...
+###--------
+So that's why you
+blindly follow Weil?
+###--------
+Stealing freedom and
+destroying nature
+just for survival?
+###--------
+Is this the justice
+you have fought
+for?
+###--------
+...
+###--------
+###Script:7
+Hehehe...
+###--------
+You humans dare
+talk about justice?
+###--------
+A hundred years ago
+you drove me from
+Neo Arcadia...
+###--------
+You've disposed of
+Maverick Reploids
+like garbage...
+###--------
+Humans complaining
+about justice!?
+Don't make me laugh!
+###--------
+###Script:8
+Y-you!
+###--------
+###Script:9
+Dr. Weil!
+###--------
+Hehehe...
+You've been keeping
+busy Zero.
+###--------
+There are only four
+soldiers left now...
+###--------
+But no matter...
+You still can't stop
+Ragnarok.
+###--------
+Not a chance!
+Hehehe!
+###--------
+A question for the
+lady:
+###--------
+Will you stay and
+die in Area Zero for
+your "freedom?"
+###--------
+Or will you follow
+Craft's example and
+follow me?
+###--------
+I really don't care
+one way or the
+other.
+###--------
+Ah!
+Weil!
+###--------
+Hehehe...
+That's the face...
+###--------
+The face of rage,
+suffering and
+humiliation...
+###--------
+It's my greatest
+pleasure...
+###--------
+A pleasure only a
+ruler can fully
+appreciate!
+###--------
+###Script:10
+Don't you get it?
+###--------
+Justice has
+long abandoned
+this world.
+###--------
+Only life and
+death matters now.
+###--------
+Neige... I don't
+want you to become
+one of the dead.
+###--------
+###Script:11
+Hmph!
+###--------
+Zero...
+Can you really kill
+me? A human?
+###--------
+Do you want to
+become a Maverick
+in front of her?
+###--------
+(Zero, close your
+eyes when I give the
+signal...)
+###--------
+...
+###--------
+###Script:12
+So what will you do?
+Zero?
+Girl?
+###--------
+If the only other
+choice is a living
+death under you...
+###--------
+Then I'd rather
+choose to laugh
+death in the face
+###--------
+and face it with
+dignity!
+###--------
+Zero! Now!
+###--------
+###Script:13
+What!?
+A trick!
+###--------
+Agh! I can't see!
+You'll pay for that!
+###--------
+###Script:14
+The little
+scoundrels escaped.
+###--------
+Hmph, no matter...
+Craft, continue
+with Ragnarok.
+###--------
+And find those two.
+We'll show them the
+error of their ways!
+###--------
+###Script:15
+Laughing death in
+the face and facing
+it with dignity is
+###--------
+better than a...
+living death...
+###--------
+Neige... I...
+###--------
+###Script:16
+Are you okay?
+###--------
+That was nothing
+for a hardened
+journalist.
+###--------
+Did you like the
+little trick I keep
+handy?
+###--------
+We can't stay here,
+it's dangerous.
+###--------
+Ciel, come in.
+Get us out of
+here.
+###--------
+###Script:17
+Ciel: "Zero! I'm glad to
+###--------
+ see you're okay!"
+###--------
+"Neige is with you?"
+###--------
+"I'll bring Neige
+###--------
+ back first."
+###--------
+###Script:18
+I'm counting on you.
+###--------
+Thanks Zero...
+###--------
+I only did what the
+people at the
+Settlement asked.
+###--------
+If you're going to
+thank anyone, thank
+them...
+###--------
+I will then...
+###--------
+###Script:19
+Craft, I'm sorry...
+###--------
+###Script:20
+Ciel:"Neige is back."
+###--------
+"Now it's your turn Zero."
+###--------
+###Script:21
+Prison Area escape
+detected! Repeat,
+escape detected!
+###--------
+Upgrading to
+Security Level 3!
+###--------
+###Script:22
+Ciel:"Zero!?"
+###--------
+"What's happening!?"
+###--------
+"I can't...coordinates..."
+###--------
+"Zero... Respond!"
+###--------
+###Script:23
+The signal's
+being jammed!
+###--------
+I have to get out
+on my own now!
+###--------
+###Script:64
+Ciel:"Zero! Come in!"
+###--------
+###Script:65
+I'm free of the
+jamming, bring me
+back.
+###--------
+###Script:66
+Operator:"Understood."
+###--------
+"Retrieving Zero."
+###--------

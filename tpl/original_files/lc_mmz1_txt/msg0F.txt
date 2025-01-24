@@ -1,0 +1,206 @@
+###TextArchive:msg0F
+###Script:0
+SOLDIER:
+"We've got a
+ problem!!
+###--------
+SOLDIER:
+ Enemy troops are
+ attacking our
+ base!!
+###--------
+SOLDIER:
+ We can't
+ hold out much
+ longer!"
+###--------
+###Script:1
+SOLDIER:
+"The main gate
+ will be
+ destroyed any
+###--------
+SOLDIER:
+ minute now!"
+###--------
+Begin the
+evacuation
+immediately!
+Remember that
+###--------
+the elderly and
+children take
+priority!
+###--------
+You should also
+evacuate, Zero.
+###--------
+Thank you for
+having helped
+us so much...
+###--------
+Ciel, hurry and
+head for your
+evacuation
+transport.
+###--------
+It's okay. This
+is my fault.
+###--------
+Your fault?
+###--------
+The world has
+become out of
+control.
+###--------
+It's all
+because of
+Neo Arcadia...
+###--------
+Extreme justice,
+where peace is
+maintained by
+force.
+###--------
+Reploids were
+sacrificed for
+the happiness
+of humans.
+###--------
+It was I who
+created Neo
+Arcadia...
+###--------
+And it was I
+who regenerated
+X...
+###--------
+It was I...
+###--------
+What? What do
+you mean
+"regenerated"...?
+###--------
+You resurrected
+X like you
+resurrected me?
+###--------
+No. It's
+different...
+###--------
+You are an
+original,
+meaning that
+you are exactly
+###--------
+like what you
+used to be...
+###--------
+But X is...
+###--------
+###Script:2
+You should go
+now...
+###--------
+Help everyone
+evacuate...
+###--------
+###Script:3
+SOLDIER:
+"Zero, can you
+ hear me?
+###--------
+SOLDIER:
+ The engine room
+ has fallen to
+ the enemy.
+###--------
+SOLDIER:
+ Since we can't
+ activate the
+ elevator, the
+###--------
+SOLDIER:
+ Reploids on the
+ upper levels
+ can't head for
+###--------
+SOLDIER:
+ the evacuation
+ transport.
+###--------
+SOLDIER:
+ Get rid of the
+ enemies in the
+ engine room!!"
+###--------
+###Script:4
+Thank you,
+Zero...
+I'll turn on
+the elevator.
+###--------
+OK. We're done!
+###--------
+###Script:5
+SOLDIER:
+"Zero, can you
+ hear me?
+###--------
+SOLDIER:
+ The enemy
+ commander is
+ occupying the
+###--------
+SOLDIER:
+ warehouse where
+ the Energy
+ Crystals are
+###--------
+SOLDIER:
+ stored.
+ If we lose the
+ Energy Crystals,
+###--------
+SOLDIER:
+ we are done for.
+ Head for the
+ warehouse and
+###--------
+SOLDIER:
+ get back the
+ Energy
+ Crystals!"
+###--------
+###Script:6
+Well well well.
+I've heard a lot
+about you.
+###--------
+You must be
+Zero, the
+legendary
+Reploid...
+###--------
+Or should I
+say the old
+and out of
+date Reploid?
+###--------
+My name is
+Hanumachine,
+I'm the number
+one apprentice of
+###--------
+Phantom, the
+Guardian.
+###--------
+I'll retire you
+for the glory of
+the Stealth Unit!
+###--------
+En-garde!
+###--------
+###Script:7
+SOLDIER:It's closed!
+###--------

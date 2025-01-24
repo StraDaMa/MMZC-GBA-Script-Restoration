@@ -1,0 +1,66 @@
+###TextArchive:msg05
+###Script:0
+Operator:
+"Zero!"
+###--------
+"We can't stop that
+ particle beam from
+ the outside!"
+###--------
+"Infiltrate it and
+ stop it from the
+ inside!"
+###--------
+"I'm scanning for
+ a way inside."
+###--------
+That's okay...
+###--------
+I'll just go in
+through the barrel.
+###--------
+Operator:
+"That's way too
+ dangerous!"
+###--------
+It looks like it
+is charging up...
+###--------
+There's no time.
+Commencing mission!
+###--------
+###Script:16
+Ragnarok will wake
+the humans from
+their stupidity...
+###--------
+It is the grand
+plan of our group
+under Cmdr. Craft!
+###--------
+I am one of the
+Einherjar warriors,
+###--------
+Heat Genblem!
+###--------
+I will defeat all
+who stand in our
+way!
+###--------
+###Script:17
+Target has been
+destroyed!
+###--------
+Ragnarok will
+continue!
+###--------
+###Script:18
+Gragh!
+###--------
+I failed to destroy
+my target!
+###--------
+I'm sorry I failed
+you, Cmdr. Craft...
+Graaagh!
+###--------

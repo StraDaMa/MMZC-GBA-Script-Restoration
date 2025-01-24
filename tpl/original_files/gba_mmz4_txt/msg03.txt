@@ -1,0 +1,329 @@
+###TextArchive:msg03
+###Script:0
+Ah!
+I should've grabbed
+a faster car!
+###--------
+Neige!
+They're catching up!
+###--------
+I know, I know!
+But this is as fast
+as it goes!
+###--------
+Shoot!
+Dr. Weil is trying
+to bring us back!
+###--------
+###Script:1
+Zero!
+Can you hear me?
+###--------
+The enemy is heading
+for the caravan.
+###--------
+Help them!
+###--------
+Understood.
+Commencing mission.
+###--------
+###Script:2
+Ciel,
+I'll need some help
+with the trailer.
+###--------
+###Script:3
+Zero!
+###--------
+###Script:4
+I'm detecting heat
+signatures!
+###--------
+Zero,
+something's coming!
+###--------
+Bring the trailer
+closer, I'll take
+care of it.
+###--------
+Gotcha.
+###--------
+###Script:5
+It looks like
+everyone is okay.
+###--------
+###Script:6
+I'm surprised to see
+someone crazy enough
+to drive out here
+###--------
+in the middle of
+nowhere.
+###--------
+Do you always give
+lectures to the
+people you save?
+###--------
+Well...
+Thanks anyway.
+###--------
+Neige,
+We don't have time
+for this, let's go.
+###--------
+###Script:7
+You're right...
+But there's time
+to say thank you.
+###--------
+I don't want the
+Reploids thinking
+we're ungrateful.
+###--------
+###Script:8
+Prepare to leave.
+I'll be there soon.
+###--------
+Alright.
+###--------
+No good can come
+of dealing with
+Reploids...
+###--------
+###Script:9
+...
+You're human?
+###--------
+Yes, we are.
+###--------
+Are Humans outside
+of Neo Arcadia that
+rare?
+###--------
+###Script:10
+Zero!
+###--------
+###Script:11
+Zero?
+###--------
+###Script:12
+Zero... I'm glad
+you're okay.
+###--------
+It looks like the
+vehicle is okay
+too.
+###--------
+###Script:13
+Thanks to you both.
+###--------
+You saved us
+Dr. Ciel.
+###--------
+Huh?
+How did you know...
+Who are you?
+###--------
+###Script:14
+The name's Neige,
+I'm human just
+like you.
+###--------
+I used to be a
+journalist who
+traveled the world.
+###--------
+That's why I heard
+rumors about you and
+the Resistance.
+###--------
+That you led the
+Reploids against
+Neo Arcadia...
+###--------
+And are supposed to
+be very dangerous.
+###--------
+Dangerous?
+We're not...
+###--------
+...
+###--------
+I've heard a lot
+about you too.
+###--------
+I knew you were
+in the Resistance
+when I heard Ciel
+###--------
+call your name just
+now.
+###--------
+So you're the
+legendary Reploid,
+Zero.
+###--------
+We don't want any
+strange rumors being
+spread about us.
+###--------
+There won't be.
+I'm just telling
+you what I've heard.
+###--------
+But others might
+think differently
+than me.
+###--------
+###Script:15
+I'll be seeing you.
+It's time for us to
+get going.
+###--------
+###Script:16
+Going?
+Where are you going
+anyway?
+###--------
+If you're human then
+why don't you just
+stay in Neo Arcadia?
+###--------
+You put all this
+together just to
+escape from there?
+###--------
+###Script:17
+Just stay there!?
+Because we're human?
+###--------
+You must be joking!
+###--------
+Wait, you don't know
+do you?
+###--------
+That place has
+changed...
+###--------
+Didn't you see us
+getting attacked
+just now?
+###--------
+It's terrible.
+It doesn't matter
+anymore. Human or
+###--------
+Reploid, it's all
+the same.
+###--------
+Anyone that opposes
+Weil is treated
+like a Maverick.
+###--------
+###Script:18
+The evil Dr. Weil
+who was driven away
+from Neo Arcadia...
+###--------
+He controls all of
+the energy and
+production there and
+###--------
+everywhere all
+because some "hero"
+defeated the leader
+###--------
+of Neo Arcadia.
+###--------
+The great sanctuary
+for us humans...
+###--------
+Is no more...
+###--------
+But then that means
+what we did was...
+###--------
+The humans are
+afraid of being
+"removed" if they
+###--------
+oppose Weil, so he
+rules unchecked.
+###--------
+As long as they
+stay quiet, they
+stay safe...
+###--------
+But who knows how
+long before Weil
+decides to get rid
+###--------
+of them too.
+###--------
+That's why we've
+fled from that
+place.
+###--------
+We're heading for
+the Settlement in
+Area Zero.
+###--------
+###Script:19
+Area Zero?
+There's a human
+settlement there?
+###--------
+###Script:20
+Then we'll go
+with you.
+###--------
+Who knows when Weil
+will strike next...
+###--------
+Well, Ciel is human,
+but Reploids aren't
+welcome.
+###--------
+Especially "heroes"
+like you.
+###--------
+What's that supposed
+to mean?
+###--------
+The Settlement is
+full of people who
+were caught up in
+###--------
+the Reploid war, so
+they don't take too
+kindly to Reploids.
+###--------
+Humans aren't as
+strong or friendly
+as you might think.
+###--------
+I won't tell the
+Caravaners that
+you are the Zero
+###--------
+that defeated the
+leader of Neo
+Arcadia.
+###--------
+Don't get us
+involved in
+anything.
+###--------
+Talk to you later.
+###--------
+###Script:21
+Humans, huh...
+###--------
+###Script:22
+Zero...
+We should get back
+to the trailer...
+###--------
+###Script:23
+Right...
+###--------

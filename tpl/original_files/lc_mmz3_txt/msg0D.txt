@@ -1,0 +1,103 @@
+###TextArchive:msg0D
+###Script:0
+Operator:
+The facility's core
+has not yet been
+###--------
+activated.
+###--------
+We'll need to
+activate the core
+and reestablish
+###--------
+facility opera-
+tions to get into
+the deeper areas.
+###--------
+###Script:1
+What's this?
+###--------
+###Script:2
+Teeheehee...
+###--------
+Hey! You weren't
+supposed to see
+this place.
+###--------
+...
+###--------
+This is a Dark Elf
+copy factory.
+###--------
+We've got copies of
+the Dark Elf
+sleeping here.
+###--------
+In other words,
+Baby Elves.
+###--------
+We had the factory
+sealed off so
+nobody'd get
+###--------
+suspicious. Now
+you've done it!
+###--------
+I'll have to ensure
+you remain silent
+about this...
+###--------
+...For-e-ver!
+###--------
+###Script:3
+I am Cubit Foxtar,
+member of Weil's
+Numbers!
+###--------
+I'll make sure you
+never talk again!
+###--------
+###Script:4
+Teehee! That's it!
+See what happens
+to nosy people!
+###--------
+Relax! I'll show you
+the way to the
+afterlife.
+###--------
+###Script:5
+If I am defeated,
+this room will cease
+functioning,
+###--------
+and the copies will
+all die...
+###--------
+There will be no
+proof. Nobody will
+know the truth.
+###--------
+And anyway...
+###--------
+We don't actually
+need the Baby Elves.
+The Dark Elf alone
+###--------
+will be enough to
+take care of the
+Reploids...
+###--------
+I can already see
+it... The shining
+future, the new
+###--------
+world Lord Weil is
+about to create...
+###--------
+And I see...you,
+wallowing in the
+depths of despair!
+###--------
+Teeheeheeeeeee!
+###--------

@@ -1,0 +1,174 @@
+###TextArchive:msg04
+###Script:0
+Operator: The ruins are
+###--------
+beyond this forest.
+###--------
+Use the portable Trans
+###--------
+Server and
+###--------
+rescue the resistance
+###--------
+soldiers who were lost.
+###--------
+###Script:1
+Hiss! This is a
+restricted area,
+even for us Neo
+###--------
+Arcadians... You
+will never leave
+here alive. Hiss!
+###--------
+###Script:2
+No... If only that
+Baby Elf wasn't
+stolen...
+###--------
+I could have easily
+destroyed the
+nameless soldier...
+###--------
+Hissssss!
+###--------
+###Script:3
+Thank you, Mr. Zero.
+The ruins are full
+of traps. Please
+###--------
+be careful.
+###--------
+###Script:4
+Thank you. I hope
+the others are
+fine.
+###--------
+###Script:5
+Thank you so much...
+I went too far
+and got stuck...
+###--------
+###Script:6
+I'm glad that you
+came here to help
+me.
+###--------
+Thank you very
+much.
+###--------
+###Script:7
+Thanks!! I almost
+lost hope of
+a rescue...
+###--------
+###Script:8
+Commander sent us
+here to investigate
+something called a
+###--------
+Baby Elf...
+But we encountered
+the Neo Arcadian
+###--------
+army. My comrades
+are still somewhere
+in the forest.
+###--------
+Please save them,
+Zero!
+###--------
+###Script:9
+Give that back...
+###--------
+And your life may
+be spared. Hiss!
+###--------
+###Script:10
+What are you waiting
+for...
+###--------
+Run!
+###--------
+###Script:11
+It's been a long
+time...
+Zero...
+###--------
+X!
+###--------
+I can no longer
+rest...
+###--------
+Both Baby
+Elves have
+awakened...
+###--------
+The Baby Elves
+are still
+children...
+###--------
+They cry for
+their mother as
+they tremble
+###--------
+from the
+loneliness.
+###--------
+... ... ...
+What's your point,
+X?
+###--------
+###Script:12
+The Baby Elves will
+do anything to
+reunite with
+###--------
+their mother.
+###--------
+Stir the humans'
+minds and bring
+chaos...
+###--------
+It's all to meet
+their mother,
+the Dark Elf....
+###--------
+The Dark Elf
+that I sealed...
+###--------
+###Script:13
+Wait, X!
+###--------
+... ... ...
+###--------
+The Dark Elf...
+###--------
+###Script:14
+Operator: You have four
+###--------
+soldiers to rescue.
+###--------
+###Script:15
+Operator: You have three
+###--------
+soldiers to rescue.
+###--------
+###Script:16
+Operator: You have two
+###--------
+soldiers to rescue.
+###--------
+###Script:17
+Operator: You have one
+###--------
+soldier to rescue.
+###--------
+###Script:18
+Operator: You have rescued
+###--------
+all the soldiers.
+###--------
+###Script:19
+Uh... Yes...!
+###--------

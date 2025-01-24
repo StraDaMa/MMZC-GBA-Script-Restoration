@@ -1,0 +1,110 @@
+###TextArchive:msg0C
+###Script:0
+Operator:
+"Zero..."
+###--------
+"This area is being
+ operated from two
+ locations."
+###--------
+"One is the control
+ tower and the other
+###--------
+ is the computer
+ room that lies
+ beyond it."
+###--------
+"Keep going and
+ put a stop to that
+ control tower."
+###--------
+###Script:1
+Operator:
+"Zero, there's the
+ control tower!"
+###--------
+"You can't straight
+ out destroy it,
+ but you can pull
+###--------
+ the key disk out
+ and disable the
+ tower."
+###--------
+###Script:16
+Kyakya!
+I've been expecting
+you Zero!
+###--------
+You made a fool of
+me the last time we
+met!
+###--------
+But I assure you
+it won't happen
+again!
+###--------
+I am Cocapetri,
+of the Einherjar
+eight warriors!
+###--------
+We will see Ragnarok
+through! Kyakya!
+###--------
+So you're the one
+who's in control of
+the security here?
+###--------
+Kyakya! Surprised?
+###--------
+It's all thanks
+to Lord Weil's virus
+program!
+###--------
+It takes care of
+intruders without
+me even lifting a
+###--------
+finger!
+###--------
+So you're the type
+that can't do
+anything yourself...
+###--------
+Kya! First "grunt,"
+now this insult!
+Unforgivable!
+###--------
+I'll turn you
+into a lawn
+ornament!
+###--------
+###Script:17
+Kyakya!
+###--------
+Having trouble
+moving there,
+tough guy?
+###--------
+Oh, I'm sorry.
+That's my fault!
+###--------
+Now who can't do
+anything for
+himself? Kyakya!
+###--------
+###Script:18
+Kya...kya...
+Why can't I move?
+###--------
+I haven't been
+turned to stone,
+have I?
+###--------
+No...it's...
+fear keeping me
+frozen...
+###--------
+Kuh...
+Kyakyaaa!
+###--------

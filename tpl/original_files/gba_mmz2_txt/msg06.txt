@@ -1,0 +1,132 @@
+###TextArchive:msg06
+###Script:0
+Pilot: No, we can't
+###--------
+approach any further...
+###--------
+Or we will appear on their
+###--------
+radar.
+###--------
+Ciel: ...Zero. Once you
+###--------
+reach the enemy aircraft,
+###--------
+please let me know by
+###--------
+activating a portable
+###--------
+Trans Server.
+###--------
+###Script:1
+Don't expect you can
+go back easily.
+Zero!
+###--------
+I know you have
+released the
+bomb...
+###--------
+However, we can
+still continue
+our mission if
+###--------
+I have the
+aircraft crash
+into your base!
+###--------
+I am Kuwagust
+Anchus! We Will
+become a flaming
+###--------
+arrow and crash into
+your base!
+###--------
+###Script:2
+B... brotheeeeer!
+###--------
+I'm sooorrrrry...
+I failed to avenge
+yoooouu!
+###--------
+###Script:3
+I set the transfer
+coordinates.
+Transfer Ciel here.
+###--------
+###Script:4
+I'll quickly
+release the
+bomb...
+###--------
+The devise is...
+###--------
+It's here.
+###--------
+###Script:5
+I need ninety
+seconds to
+release fuse.
+###--------
+Please, provide
+cover for me...
+###--------
+###Script:6
+Ciel: The fuse has been
+###--------
+released!
+###--------
+Operator: We confirmed the
+###--------
+fuse has been released.
+###--------
+Preparing to transfer.
+###--------
+Secure your position.
+###--------
+###Script:7
+Ciel! You go ahead!!
+###--------
+All right! You
+follow me quickly!!
+###--------
+###Script:8
+Operator: Position secured.
+###--------
+Transfer commencing.
+###--------
+###Script:9
+...!?
+###--------
+###Script:10
+Ciel: It's an emergency,
+###--------
+Zero!
+###--------
+Due to air turbulence...
+###--------
+The transfer won't work!
+###--------
+The storage of the aircraft
+###--------
+is broken.
+###--------
+Please escape from there!!
+###--------
+###Script:11
+Ciel: Please jump off!
+###--------
+Our aircraft is on standby
+###--------
+and ready to pick you up.
+###--------
+###Script:12
+Ciel: I finished about
+###--------
+half of my analysis...
+###--------
+###Script:13
+Ciel: Maybe I'll be done
+###--------
+shortly...
+###--------

@@ -1,0 +1,78 @@
+###TextArchive:msg09
+###Script:0
+Operator:
+"The temperature is
+ rising rapidly at
+###--------
+ your location."
+###--------
+"Even you won't be
+ able to last long
+ in that heat..."
+###--------
+"Once your armor
+ reaches 100%
+ capacity, you will
+###--------
+ start taking
+ damage."
+###--------
+"Hide in the shade
+ as much as possible
+ to stay cool."
+###--------
+"There are several
+ energy generators."
+###--------
+"If you can destroy
+ them, you should be
+ able to lower the
+###--------
+ temperature."
+###--------
+###Script:16
+Kyahahaha!
+###--------
+You must be quite
+fired up to come
+this far!
+###--------
+Ah, but you're not
+fired up enough for
+me.
+###--------
+I wanna see you
+sweat! I wanna see
+tears!
+###--------
+Show me everything
+you've got!
+###--------
+I love making guys
+like you into
+charcoal!
+###--------
+Now it's time to get
+burned!
+###--------
+###Script:17
+Kyahaha!
+Pathetic! Is that
+all you've got?
+###--------
+Did you really think
+you stood a chance
+against Lord Weil?
+###--------
+###Script:18
+W-what?
+Why...can't I...
+move?
+###--------
+How could I...
+lose to you?
+Unbelievable...
+###--------
+No, impossible...
+Kyaaah!
+###--------

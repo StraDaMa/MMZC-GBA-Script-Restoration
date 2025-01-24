@@ -1,0 +1,26 @@
+###TextArchive:msg10
+###Script:0
+エラー
+###--------
+###Script:1
+You are
+trespassing on
+the sanctuary of
+master X.
+###--------
+I, Herculious
+Anchus, will
+eliminate you,
+in the name of
+###--------
+Harpuia,
+Guardian of
+master X.
+###--------
+You should view
+it as an honor
+to be slashed
+to retirement
+###--------
+by my sword!
+###--------

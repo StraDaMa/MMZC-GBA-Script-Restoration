@@ -1,0 +1,62 @@
+###TextArchive:msg05
+###Script:0
+Operator: There are four
+###--------
+cooling systems
+###--------
+for the computer room of
+###--------
+the facility.
+###--------
+Once you destroy all of
+###--------
+the systems,
+###--------
+the abilities of the
+###--------
+computer room will be
+###--------
+weakened.
+###--------
+###Script:1
+Bwooooh! You are
+the one!?
+###--------
+You are trying to
+destroy this and
+confuse us!
+###--------
+Bwooooh! I won't let
+you do that!
+###--------
+###Script:2
+Gh gh gh...
+###--------
+I can't believe
+this. I was beaten
+by this little
+###--------
+bug thing...
+###--------
+Bobobohfa....!
+###--------
+###Script:3
+Operator: you have three
+###--------
+systems to destroy.
+###--------
+###Script:4
+Operator: you have two
+###--------
+systems to destroy.
+###--------
+###Script:5
+Operator: you have one
+###--------
+system to destroy.
+###--------
+###Script:6
+Operator: All the systems
+###--------
+have been destroyed.
+###--------

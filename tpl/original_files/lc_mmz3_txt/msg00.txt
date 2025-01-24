@@ -1,0 +1,1316 @@
+###TextArchive:msg00
+###Script:0
+Who will you talk with?
+  Operator
+  Ciel
+###--------
+###Script:1
+What do you need?
+  Manage data
+  Talk
+###--------
+###Script:2
+  Save data
+  Load data
+  Erase data
+###--------
+###Script:3
+Save data where?
+###--------
+###Script:4
+ : OK to overwrite?
+  YES
+  NO
+###--------
+###Script:5
+Load which data?
+###--------
+###Script:6
+ : OK to load?
+  YES
+  NO
+###--------
+###Script:7
+Erase which data?
+###--------
+###Script:8
+ : OK to erase?
+  YES
+  NO
+###--------
+###Script:9
+Data saved.
+###--------
+###Script:10
+Data loaded.
+###--------
+###Script:11
+Data erased.
+###--------
+###Script:15
+Your orders, please.
+  Select mission
+  Transfer back
+###--------
+###Script:16
+Displaying the
+available missions:
+###--------
+###Script:17
+All right, let's
+look at something
+else.
+###--------
+###Script:18
+These are the only
+available missions.
+Return when ready.
+###--------
+###Script:20
+The Neo Arcadian
+army is building up
+at the base in Aegis
+###--------
+Volcano.
+###--------
+We do not know what
+their intention is.
+###--------
+###Script:21
+Do some scouting?
+  YES
+  NO
+###--------
+###Script:22
+We've verified a
+reading similar to
+the Dark Elf on the
+###--------
+ruins of an inter-
+continental oceanic
+highway...
+###--------
+We have verified
+that Neo Arcadia
+is pursuing this.
+###--------
+We believe it will
+take some time for
+them to reach the
+###--------
+source of this
+reading.
+###--------
+If possible, you
+should verify
+this signal,
+###--------
+and if it is indeed
+the Dark Elf,
+protect it.
+###--------
+###Script:23
+Do you accept?
+  YES
+  NO
+###--------
+###Script:24
+We have discovered a
+Neo Arcadian weapons
+factory.
+###--------
+They are fixing and
+refitting broken
+weaponry.
+###--------
+It seems this is
+more efficient than
+making new ones.
+###--------
+They have doubled
+weapon production
+recently.
+###--------
+Destroy this factory
+to cut Neo Arcadia's
+military power.
+###--------
+###Script:25
+Do you accept?
+  YES
+  NO
+###--------
+###Script:26
+This was a resi-
+dential area where
+humans once lived.
+###--------
+We sent some people
+to investigate...
+###--------
+And received news
+that Dark Elf may
+have been seen.
+###--------
+For some reason, we
+are unable to scan
+this area.
+###--------
+We would like you to
+go there to investi-
+gate first-hand.
+###--------
+###Script:27
+Can you investigate?
+  YES
+  NO
+###--------
+###Script:28
+We have detected
+Neo Arcadian units
+moving through the
+###--------
+southern desert.
+###--------
+These forces must be
+intercepted as
+soon as possible.
+###--------
+###Script:29
+Can you intercept?
+  YES
+  NO
+###--------
+###Script:30
+We have detected
+Neo Arcadian units
+moving through the
+###--------
+Forest of Anatre...
+###--------
+These forces must be
+intercepted as
+soon as possible.
+###--------
+###Script:31
+Can you intercept?
+  YES
+  NO
+###--------
+###Script:32
+We have detected
+Neo Arcadian units
+moving through the
+###--------
+northern tundra...
+###--------
+The enemy is
+constructing a
+frontline base.
+###--------
+There seems to be a
+reasonable amount of
+time left to act.
+###--------
+###Script:33
+Can you intercept?
+  YES
+  NO
+###--------
+###Script:34
+We have analyzed the
+enemy's movements...
+###--------
+As a result, we have
+succeeded in
+determining the
+###--------
+location of the Neo
+Arcadian HQ.
+###--------
+It seems that Copy X
+and Weil are
+commanding the
+###--------
+entire army from
+this base.
+###--------
+If you strike here,
+you may be able to
+stop Neo Arcadia.
+###--------
+###Script:35
+Are you ready?
+  YES
+  NO
+###--------
+###Script:36
+This is a Neo
+Arcadian energy
+plant. It is
+###--------
+currently shut.
+###--------
+What is so important
+that they had to
+shut down the plant
+###--------
+in the middle of an
+energy crisis?
+###--------
+The place was shut
+down around the time
+Weil appeared, so it
+###--------
+bears investigation.
+###--------
+###Script:37
+Can you investigate?
+  YES
+  NO
+###--------
+###Script:38
+Containers have
+fallen out of a
+space ship,
+###--------
+which fell onto
+snowy plains.
+###--------
+It is possible that
+they contain data
+about Omega or Weil.
+###--------
+We sent a scouting
+party, but the
+Neo Arcadian forces
+###--------
+are too strong, and
+they cannot pass.
+###--------
+We would like you to
+reinforce them, and
+retrieve the data.
+###--------
+###Script:39
+Do you accept?
+  YES
+  NO
+###--------
+###Script:40
+The ruins of an
+ancient library have
+been found.
+###--------
+It's completely
+soaked inside, but
+there may still be
+###--------
+some data around.
+###--------
+We'd like you to
+search for data on
+Weil or Omega.
+###--------
+###Script:41
+Do you accept?
+  YES
+  NO
+###--------
+###Script:42
+Neo Arcadia has
+completed a giant
+elevator.
+###--------
+We do not know its
+purpose.
+###--------
+They are bringing
+something up from
+deep underground.
+###--------
+###Script:43
+Can you investigate?
+  YES
+  NO
+###--------
+###Script:44
+Commencing transfer
+to the coordinates
+obtained from
+###--------
+Original X.
+###--------
+Zero...
+###--------
+Please be careful.
+###--------
+###Script:45
+Are you ready?
+  YES
+  NO
+###--------
+###Script:50
+Where to transfer?
+###--------
+###Script:51
+<textColorRed>DERELICT SPACECRAFT<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:52
+<textColorRed>AEGIS VOLCANO BASE<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:53
+<textColorRed>OCEANIC HWY RUINS<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:54
+<textColorRed>W.R. FACTORY<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:55
+<textColorRed>OLD RESIDENTIAL<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:56
+<textColorRed>MISSILE FACTORY<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:57
+<textColorRed>TWILIGHT DESERT<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:58
+<textColorRed>FOREST OF ANATRE<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:59
+<textColorRed>FRONTLINE ICE BASE<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:60
+<textColorRed>AREA X-2<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:61
+<textColorRed>ENERGY FACILITY<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:62
+<textColorRed>SNOWY PLAINS<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:63
+<textColorRed>SUNKEN LIBRARY<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:64
+<textColorRed>GIANT ELEVATOR<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:65
+<textColorRed>SUB ARCADIA<textColorWhite>?
+  YES
+  NO
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:70
+Mission assigned...
+All personnel,
+prepare to transfer.
+###--------
+###Script:71
+Preparations for
+transfer complete.
+###--------
+###Script:72
+Transfer!
+###--------
+###Script:74
+Zero... Be careful.
+###--------
+###Script:75
+Zero...
+###--------
+###Script:76
+Zero...
+###--------
+Come back safely...
+Okay?
+###--------
+###Script:77
+Don't do anything
+dangerous, Zero...
+###--------
+###Script:78
+Zero...
+###--------
+Come back safely...
+###--------
+###Script:79
+Zerrroooo!
+###--------
+###Script:80
+Transferring...
+Two...
+One...
+###--------
+###Script:81
+Transfer complete.
+###--------
+###Script:89
+What should I do?
+###--------
+Well, for now...
+###--------
+Not letting Neo
+Arcadia have the
+Dark Elf...
+###--------
+That would be
+priority number one.
+###--------
+I will calculate
+our best course of
+action, giving
+###--------
+priority to the
+search for the
+Dark Elf.
+###--------
+I will report to
+Ms. Ciel as soon as
+the results are in.
+###--------
+###Script:90
+Thank you, Zero.
+###--------
+We failed to destroy
+the missile,
+###--------
+but I believe we
+succeeded in
+delaying its
+###--------
+construction.
+###--------
+I will analyze the
+route to the missile
+factory as quickly
+###--------
+as possible.
+###--------
+Please wait a bit
+longer, okay?
+###--------
+###Script:91
+Zero, I'm sorry.
+###--------
+You risked your life
+to go after the Dark
+Elf...
+###--------
+But the Dark Elf was
+too fast, and we
+lost sight of it.
+###--------
+I scanned that area
+again,
+###--------
+but there's no
+reading anywhere
+in the vicinity.
+###--------
+I know an apology is
+not enough, but I am
+truly sorry, Zero.
+###--------
+###Script:92
+Zero... Thank you.
+###--------
+That recycling plant
+will be out of
+operation for some
+###--------
+time, I think.
+###--------
+Thank you so much...
+###--------
+###Script:93
+Zero... Thank you.
+###--------
+The reports of the
+Dark Elf...
+###--------
+They were really
+Baby Elf sightings...
+###--------
+I wonder what Neo
+Arcadia is planning
+on doing with them.
+###--------
+###Script:94
+Thank you, Zero.
+###--------
+Now that they are
+without a leader,
+the Neo Arcadians in
+###--------
+that area have
+retreated.
+###--------
+Thank you so much...
+###--------
+###Script:95
+Thank you, Zero.
+###--------
+Now that they are
+without a leader,
+the Neo Arcadians in
+###--------
+that area have
+retreated.
+###--------
+Thank you so much...
+###--------
+###Script:96
+Thank you, Zero.
+###--------
+Now that they are
+without a leader,
+the Neo Arcadians in
+###--------
+that area have
+retreated.
+###--------
+Thank you so much...
+###--------
+###Script:97
+Welcome back, Zero.
+###--------
+It appears that Weil
+was attempting to
+mass-produce Baby
+###--------
+Elves at that
+factory.
+###--------
+But I wonder...
+###--------
+What was he planning
+on doing with all
+those Baby Elves?
+###--------
+###Script:98
+Zero... Thank you.
+###--------
+I'm analyzing all of
+the data you
+recovered for us.
+###--------
+We may be able to
+figure out what Weil
+is attempting to do,
+###--------
+by analyzing past
+data.
+###--------
+I'll do my best.
+###--------
+###Script:99
+Zero... Thank you.
+###--------
+I'm analyzing all of
+the data you
+recovered for us.
+###--------
+We may be able to
+figure out what Weil
+is attempting to do,
+###--------
+by analyzing past
+data.
+###--------
+I'll do my best.
+###--------
+###Script:100
+Thank you, Zero.
+###--------
+It looks like that
+elevator was being
+used to carry mass
+###--------
+amounts of
+E-Crystals.
+###--------
+But, I wonder...
+###--------
+What was Weil up to
+with all that
+energy?
+###--------
+###Script:101
+Zero, it's great to
+see you back safe.
+###--------
+X just sent us some
+new coordinates.
+###--------
+Apparently, they
+indicate where
+Weil and Omega are.
+###--------
+This may be the last
+battle...
+###--------
+Come talk to me when
+you are ready.
+###--------
+###Script:102
+What will it be?
+  Secret Disk
+  Talk
+###--------
+###Script:103
+Boot completed.
+###--------
+###Script:104
+Enter command.
+  Look something up
+  Transmission
+###--------
+###Script:105
+Can trade BattleChips w/
+"MMBN 4  Red Sun" and
+"MMBN 4  Blue Moon."
+###--------
+Send BattleChips to
+"MMZ 3" to change
+enemies in Cyberspace.
+###--------
+Begin transmission by
+selecting "BattleChips" from
+"Trade" in "Comm."
+###--------
+on the PET screen of "Mega
+Man Battle Network 4."
+###--------
+###Script:106
+Begin transmission?
+  YES
+  NO
+###--------
+###Script:107
+Waiting for transmission.
+
+(Cancel with the B BUTTON)
+###--------
+###Script:108
+Communicating with
+MMBN 4. Enter
+commands from MMBN 4.
+###--------
+###Script:109
+Transmission error.
+Ending transmission.
+###--------
+###Script:110
+Transmission complete.
+Cyberspace has changed!
+###--------
+###Script:111
+Transmission complete.
+###--------
+###Script:115
+Mega Booster Card received.
+  BOOST UP
+  CANCEL
+###--------
+###Script:116
+Transmission error.
+###--------
+###Script:117
+Card<printCodeName> boost reverted
+to previous state.
+###Command:printCodeName
+###--------
+###Script:121
+Title background picture
+has changed.
+###--------
+###Script:122
+Potted plant added to
+Resistance Base, somewhere.
+###--------
+###Script:123
+Design of elevator in
+Resistance Base changed.
+###--------
+###Script:124
+Attack of Z Saber increased
+by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:125
+P. Hunter energy
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:126
+P. Guardian energy
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:127
+Design of Nurse elves has
+changed.
+###--------
+###Script:128
+You have a new friend some-
+where on the second floor
+of the Resistance Base.
+###--------
+###Script:129
+The design of BusterShot
+bullets has changed.
+###--------
+###Script:130
+The design of the Z Panels
+in the game has changed.
+###--------
+###Script:131
+The design of Alouette's
+clothing has changed.
+###--------
+###Script:132
+Attack of Animal elves
+Archim and Archil have
+increased by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:133
+Zero's Defense is now
+doubled.
+###--------
+###Script:134
+The design of the message
+window has changed.
+###--------
+###Script:135
+The design of Life Energy
+has changed.
+###--------
+###Script:136
+Attack of Recoil Rod has
+increased by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:137
+All boosted items have
+been reset to default.
+###--------
+###Script:138
+There is a lost cat
+somewhere in the
+Resistance Base.
+###--------
+###Script:139
+It is snowing at the
+Resistance Base.
+###--------
+###Script:140
+The design of the
+E-Crystals in the
+game has changed.
+###--------
+###Script:141
+Attack of S.Boomerang
+has increased by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:142
+Attack of Animal elves
+Beetack and Beenipe have
+increased by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:143
+Design of computer in
+Ciel's room has changed.
+###--------
+###Script:144
+A mysterious Cyber-elf has
+appeared somewhere in the
+Resistance Base.
+###--------
+###Script:145
+The Attack of BusterShots
+has increased by <textColorRed>1<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:146
+A painting has been hung
+from the Resistance Base
+wall.
+###--------
+###Script:147
+A new door has appeared
+somewhere in the Resistance
+Base.
+###--------
+###Script:148
+The Attack of BusterShots
+has increased by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:149
+You have a new friend some-
+where on the first floor
+of the Resistance Base.
+###--------
+###Script:150
+A flower has bloomed on the
+Resistance Base roof.
+###--------
+###Script:151
+The design of Animal elves
+has changed.
+###--------
+###Script:152
+Andrew looks younger now.
+###--------
+###Script:153
+Attack of Animal elves
+Archim and Archil have
+increased by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:154
+Seagulls now fly in the sky
+above the Resistance Base.
+###--------
+###Script:155
+Attack of Animal elves
+Beetack and Beenipe have
+increased by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:156
+The design of Secret Disks
+has changed.
+###--------
+###Script:157
+Attack of S.Boomerang
+has increased by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:158
+Somebody has drawn graffiti
+on the Resistance Base
+wall.
+###--------
+###Script:159
+Attack of Recoil Rod has
+increased by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:160
+The conversation with the
+Resistance fighter in the
+watchtower at the right
+###--------
+side of the base has
+changed.
+###--------
+###Script:161
+Attack of S.Boomerang
+has increased by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:162
+The conversation with the
+Resistance fighter in the
+watchtower at the left
+###--------
+side of the base has
+changed.
+###--------
+###Script:163
+Attack of Animal elves
+Beetack and Beenipe have
+increased by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:164
+Attack of Animal elves
+Archim and Archil have
+increased by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:165
+The design of Hacker elves
+has changed.
+###--------
+###Script:166
+Energy of Crossbyne has
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:167
+Energy of P. Base
+has increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:168
+The Attack of BusterShots
+has increased by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:169
+It is now nighttime at the
+Resistance Base.
+###--------
+###Script:170
+Energy of P. Aqua
+has increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:171
+Fish now jump around the
+Resistance Base harbor.
+###--------
+###Script:172
+Attack of Recoil Rod has
+increased by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:173
+You have a new friend some-
+where on the third floor
+of the Resistance Base.
+###--------
+###Script:174
+Attack of Animal elves
+Archim and Archil have
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:175
+Attack of Z Saber increased
+by <textColorRed>2<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:176
+Energy of P. Bomber
+has increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:177
+Energy of altered P.
+Aqua has increased by
+<textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:178
+Attack of Z Saber increased
+by <textColorRed>3<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:179
+Energy of PurpleNerple
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:180
+Energy of Shellcrawler
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:181
+Energy of Icebon increased
+by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:182
+Energy of G. Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:183
+Energy of Claveker
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:184
+Energy of Shotcounter
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:185
+Energy of Grand Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:186
+Energy of Shrimpolin
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:187
+Energy of Batring
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:188
+Energy of P. Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:189
+Energy of Volcaire
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:190
+Energy of Snakecord
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:191
+Energy of Lemmingles
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:192
+Energy of Lamplort
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:193
+Energy of Tile Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:194
+Energy of Shelluno
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:195
+Energy of Heavy Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:196
+Energy of Mothjiro
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:197
+Energy of C. Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:198
+Energy of Calibee G
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:199
+Energy of Deathlock
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:200
+Energy of Gyro Cannon
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:201
+Energy of Sharkshiel X
+increased by <textColorRed>4<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:202
+Energy of Olwarmer
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:203
+Energy of Branwarmer
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:204
+Energy of Locomo IF
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:205
+Energy of Beeserver
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:206
+Energy of Megamilpa
+increased by <textColorRed>16<textColorWhite>.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:210
+<textColorRed>Zero's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:211
+<textColorRed>Ciel's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:212
+<textColorRed>Copy X's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:213
+<textColorRed>Harpuia's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:214
+<textColorRed>Fefnir's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:215
+<textColorRed>Leviathan's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:216
+<textColorRed>Phantom's<textColorWhite> mini game
+added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:217
+<textColorRed>Hard Mode<textColorWhite> added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+Play in Hard Mode by
+holding the L BUTTON down
+while selecting NEW GAME.
+###--------
+###Script:218
+<textColorRed>Ultimate Mode<textColorWhite> added!
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+Play in Ultimate Mode by
+holding the R BUTTON down
+while selecting NEW GAME.
+###--------

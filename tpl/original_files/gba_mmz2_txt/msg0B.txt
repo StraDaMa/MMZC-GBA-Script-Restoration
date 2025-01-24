@@ -1,0 +1,100 @@
+###TextArchive:msg0B
+###Script:0
+Ciel: This should be the
+###--------
+meeting spot for our
+###--------
+comrades.
+###--------
+It's strange...
+###--------
+No one has arrived...
+###--------
+Zero... I've got a very
+###--------
+bad feeling...
+###--------
+###Script:1
+Fu fu fu...
+This is it...
+###--------
+Now I am a step
+closer to the
+Dark Elf...
+###--------
+Fu fu fu...
+###--------
+###Script:2
+... ... ...
+###--------
+###Script:3
+That commander of
+yours seemed to have
+retrieved the IFF
+###--------
+beacon... I wonder
+what he is up to...
+Why is he acting
+###--------
+alone, breaking into
+Neo Arcadian
+facilities...?
+###--------
+I don't understand
+the logic at all...
+###--------
+Well, I don't really
+need to know...
+All those Inferior
+###--------
+resistance behaviors
+are not all that
+different.
+###--------
+Well Zero, it's
+time for you to
+die!
+###--------
+###Script:4
+Are you serious?
+How can a legend
+die?
+###--------
+###Script:5
+Ha ha ha... You are
+still so strong...
+I like it...
+###--------
+No... I love it
+this way.
+You are the only
+###--------
+one who can make
+me feel this
+alive... I enjoy
+###--------
+the sensation, I
+love the pain...
+You are worthy...
+###--------
+###Script:6
+... ... ...
+###--------
+Mission
+accomplished.
+Transfer me back.
+###--------
+Roger. Transfer
+commencing.
+###--------
+###Script:7
+Ciel: ... Zero! They are
+###--------
+being controlled by
+###--------
+something!
+###--------
+Make sure you don't harm
+###--------
+them, Zero.
+###--------

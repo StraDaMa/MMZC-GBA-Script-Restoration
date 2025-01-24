@@ -1,0 +1,71 @@
+###TextArchive:msg0B
+###Script:0
+Operator:
+"From inside the
+ building ahead..."
+###--------
+"I'm reading a
+ powerful magnetic
+ field."
+###--------
+"Because of the
+ field, your jump
+ might be affected."
+###--------
+"If you share
+ polarity, you'll
+ jump higher..."
+###--------
+"If it's different
+ you'll jump lower."
+###--------
+"There are capsules
+ that can change your
+ magnetic polarity..."
+###--------
+"Use them wisely to
+ get through there."
+###--------
+###Script:16
+Rrroar!
+###--------
+You... You've
+finally...come...
+Zero!
+###--------
+I won't...let...
+you...stop...
+Ragnarok!
+###--------
+I am...the...
+great...Mino...
+Magnus!
+###--------
+I...will...crush...
+you...and then...
+Uhm...
+###--------
+I really don't
+have time to listen
+to the rest of this.
+###--------
+Let's go!
+###--------
+Rrroar!
+###--------
+###Script:17
+I...did it!
+I...did it!
+###--------
+All...by...
+myself!
+###--------
+###Script:18
+Roar!?
+###--------
+I...I...
+lost?
+###--------
+How...can this...
+be...happening!
+###--------

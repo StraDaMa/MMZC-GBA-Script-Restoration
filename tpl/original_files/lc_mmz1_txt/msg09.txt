@@ -1,0 +1,106 @@
+###TextArchive:msg09
+###Script:0
+CIEL:
+"If you get
+ spotted by
+ the sensor
+###--------
+CIEL:
+ installed in
+ this factory,
+ the shutter
+###--------
+CIEL:
+ will start
+ closing to
+ prevent you
+###--------
+CIEL:
+ from
+ proceeding!
+ Stay sharp!"
+###--------
+###Script:1
+CIEL:Be careful not to
+###--------
+CIEL:be caught by these
+###--------
+CIEL:sensors...
+###--------
+###Script:2
+CIEL:Or this shutter
+###--------
+CIEL:will start closing!
+###--------
+CIEL:Stay sharp!
+###--------
+###Script:3
+CIEL:The sensor has
+###--------
+CIEL:been activated!
+###--------
+CIEL:The shutter is
+###--------
+CIEL:starting to close!!
+###--------
+CIEL:Hurry!!
+###--------
+###Script:4
+CIEL:The shutter has
+###--------
+CIEL:closed...
+###--------
+CIEL:It's impossible to
+###--------
+CIEL:go inside now...
+###--------
+CIEL:You have no choice,
+###--------
+CIEL:you need to come
+###--------
+CIEL:back, Zero...
+###--------
+###Script:5
+CIEL:You can step on
+###--------
+CIEL:the enemies'
+###--------
+CIEL:working machine!
+###--------
+CIEL:But be careful.
+###--------
+###Script:6
+CIEL:I'm picking up a
+###--------
+CIEL:massive energy
+###--------
+CIEL:reading...
+###--------
+CIEL:It must be the boss!
+###--------
+CIEL:Stay alert, Zero!!
+###--------
+###Script:7
+SOLDIER:
+"Zero, we have
+ secured all the
+ floors!
+###--------
+SOLDIER:
+ Our mission is
+ complete!!"
+###--------
+CIEL:
+"Good work,
+ Zero...
+ Thank you.
+###--------
+CIEL:
+ Don't forget to
+ get the Flame
+ Chip before you
+###--------
+CIEL:
+ come back to the
+ base!"
+###--------

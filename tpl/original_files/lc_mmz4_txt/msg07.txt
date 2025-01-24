@@ -1,0 +1,48 @@
+###TextArchive:msg07
+###Script:0
+Operator:
+"There are acid rain
+ generators!"
+###--------
+"Destroy them and
+ save the ground
+ below!"
+###--------
+###Script:16
+I will smite the
+worthless vermin
+down below...
+###--------
+Lord Weil came up
+with a plan as
+beautiful as myself.
+###--------
+All ugly things must
+bow down before me.
+###--------
+Pegasolta Eclair
+will send you to
+the depths below!
+###--------
+###Script:17
+Hahaha!
+Suffer your grand
+and hideous fate!
+###--------
+My loveliness is a
+gift to the eyes of
+one so ugly!
+###--------
+###Script:18
+Wah!
+How could this
+happen to me!?
+###--------
+You...
+Beating me?
+###--------
+That's impossible...
+###--------
+But...my death,
+it's so beautiful!
+###--------

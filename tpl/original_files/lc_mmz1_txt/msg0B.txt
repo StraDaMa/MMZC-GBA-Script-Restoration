@@ -1,0 +1,156 @@
+###TextArchive:msg0B
+###Script:0
+CIEL:The aircraft that
+###--------
+CIEL:the Reploids are on
+###--------
+CIEL:has crash-landed
+###--------
+CIEL:somewhere in the
+###--------
+CIEL:desert.
+###--------
+CIEL:Hurry and help them
+###--------
+CIEL:out.
+###--------
+###Script:1
+My name is
+Anubis
+Necromancess
+the Third.
+###--------
+I work for
+Fefnir, one of
+the four
+Guardians.
+###--------
+I'm the king of
+destruction and
+the ruler of the
+desert...
+###--------
+The Reploids you
+are looking for
+are deep in the
+desert.
+###--------
+If you wish to
+rescue them, you
+need to defeat
+me first.
+###--------
+En-garde,
+old-timer!
+###--------
+###Script:2
+Hey! Are you
+all right?
+###--------
+Hmm... I'm...
+all right...
+You came to
+rescue me...
+###--------
+Thank you
+very much...
+###--------
+Can you walk?
+###--------
+###Script:3
+Yes...
+###--------
+I'll help you
+get back to
+the base.
+###--------
+Follow me.
+###--------
+###Script:4
+CIEL:Thank goodness!
+###--------
+CIEL:There is a survivor!
+###--------
+CIEL:Thank you, Zero.
+###--------
+CIEL:I'll have a medic
+###--------
+CIEL:standing by.
+###--------
+CIEL:Will you take him
+###--------
+CIEL:to the entry point?
+###--------
+###Script:5
+CIEL:Huh? We've lost
+###--------
+CIEL:the life reading
+###--------
+CIEL:on my monitor!
+###--------
+CIEL:What happened Zero?!
+###--------
+CIEL:Zero!!
+###--------
+###Script:6
+Thank goodness...
+I'm saved.
+###--------
+Zero has brought
+back a survivor!!
+Hurry and take
+him to the medic!
+###--------
+###Script:7
+CIEL:I'm glad we could
+###--------
+CIEL:save him...
+###--------
+CIEL:Thank you, Zero...
+###--------
+###Script:8
+SOLDIER:No!
+###--------
+###Script:9
+SOLDIER:How horrible
+###--------
+###Script:10
+SOLDIER:Z... Zero...
+###--------
+###Script:11
+SOLDIER:Oh... Help...
+###--------
+###Script:12
+SOLDIER:Help me...
+###--------
+###Script:13
+SOLDIER:The horror...
+###--------
+###Script:14
+エラー
+###--------
+###Script:15
+エラー
+###--------
+###Script:16
+エラー
+###--------
+###Script:17
+エラー
+###--------
+###Script:18
+エラー
+###--------
+###Script:19
+SOLDIER:Thank you.
+###--------
+SOLDIER:I'm OK.
+###--------
+###Script:20
+SOLDIER:Thank you.
+###--------
+SOLDIER:I can walk...
+###--------
+###Script:21
+SOLDIER:Puff, Puff...
+###--------

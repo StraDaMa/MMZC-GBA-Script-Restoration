@@ -1,0 +1,91 @@
+###TextArchive:msg07
+###Script:0
+CIEL:The transport train
+###--------
+CIEL:is lying deep within
+###--------
+CIEL:an underground
+###--------
+CIEL:passage.
+###--------
+CIEL:Keep your guard up.
+###--------
+###Script:1
+CIEL:Being held within
+###--------
+CIEL:the transport train
+###--------
+CIEL:is a Cyber-elf that
+###--------
+CIEL:was stolen from
+###--------
+CIEL:our base.
+###--------
+CIEL:If it is taken to
+###--------
+CIEL:their base, they
+###--------
+CIEL:will abuse its
+###--------
+CIEL:power...
+###--------
+CIEL:Rescue it... Please!
+###--------
+###Script:2
+CIEL:The train seems to
+###--------
+CIEL:have left!
+###--------
+CIEL:Please rescue the
+###--------
+CIEL:abducted Cyber-elf!
+###--------
+CIEL:I'm counting
+###--------
+CIEL:on you, Zero...!
+###--------
+###Script:3
+CIEL:You've reached the
+###--------
+CIEL:engine chamber!
+###--------
+CIEL:Be careful, Zero!
+###--------
+###Script:4
+CIEL:Thank you, Zero.
+###--------
+CIEL:The mission was a
+###--------
+CIEL:success, because
+###--------
+CIEL:of you.
+###--------
+CIEL:I really appreciate
+###--------
+CIEL:your help...
+###--------
+###Script:5
+CIEL:The train will
+###--------
+CIEL:arrive at the
+###--------
+CIEL:Enemy Base any
+###--------
+CIEL:minute, Zero!
+###--------
+###Script:6
+CIEL:The train is arriving
+###--------
+CIEL:at its destination!
+###--------
+CIEL:You have to evacuate
+###--------
+CIEL:now, Zero!!
+###--------
+###Script:7
+CIEL:The platform is in
+###--------
+CIEL:the opposite
+###--------
+CIEL:direction.
+###--------

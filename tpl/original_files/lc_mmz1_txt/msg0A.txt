@@ -1,0 +1,154 @@
+###TextArchive:msg0A
+###Script:0
+CIEL:This is strange...
+###--------
+CIEL:Our watches are
+###--------
+CIEL:missing...
+###--------
+###Script:1
+Humph! You have
+been doing
+well...
+###--------
+My name is
+Phantom, one of
+the four
+Guardians of
+###--------
+master X.
+###--------
+Every generation
+has its legend.
+However, a lost
+legend should
+###--------
+remain lost...
+###--------
+Allow me to show
+you why!
+###--------
+###Script:2
+This can't be
+true...
+###--------
+Still... I have
+more surprises
+for you.
+###--------
+The bombs I
+set all over the
+factory will
+explode any
+###--------
+minute now.
+###--------
+And when they do,
+this factory
+will be smashed
+into nothing!
+###--------
+Your legend will
+end, not with a
+whimper, but
+with a bang!!
+###--------
+###Script:3
+CIEL:There is no time
+###--------
+CIEL:before the bombs
+###--------
+CIEL:explode!
+###--------
+CIEL:Evacuate the place!
+###--------
+CIEL:Now!
+###--------
+###Script:4
+CIEL:Will you deactivate
+###--------
+CIEL:the bombs?
+###--------
+CIEL:Okay...
+###--------
+CIEL:I'll help you.
+###--------
+CIEL:There are 8 readings
+###--------
+CIEL:of the bombs...
+###--------
+CIEL:Just please don't
+###--------
+CIEL:feel that you
+###--------
+CIEL:have to do this...
+###--------
+###Script:5
+CIEL:Slash a bomb with
+###--------
+CIEL:your Saber and then
+###--------
+CIEL:touch it to
+###--------
+CIEL:deactivate and
+###--------
+CIEL:retrieve it.
+###--------
+CIEL:Just be very
+###--------
+CIEL:careful...
+###--------
+###Script:6
+CIEL:7 more bombs to go.
+###--------
+###Script:7
+CIEL:6 more bombs to go.
+###--------
+###Script:8
+CIEL:5 more bombs to go.
+###--------
+###Script:9
+CIEL:4 more bombs to go.
+###--------
+###Script:10
+CIEL:3 more bombs to go.
+###--------
+###Script:11
+CIEL:2 more bombs to go.
+###--------
+###Script:12
+CIEL:1 more bomb to go.
+###--------
+CIEL:Good luck!!
+###--------
+###Script:13
+ZERO:I haven't removed
+###--------
+ZERO:all the bombs yet...
+###--------
+###Script:14
+CIEL:30 seconds before
+###--------
+CIEL:the explosion!
+###--------
+CIEL:Hurry up! Zero!
+###--------
+###Script:15
+CIEL:
+"All the bombs
+ are deactivated
+ and Zero is
+###--------
+CIEL:
+ fine...
+ Thank
+ goodness...
+###--------
+CIEL:
+ I look forward
+ to your safe
+ return, Zero."
+###--------
+###Script:16
+CIEL:Zero!!
+###--------

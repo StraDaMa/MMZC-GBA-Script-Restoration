@@ -1,0 +1,189 @@
+###TextArchive:msg0F
+###Script:10
+It already fired!
+###--------
+Ciel!
+Respond!
+###--------
+Zzz...zzz...
+###--------
+It's not working...
+What's going on up
+there?
+###--------
+###Script:11
+Zero...
+What are you doing
+here?
+###--------
+I won't let you
+fire again!
+###--------
+You were after
+Weil weren't you?
+###--------
+Ragnarok is charging
+up for a second
+shot.
+###--------
+This will change the
+world and the
+people in it...
+###--------
+Do you think Neige
+would approve of
+what you're doing?
+###--------
+I know that what I'm
+doing makes me
+seem like Weil.
+###--------
+I don't care if
+people think I am
+a Maverick!
+###--------
+Someone has to take
+a stand and fix
+humanity's course.
+###--------
+###Script:12
+Zero...
+I know what you're
+trying to say...
+###--------
+But lofty ideals
+won't save any
+lives!
+###--------
+###Script:13
+We're only Reploids
+designed for war.
+###--------
+It's not our place
+to change the world.
+###--------
+That's up to humans
+like Ciel and Neige.
+###--------
+As Reploids, we can
+only lend strength
+to those we trust.
+###--------
+Trust? And just who
+should I be
+trusting?
+###--------
+The humans that do
+nothing while their
+world falls apart?
+###--------
+The humans that fear
+us, their own
+creations?
+###--------
+Or the humans that
+try to conquer the
+world?
+###--------
+We fight each other
+for them!?
+###--------
+This world screams
+out in pain under
+them...
+###--------
+Why should I trust
+anyone?
+###--------
+How can you trust
+them? How can you
+fight?
+###--------
+###Script:14
+I made a promise to
+a friend I intend to
+keep.
+###--------
+To someone who
+believed harmony
+between human and
+###--------
+Reploid was
+possible.
+###--------
+I trust that friend.
+###--------
+And I trust the
+humans that friend
+trusts...
+###--------
+I...see...
+###--------
+I couldn't even
+bring myself to
+trust Neige...
+###--------
+Even though she
+has always only
+told the truth...
+###--------
+Agh!
+###--------
+###Script:15
+Craft!
+###--------
+Leave my body...
+here...
+###--------
+I can...no longer
+face Neige...
+###--------
+I don't want...to
+cause her to suffer
+any more...
+###--------
+I will do as you
+asked.
+###--------
+Zero...
+###--------
+The humans...
+The Reploids...
+The world...
+###--------
+And Neige...
+Watch...over them.
+###--------
+...
+###--------
+###Script:16
+...
+###--------
+###Script:17
+Ciel:"Zero! Respond!"
+###--------
+###Script:18
+Ciel...
+I stopped
+Ragnarok...
+###--------
+###Script:19
+Ciel:"And Craft?"
+###--------
+###Script:20
+And Craft...
+###--------
+###Script:21
+Ciel:"I'm sorry..."
+###--------
+"I don't know
+###--------
+ what to say..."
+###--------
+###Script:22
+You don't need to
+say anything...
+###--------
+Mission complete...
+I'm coming back...
+###--------

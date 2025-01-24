@@ -1,0 +1,51 @@
+###TextArchive:msg0F
+###Script:1
+Hey, Zero!
+###--------
+You came along to
+get Elpizo?
+I know you did!
+###--------
+He is crazy about
+the Dark Elf.
+Leave that guy to
+###--------
+Harpuia and have
+fun with me
+instead!!
+###--------
+Iiieyahh!
+Get ready for a
+fight!
+###--------
+###Script:2
+Ngwooooohhh!!
+###--------
+What's the problem!
+###--------
+Even though I had
+powered up, I'm no
+match for you!
+###--------
+I... I won't give
+up...
+###--------
+Someday... I will
+destroy you for
+sure!!!
+###--------
+Just you wait!
+###--------
+###Script:3
+Ciel: I've set a
+###--------
+coordinate axis...
+###--------
+Now you can return here
+###--------
+anytime you want...
+###--------
+So please return to the
+###--------
+base once. Please... Zero.
+###--------

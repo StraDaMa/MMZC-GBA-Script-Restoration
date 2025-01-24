@@ -1,0 +1,1948 @@
+###TextArchive:misc_text
+###Script:0
+[ArrowRight]
+###--------
+###Script:1
+NO DATA
+###--------
+###Script:2
+CANCEL
+###--------
+###Script:3
+<textColorRed>H
+###Command:textColorRed
+###--------
+###Script:4
+X
+###--------
+###Script:5
+/
+###--------
+###Script:6
+:
+###--------
+###Script:7
+'
+###--------
+###Script:8
+"
+###--------
+###Script:9
+       It has been a year
+      since Zero chose to
+       take a different
+       path from Ciel...
+
+
+        He still fights
+      against Neo Arcadia.
+
+
+
+       But these battles
+       have lost meaning
+           for him.
+
+
+
+      Zero knows that to
+       find his purpose,
+        he should find
+         Ciel and the
+          resistance
+         soldiers...
+###--------
+###Script:30
+0
+###--------
+###Script:31
+1
+###--------
+###Script:32
+2
+###--------
+###Script:33
+3
+###--------
+###Script:34
+4
+###--------
+###Script:35
+5
+###--------
+###Script:36
+6
+###--------
+###Script:37
+7
+###--------
+###Script:38
+8
+###--------
+###Script:39
+9
+###--------
+###Script:40
+Lv.F
+###--------
+###Script:41
+Lv.E
+###--------
+###Script:42
+Lv.D
+###--------
+###Script:43
+Lv.C
+###--------
+###Script:44
+Lv.B
+###--------
+###Script:45
+Lv.A
+###--------
+###Script:46
+Lv.S
+###--------
+###Script:47
+SAND WILDERNESS
+###--------
+###Script:48
+FOREST OF DYSIS
+###--------
+###Script:49
+ENTRANCE OF C.F.
+###--------
+###Script:50
+POWER ROOM
+###--------
+###Script:51
+TRAIN
+###--------
+###Script:52
+RESIDENTIAL AREA
+###--------
+###Script:53
+BROKEN AIRCRAFT
+###--------
+###Script:54
+ROOF OF C.F.
+###--------
+###Script:55
+FOREST OF NOTUS
+###--------
+###Script:56
+CRYSTAL CAVE
+###--------
+###Script:57
+SHUTTLE FACTORY
+###--------
+###Script:58
+N.A.TEMPLE
+###--------
+###Script:59
+TEMPLE OF FIRE
+###--------
+###Script:60
+TEMPLE OF ICE
+###--------
+###Script:61
+TEMPLE OF WIND
+###--------
+###Script:63
+AREA:FOREST OF DYSIS
+BOSS:HYLEG OUROBOCKLE
+MISSION:RESCUE R.
+###--------
+###Script:64
+AREA:COMPUTER ZONE
+BOSS:POLER KAMROUS
+MISSION:DESTROY C.Z.
+###--------
+###Script:65
+AREA:POWER ROOM
+BOSS:PHOENIX MAGNION
+MISSION:DESTROY P.R.
+###--------
+###Script:66
+AREA:TRAIN OF N.A.
+BOSS:PANTER FLAUCLAWS
+MISSION:ROB GOODS
+###--------
+###Script:67
+AREA:FOREST OF NOTUS
+BOSS:BURBLE HEKELOT
+MISSION:CHASE ELPIZO
+###--------
+###Script:68
+AREA:COMPUTER ZONE 2
+BOSS:FAIRY LEVIATHAN
+MISSION:CHASE ELPIZO
+###--------
+###Script:69
+AREA:CRYSTAL CAVE
+BOSS:SAGE HARPUIA
+MISSION:CHASE ELPIZO
+###--------
+###Script:70
+AREA:SHUTTLE FACTORY
+BOSS:FIGHTING FEFNIR
+MISSION:CHASE ELPIZO
+###--------
+###Script:71
+<textColorRed>ハンター<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:72
+<textColorRed>センシ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:73
+<textColorRed>ユウシャ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:74
+<textColorRed>エイユウ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:75
+<textColorRed>キュウセイシュ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:76
+<textColorRed>ゴッド<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:77
+<textColorRed>ハヤテ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:78
+<textColorRed>ハカイシン<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:79
+<textColorRed>ケンゴウ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:80
+<textColorRed>スナイパー<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:81
+<textColorRed>ジャンキー<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:82
+<textColorRed>ウスノロ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:83
+<textColorRed>ヘイワシュギ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:84
+<textColorRed>ゼンマイジカケ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:85
+<textColorRed>オンボロ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:86
+<textColorRed>テツクズ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:87
+<textColorRed>ムノウ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:88
+<textColorRed>コレクター<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:89
+<textColorRed>マケイヌ<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:90
+<textColorRed>マスター<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:91
+You've already
+accomplished this
+mission.
+###--------
+###Script:95
+How can I help you?
+###--------
+###Script:96
+BEGIN MISSION
+###--------
+###Script:97
+PROCESS DATA
+###--------
+###Script:98
+PROCESS CYBER-ELF
+###--------
+###Script:99
+TALK
+###--------
+###Script:100
+Grandie
+###--------
+###Script:101
+Yeppie
+###--------
+###Script:102
+Fuppie
+###--------
+###Script:103
+Mappie
+###--------
+###Script:104
+Euppie
+###--------
+###Script:105
+Estan
+###--------
+###Script:106
+Peatan
+###--------
+###Script:107
+Arnue
+###--------
+###Script:108
+Charnue
+###--------
+###Script:109
+Kereff
+###--------
+###Script:110
+Rireff
+###--------
+###Script:111
+Mureff
+###--------
+###Script:112
+Nureff
+###--------
+###Script:113
+Oreff
+###--------
+###Script:114
+Pireff
+###--------
+###Script:115
+Emick
+###--------
+###Script:116
+Satick
+###--------
+###Script:117
+Parick
+###--------
+###Script:118
+Mitick
+###--------
+###Script:119
+Ishilar
+###--------
+###Script:120
+Tomilar
+###--------
+###Script:121
+Mikilar
+###--------
+###Script:122
+Remilar
+###--------
+###Script:123
+Culoppe
+###--------
+###Script:124
+Miloppe
+###--------
+###Script:125
+Meloppe
+###--------
+###Script:126
+Reloppe
+###--------
+###Script:127
+Putick
+###--------
+###Script:128
+Jettah
+###--------
+###Script:129
+Atti
+###--------
+###Script:130
+Kelon
+###--------
+###Script:131
+Fubuffa
+###--------
+###Script:132
+Birwin
+###--------
+###Script:133
+Biraero
+###--------
+###Script:134
+Bircarry
+###--------
+###Script:135
+Birhang
+###--------
+###Script:136
+Birflow
+###--------
+###Script:137
+Birhelp
+###--------
+###Script:138
+Beesult
+###--------
+###Script:139
+Beeshot
+###--------
+###Script:140
+Beestin
+###--------
+###Script:141
+Beebite
+###--------
+###Script:142
+Beehitt
+###--------
+###Script:143
+Beefire
+###--------
+###Script:144
+Beelanch
+###--------
+###Script:145
+Beellet
+###--------
+###Script:146
+Stickah
+###--------
+###Script:147
+Stickoo
+###--------
+###Script:148
+Stickie
+###--------
+###Script:149
+Stickoh
+###--------
+###Script:150
+Bomgrow
+###--------
+###Script:151
+Bomserow
+###--------
+###Script:152
+Bomphew
+###--------
+###Script:153
+Bomblow
+###--------
+###Script:154
+Dable
+###--------
+###Script:155
+Menite
+###--------
+###Script:156
+Lanite
+###--------
+###Script:157
+Hafmardo
+###--------
+###Script:158
+Hafmarmn
+###--------
+###Script:159
+Stoccum
+###--------
+###Script:160
+Stockel
+###--------
+###Script:161
+Stocttus
+###--------
+###Script:162
+Stoctem
+###--------
+###Script:163
+Stocpuss
+###--------
+###Script:164
+Stocpell
+###--------
+###Script:165
+Clockle
+###--------
+###Script:166
+Clocsule
+###--------
+###Script:167
+Cloctell
+###--------
+###Script:168
+Clocpull
+###--------
+###Script:169
+Itemeter
+###--------
+###Script:170
+Iteroth
+###--------
+###Script:171
+Itemass
+###--------
+###Script:172
+Iterex
+###--------
+###Script:173
+M-orapp
+###--------
+###Script:174
+M-orina
+###--------
+###Script:175
+M-orossa
+###--------
+###Script:176
+M-oreno
+###--------
+###Script:177
+Acool
+###--------
+###Script:178
+Ashiro
+###--------
+###Script:179
+Aterner
+###--------
+###Script:180
+Anurray
+###--------
+###Script:181
+Nurse
+###--------
+###Script:182
+Animal
+###--------
+###Script:183
+Hacker
+###--------
+###Script:200
+I double
+your
+vitality.
+###--------
+###Script:201
+I increase
+vitality
+slightly.
+###--------
+###Script:202
+You want
+some more
+vitality?
+###--------
+###Script:203
+I can
+boost your
+vitality.
+###--------
+###Script:204
+Sacrifice
+me for
+vitality.
+###--------
+###Script:205
+I turn
+into a
+Sub Tank.
+###--------
+###Script:206
+I can be
+your
+Sub Tank.
+###--------
+###Script:207
+I'll give
+you two
+continues.
+###--------
+###Script:208
+I'll give
+you two
+continues.
+###--------
+###Script:209
+I can sort
+of restore
+vitality.
+###--------
+###Script:210
+Use my
+energy for
+vitality.
+###--------
+###Script:211
+I can give
+a little
+vitality.
+###--------
+###Script:212
+I can
+help your
+wound.
+###--------
+###Script:213
+I can heal
+you
+slightly.
+###--------
+###Script:214
+You want
+me to help
+cure you?
+###--------
+###Script:215
+I can cure
+you fully!
+###--------
+###Script:216
+You want
+me to cure
+you fully?
+###--------
+###Script:217
+My power
+will save
+you.
+###--------
+###Script:218
+It's my
+duty to
+heal you.
+###--------
+###Script:219
+I change
+bullets to
+vitality.
+###--------
+###Script:220
+I change
+bullets to
+vitality.
+###--------
+###Script:221
+I'll
+convert
+bullets.
+###--------
+###Script:222
+The hits I
+take will
+heal you.
+###--------
+###Script:223
+I'll fly
+drop some
+items.
+###--------
+###Script:224
+I'll
+scatter a
+few items.
+###--------
+###Script:225
+I'll
+scatter a
+few items.
+###--------
+###Script:226
+I'll give
+you some
+items.
+###--------
+###Script:227
+I help in
+the fatal
+zone.
+###--------
+###Script:228
+I'll teach
+you how to
+run fast.
+###--------
+###Script:229
+Climbing
+is my
+specialty!
+###--------
+###Script:230
+I'll help
+you defy
+gravity!
+###--------
+###Script:231
+You'll
+never fall
+with me!
+###--------
+###Script:232
+I'll save
+you form a
+pit.
+###--------
+###Script:233
+I must
+save those
+who fall!
+###--------
+###Script:234
+I'll save
+you form a
+pit fall!
+###--------
+###Script:235
+I'll help
+you out of
+a hole.
+###--------
+###Script:236
+I'll get
+you out of
+any pit!
+###--------
+###Script:237
+I'll help
+you out of
+any hole.
+###--------
+###Script:238
+I'll give
+you cover
+fire.
+###--------
+###Script:239
+I'll help
+you fight
+enemies.
+###--------
+###Script:240
+My weapon
+will give
+you cover.
+###--------
+###Script:241
+I'll shoot
+at your
+attackers.
+###--------
+###Script:242
+I'll
+provide
+backup.
+###--------
+###Script:243
+My bullets
+provide
+backup.
+###--------
+###Script:244
+I'll cover
+you!
+###--------
+###Script:245
+Use me,if
+you need
+back up.
+###--------
+###Script:246
+I stun
+certain
+enemies.
+###--------
+###Script:247
+I can stun
+certain
+enemies.
+###--------
+###Script:248
+Your enemy
+can't
+shake me!
+###--------
+###Script:249
+Use me to
+stun your
+enemies.
+###--------
+###Script:250
+I explode
+on your
+enemies!
+###--------
+###Script:251
+I can use
+bullets to
+explode!
+###--------
+###Script:252
+I'll eat
+bullets
+and burst!
+###--------
+###Script:253
+Bullets
+make me
+explode!
+###--------
+###Script:254
+I'll
+double
+your item.
+###--------
+###Script:255
+I'll erase
+the small
+enemies!
+###--------
+###Script:256
+I can rub
+out small
+enemies!
+###--------
+###Script:257
+I reduce a
+boss's
+energy!
+###--------
+###Script:258
+I can cut
+a boss's
+energy!
+###--------
+###Script:259
+I'm able
+to stun
+enemies.
+###--------
+###Script:260
+I can stun
+certain
+enemies.
+###--------
+###Script:261
+I'll stun
+enemies
+for you.
+###--------
+###Script:262
+Enemies
+will get
+stunned!
+###--------
+###Script:263
+My power
+can stun
+enemies.
+###--------
+###Script:264
+Enemies
+will get
+stunned.
+###--------
+###Script:265
+Charge in
+less time
+with me!
+###--------
+###Script:266
+I shorten
+charge
+time!
+###--------
+###Script:267
+I reduce
+charge
+time!
+###--------
+###Script:268
+Use me
+to charge
+faster!
+###--------
+###Script:269
+Enemies
+will drop
+an item.
+###--------
+###Script:270
+Small foe
+will drop
+an item.
+###--------
+###Script:271
+Use my
+power to
+get items.
+###--------
+###Script:272
+I'll make
+foe drop
+items!
+###--------
+###Script:273
+I'll turn
+foe into
+Mettalls.
+###--------
+###Script:274
+I'll make
+foe into
+Mettalls.
+###--------
+###Script:275
+I can turn
+foe into
+Mettalls.
+###--------
+###Script:276
+Enemies'll
+turn into
+Mettalls!
+###--------
+###Script:277
+I'll boost
+you to
+level A.
+###--------
+###Script:278
+You'll be
+at level
+A.
+###--------
+###Script:279
+I'll make
+you at
+level A.
+###--------
+###Script:280
+Should I
+make you
+level A?
+###--------
+###Script:281
+You can't
+have this
+one yet.
+###--------
+###Script:282
+This one
+rests in
+peace now.
+###--------
+###Script:283
+They nurse
+you back
+to health.
+###--------
+###Script:284
+They boost
+your
+ability.
+###--------
+###Script:285
+They
+change
+data.
+###--------
+###Script:287
+This one
+is resting
+in peace.
+###--------
+###Script:300
+Your main weapon.
+###--------
+###Script:301
+Your sub weapon.
+###--------
+###Script:302
+BUSTER SHOT <textColorRed>★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:303
+BUSTER SHOT <textColorRed>★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:304
+BUSTER SHOT <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:306
+Z SABER <textColorRed>★<textColorWhite>☆☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:307
+Z SABER <textColorRed>★★<textColorWhite>☆☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:308
+Z SABER <textColorRed>★★★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:309
+Z SABER <textColorRed>★★★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:310
+Z SABER <textColorRed>★★★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:313
+CHAIN ROD <textColorRed>★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:314
+CHAIN ROD <textColorRed>★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:315
+CHAIN ROD <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:318
+SHIELD BOOMERANG <textColorRed>★<textColorWhite>☆☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:319
+SHIELD BOOMERANG <textColorRed>★★<textColorWhite>☆
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:320
+SHIELD BOOMERANG <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:321
+Your chosen Element.
+###--------
+###Script:322
+It acts like electricity.
+###--------
+###Script:323
+It acts like flame.
+###--------
+###Script:324
+It acts like ice.
+###--------
+###Script:325
+Your chosen Cyber-elf.
+###--------
+###Script:326
+It doubles your energy.
+###--------
+###Script:327
+Improves your MAX energy.
+###--------
+###Script:328
+It becomes a Sub Tank.
+###--------
+###Script:329
+It increases continues.
+###--------
+###Script:330
+It recovers some energy.
+###--------
+###Script:331
+It restores your energy.
+###--------
+###Script:332
+Turns bullets into energy!
+###--------
+###Script:333
+It scatters recovery item.
+###--------
+###Script:334
+Protects you in fatal zone.
+###--------
+###Script:335
+It increases your speed.
+###--------
+###Script:336
+It quickens your climbing.
+###--------
+###Script:337
+Reduces wall-sliding speed.
+###--------
+###Script:338
+It lets you stand firm.
+###--------
+###Script:339
+Rescues you from a hole.
+###--------
+###Script:340
+Shoots bullets for cover.
+###--------
+###Script:341
+It sticks to some enemies.
+###--------
+###Script:342
+It eats bullets to burst.
+###--------
+###Script:343
+Doubles the item you obtain.
+###--------
+###Script:344
+It wipes out some enemies.
+###--------
+###Script:345
+Cuts boss's energy by 50%.
+###--------
+###Script:346
+Temporarily stuns some foe.
+###--------
+###Script:347
+Shortens charge time.
+###--------
+###Script:348
+Beaten foe will drop items.
+###--------
+###Script:349
+Turns foe into Mettall.
+###--------
+###Script:350
+Boosts Zero's Level to A.
+###--------
+###Script:351
+Abort and escape mission.
+###--------
+###Script:352
+Press A Button to escape.
+###--------
+###Script:353
+You can't escape now!
+###--------
+###Script:354
+Store an extra life energy.
+###--------
+###Script:355
+Remove the chosen Element.
+###--------
+###Script:356
+Only 3 allowed at a time.
+###--------
+###Script:357
+Only works in a mission.
+###--------
+###Script:360
+Thank you!
+###--------
+###Script:361
+Yahoo!
+Just what
+I wanted!
+###--------
+###Script:362
+Thank you,
+Zero.
+###--------
+###Script:363
+Thank you,!
+Zero!
+###--------
+###Script:364
+Thanks for
+feeding
+me, Zero.
+###--------
+###Script:365
+I've grown
+thanks to
+you, Zero.
+###--------
+###Script:366
+Yummy!
+Yummy!
+###--------
+###Script:367
+Thank you!
+###--------
+###Script:368
+I need
+more to
+grow up...
+###--------
+###Script:369
+Zero, give
+me more,
+please...!
+###--------
+###Script:370
+Just a
+little
+more.
+###--------
+###Script:371
+I feel
+wonderful,
+thanks.
+###--------
+###Script:372
+I need
+Energy
+Crystals!
+###--------
+###Script:373
+Please
+feed me...
+###--------
+###Script:380
+Press the A Button.
+###--------
+###Script:381
+Choose an Elf.
+###--------
+###Script:382
+Press A Button to remove.
+###--------
+###Script:383
+You've already used it.
+###--------
+###Script:384
+The Elf has not grown up.
+###--------
+###Script:385
+Already been downloaded.
+###--------
+###Script:386
+Choose and press A Button.
+###--------
+###Script:387
+Cr.:
+###--------
+###Script:388
+To Give / Required
+###--------
+###Script:389
+It's already fully-grown.
+###--------
+###Script:390
+You've used it already.
+###--------
+###Script:391
+It doesn't need raising.
+###--------
+###Script:392
+Choose a Cyber-elf.
+###--------
+###Script:395
+OK to save the current data?
+  YES
+  NO
+###--------
+###Script:396
+To which file?
+###--------
+###Script:397
+Data has been saved.
+###--------
+###Script:398
+Okay to overwrite?
+  YES
+  NO
+###--------
+###Script:399
+Data has been overwriten.
+###--------
+###Script:400
+<textColorRed>NORMAL F.<textColorWhite>
+Your basic
+form when
+you begin.
+POWER <textColorRed>★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:401
+<textColorRed>ENERGY F.<textColorWhite>
+Many extra
+life
+energies.
+POWER <textColorRed>★★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:402
+<textColorRed>X F.<textColorWhite>
+Obtain the
+Buster
+Shot.
+POWER <textColorRed>★★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:403
+<textColorRed>DEFENSE F.<textColorWhite>
+Get
+defense
+power.
+POWER <textColorRed>★<textColorWhite>
+DEFEND<textColorRed>★★★★<textColorWhite>
+SPEED <textColorRed>★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:404
+<textColorRed>ERASE F.<textColorWhite>
+Erase
+enemy
+bullets.
+POWER <textColorRed>★★<textColorWhite>
+DEFEND<textColorRed>★★★<textColorWhite>
+SPEED <textColorRed>★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:405
+<textColorRed>ACTIVE F.<textColorWhite>
+Do jumping
+rolling
+slashes.
+POWER <textColorRed>★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:406
+<textColorRed>POWER F.<textColorWhite>
+Use the
+slash with
+the saber.
+POWER <textColorRed>★★★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:407
+<textColorRed>RISE F.<textColorWhite>
+3rd slash
+moves
+upward.
+POWER <textColorRed>★★<textColorWhite>
+DEFEND<textColorRed>★★<textColorWhite>
+SPEED <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:408
+<textColorRed>PROTO F.<textColorWhite>
+Attack
+level is
+higher.
+POWER <textColorRed>★★★★<textColorWhite>
+DEFEND<textColorRed>★<textColorWhite>
+SPEED <textColorRed>★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:409
+<textColorRed>ULTIM F.<textColorWhite>
+Command
+the charge
+attack.
+POWER <textColorRed>★★★<textColorWhite>
+DEFEMD<textColorRed>★★★<textColorWhite>
+SPEED <textColorRed>★★★<textColorWhite>
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:410
+NEW RESISTANCE BASE
+###--------
+###Script:411
+MAINTENANCE ROOM
+###--------
+###Script:450
+<textColorRed>LASER S.<textColorWhite>
+(BUSTER)
+Attack
+with the
+sharp
+Buster
+Shot.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:451
+<textColorRed>TRIPLE S.<textColorWhite>
+(BUSTER)
+Equip Ice
+Chip. It
+splits
+into 3
+bullets.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:452
+<textColorRed>SPARK S.<textColorWhite>
+(BUSTER)
+Equip
+Thunder
+Chip to
+use this
+weapon.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:453
+<textColorRed>TENSHOUZAN<textColorWhite>
+(SABER)
+Press
++Control
+Pad Up and
+Attack
+Button.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:454
+<textColorRed>SENGATOTSU<textColorWhite>
+(SABER)
+
+Use Attack
+Button
+while
+dashing.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:455
+<textColorRed>E.CHAIN<textColorWhite>
+(CHAIN)
+Stab enemy
+then hold
+Attack
+Button
+down.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:456
+<textColorRed>SHARP EDGE<textColorWhite>
+(SABER)
+Press
++Control
+Pad Down
+and stab
+enemy.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:457
+<textColorRed>BLAST S.<textColorWhite>
+(BUSTER)
+
+Equip
+Flame
+Chip
+to use.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:458
+<textColorRed>KOUGENJIN<textColorWhite>
+(SABER)
+Press
++Control
+Pad Down
+and Attack
+Button.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:459
+<textColorRed>F.SHIELD<textColorWhite>
+(SHIELD)
+Dodge a
+bullet
+and it'll
+turn into
+a crystal.
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:501
+To play the HARD mode,
+save game-clear data, then
+hold L Button down when
+you choose "NEW GAME".
+###--------
+###Script:502
+Once you save the HARD mode
+game-clear data,keep Select
+and L Buttons down and
+choose "NEW GAME," then you
+can enter the Gallery. When
+you exit from Gallery, press
+Start.
+###--------
+###Script:510
+PRESS START
+###--------
+###Script:511
+NEW GAME
+###--------
+###Script:512
+NEW GAME
+###--------
+###Script:513
+CONTINUE
+###--------
+###Script:514
+CONTINUE
+###--------
+###Script:515
+GAME LINK
+###--------
+###Script:516
+GAME LINK
+###--------
+###Script:517
+PLEASE WAIT...
+###--------
+###Script:518
+B BUTTON:CANCEL
+###--------
+###Script:519
+SELECT A MODE.
+###--------
+###Script:520
+ 
+###--------
+TIME ATTACK
+###--------
+###Script:521
+ 
+###--------
+TIME ATTACK
+###--------
+###Script:522
+ENEMY BATTLE
+###--------
+###Script:523
+ENEMY BATTLE
+###--------
+###Script:524
+ 
+###--------
+ GET ITEMS
+###--------
+###Script:525
+ 
+###--------
+ GET ITEMS
+###--------
+###Script:526
+ 
+###--------
+P1 DECIDING...
+###--------
+###Script:527
+<textColorWhite> 
+###Command:textColorWhite
+###--------
+SELECT DATA...
+###--------
+###Script:533
+LINK TERMINATED
+###--------
+###Script:534
+ 
+###--------
+   CONTINUE
+###--------
+###Script:535
+ 
+###--------
+   CONTINUE
+###--------
+###Script:536
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:537
+ 
+###--------
+RESTART<textColorWhite> 
+###Command:textColorWhite
+###--------
+S.<textColorWhite> 
+###Command:textColorWhite
+###--------
+GAME
+###--------
+###Script:538
+ QUIT THE GAME
+###--------
+###Script:539
+ QUIT THE GAME
+###--------
+###Script:540
+NEED SAVE DATA
+###--------
+###Script:550
+      STAFF
+
+
+
+
+
+DIRECTOR
+   RYOTA ITO
+   YOSHINORI KAWANO
+
+
+GAME DESIGNER
+   YOSHIHISA TSUDA
+
+
+CHARACTER DESIGNER
+   TORU NAKAYAMA
+
+
+CHARACTER STAFF
+   MASAYA SUZUKI
+
+   HIROKATSU MAEDA
+   AKIHIRO NOTSU
+   RIE OONISHI
+
+   STUDIO A-CAT
+     TAKAHIKO KIMURA
+     MASAMI SUEOKA
+     MASAKO TANAKA
+     TOSHIMI FUKUSHIMA
+     KAZUNORI YAHATA
+
+
+BACKGROUND DESIGNER
+   NOBORU HONDA
+
+   HIDETAKA KATSUKI
+   YUKIMASA TAMURA
+   MAKOTO YABE
+   SATORU NARITA
+
+
+PROGRAMMER
+   TAKAYUKI INOUE
+
+   KAZUTAKA YANAGISAWA
+   AKIHIRO SHISHIDO
+   TOMOYUKI KAJIHARA
+
+
+SOUND PRODUCTION
+SOUND DESIGNER
+   IPPO YAMADA
+
+
+MUSIC
+   MASAKI SUZUKI
+   LUNA UMEGAKI
+   CHICKEN MOB
+   TSUTOMU KURIHARA
+
+
+VOICE CAST
+   YUTO KAZAMA
+   RIE TANAKA
+   MEGUMI OGATA
+   KAZUYA NAKAI
+   YUKA IMAI
+   TSUTOMU KASHIWAKURA
+
+
+PACKAGE DESIGNER
+   AKEMI IWASAKI
+
+
+TEST PLAYERS
+   AKINORI MURATA
+   TAKASHI HASHIMOTO
+   NAOKI KAMURA
+
+
+SPECIAL THANKS
+   MASAHIRO MIZUKOSHI
+   KUNIHITO TAKASHIMA
+   SATOSHI UKAI
+   TAKAYUKI SANO
+   NAOTO SATO
+   SHIGEYOSHI KOBAYASHI
+   ASUKA HAYASHI
+   TAKESHI HORINOUCHI
+
+   AONI PRODUCTION
+     KAZUSHI KISEN
+   HOLY PEAK
+   AKSENT
+   DRAMATIC DEPARTMENT
+   STUDIO 882
+   CRYSTA
+   RIVERSIDE MUSIC
+     TAKEHIRO KAWABE
+     AKI TATSUNO
+
+   CAPCOM ALL STAFF
+
+
+PRODUCER
+   TAKUYA AIZU
+   KEIJI INAFUNE
+
+
+
+PRODUCED AND COPYRIGHT
+        BY
+      CAPCOM
+
+
+
+
+
+
+Thank you for playing!
+###--------
+###Script:670
+L Button <textColorRed>BEGINNING<textColorWhite> R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:671
+L Button <textColorRed>TWILIGHT<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:672
+L Button  <textColorRed>APPEAR<textColorWhite>   R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:673
+L Button  <textColorRed>HARPUIA<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:674
+L Button  <textColorRed>ELPIZO<textColorWhite>   R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:675
+L Button   <textColorRed>BASE<textColorWhite>    R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:676
+L Button   <textColorRed>CIEL<textColorWhite>    R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:677
+L Button   <textColorRed>READY<textColorWhite>   R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:678
+L Button  <textColorRed>HATRED<textColorWhite>   R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:679
+L Button   <textColorRed>WATCH<textColorWhite>   R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:680
+L Button <textColorRed>DARK ELF<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:681
+L Button <textColorRed>FAREWELL<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:682
+L Button <textColorRed>STRENGTH<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:683
+L Button  <textColorRed>MADNESS<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:684
+L Button <textColorRed>FUSION 1<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:685
+L Button <textColorRed>FUSION 2<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:686
+L Button <textColorRed>FUSION 3<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:687
+L Button <textColorRed>R.ELPIZO<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:688
+L Button <textColorRed>DEFEATED<textColorWhite>  R Buuton
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:689
+L Button  <textColorRed>SADNESS<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:690
+L Button    <textColorRed>SKY<textColorWhite>    R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:691
+L Button <textColorRed>DARKNESS<textColorWhite>  R Button
+###Command:textColorRed
+###Command:textColorWhite
+###--------

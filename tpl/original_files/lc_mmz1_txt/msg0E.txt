@@ -1,0 +1,164 @@
+###TextArchive:msg0E
+###Script:0
+CIEL:I'll open the door.
+###--------
+CIEL:Stay put, Zero.
+###--------
+CIEL:It's open!
+###--------
+CIEL:Okay, Zero...
+###--------
+CIEL:Find the Computer
+###--------
+CIEL:Room...
+###--------
+CIEL:And destroy all of
+###--------
+CIEL:the machines!
+###--------
+CIEL:Good luck...
+###--------
+###Script:1
+CIEL:Their main computer
+###--------
+CIEL:is supposedly in
+###--------
+CIEL:this room.
+###--------
+CIEL:All I could do
+###--------
+CIEL:with our computer
+###--------
+CIEL:is...
+###--------
+CIEL:unlock this door...
+###--------
+CIEL:......
+###--------
+CIEL:How's that?
+###--------
+CIEL:Is it unlocked!?
+###--------
+###Script:2
+CIEL:You destroyed
+###--------
+CIEL:a computer!
+###--------
+CIEL:Their hacking
+###--------
+CIEL:attempt has been
+###--------
+CIEL:weakened...
+###--------
+###Script:3
+CIEL:Their hacking is
+###--------
+CIEL:too intense...
+###--------
+CIEL:to open the door.
+###--------
+CIEL:I'm sorry, Zero...
+###--------
+###Script:4
+CIEL:Their hacking
+###--------
+CIEL:attempt has ceased
+###--------
+CIEL:completely.
+###--------
+CIEL:Thank you, Zero...
+###--------
+CIEL:I'm waiting for you
+###--------
+CIEL:to get back to the
+###--------
+CIEL:base.
+###--------
+###Script:5
+CIEL:Be careful,Zero!
+###--------
+CIEL:I've got a massive
+###--------
+CIEL:energy reading.
+###--------
+CIEL:The enemy is near!
+###--------
+###Script:6
+My name is
+Leviathan, one
+of the four
+Guardians of
+###--------
+master X.
+###--------
+After hearing so
+much about you
+from that pretty
+kid and the
+###--------
+combat nerd, I
+have been
+looking forward
+to seeing you.
+###--------
+I can't wait to
+see their faces
+when they find
+out that it was
+###--------
+I who retired
+you!
+###--------
+Now don't hold
+back just
+because I'm a
+woman!
+###--------
+###Script:7
+Why didn't you
+terminate me...
+Are you showing
+me mercy?
+###--------
+How rude...
+I told you not
+to hold anything
+back.
+###--------
+Next time we
+meet, you had
+better give me
+your best!
+###--------
+Farewell!
+###--------
+###Script:8
+CIEL:Do you remember
+###--------
+CIEL:where the entrance
+###--------
+CIEL:is?
+###--------
+CIEL:Good luck... Zero...
+###--------
+###Script:9
+CIEL:Wait a second...
+###--------
+CIEL:I'll unlock it
+###--------
+CIEL:for you.
+###--------
+CIEL:......
+###--------
+CIEL:It's open...
+###--------
+CIEL:Be careful, Zero.
+###--------
+###Script:10
+CIEL:Good work, Zero.
+###--------
+###Script:12
+CIEL:Have you destroyed
+###--------
+CIEL:all the computers?
+###--------

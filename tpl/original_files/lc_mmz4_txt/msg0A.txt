@@ -1,0 +1,81 @@
+###TextArchive:msg0A
+###Script:0
+Operator:
+"I found a door in a
+ different location
+###--------
+ with a special lock
+ and it looks like
+ you'll need a card
+###--------
+ key to open it."
+###--------
+"This doesn't have
+ any direct bearing
+ on your current
+###--------
+ mission, but I just
+ wanted to let you
+ know in case you
+###--------
+ wanted to check it
+ out."
+###--------
+###Script:16
+Gaaah...
+You've kept me
+waiting, hero.
+###--------
+I thought you might
+have been ripped
+apart by my helpers.
+###--------
+And here I rushed
+to get everything
+ready for you.
+###--------
+Then again, there
+are none that can
+keep up with me!
+###--------
+I hope you can
+at least make things
+interesting for me.
+###--------
+After all, you are a
+hero.
+###--------
+###Script:17
+Gaaah!
+What!?
+Done already!?
+###--------
+How boring!
+You should give up
+the hero thing.
+###--------
+###Script:18
+Gaaah!?
+###--------
+Hehe... Not bad...
+True to the name
+hero...
+###--------
+But it's not over
+yet. Not by a long
+shot!
+###--------
+The true power of
+Ragnarok is only
+just beginning...
+###--------
+Hehe... You should
+start preparing your
+list of excuses when
+###--------
+you have to explain
+why you couldn't
+save Area Zero!
+###--------
+Graaah!
+###--------

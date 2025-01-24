@@ -1,0 +1,549 @@
+###TextArchive:msg01
+###Script:0
+You got the Ice Chip!
+###--------
+###Script:1
+You got the Flame Chip!
+###--------
+###Script:2
+You got the Thunder Chip!
+###--------
+###Script:3
+Buster Shot Skill Up!
+###--------
+You can now charge your
+###--------
+Buster up to 2 levels!!
+###--------
+###Script:4
+Buster Shot Skill Up!
+###--------
+You can now charge your
+###--------
+Buster in less time!!
+###--------
+###Script:5
+Buster Shot Skill MAX!
+###--------
+You can now charge your
+###--------
+Buster in less time!!
+###--------
+###Script:6
+Buster Shot Skill Up!
+###--------
+You can now shoot 4
+###--------
+bullets at a time!!
+###--------
+###Script:7
+Buster Shot Skill MAX!
+###--------
+You can now shoot 4
+###--------
+bullets at a time!!
+###--------
+###Script:8
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+double slash!!
+###--------
+###Script:9
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+triple slash!!
+###--------
+###Script:10
+Z Saber Skill Up!
+###--------
+You can now charge your
+###--------
+slash!!
+###--------
+###Script:11
+Z Saber Skill Up!
+###--------
+You can now charge your
+###--------
+slash in less time!!
+###--------
+###Script:12
+Z Saber Skill MAX!
+###--------
+You can now charge your
+###--------
+slash in less time!!
+###--------
+###Script:13
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+jumping rolling slash!!
+###--------
+###Script:14
+Z Saber Skill MAX!
+###--------
+You can now perform a
+###--------
+jumping rolling slash!!
+###--------
+###Script:15
+Z Saber Skill Up!
+###--------
+You can now perform a
+###--------
+dashing rolling slash!!
+###--------
+###Script:16
+Z Saber Skill MAX!
+###--------
+You can now perform a
+###--------
+dashing rolling slas!!
+###--------
+###Script:17
+Chain Rod Skill Up!
+###--------
+You can now perform a
+###--------
+double attack!!
+###--------
+###Script:18
+Chain Rod Skill Up!
+###--------
+You can now perform a
+###--------
+triple attack!!
+###--------
+###Script:19
+Chain Rod Skill Up!
+###--------
+You can now charge your
+###--------
+attack!!
+###--------
+###Script:20
+Chain Rod Skill MAX!
+###--------
+You can now charge your
+###--------
+attack in less time!!
+###--------
+###Script:21
+Shield Boomerang Skill Up!
+###--------
+You can now perform a
+###--------
+middle range attack!!
+###--------
+###Script:22
+Shield Boomerang Skill MAX!
+###--------
+You can now perform a
+###--------
+long range attack!!
+###--------
+###Script:23
+You got a Cyber-elf!!
+###--------
+###Script:30
+You captured the EX skill
+###--------
+of Hyleg Ourobockle!
+###--------
+You got the Laser Shot!
+###--------
+###Script:31
+You captured the EX skill
+###--------
+of Poler Kamrous!
+###--------
+You got the Triple Shot!
+###--------
+###Script:32
+You captured the EX skill
+###--------
+of Panter Flauclaws!
+###--------
+You got the Spark Shot!
+###--------
+###Script:33
+You captured the EX skill
+###--------
+of Phoenix Magnion!
+###--------
+You got the Tenshouzan!
+###--------
+###Script:34
+You captured the EX skill
+###--------
+of Kuwagust Anchus!
+###--------
+You got the Sengatotsu!
+###--------
+###Script:35
+You captured the EX skill
+###--------
+of Burble Hekelot!
+###--------
+You got the Energy Chain!
+###--------
+###Script:36
+You captured the EX skill
+###--------
+of Leviathan!
+###--------
+You got the Sharp Edge!
+###--------
+###Script:37
+You captured the EX skill
+###--------
+of Fefnir!
+###--------
+You got the Blast Shot!
+###--------
+###Script:38
+You captured the EX skill
+###--------
+of Harpuia!
+###--------
+You got the Kougenjin!
+###--------
+###Script:39
+You captured the EX skill
+###--------
+of Rainbow Devil MK2!
+###--------
+You got the Filter Shield!
+###--------
+###Script:41
+A new form has awakened...
+###--------
+The Energy Form has
+###--------
+become available.
+###--------
+###Script:42
+A new form has awakened...
+###--------
+The X Form has
+###--------
+become available.
+###--------
+###Script:43
+A new form has awakened...
+###--------
+The Defense Form has
+###--------
+become available.
+###--------
+###Script:44
+A new form has awakened...
+###--------
+The Erase Form has
+###--------
+become available.
+###--------
+###Script:45
+A new form has awakened...
+###--------
+The Active Form has
+###--------
+become available.
+###--------
+###Script:46
+A new form has awakened...
+###--------
+The Power Form has
+###--------
+become available.
+###--------
+###Script:47
+A new form has awakened...
+###--------
+The Rise Form has
+###--------
+become available.
+###--------
+###Script:48
+A new form has awakened...
+###--------
+The Proto Form has
+###--------
+become available.
+###--------
+###Script:49
+A new form has awakened...
+###--------
+The Ultimate Form has
+###--------
+become available.
+###--------
+###Script:50
+You got Cyber-elf Grandie.
+###--------
+Ciel:
+###--------
+That's a precious elf.
+###--------
+###Script:51
+You got Cyber-elf Yeppie.
+###--------
+###Script:52
+You got Cyber-elf Fuppie.
+###--------
+###Script:53
+You got Cyber-elf Mappie.
+###--------
+###Script:54
+You got Cyber-elf Euppie.
+###--------
+###Script:55
+You got Cyber-elf Estan.
+###--------
+###Script:56
+You got Cyber-elf Peatan.
+###--------
+###Script:57
+You got Cyber-elf Arnue.
+###--------
+###Script:58
+You got Cyber-elf Charnue.
+###--------
+###Script:59
+You got Cyber-elf Kereff.
+###--------
+###Script:60
+You got Cyber-elf Rireff.
+###--------
+###Script:61
+You got Cyber-elf Mureff.
+###--------
+###Script:62
+You got Cyber-elf Nureff.
+###--------
+###Script:63
+You got Cyber-elf Oreff.
+###--------
+###Script:64
+You got Cyber-elf Pireff.
+###--------
+###Script:65
+You got Cyber-elf Emick.
+###--------
+###Script:66
+You got Cyber-elf Satick.
+###--------
+###Script:67
+You got Cyber-elf Parick.
+###--------
+###Script:68
+You got Cyber-elf Mitick.
+###--------
+###Script:69
+You got Cyber-elf Ishilar.
+###--------
+###Script:70
+You got Cyber-elf Tomilar.
+###--------
+###Script:71
+You got Cyber-elf Mikilar.
+###--------
+###Script:72
+You got Cyber-elf Remilar.
+###--------
+###Script:73
+You got Cyber-elf Culoppe.
+###--------
+###Script:74
+You got Cyber-elf Miloppe.
+###--------
+###Script:75
+You got Cyber-elf Meloppe.
+###--------
+###Script:76
+You got Cyber-elf Reloppe.
+###--------
+###Script:77
+You got Cyber-elf Putick.
+###--------
+Ciel:
+###--------
+You found a rare elf,Zero.
+###--------
+###Script:78
+You got Cyber-elf Jettah.
+###--------
+###Script:79
+You got Cyber-elf Atti.
+###--------
+###Script:80
+You got Cyber-elf Kelon.
+###--------
+###Script:81
+You got Cyber-elf Fubuffa.
+###--------
+###Script:82
+You got Cyber-elf Birwin.
+###--------
+###Script:83
+You got Cyber-elf Biraero.
+###--------
+###Script:84
+You got Cyber-elf Bircarry.
+###--------
+###Script:85
+You got Cyber-elf Birhang.
+###--------
+###Script:86
+You got Cyber-elf Birflow.
+###--------
+###Script:87
+You got Cyber-elf Birhelp.
+###--------
+###Script:88
+You got Cyber-elf Beesult.
+###--------
+###Script:89
+You got Cyber-elf Beeshot.
+###--------
+###Script:90
+You got Cyber-elf Beestin.
+###--------
+###Script:91
+You got Cyber-elf Beebite.
+###--------
+###Script:92
+You got Cyber-elf Beehitt.
+###--------
+###Script:93
+You got Cyber-elf Beefire.
+###--------
+###Script:94
+You got Cyber-elf Beelanch.
+###--------
+###Script:95
+You got Cyber-elf Beellet.
+###--------
+###Script:96
+You got Cyber-elf Stickah.
+###--------
+###Script:97
+You got Cyber-elf Stickoo.
+###--------
+###Script:98
+You got Cyber-elf Stickie.
+###--------
+###Script:99
+You got Cyber-elf Stickoh.
+###--------
+###Script:100
+You got Cyber-elf Bomgrow.
+###--------
+###Script:101
+You got Cyber-elf Bomserow.
+###--------
+###Script:102
+You got Cyber-elf Bomphew.
+###--------
+###Script:103
+You got Cyber-elf Bomblow.
+###--------
+###Script:104
+You got Cyber-elf Dable.
+###--------
+Ciel:
+###--------
+This elf is new to me.
+###--------
+###Script:105
+You got Cyber-elf Menite.
+###--------
+###Script:106
+You got Cyber-elf Lanite.
+###--------
+###Script:107
+You got Cyber-elf Hafmardo.
+###--------
+###Script:108
+You got Cyber-elf Hafmarmn.
+###--------
+###Script:109
+You got Cyber-elf Stoccum.
+###--------
+###Script:110
+You got Cyber-elf Stockel.
+###--------
+###Script:111
+You got Cyber-elf Stocttus.
+###--------
+###Script:112
+You got Cyber-elf Stoctem.
+###--------
+###Script:113
+You got Cyber-elf Stocpuss.
+###--------
+###Script:114
+You got Cyber-elf Stocpell.
+###--------
+###Script:115
+You got Cyber-elf Clockle.
+###--------
+###Script:116
+You got Cyber-elf Clocsule.
+###--------
+###Script:117
+You got Cyber-elf Cloctell.
+###--------
+###Script:118
+You got Cyber-elf Clocpull.
+###--------
+###Script:119
+You got Cyber-elf Itemeter.
+###--------
+###Script:120
+You got Cyber-elf Iteroth.
+###--------
+###Script:121
+You got Cyber-elf Itemass.
+###--------
+###Script:122
+You got Cyber-elf Iterex.
+###--------
+###Script:123
+You got Cyber-elf M-orapp.
+###--------
+###Script:124
+You got Cyber-elf M-orina.
+###--------
+###Script:125
+You got Cyber-elf M-orossa.
+###--------
+###Script:126
+You got Cyber-elf M-oreno.
+###--------
+###Script:127
+You got Cyber-elf Acool.
+###--------
+###Script:128
+You got Cyber-elf Ashiro.
+###--------
+###Script:129
+You got Cyber-elf Aterner.
+###--------
+###Script:130
+You got Cyber-elf Anurray.
+###--------
+###Script:131
+You got the Chain Rod!!
+###--------
+###Script:132
+You got the Shield
+###--------
+Boomerang!!
+###--------

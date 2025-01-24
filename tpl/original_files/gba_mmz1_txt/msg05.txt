@@ -1,0 +1,98 @@
+###TextArchive:msg05
+###Script:0
+CIEL:The Disposal Center
+###--------
+CIEL:is up ahead of you!
+###--------
+CIEL:Please rescue our
+###--------
+CIEL:comrade!
+###--------
+###Script:1
+CIEL:Through the shutter
+###--------
+CIEL:you'll reach the
+###--------
+CIEL:Disposal Center.
+###--------
+###Script:2
+I'm Aztec Falcon.
+Harpuia, the
+Guardian, sent me
+to clean up.
+###--------
+###Script:3
+Hey!
+Help!
+Help me!<textColorWhite>
+###Command:textColorWhite
+###--------
+###Script:4
+You must be some
+of the garbage.
+###--------
+Hee hee. Just in
+time. I'll
+dispose of both
+of you together!
+###--------
+###Script:5
+Uh... Ha. Ahem.
+Thank you. I
+never expected
+someone would
+###--------
+come to rescue
+me.
+Thank you so
+much.
+###--------
+I'm still in
+shock...
+...ha ha ha
+###--------
+I'll return to
+our Base... when
+I'm able to walk
+again.
+###--------
+You can go back
+now, I'll be
+fine.
+###--------
+###Script:6
+CIEL:Thank you for your
+###--------
+CIEL:cooperation, Zero.
+###--------
+CIEL:That is the Thunder
+###--------
+CIEL:Chip, I presume.
+###--------
+CIEL:You must get it
+###--------
+CIEL:before you return
+###--------
+CIEL:to the Base.
+###--------
+###Script:7
+Aahhhh!
+Noooooooo!!
+###--------
+###Script:8
+My only hope is
+that it never
+happens again.
+###--------
+###Script:9
+My legs are still
+trembling from
+fear...
+###--------
+###Script:10
+Thank you
+so much.
+###--------
+###Script:11
+CIEL:Not that way.
+###--------

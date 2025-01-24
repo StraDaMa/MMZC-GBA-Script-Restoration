@@ -1,0 +1,130 @@
+###TextArchive:msg14
+###Script:0
+Ragnarok...
+###--------
+is...
+###--------
+breaking apart...
+###--------
+###Script:1
+Ragnarok has entered
+the atmosphere.
+###--------
+Most of it will
+burn up on
+entry...
+###--------
+Impact with Area
+Zero has been
+averted.
+###--------
+Mission...
+successful...
+###--------
+Zero! Come in Zero!
+###--------
+Zero... please...
+Come in...
+###--------
+###Script:2
+There's no response
+from the receiver...
+###--------
+The connection has
+been lost...
+###--------
+###Script:3
+...
+###--------
+###Script:4
+Ciel!
+###--------
+###Script:5
+Oh!
+A shooting star!
+###--------
+###Script:6
+Wow, look!
+A lot of shooting
+stars!
+###--------
+###Script:7
+No, those are pieces
+of Ragnarok...
+###--------
+Does this mean...
+we're saved?
+###--------
+Craft...
+###--------
+Zero...
+###--------
+###Script:8
+...
+Did you...
+reach Zero?
+###--------
+...
+###--------
+###Script:9
+...
+###--------
+Zero, why...
+###--------
+How could this
+happen...
+###--------
+After saving all of
+us...
+###--------
+And just when humans
+and Reploids were
+finally coming
+###--------
+together...
+###--------
+What do we do now?
+###--------
+...
+###--------
+...
+###--------
+###Script:10
+It's okay...
+###--------
+I'm sure Zero is...
+still out there...
+###--------
+###Script:11
+And one day he'll
+come back to us!
+###--------
+###Script:12
+Ciel...
+###--------
+###Script:13
+Zero...
+You believed in
+us...
+###--------
+Now it's our turn to
+show you that your
+faith in us was not
+###--------
+misplaced...
+###--------
+Watch Zero...
+I'll make this world
+a better place...
+###--------
+One where humans and
+Reploids can walk
+hand in hand, living
+###--------
+in peace...
+###--------
+Just come back
+someday... I...
+###--------
+I believe in you!
+###--------

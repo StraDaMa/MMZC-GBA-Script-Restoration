@@ -1,0 +1,223 @@
+###TextArchive:msg13
+###Script:0
+Did you find out
+anything about
+Area Zero?
+###--------
+Yes...
+It's not far from
+here.
+###--------
+Neige and the others
+should arrive there
+soon.
+###--------
+Area Zero is the
+site in the Maverick
+Wars, where the
+###--------
+space colony
+Eurasia crashed...
+###--------
+Many lives were lost
+there...
+###--------
+Area Zero is the
+painful reminder of
+a war long past...
+###--------
+Humans are living
+there now?
+###--------
+###Script:1
+Data about Area Zero
+has been sent from
+the Resistance Base.
+###--------
+Since the crash of
+the space colony,
+the section has been
+###--------
+sealed off, but
+apparently the land
+has been renewed in
+###--------
+that time and nature
+is becoming more and
+more abundant.
+###--------
+Nature is coming
+back to Area Zero!?
+###--------
+It's said to be due
+to an environmental
+system still left
+###--------
+active after the
+crash.
+###--------
+It's not much, but
+it still means hope
+for humanity.
+###--------
+Have you managed to
+find the human
+settlement?
+###--------
+There was not enough
+data to pinpoint an
+exact location.
+###--------
+We need to conduct a
+closer investigation
+of Area Zero.
+###--------
+###Script:2
+Zero, can you head
+out there and check
+it out?
+###--------
+We'll be following
+in the trailer.
+###--------
+###Script:3
+Going to Area Zero?
+  Yes
+  No
+###--------
+###Script:4
+Understood.
+Operator,
+transport me.
+###--------
+Alright.
+Coordinates set...
+###--------
+###Script:5
+How could this be!?
+###--------
+How could what be?
+###--------
+I'm detecting
+multiple Reploid
+signals!
+###--------
+I think they're Neo
+Arcadian...
+###--------
+No, they're Weil's
+Reploids!
+###--------
+What are they doing
+in Area Zero!?
+###--------
+Operator, get me
+over there. Hurry!
+###--------
+###Script:6
+Understood. I'm
+ready when you
+are...
+###--------
+###Script:10
+Hey you!
+Stop!
+###--------
+###Script:11
+You're a Reploid.
+This isn't the place
+for you!
+###--------
+Get out of here!
+###--------
+Wait!
+We have to tell you
+something!
+###--------
+###Script:12
+We told you to get
+out...
+###--------
+###Script:13
+Weil is going to
+destroy this place.
+###--------
+If you leave now,
+there's still time.
+###--------
+Hmph...
+Another Reploid War?
+###--------
+First the Maverick
+Wars, then the Elf
+Wars, now Weil...
+###--------
+How long does this
+world have to suffer
+while you carry out
+###--------
+your petty wars?
+###--------
+###Script:14
+Huh?
+###--------
+Just leave us alone.
+###--------
+This settlement was
+built by humans, for
+humans, and we'll
+###--------
+protect it by
+ourselves.
+###--------
+But it's dangerous
+for you to fight
+Weil alone...
+###--------
+So you'd like humans
+and Reploids to join
+forces?
+###--------
+Don't be a fool!
+###--------
+It's you Reploids
+and your wars that
+got us into this
+###--------
+mess.
+###--------
+We have no reason to
+trust you.
+###--------
+###Script:15
+B-but... We were
+just trying to
+protect you!
+###--------
+Save your breath.
+###--------
+Neige said we
+wouldn't be
+welcome...
+###--------
+B-but!
+###--------
+We told them what we
+know.
+###--------
+It's up to them to
+decide what to do
+with that.
+###--------
+Isn't that right
+Neige?
+###--------
+That's right...
+###--------
+I'm going back to
+the trailer.
+###--------
+The enemy will be
+making their final
+move soon.
+###--------

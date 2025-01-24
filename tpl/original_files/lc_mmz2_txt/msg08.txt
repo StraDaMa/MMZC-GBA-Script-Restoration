@@ -1,0 +1,57 @@
+###TextArchive:msg08
+###Script:0
+Operator: We confirmed that
+###--------
+there are supplies
+###--------
+in this transport train.
+###--------
+Watch out for obstructions
+###--------
+and seize the train.
+###--------
+###Script:1
+Hey, you!
+###--------
+Don't you know
+that this is
+Master Harpuia's
+###--------
+territory?
+###--------
+Huh, a minion of
+the resistance
+force!
+###--------
+I shall stop you!
+###--------
+###Script:2
+No... No... I
+can't believe
+this...
+###--------
+Master Harpuia...
+###--------
+I'm ashamed...
+I was not good
+enough...
+###--------
+Guhhha....h!
+###--------
+###Script:3
+Operator: Mr. Zero! Please
+###--------
+listen!
+###--------
+Enemy Mechaniloids are
+###--------
+approaching you.
+###--------
+Their mission is to
+###--------
+retrieve the supplies.
+###--------
+Please protect the supplies
+###--------
+and defeat the enemies.
+###--------

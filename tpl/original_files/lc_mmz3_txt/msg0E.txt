@@ -1,0 +1,84 @@
+###TextArchive:msg0E
+###Script:0
+Ah, Mr. Zero!
+###--------
+The enemy is
+waiting in ambush up
+ahead...
+###--------
+There's no way we
+can break through.
+###--------
+Mr. Zero, if you can
+make an opening,
+we'll follow you.
+###--------
+###Script:1
+Is that it?
+###--------
+###Script:2
+Hah!
+###--------
+That container was
+on Omega's ship. So
+you see, it's ours.
+###--------
+Has the legendary
+hero stooped to
+thievery?
+###--------
+How deplorable.
+###--------
+As king of the Snow
+Plains, I do hereby
+judge your crime.
+###--------
+###Script:3
+I, Glacier Le
+Cactank, of
+Weil's Numbers,
+###--------
+have reached a
+verdict.
+###--------
+The punishment for
+thievery is death!
+###--------
+###Script:4
+Hah!
+###--------
+Consider your sins
+from deep beneath
+the silent snow!
+###--------
+###Script:5
+Oh...my...
+###--------
+Not stopping at
+thievery, you also
+defy Lord Weil!?
+###--------
+Lord Weil's new
+order will issue
+judgment upon you!
+###--------
+Arrrrgh!
+###--------
+###Script:6
+We've discovered
+data inside the
+container!
+###--------
+Mr. Zero!
+We've recovered all
+of the data!
+###--------
+I will continue
+searching for more
+data.
+###--------
+###Script:7
+Operator: Mission completed.
+###--------
+Commencing transfer.
+###--------

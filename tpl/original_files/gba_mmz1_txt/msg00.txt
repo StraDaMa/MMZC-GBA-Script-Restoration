@@ -1,0 +1,1278 @@
+###TextArchive:msg00
+###Script:0
+Choose an option.
+  BEGIN MISSION
+  PROCESS DATA
+  TALK
+###--------
+###Script:1
+Which mission?
+###--------
+###Script:2
+Will you accept?
+
+  YES
+  NO
+###--------
+###Script:3
+What's now?
+  SAVE DATA
+  LOAD DATA
+  ERASE DATA
+###--------
+###Script:4
+To which file?
+###--------
+###Script:5
+
+OK to overwrite?
+  YES
+  NO
+###--------
+###Script:6
+Which data?
+###--------
+###Script:7
+
+Okay to load?
+  YES
+  NO
+###--------
+###Script:8
+Which data?
+###--------
+###Script:9
+
+Okay to erase?
+  YES
+  NO
+###--------
+###Script:10
+  CHANGE AREA
+  DOWNLOAD ELF
+  FEED ELF
+  EXIT
+###--------
+###Script:11
+  RETURN TO BASE
+  DOWNLOAD ELF
+  FEED ELF
+  EXIT
+###--------
+###Script:12
+  ABORT MISSION
+  DOWNLOAD ELF
+  FEED ELF
+  EXIT
+###--------
+###Script:13
+Welcome to our
+Resistance Base,
+Zero.
+###--------
+This is a shelter
+for injured
+Reploids who
+are suspected
+###--------
+of being
+Mavericks.
+###--------
+We have fought
+so hard to
+survive...
+###--------
+However, we know
+that the end is
+coming...
+###--------
+But that's why
+we have been
+looking for you.
+You are our
+###--------
+last hope. Most
+of us think that
+Zero is nothing
+but a fantasy.
+###--------
+However, a few
+still believed
+in your
+existence and
+###--------
+have looked
+for you...
+###--------
+You ARE Zero,
+the legendary
+Reploid who
+fought with
+###--------
+X to save the
+world 100 years
+ago.
+###--------
+X...? That name
+sounds familiar.
+###--------
+X...
+That legendary
+Reploid is
+still alive and
+###--------
+he's trying to
+retire all of us.
+###--------
+X is trying
+to... retire
+you...?
+###--------
+His plans have
+already begun.
+Many innocent
+Reploids are
+###--------
+being retired
+as we speak...
+###--------
+We need your
+help. Our future
+depends on
+you...
+###--------
+<option>Please help
+us...
+  OK
+  NO WAY
+###Command:option secondAnswerIndex=1
+###--------
+Thank you...
+It's like a
+dream comes true.
+###--------
+Now... With
+your help...
+###--------
+I think I can
+save everyone.
+I have something
+I need to ask
+###--------
+you. Please talk
+to me, when you
+are ready.
+###--------
+<msgSub>I understand...
+You need time
+to think about
+it.
+###Command:msgSub subindex=1
+###--------
+Okay then, we'll
+find a way to
+work it out by
+ourselves.
+###--------
+Still, if you
+change your
+mind... please
+talk to me...
+###--------
+Okay?
+###--------
+###Script:14
+Are you ready...?
+Now, listen.
+###--------
+What I want to
+ask you is if
+you would try
+and do something
+###--------
+that no one has
+been able to do
+so far...
+###--------
+I want you to
+destroy the
+Disposal Center,
+where they
+###--------
+retire our
+comrades one
+after another...
+###--------
+Even while I
+speak, they may
+be retiring a
+Reploid who is
+###--------
+wrongly suspected
+of being a
+Maverick.
+###--------
+To prevent any
+additional loss
+of Reploid
+life, please
+###--------
+destroy the
+enemy facility...
+###--------
+###Script:15
+...?
+###--------
+Will you...
+help us?
+###--------
+Thank you...
+It's like a
+dream comes true.
+###--------
+Now... With your
+help, I think I
+can save
+everyone.
+###--------
+What I want to
+ask you is if
+you would try
+and do something
+###--------
+that no one has
+been able to do
+so far...
+###--------
+I want you to
+destroy the
+Disposal Center,
+where they
+###--------
+retire our
+comrades one
+after another...
+###--------
+Even while I
+speak, they may
+be retiring a
+Reploid who is
+###--------
+wrongly suspected
+of being a
+Maverick.
+###--------
+To prevent any
+additional loss
+of Reploid
+life, please
+###--------
+destroy the
+enemy facility...
+###--------
+###Script:16
+Please, help
+us, Zero...
+###--------
+###Script:17
+Do you remember
+the place in
+which we met?
+###--------
+We had no choice
+but to escape
+then, but my
+research tells me
+###--------
+that there
+remains some very
+important
+information for
+###--------
+you there.
+###--------
+The enemies must
+be trying to
+obtain it
+before you do...
+###--------
+Go and retrieve
+it before it's
+too late...
+###--------
+###Script:18
+One of our
+Comrade Reploids
+is being held in
+the Disposal
+###--------
+Center. Please
+save him.
+###--------
+###Script:19
+Everyone! Guard
+the front of our
+base at all
+costs!
+###--------
+Zero!
+Go around and
+attack it from
+the rear...
+###--------
+That should buy
+us some time...
+###--------
+You are our only
+hope... Good
+luck, Zero.
+###--------
+###Script:20
+We want to
+destroy the
+enemy transport
+train in order
+###--------
+to disrupt their
+supply.
+###--------
+Based on the
+report from our
+scout unit...
+###--------
+The enemy train
+is at the old
+platform
+loading cargo...
+###--------
+The time to
+attack is now.
+###--------
+Please help us
+destroy that
+train.
+###--------
+###Script:21
+One of our
+comrades named
+Colbor said he
+was very sorry
+###--------
+that we couldn't
+help but rely on
+you.
+###--------
+He seems to have
+found a way into
+their base
+through the
+###--------
+subway area, but
+we have lost
+contact with the
+Colbor team...
+###--------
+I just hope that
+he is alright...
+###--------
+If you don't
+mind, will you
+go and look for
+him?
+###--------
+###Script:22
+Unfortunately,
+our stock of
+energy is
+running out...
+###--------
+If we could use
+the abandoned
+factory, we
+could generate
+###--------
+the energy...
+But the boss
+guarding the
+factory is too
+###--------
+strong for us
+to gain control
+of it...
+###--------
+Will you destroy
+the boss for us?
+###--------
+###Script:23
+Thanks to you,
+we've gained
+control of the
+factory. But I
+###--------
+don't think we
+can hold it
+forever...
+###--------
+Can you go
+and check on
+the factory
+for me?
+###--------
+###Script:24
+Some of the
+abducted Reploids
+seem to have
+hijacked an enemy
+###--------
+transport plane
+and have now
+escaped.
+###--------
+But the plane
+disappeared over
+the desert...
+###--------
+They might have
+crash-landed
+in the desert,
+and so we sent
+###--------
+our scouts to
+look for them...
+###--------
+However, our
+scouts are
+having
+difficulties
+###--------
+due to the
+hordes of
+hostile
+enemies in
+###--------
+the area...
+###--------
+I'm sorry, but
+will you go and
+help their
+rescue?
+###--------
+###Script:25
+We've got a
+report that
+enemies are
+assembling in
+###--------
+the desert area.
+###--------
+They haven't
+started their
+attack yet, but
+a large scale
+###--------
+assault can be
+expected.
+###--------
+Even though our
+comrades built
+barricades and
+are taking
+###--------
+precautions
+against their
+attack, I am
+still worried.
+###--------
+If you don't
+mind, will you
+go and help
+them?
+###--------
+###Script:26
+We have received
+information that
+there is a
+hidden base of
+###--------
+the enemy
+somewhere in
+the desert, and
+that they are
+###--------
+holding
+Reploids in it...
+###--------
+We have been
+trying to locate
+it, but...
+###--------
+If there is a
+hidden base, and
+if Reploids are
+being held there,
+###--------
+we must save
+them as soon as
+possible...
+###--------
+Will you find
+where the hidden
+base is? They
+must be
+###--------
+somewhere in
+the desert...!
+###--------
+###Script:27
+The main server
+of the
+Resistance Base
+has recently
+###--------
+become the
+target of
+several
+malicious
+###--------
+hack jobs.
+###--------
+We know that
+the hackers are
+in a hidden
+base located
+###--------
+beneath the
+desert.
+###--------
+If we don't do
+something about
+it soon,we
+will have many
+###--------
+problems with
+the generation
+project of the
+new energy.
+###--------
+Zero, will you
+sneak into their
+hidden base and
+destroy their
+###--------
+main computer?
+###--------
+###Script:28
+ゼロ 聞こえる? ゼロ
+しきゅう、もどって来て!
+‥ベ‥が‥‥ベース‥おそわ‥るの!
+###--------
+‥ゼ‥‥‥‥ゼロ
+
+###--------
+###Script:29
+<textColorRed>トランスルーム<textColorWhite>から<textColorRed>都市<textColorWhite>に
+行くためには<textColorRed>プロテクト<textColorWhite>を
+かいじょしないとダメなの‥
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+でも、まだそのパスワードは
+かいせきできていないの
+###--------
+###Script:30
+Zero...
+You must
+survive...
+###--------
+I'll wait for you
+here until the
+day you return...
+###--------
+Promise me
+that you will
+come back
+alive...
+###--------
+###Script:31
+I'm happy that
+I could meet
+you...
+###--------
+If it were not
+for you, everyone
+would be gone by
+now...
+###--------
+......
+###--------
+Promise me that
+you will come
+back alive
+###--------
+Even if you
+cannot destroy
+Neo Arcadia, I
+just want you
+###--------
+to be able to
+return safely.
+###--------
+Good luck...
+###--------
+###Script:32
+We have analyzed
+the data you
+retrieved...
+###--------
+But, most of
+the data is
+damaged and
+is useless...
+###--------
+The good news
+is that we can
+restore the
+information on
+###--------
+your weapon.
+###--------
+If you want to
+know about it,
+ask our engineer
+named Cerveau.
+###--------
+I'm sorry that
+the mission
+ended poorly,
+but we hope you
+###--------
+will continue to
+help us.
+###--------
+###Script:33
+The data seems
+to have been
+carried away.
+###--------
+But don't
+worry...
+###--------
+I'll try to
+hack into the
+enemy base to
+keep them from
+###--------
+using it.
+###--------
+###Script:34
+Zero...
+Thank you.
+I never thought
+I'd see the day
+###--------
+when the Reploid
+Disposal Center
+is destroyed.
+###--------
+Innocent Reploids
+will be safe for
+a while...
+###--------
+Thank you so
+much, Zero.
+###--------
+You ARE Zero,
+the legendary
+Reploid...
+###--------
+I'd like to ask
+your help again
+when you have
+time.
+###--------
+That is, if you
+don't mind doing
+us favors...
+###--------
+Please come
+and talk to
+me...
+###--------
+I'll be waiting
+for you...
+###--------
+By the way, if
+you go to the
+engine room
+downstairs,
+###--------
+you'll find our
+engineer named
+Cerveau. He asked
+me to give this
+###--------
+to you.
+###--------
+It's called the
+Escape Unit. If
+you use it
+during a
+###--------
+mission, you
+will be able to
+abort that
+mission and
+###--------
+evacuate.
+###--------
+But remember,
+the mission will
+be considered to
+be a failure if
+###--------
+you evacuate it.
+###--------
+###Script:35
+エラー
+###--------
+###Script:36
+Zero...
+Thank you.
+I never thought
+I'd see the day
+###--------
+when the Reploid
+Disposal Center
+is destroyed.
+###--------
+Innocent Reploids
+will be safe for
+a while...
+###--------
+Thank you so
+much, Zero.
+###--------
+You ARE Zero,
+the legendary
+Reploid...
+###--------
+###Script:37
+If you didn't
+stop the Giant
+Mechaniloid, the
+Resistance Base
+###--------
+would have
+become a sitting
+duck.
+###--------
+Thank you, Zero.
+###--------
+With your
+cooperation,
+maybe peace will
+be restored...
+###--------
+###Script:38
+Our shield
+generator has
+been severely
+damaged by that
+###--------
+giant
+Mechaniloid...
+###--------
+If they attack
+the Resistance
+Base, it will be
+easily
+###--------
+penetrated. We
+have to fix the
+generator as
+soon as
+###--------
+possible...
+###--------
+###Script:39
+Thanks to you,
+the abducted
+Cyber-elf has
+been saved!
+###--------
+And the enemies'
+supply route has
+been cut off...
+###--------
+Thank you very
+much, Zero. We
+owe all of this
+to you.
+###--------
+The Cyber-elf
+you rescued is
+only a child.
+###--------
+But she is a
+unique Cyber-elf
+and will learn
+an awesome
+###--------
+ability, when
+she grows up.
+###--------
+Raise her with
+love and care...
+###--------
+###Script:40
+Zero... Don't
+worry. It's
+not your fault.
+Thanks, anyway.
+###--------
+###Script:41
+Thanks to you,
+our comrade,
+Colbor was
+rescued.
+###--------
+Thank you so
+much...
+###--------
+He sometimes
+makes mistakes,
+but he is a
+good Reploid at
+###--------
+heart. Please
+forgive him.
+###--------
+###Script:42
+Despite your
+effort, Colbor
+didn't make it
+back.
+###--------
+I feel bad for
+him,but what's
+done is done...
+###--------
+###Script:43
+Thanks to you,we
+have gained
+control of the
+factory. Now we
+###--------
+can live without
+the fear of
+retirement.
+###--------
+Thank you very
+much.
+###--------
+It's like our
+dream has come
+true.
+###--------
+We feared that
+we were doomed...
+###--------
+###Script:44
+Zero, thank you
+for your effort.
+###--------
+We have some
+Energy Crystals
+in stock...
+###--------
+All we have to
+do is to develop
+a substitute
+energy before
+###--------
+our stock of
+the Energy
+Crystals run out.
+###--------
+I'll go for it!
+###--------
+###Script:45
+Zero, I'm sorry
+that we are
+always risking
+your life...
+###--------
+How long do we
+have to live
+like this,
+anyway...?
+###--------
+I'm sorry, I'm
+kind of
+depressed...
+###--------
+I'll do my best
+to develop a
+substitute
+energy.
+###--------
+If we can obtain
+a substitute
+energy, we could
+live happily in
+###--------
+a quiet place...
+###--------
+Until that
+happens, I hope
+to have your
+continued
+###--------
+support, Zero.
+###--------
+###Script:46
+While the factory
+was destroyed,
+I'm glad that
+you are safe.
+###--------
+I was so worried
+about you...
+Really...
+###--------
+Please... Do not
+push yourself too
+hard from now
+on...
+###--------
+Keep in mind that
+we are all
+worried about
+you, Zero.
+###--------
+###Script:47
+Another comrade
+has been saved,
+thanks to you.
+###--------
+According to his
+report, enemies
+are planning to
+conduct a large
+###--------
+scale attack on
+the Resistance
+Base.
+###--------
+If that happens,
+we will need
+your help
+again...
+###--------
+We appreciate
+your continued
+support, Zero.
+###--------
+###Script:48
+I'm sorry that
+we asked you
+to be a part of
+this difficult
+###--------
+mission.
+###--------
+We appreciate
+your effort,
+regardless of
+the result.
+###--------
+I'd like to say
+thank you one
+more time...
+###--------
+###Script:49
+Thank you, Zero.
+If our defense
+line was broken,
+this Base
+###--------
+wouldn't last
+long...
+###--------
+Still, I can't
+believe you
+wiped out such a
+large number of
+###--------
+enemies...
+###--------
+You are truly a
+legendary hero.
+###--------
+###Script:50
+Now that our
+defense line is
+broken, this
+base will be an
+###--------
+easy target for
+them.
+###--------
+I'm afraid that
+they may attack
+us at any
+moment!
+###--------
+###Script:51
+Zero...
+Thanks to you,
+as many as seven
+Reploids have
+###--------
+been saved...
+We cannot thank
+you enough...
+###--------
+You know what?
+My experiment is
+going fine so
+far...
+###--------
+Once we succeed
+in developing a
+substitute
+energy, we plan
+###--------
+to find a place
+to live a happy
+life.
+###--------
+Somewhere out of
+the reach of our
+enemy, Neo
+Arcadia...
+###--------
+There, we'd like
+to live in
+peace, free from
+the anxiety of
+###--------
+hunger in a warm
+blanket of
+happiness...
+###--------
+If that
+happens...
+###--------
+You are going to
+come with us,
+aren't you, Zero?
+###--------
+###Script:52
+The Reploids who
+had been
+confined are...
+###--------
+Everyone is...
+###--------
+......
+###--------
+I guess that it
+couldn't be
+helped. Thank
+you for trying
+###--------
+though...
+###--------
+It was not your
+fault...
+###--------
+###Script:53
+Attempts to hack
+into our base
+have ceased,
+thanks to you.
+###--------
+I'll do my best
+to achieve my
+mission to
+develop a
+###--------
+substitute
+energy.
+###--------
+The future of
+all the Reploids
+depends on us!
+###--------
+###Script:54
+I'm sorry that
+you couldn't
+prevent their
+attempt to hack
+###--------
+into our base...
+###--------
+They have
+penetrated and
+damaged the
+security of our
+###--------
+Trans Server,
+and now some of
+its functions
+are currently
+###--------
+unavailable...
+###--------
+I guess that
+it will take a
+little time to
+restore the
+###--------
+system. I'm
+sorry, Zero.
+###--------
+###Script:55
+We are in a
+critical
+situation, Zero.
+###--------
+You are our only
+hope...
+###--------
+###Script:56
+Zero...
+Promise me
+that you will
+not try to push
+###--------
+yourself too
+hard...
+###--------
+If something
+happens to you,
+I can't...
+###--------
+Just please
+promise me.
+###--------
+###Script:57
+Ciel...
+What made you
+come here...?
+###--------
+I... I'm sorry...
+It's...
+###--------
+It was I who
+recreated the
+duplication of
+X...
+###--------
+That's why...
+###--------
+You don't have
+to apologize.
+It's not your
+fault.
+###--------
+You did because
+you thought it
+would be good
+for everyone...
+###--------
+Please just
+leave everything
+to me now.
+###--------
+Zero, thank
+you...
+###--------
+###Script:58
+A giant enemy
+Mechaniloid is
+approaching our
+base.
+###--------
+If we don't do
+something, it
+will destroy
+our base in
+###--------
+no time!!
+###--------
+###Script:59
+CIEL:
+"You're going to
+ your mission?
+ Good luck..."
+###--------
+###Script:60
+Save data before
+starting mission?
+  YES
+  NO
+###--------
+###Script:61
+Data saved!
+###--------
+###Script:62
+Data overwritten!
+###--------
+###Script:63
+Data erased!
+###--------
+###Script:66
+Will you save the
+Game Clear Data?
+  YES
+  NO
+###--------
+###Script:67
+It's locked.
+###--------
+###Script:68
+  <textColorRed>ABORT<textColorWhite> <textColorRed>MISSION<textColorWhite>
+  DOWNLOAD ELF
+  FEED ELF
+  EXIT
+###Command:textColorRed
+###Command:textColorWhite
+###Command:textColorRed
+###Command:textColorWhite
+###--------
+###Script:69
+Zero...
+Thank you...
+###--------
+###Script:70
+I'm happy that
+I could meet
+you...
+###--------
+If it were not
+for you, everyone
+would be gone by
+now...
+###--------
+......
+###--------
+Promise me that
+you will come
+back alive.
+###--------
+Even if you
+cannot destroy
+Neo Arcadia, I
+just want you
+###--------
+to be able to
+return safely.
+###--------
+Good luck...
+###--------

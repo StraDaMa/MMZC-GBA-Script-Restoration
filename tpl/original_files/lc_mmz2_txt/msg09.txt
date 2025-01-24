@@ -1,0 +1,179 @@
+###TextArchive:msg09
+###Script:0
+Ciel: ... You found Elpizo.
+###--------
+Zero... Take care of him...
+###--------
+Please.
+###--------
+###Script:1
+W... Waaait!
+###--------
+Wait. Wait. Wait.
+No one can go beyond
+here, ribbid!
+###--------
+This is an order
+of Master Harpuia,
+ribbid!
+###--------
+... ... ...?
+###--------
+Hmm? Is there
+someone on the
+other side of
+###--------
+the door? Ribbid.
+No way... This must
+be a false alarm.
+###--------
+I need to have my
+sensor replaced...
+###--------
+###Script:2
+Um... Ugha....
+###--------
+Master Harpuia!
+###--------
+How can I
+apologize to
+Master Harpuia...?
+###--------
+Ug... Gwaaaah!
+###--------
+###Script:3
+Ha ha ha, Zero.
+Nice to see you
+again.
+###--------
+Are you...
+Looking for me...?
+###--------
+Return to the base.
+What can you do by
+yourself...?
+###--------
+Actually, I can do
+anything and
+everything...
+###--------
+If I obtain a
+certain thing.
+###--------
+I learned about
+something that makes
+you invincible once
+###--------
+you obtain it...
+###--------
+Thanks to these
+Baby Elves...
+###--------
+You mean... The
+Dark Elf...
+###--------
+###Script:4
+Yes. Hee hee hee.
+I once thought it
+was something from
+###--------
+mythology... But I
+was wrong.
+I have come to
+###--------
+believe in it.
+The key to unlock
+the seal of the
+###--------
+Dark Elf is
+somewhere around
+here...
+###--------
+Let's see who'll
+find it first!
+###--------
+###Script:5
+Hee hee hee.
+###--------
+Finally, I found
+the key!
+###--------
+Nice try, Zero.
+Hee hee hee.
+###--------
+###Script:6
+Gha ha ha ha!
+###--------
+Now... All I have to
+do is break the seal
+of the Dark Elf.
+###--------
+Then I will be as
+strong as you, Zero.
+###--------
+Or should I say
+stronger than
+you...?
+###--------
+Oh, don't get me
+wrong... I won't use
+this power for
+###--------
+evil. I do this for
+world peace.
+###--------
+And, for Ms. Ciel!
+###--------
+Mi mimi...
+###--------
+Mam.. ma...
+Mi Mimimi...
+###--------
+###Script:7
+... ... ...
+###--------
+Sorry, Zero...
+###--------
+I didn't expect them
+to have become that
+strong...
+###--------
+X...
+###--------
+As long as I'm
+protecting the seal
+of the main body,
+###--------
+I'm not ready to
+deal with them...
+###--------
+Don't worry...
+###--------
+I'll handle it...
+###--------
+... ... ...
+###--------
+She is responding
+to her children...
+Zero... We have no
+###--------
+time... You must
+find a way to
+stop Elpizo.
+###--------
+###Script:8
+... ... ...
+###--------
+The Dark Elf...
+###--------
+... ... ...
+###--------
+Mission
+accomplished.
+Transfer me back.
+###--------
+###Script:9
+Operator: Roger.
+###--------
+Transfer commencing.
+###--------
