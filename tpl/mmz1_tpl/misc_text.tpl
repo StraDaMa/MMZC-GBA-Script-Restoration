@@ -1319,7 +1319,7 @@ script 215 mmz1 {
 script 216 mmz1 {
 	"""
 	Health for
-	you, ruin
+	you,death
 	for me.
 	"""
 	end
@@ -1732,7 +1732,7 @@ script 267 mmz1 {
 }
 script 268 mmz1 {
 	"""
-	Small foes
+	Small foe
 	will drop
 	an item.
 	"""
@@ -1749,7 +1749,7 @@ script 269 mmz1 {
 script 270 mmz1 {
 	"""
 	I'll make
-	foes drop
+	foe drop
 	items!
 	"""
 	end
@@ -1765,7 +1765,7 @@ script 271 mmz1 {
 script 272 mmz1 {
 	"""
 	I'll turn
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -1773,7 +1773,7 @@ script 272 mmz1 {
 script 273 mmz1 {
 	"""
 	I'll make
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -1781,7 +1781,7 @@ script 273 mmz1 {
 script 274 mmz1 {
 	"""
 	I can turn
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -1796,8 +1796,8 @@ script 275 mmz1 {
 }
 script 276 mmz1 {
 	"""
-	I turn
-	foes into
+	I turn foe
+	into
 	Mettalls.
 	"""
 	end
@@ -1880,7 +1880,7 @@ script 301 mmz1 {
 }
 script 302 mmz1 {
 	"""
-	Buster Shot 
+	Z Buster 
 	"""
 	textColorRed
 	"""
@@ -1894,7 +1894,7 @@ script 302 mmz1 {
 }
 script 303 mmz1 {
 	"""
-	Buster Shot 
+	Z Buster 
 	"""
 	textColorRed
 	"""
@@ -1908,7 +1908,7 @@ script 303 mmz1 {
 }
 script 304 mmz1 {
 	"""
-	Buster Shot 
+	Z Buster 
 	"""
 	textColorRed
 	"""
@@ -1922,7 +1922,7 @@ script 304 mmz1 {
 }
 script 305 mmz1 {
 	"""
-	Buster Shot 
+	Z Buster 
 	"""
 	textColorRed
 	"""
@@ -2272,7 +2272,7 @@ script 343 mmz1 {
 }
 script 344 mmz1 {
 	"""
-	Temporarily stun some foes.
+	Temporarily stun some foe.
 	"""
 	end
 }
@@ -2284,13 +2284,13 @@ script 345 mmz1 {
 }
 script 346 mmz1 {
 	"""
-	Beaten foes'll drop items.
+	Beaten foe'll drop items.
 	"""
 	end
 }
 script 347 mmz1 {
 	"""
-	Turns foes into Mettalls.
+	Turns foe into Mettall.
 	"""
 	end
 }

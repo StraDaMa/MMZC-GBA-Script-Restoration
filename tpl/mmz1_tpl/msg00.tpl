@@ -266,7 +266,7 @@ script 13 mmz1 {
 	"""
 	Thank you...
 	It's like a
-	dream come true.
+	dream comes true.
 	"""
 	msgClear
 	"""
@@ -390,7 +390,7 @@ script 15 mmz1 {
 	"""
 	Thank you...
 	It's like a
-	dream come true.
+	dream comes true.
 	"""
 	msgClear
 	"""
@@ -1008,7 +1008,7 @@ script 31 mmz1 {
 	"""
 	Promise me that
 	you will come
-	back alive.
+	back alive
 	"""
 	msgClear
 	"""
@@ -1114,7 +1114,7 @@ script 34 mmz1 {
 	"""
 	when the Reploid
 	Disposal Center
-	was destroyed.
+	is destroyed.
 	"""
 	msgClear
 	"""
@@ -1934,7 +1934,7 @@ script 57 mmz1 {
 	"""
 	msgClear
 	"""
-	You did it because
+	You did because
 	you thought it
 	would be good
 	for everyone...

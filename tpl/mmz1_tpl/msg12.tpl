@@ -132,7 +132,7 @@ script 7 mmz1 {
 	"""
 	msgClear
 	"""
-	Give destruction to
+	Give death to
 	Mavericks.
 	"""
 	msgClear

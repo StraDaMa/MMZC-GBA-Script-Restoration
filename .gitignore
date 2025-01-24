@@ -364,3 +364,8 @@ FodyWeavers.xsd
 
 # TextPet output
 tpl/*_msg/
+# Ignore generated headers
+mmz1_msg.h
+mmz2_msg.h
+mmz3_msg.h
+mmz4_msg.h

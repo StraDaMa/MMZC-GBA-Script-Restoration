@@ -521,7 +521,7 @@ script 30 mmz1 {
 	"""
 	Stand on the
 	Trans Server and
-	press +Control Pad
+	press Control Pad
 	Up, then you can
 	"""
 	msgClear
@@ -538,7 +538,7 @@ script 31 mmz1 {
 	"""
 	Stand on the
 	Trans Server and
-	press +Control Pad
+	press Control Pad
 	Up, then you can
 	"""
 	msgClear

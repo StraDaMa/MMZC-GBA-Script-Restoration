@@ -145,7 +145,7 @@ script 1 mmz1 {
 	entities called
 	Cyber-elves. They
 	were kind enough
-	to spare me an
+	to spared me an
 	"""
 	msgClear
 	"""
@@ -486,7 +486,7 @@ script 20 mmz1 {
 	"""
 	Ummm... You are a
 	new boy, aren't
-	you? Are you 
+	you. Are you 
 	kicking butt, so
 	"""
 	msgClear
@@ -1056,7 +1056,7 @@ script 34 mmz1 {
 	Ciel gave me. I
 	used to be called
 	ONB6. Dull name,
-	isn't it?.
+	isn't it.
 	"""
 	end
 }
@@ -1152,7 +1152,7 @@ script 41 mmz1 {
 	"""
 	Have you gotten
 	used to the life
-	here? Everyone
+	here? Every one
 	is so friendly, I
 	"""
 	msgClear
@@ -1303,7 +1303,7 @@ script 52 mmz1 {
 	"""
 	But once they use
 	their powers,
-	they perish...
+	they die...
 	"""
 	msgClear
 	"""

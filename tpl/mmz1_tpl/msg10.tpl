@@ -19,7 +19,7 @@ script 1 mmz1 {
 	msgClear
 	"""
 	I, Herculious
-	Anchus, will
+	Anchortus, will
 	eliminate you,
 	in the name of
 	"""
