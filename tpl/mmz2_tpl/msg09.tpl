@@ -149,25 +149,20 @@ script 4 mmz2 {
 	msgClear
 	"""
 	mythology... But I
-	was wrong.
-	I have come to
+	was wrong. I have
+	come believe in it.
 	"""
 	msgClear
 	"""
-	believe in it.
 	The key to unlock
-	the seal of the
+	the seal of the Dark
+	Elf is somewhere
 	"""
 	msgClear
 	"""
-	Dark Elf is
-	somewhere around
-	here...
-	"""
-	msgClear
-	"""
-	Let's see who'll
-	find it first!
+	around here... Let's
+	see who'll find it
+	first!
 	"""
 	end
 }

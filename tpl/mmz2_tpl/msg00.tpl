@@ -31,7 +31,7 @@ script 2 mmz2 {
 		mugshot = 4
 	"""
 	Thank you. Now,
-	here are the current
+	here is the current
 	missions I'd like
 	"""
 	msgClear
@@ -417,7 +417,7 @@ script 24 mmz2 {
 	msgClear
 	"""
 	limit their number
-	of enemy soldiers.
+	of enemy soldier.
 	"""
 	end
 }
@@ -1094,7 +1094,7 @@ script 103 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Just in case you
+	Just incase you
 	forgot, the
 	Cyber-elf is a
 	"""
@@ -1367,7 +1367,7 @@ script 124 mmz2 {
 	msgClear
 	"""
 	I'm not sure...
-	What's Elpizo
+	What's Elpizo is
 	up to...?
 	"""
 	msgClear

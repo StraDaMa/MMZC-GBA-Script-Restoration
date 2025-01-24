@@ -1300,7 +1300,7 @@ script 231 mmz2 {
 script 232 mmz2 {
 	"""
 	I'll save
-	you from a
+	you form a
 	pit.
 	"""
 	end
@@ -1316,7 +1316,7 @@ script 233 mmz2 {
 script 234 mmz2 {
 	"""
 	I'll save
-	you from a
+	you form a
 	pit fall!
 	"""
 	end
@@ -1602,7 +1602,7 @@ script 269 mmz2 {
 }
 script 270 mmz2 {
 	"""
-	Small foes
+	Small foe
 	will drop
 	an item.
 	"""
@@ -1619,7 +1619,7 @@ script 271 mmz2 {
 script 272 mmz2 {
 	"""
 	I'll make
-	foes drop
+	foe drop
 	items!
 	"""
 	end
@@ -1627,7 +1627,7 @@ script 272 mmz2 {
 script 273 mmz2 {
 	"""
 	I'll turn
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -1635,7 +1635,7 @@ script 273 mmz2 {
 script 274 mmz2 {
 	"""
 	I'll make
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -1643,7 +1643,7 @@ script 274 mmz2 {
 script 275 mmz2 {
 	"""
 	I can turn
-	foes into
+	foe into
 	Mettalls.
 	"""
 	end
@@ -2084,7 +2084,7 @@ script 345 mmz2 {
 }
 script 346 mmz2 {
 	"""
-	Temporarily stuns some foes.
+	Temporarily stuns some foe.
 	"""
 	end
 }
@@ -2096,13 +2096,13 @@ script 347 mmz2 {
 }
 script 348 mmz2 {
 	"""
-	Beaten foes will drop items.
+	Beaten foe will drop items.
 	"""
 	end
 }
 script 349 mmz2 {
 	"""
-	Turns foes into Mettall.
+	Turns foe into Mettall.
 	"""
 	end
 }
@@ -2732,7 +2732,7 @@ script 409 mmz2 {
 	textColorWhite
 	"""
 	
-	DEFEND
+	DEFEMD
 	"""
 	textColorRed
 	"""
@@ -3617,7 +3617,7 @@ script 688 mmz2 {
 	"""
 	textColorWhite
 	"""
-	  R Button
+	  R Buuton
 	"""
 	end
 }

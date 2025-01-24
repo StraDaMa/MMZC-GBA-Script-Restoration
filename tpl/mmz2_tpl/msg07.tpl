@@ -52,7 +52,7 @@ script 1 mmz2 {
 	"""
 	msgClear
 	"""
-	I'll make you pay
+	Well, you'll pay
 	for this insult...
 	"""
 	msgClear

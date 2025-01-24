@@ -112,7 +112,7 @@ script 7 mmz2 {
 		mugshot = 79
 	"""
 	Be a good boy and
-	sleeep...
+	die...
 	"""
 	msgClear
 	"""
@@ -192,7 +192,7 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	Finish... me...
+	Kill... me...
 	"""
 	msgClear
 	mugshotShow
@@ -204,7 +204,7 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Just finish me...
+	Just kill me...
 	"""
 	msgClear
 	"""
@@ -214,7 +214,7 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	Finish me now...
+	Kill me now...
 	And stop him...!
 	"""
 	end

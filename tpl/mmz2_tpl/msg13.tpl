@@ -105,7 +105,7 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm afraid that's
+	I'M afraid that's
 	the price we must
 	pay for our future.
 	"""
@@ -282,7 +282,7 @@ script 15 mmz2 {
 	"""
 	Don't worry.
 	We can work this
-	out later...
+	our later...
 	"""
 	msgClear
 	"""

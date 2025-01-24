@@ -101,7 +101,7 @@ script 3 mmz2 {
 	"""
 	Well Zero, it's
 	time for you to
-	meet your end!
+	die!
 	"""
 	end
 }
@@ -111,7 +111,7 @@ script 4 mmz2 {
 	"""
 	Are you serious?
 	How can a legend
-	end?
+	die?
 	"""
 	end
 }

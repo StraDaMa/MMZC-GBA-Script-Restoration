@@ -32,8 +32,8 @@ script 1 mmz2 {
 	msgClear
 	"""
 	Even if the world
-	is destroyed, I will
-	be happy as long
+	dies, I will be
+	happy as long
 	"""
 	msgClear
 	"""

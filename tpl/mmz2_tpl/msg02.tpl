@@ -1285,7 +1285,7 @@ script 57 mmz2 {
 	msgClear
 	"""
 	commander's room
-	were taken by an
+	is taken by an
 	advance team who
 	"""
 	msgClear
@@ -2003,8 +2003,8 @@ script 75 mmz2 {
 	"""
 	msgClear
 	"""
-	Zero, when will my
-	Baby Elves be back?
+	Zero, when my Baby
+	Elves will be back?
 	"""
 	end
 }
@@ -2538,7 +2538,7 @@ script 105 mmz2 {
 		mugshot = 70
 	"""
 	I would have been
-	wasted by the
+	killed by the
 	monster like a
 	"""
 	msgClear
@@ -2656,7 +2656,7 @@ script 110 mmz2 {
 	"""
 	msgClear
 	"""
-	You know what?
+	You Know what?
 	"""
 	msgClear
 	"""
@@ -2750,7 +2750,7 @@ script 113 mmz2 {
 	"""
 	Ha ha ha...
 	You're doing very
-	well, newcomer.
+	well, new comer.
 	"""
 	msgClear
 	"""
@@ -3397,7 +3397,7 @@ script 135 mmz2 {
 	msgClear
 	"""
 	misusing the power
-	of the Cyber-elves.
+	of the Cyeber-elves.
 	"""
 	msgClear
 	"""
@@ -3439,8 +3439,7 @@ script 135 mmz2 {
 	msgClear
 	"""
 	However, once it
-	is used, it
-	perishes.
+	is used, it dies.
 	"""
 	end
 }
@@ -3878,17 +3877,12 @@ script 150 mmz2 {
 	"""
 	If you hadn't
 	rescued me, I
-	might have been
+	might have killed
 	"""
 	msgClear
 	"""
-	done for my
-	comrade.
-	"""
-	msgClear
-	"""
-	I feel so
-	disgusted just
+	my comrade. I feel
+	so disgusted just
 	thinking of it...
 	"""
 	end

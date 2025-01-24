@@ -101,7 +101,7 @@ script 4 mmz2 {
 	msgClear
 	"""
 	soldiers are going
-	to perish.
+	to die.
 	"""
 	end
 }
@@ -111,12 +111,12 @@ script 5 mmz2 {
 	"""
 	I'll save this
 	Reploid... And I
-	won't let any more
+	won't let anymore
 	"""
 	msgClear
 	"""
 	resistance soldiers
-	perish.
+	Die.
 	"""
 	msgClear
 	mugshotShow

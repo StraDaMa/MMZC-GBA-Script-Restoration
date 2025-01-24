@@ -70,7 +70,7 @@ script 1 mmz2 {
 	msgClear
 	"""
 	I am Kuwagust
-	Anchus! We will
+	Anchus! We Will
 	become a flaming
 	"""
 	msgClear
@@ -114,7 +114,7 @@ script 4 mmz2 {
 	"""
 	msgClear
 	"""
-	The device is...
+	The devise is...
 	"""
 	msgClear
 	"""

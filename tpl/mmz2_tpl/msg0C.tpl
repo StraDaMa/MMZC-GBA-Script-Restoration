@@ -9,7 +9,7 @@ script 0 mmz2 {
 	"""
 	msgClear
 	"""
-	Stay alert...
+	Stay Alert...
 	"""
 	end
 }

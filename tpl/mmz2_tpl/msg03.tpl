@@ -40,8 +40,7 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	To live or
-	perish...?
+	To live or die...?
 	Hmm...
 	"""
 	msgClear

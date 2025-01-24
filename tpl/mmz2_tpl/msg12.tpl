@@ -46,7 +46,7 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	What am I doing...?
+	What I'm doing...?
 	"""
 	msgClear
 	"""
@@ -435,8 +435,8 @@ script 24 mmz2 {
 		mugshot = 79
 	"""
 	Hee hee hee!
-	Time to meet your
-	end, X...
+	Time to die,
+	X...
 	"""
 	msgClear
 	"""
