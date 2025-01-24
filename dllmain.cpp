@@ -367,8 +367,8 @@ EXTERN_DLL_EXPORT void mod_open() {
         mmz3_msg13_script_data,
     };
     for (size_t i = 0; i < 20; i++) {
-        *((const uint16_t**)0x141FB26D0 + i) = mmz3_moddedTextOffsets[i];
-        *((const uint8_t**)0x141FB2770 + i) = mmz3_moddedTextDatas[i];
+        *((const uint16_t**)0x141DB8640 + i) = mmz3_moddedTextOffsets[i];
+        *((const uint8_t**)0x141DB86E0 + i) = mmz3_moddedTextDatas[i];
     }
     // This text gets loaded separately for some reason
     // Replace code that gets the english text info with call to function to set modded text
@@ -376,7 +376,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     memcpy((uint8_t*)0x1403EC94E, hookBase.data(), 0x1C);
     // Mega Man Zero 4
     // Write modded text pointers to the list of texts
-    constexpr std::array<const uint16_t*, 20> mmz4_moddedTextOffsets = {
+    constexpr std::array<const uint16_t*, 22> mmz4_moddedTextOffsets = {
         mmz4_msg00_script_offsets,
         mmz4_msg01_script_offsets,
         mmz4_msg02_script_offsets,
@@ -397,8 +397,10 @@ EXTERN_DLL_EXPORT void mod_open() {
         mmz4_msg11_script_offsets,
         mmz4_msg12_script_offsets,
         mmz4_msg13_script_offsets,
+        mmz4_msg14_script_offsets,
+        mmz4_msg15_script_offsets,
     };
-    constexpr std::array<const uint8_t*, 20> mmz4_moddedTextDatas = {
+    constexpr std::array<const uint8_t*, 22> mmz4_moddedTextDatas = {
         mmz4_msg00_script_data,
         mmz4_msg01_script_data,
         mmz4_msg02_script_data,
@@ -419,8 +421,10 @@ EXTERN_DLL_EXPORT void mod_open() {
         mmz4_msg11_script_data,
         mmz4_msg12_script_data,
         mmz4_msg13_script_data,
+        mmz4_msg14_script_data,
+        mmz4_msg15_script_data,
     };
-    for (size_t i = 0; i < 20; i++) {
+    for (size_t i = 0; i < 22; i++) {
         *((const uint16_t**)0x141DB8920 + i) = mmz4_moddedTextOffsets[i];
         *((const uint8_t**)0x141DB8A80 + i) = mmz4_moddedTextDatas[i];
     }
