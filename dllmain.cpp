@@ -441,11 +441,22 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     switch (ul_reason_for_call)
     {
     case DLL_PROCESS_ATTACH:
-    case DLL_THREAD_ATTACH:
     {
-
+        // Basic check if this is the right release and not already patched
+        uint64_t mmz1TestPointer = *(uint64_t*)(0x141DB7E90);
+        uint64_t mmz2TestPointer = *(uint64_t*)(0x141DB8250);
+        uint64_t mmz3TestPointer = *(uint64_t*)(0x141DB8640);
+        uint64_t mmz4TestPointer = *(uint64_t*)(0x141DB8920);
+        if ((mmz1TestPointer != 0x141da41e0) ||
+            (mmz2TestPointer != 0x141da8850) ||
+            (mmz3TestPointer != 0x141dac9d0) ||
+            (mmz4TestPointer != 0x141db3250)) {
+            printf("Unsupported game exe or the game's text is already modded.");
+            return FALSE;
+        }
     }
     break;
+    case DLL_THREAD_ATTACH:
     case DLL_THREAD_DETACH:
     case DLL_PROCESS_DETACH:
         break;
