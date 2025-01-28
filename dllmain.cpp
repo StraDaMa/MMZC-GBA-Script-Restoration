@@ -221,6 +221,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     };
     *(uint64_t*)&hookBase[3] = (uint64_t)&mmz1_get_modded_misc_text;
     memcpy((uint8_t*)0x1403E9719, hookBase.data(), 0x1C);
+
     // Mega Man Zero 2
     // Write modded text pointers to the list of texts
     constexpr std::array<const uint16_t*, 20> mmz2_moddedTextOffsets = {
@@ -275,7 +276,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     }
     // Unlike Zero 1/3/4 this game inlines all its checks against the misc text.
     // These texts are only used by 2 functions, so hooking these functions and checking if they are trying to access the misc text
-    // If they are the relative offset is calculated and the equivalent function is found in the modded text
+    // If they are the relative offset is calculated and the equivalent script is found in the modded text
     constexpr std::array<uint8_t, 7> func1403EA920_hook = {
         0xE9, 0x3B, 0xD6, 0x90, 0x01, //JMP 0x141CF7F60
         0x90, 0x90                    //NOP NOP
@@ -320,6 +321,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     };
     *(uint64_t*)&func1403EAA90_replace_pointer[11] = (uint64_t)&mmz2_replace_misc_text;
     memcpy((uint8_t*)0x141CF7F90, func1403EAA90_replace_pointer.data(), func1403EAA90_replace_pointer.size());
+
     // Mega Man Zero 3
     // Write modded text pointers to the list of texts
     constexpr std::array<const uint16_t*, 20> mmz3_moddedTextOffsets = {
@@ -374,6 +376,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     // Replace code that gets the english text info with call to function to set modded text
     *(uint64_t*)&hookBase[3] = (uint64_t)&mmz3_get_modded_misc_text;
     memcpy((uint8_t*)0x1403EC94E, hookBase.data(), 0x1C);
+
     // Mega Man Zero 4
     // Write modded text pointers to the list of texts
     constexpr std::array<const uint16_t*, 22> mmz4_moddedTextOffsets = {
@@ -447,10 +450,10 @@ BOOL APIENTRY DllMain( HMODULE hModule,
         uint64_t mmz2TestPointer = *(uint64_t*)(0x141DB8250);
         uint64_t mmz3TestPointer = *(uint64_t*)(0x141DB8640);
         uint64_t mmz4TestPointer = *(uint64_t*)(0x141DB8920);
-        if ((mmz1TestPointer != 0x141da41e0) ||
-            (mmz2TestPointer != 0x141da8850) ||
-            (mmz3TestPointer != 0x141dac9d0) ||
-            (mmz4TestPointer != 0x141db3250)) {
+        if ((mmz1TestPointer != 0x141DA41E0) ||
+            (mmz2TestPointer != 0x141DA8850) ||
+            (mmz3TestPointer != 0x141DAC9D0) ||
+            (mmz4TestPointer != 0x141DB3250)) {
             printf("Unsupported game exe or the game's text is already modded.");
             return FALSE;
         }
