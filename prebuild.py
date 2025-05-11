@@ -67,9 +67,18 @@ for tplDir, msgDir, gameID in textDirs:
 	stdout = open(f"tpl/log/{baseName}.stdout.txt", "w"),
 	stderr = open(f"tpl/log/{baseName}.stderr.txt", "w"))
 	processList.append(p)
+
+errorCodes = []
+
 # wait for everything to finish
 for p in processList:
-	p.wait()
+	errorCode = p.wait()
+	if errorCode != 0:
+		print(f"Error: {p.args}")
+	errorCodes.append(errorCode)
+
+if sum(errorCodes) != 0:
+	exit(1)
 
 # Process msg to header / cpp file
 for tplDir, msgDir, gameID in textDirs:
