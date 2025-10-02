@@ -3,9 +3,11 @@
 
 #define EXTERN_DLL_EXPORT extern "C" __declspec(dllexport)
 
-void mmz1_get_modded_misc_text() {
+uint8_t* mmz1_get_modded_misc_text() {
     *(uint64_t*)(0x142619770) = (uint64_t)mmz1_misc_text_script_offsets;
     *(uint64_t*)(0x142619778) = (uint64_t)mmz1_misc_text_script_data;
+    // rax = font
+    return (uint8_t*)mmz1_font;
 }
 
 constexpr int MMZ2_ORIGINAL_MISC_TEXT_ENTRY_COUNT = 694;
@@ -147,14 +149,18 @@ void mmz2_replace_misc_text(uint64_t* scriptPtr) {
     }
 }
 
-void mmz3_get_modded_misc_text() {
+uint8_t* mmz3_get_modded_misc_text() {
     *(uint64_t*)(0x142618878) = (uint64_t)mmz3_misc_text_script_offsets;
     *(uint64_t*)(0x142618880) = (uint64_t)mmz3_misc_text_script_data;
+    // rax = font
+    return (uint8_t*)mmz3_font;
 }
 
-void mmz4_get_modded_misc_text() {
+uint8_t* mmz4_get_modded_misc_text() {
     *(uint64_t*)(0x14261cc28) = (uint64_t)mmz4_misc_text_script_offsets;
     *(uint64_t*)(0x14261d6e8) = (uint64_t)mmz4_misc_text_script_data;
+    // rax = font
+    return (uint8_t*)mmz4_font;
 }
 
 EXTERN_DLL_EXPORT void mod_open() {
@@ -208,7 +214,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     }
     // This text gets loaded separately for some reason
     // Replace code that gets the english text info with call to function to set modded text
-    std::array<uint8_t, 0x1C> hookBase = {
+    std::array<uint8_t, 0x23> hookBase = {
         //Push RCX to preserve param1 for this function
         0x51,                                                        //push rcx
         0x48, 0xB8, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,  //mov rax, functionPointer
@@ -217,10 +223,12 @@ EXTERN_DLL_EXPORT void mod_open() {
         // Multiple nops to padd out the portion of the function this is replacing
         0x90, 0x90, 0x90, 0x90, 0x90,
         0x90, 0x90, 0x90, 0x90, 0x90,
-        0x90, 0x90, 0x90, 0x90,
+        0x90, 0x90, 0x90, 0x90, 0x90,
+        0x90, 0x90, 0x90, 0x90, 0x90,
+        0x90,
     };
     *(uint64_t*)&hookBase[3] = (uint64_t)&mmz1_get_modded_misc_text;
-    memcpy((uint8_t*)0x1403E9719, hookBase.data(), 0x1C);
+    memcpy((uint8_t*)0x1403E9719, hookBase.data(), hookBase.size());
 
     // Mega Man Zero 2
     // Write modded text pointers to the list of texts
@@ -375,7 +383,7 @@ EXTERN_DLL_EXPORT void mod_open() {
     // This text gets loaded separately for some reason
     // Replace code that gets the english text info with call to function to set modded text
     *(uint64_t*)&hookBase[3] = (uint64_t)&mmz3_get_modded_misc_text;
-    memcpy((uint8_t*)0x1403EC94E, hookBase.data(), 0x1C);
+    memcpy((uint8_t*)0x1403EC94E, hookBase.data(), hookBase.size());
 
     // Mega Man Zero 4
     // Write modded text pointers to the list of texts
@@ -434,7 +442,20 @@ EXTERN_DLL_EXPORT void mod_open() {
     // This text gets loaded separately for some reason
     // Replace code that gets the english text info with call to function to set modded text
     *(uint64_t*)&hookBase[3] = (uint64_t)&mmz4_get_modded_misc_text;
-    memcpy((uint8_t*)0x1403EE389, hookBase.data(), 0x1C);
+    memcpy((uint8_t*)0x1403EE389, hookBase.data(), hookBase.size());
+
+    // MMZ2 font is inlined too so the function at 0x1403EB432 needs to be hooked to replace the font
+    constexpr std::array<uint8_t, 7> func1403EB432_hook = {
+        0xE8, 0x89, 0xCB, 0x90, 0x01, //call 0x141CF7FC0
+        0x90,0x90,
+    };
+    memcpy((uint8_t*)0x1403EB432, func1403EB432_hook.data(), func1403EB432_hook.size());
+    std::array<uint8_t, 0x0B> func1403EB432_replace_pointer = {
+        0x49, 0xBC, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, // mov r12, fontPointer
+        0xC3,                                                       // ret
+    };
+    *(uint64_t*)&func1403EB432_replace_pointer[2] = (uint64_t)&mmz2_font;
+    memcpy((uint8_t*)0x141CF7FC0, func1403EB432_replace_pointer.data(), func1403EB432_replace_pointer.size());
 }
 
 BOOL APIENTRY DllMain( HMODULE hModule,

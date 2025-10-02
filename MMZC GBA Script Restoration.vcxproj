@@ -226,9 +226,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
+    <ClInclude Include="mmz1_font.h" />
     <ClInclude Include="mmz1_msg.h" />
+    <ClInclude Include="mmz2_font.h" />
     <ClInclude Include="mmz2_msg.h" />
+    <ClInclude Include="mmz3_font.h" />
     <ClInclude Include="mmz3_msg.h" />
+    <ClInclude Include="mmz4_font.h" />
     <ClInclude Include="mmz4_msg.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>

@@ -83,3 +83,30 @@ if sum(errorCodes) != 0:
 # Process msg to header / cpp file
 for tplDir, msgDir, gameID in textDirs:
 	process_msgs(msgDir, gameID)
+
+#process fonts to headers
+processList.clear()
+fontFiles = [
+	("font/mmz1_font.png", "mmz1_font"),
+	("font/mmz2_font.png", "mmz2_font"),
+	("font/mmz3_font.png", "mmz3_font"),
+	("font/mmz4_font.png", "mmz4_font"),
+]
+for fontFile, prefix in fontFiles:
+	p = subprocess.Popen([
+		"font/EncodeFont.exe",
+		fontFile, prefix
+	])
+	processList.append(p)
+
+errorCodes.clear()
+
+# wait for everything to finish
+for p in processList:
+	errorCode = p.wait()
+	if errorCode != 0:
+		print(f"Error: {p.args}")
+	errorCodes.append(errorCode)
+
+if sum(errorCodes) != 0:
+	exit(1)

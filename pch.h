@@ -13,5 +13,9 @@
 #include "mmz2_msg.h"
 #include "mmz3_msg.h"
 #include "mmz4_msg.h"
+#include "mmz1_font.h"
+#include "mmz2_font.h"
+#include "mmz3_font.h"
+#include "mmz4_font.h"
 #include <array>
 #endif //PCH_H
