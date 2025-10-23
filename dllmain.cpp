@@ -456,6 +456,33 @@ EXTERN_DLL_EXPORT void mod_open() {
     };
     *(uint64_t*)&func1403EB432_replace_pointer[2] = (uint64_t)&mmz2_font;
     memcpy((uint8_t*)0x141CF7FC0, func1403EB432_replace_pointer.data(), func1403EB432_replace_pointer.size());
+
+    // MMZ1 has a small font that it uses to draw the codename in the results screen
+    constexpr std::array<uint8_t, 7> func1403E9D40_hook = {
+        0xE9, 0xAB, 0xE2, 0x90, 0x01, //call 0x141CF7FF0
+        0x90,0x90,
+    };
+    memcpy((uint8_t*)0x1403E9D40, func1403E9D40_hook.data(), func1403E9D40_hook.size());
+    std::array<uint8_t, 0x1E> func1403E9D40_replace_pointer = {
+        0x48, 0xBA, 0x90, 0x39, 0x63, 0x42, 0x01, 0x00, 0x00, 0x00, //mov language_ptr
+        0x80, 0x3A, 0x00,                                           //cmp byte [rdx], 0x00
+        0x74, 0x0A,                                                 //je endroutine
+        0x48, 0xB9, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, //mov rcx, smallFontPointer
+        0xE9, 0x39, 0x1D, 0x6F, 0xFE,                               //jmp 0x1403E9D47
+    };
+    *(uint64_t*)&func1403E9D40_replace_pointer[0x11] = (uint64_t)&mmz1_small_font;
+    memcpy((uint8_t*)0x141CF7FF0, func1403E9D40_replace_pointer.data(), func1403E9D40_replace_pointer.size());
+    // Just to simplify organization write codenames array here
+    static_assert(
+        mmz1_codename_num_entries == 20,
+        "This mode does not currently support changing the amount of codenames"
+    );
+    memcpy((uint8_t*)0x141D28DD0, mmz1_codename_offsets, mmz1_codename_num_entries * sizeof(uint8_t*));
+    // Change this so it reads the MASTER from the table instead of hard coding it in the function
+    constexpr std::array<uint8_t, 7> func14032CF6B_getMASTER = {
+        0x48, 0x88, 0x0D, 0xF6, 0xBE, 0x9F, 0x01, //mov rcx, [141D28E68]
+    };
+    memcpy((uint8_t*)0x14032CF6B, func14032CF6B_getMASTER.data(), func14032CF6B_getMASTER.size());
 }
 
 BOOL APIENTRY DllMain( HMODULE hModule,

@@ -17,5 +17,7 @@
 #include "mmz2_font.h"
 #include "mmz3_font.h"
 #include "mmz4_font.h"
+#include "mmz1_small_font.h"
+#include "mmz1_codenames.h"
 #include <array>
 #endif //PCH_H

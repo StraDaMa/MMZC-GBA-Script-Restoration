@@ -40,6 +40,35 @@ def process_msgs(folderName, prefix):
 						c_header_array_file.write("\n")
 				c_header_array_file.write("\n};\n")
 
+def process_codenames(filename):
+	with open(filename, "rb") as msg_file:
+		# Write scripts
+		baseDataOffset = struct.unpack("<H", msg_file.peek(2)[:2])[0]
+		numEntries = baseDataOffset // 2
+		entry_offsets = struct.unpack(f"<{numEntries}H", msg_file.read(numEntries * 2))
+		data = msg_file.read()
+
+		with open(f"mmz1_codenames.h", "w") as c_header_file:
+			c_header_file.write(f"#pragma once\n")
+			c_header_file.write(f"#include <cstdint>\n\n")
+			for i, start in enumerate(entry_offsets):
+				start = start - entry_offsets[0]
+				if i + 1 < numEntries:
+					end = entry_offsets[i + 1] - entry_offsets[0]
+				else:
+					end = len(data)
+				entry = data[start:end]
+				c_header_file.write(f"alignas(16) inline constexpr uint8_t mmz1_codename_{i:02X}[] = {{\n\t")
+				for byte in entry:
+					c_header_file.write(f"0x{byte:02X},")
+				c_header_file.write("0x00\n};\n")
+			c_header_file.write(f"constexpr int mmz1_codename_num_entries = {numEntries};\n")
+			c_header_file.write(f"alignas(16) inline constexpr const uint8_t* mmz1_codename_offsets[] = {{\n")
+			for i in range(numEntries):
+				c_header_file.write(f"\tmmz1_codename_{i:02X},\n")
+			c_header_file.write("};\n")
+
+
 
 # process all tpl to msg
 os.makedirs("tpl/log", exist_ok = True)
@@ -80,9 +109,46 @@ for p in processList:
 if sum(errorCodes) != 0:
 	exit(1)
 
-# Process msg to header / cpp file
+# Special processing for small font text
 for tplDir, msgDir, gameID in textDirs:
 	process_msgs(msgDir, gameID)
+
+# process all tpl to msg
+processList = []
+textDirs = [
+	("tpl/mmz1_smallfont_tpl", "tpl/mmz1_smallfont_msg", "mmz1_smallfont"),
+]
+
+# run all TextPet runs
+for tplDir, msgDir, gameID in textDirs:
+	baseName = os.path.basename(tplDir)
+	p = subprocess.Popen([
+		"tpl/TextPet.exe",
+		"Load-Plugins", "tpl/plugins",
+		"Game", gameID,
+		"Read-Text-Archives", tplDir,
+		"--format", "tpl",
+		"Write-Text-Archives", msgDir,
+		"--single",
+		"--format", "msg"
+	],
+	stdout = open(f"tpl/log/{baseName}.stdout.txt", "w"),
+	stderr = open(f"tpl/log/{baseName}.stderr.txt", "w"))
+	processList.append(p)
+
+errorCodes = []
+
+# wait for everything to finish
+for p in processList:
+	errorCode = p.wait()
+	if errorCode != 0:
+		print(f"Error: {p.args}")
+	errorCodes.append(errorCode)
+
+if sum(errorCodes) != 0:
+	exit(1)
+
+process_codenames("tpl/mmz1_smallfont_msg/codenames.msg")
 
 #process fonts to headers
 processList.clear()
@@ -91,6 +157,7 @@ fontFiles = [
 	("font/mmz2_font.png", "mmz2_font"),
 	("font/mmz3_font.png", "mmz3_font"),
 	("font/mmz4_font.png", "mmz4_font"),
+	("font/mmz1_small_font.png", "mmz1_small_font"),
 ]
 for fontFile, prefix in fontFiles:
 	p = subprocess.Popen([
